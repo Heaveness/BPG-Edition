@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:ice_unit>)
+setTitle("Cool your jets!")
+setDescription("Craft an Ice Unit.")
+
+addParent("triumph:advancements/cook/kitchenFridge")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Ice Unit", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:ice_unit")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-157,84)

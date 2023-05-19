@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:preservation_chamber>)
+setTitle("Preserver of food")
+setDescription("Craft a Preservation Chamber.")
+
+addParent("triumph:advancements/cook/kitchenIceunit")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Preservation Chamber", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:preservation_chamber")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-191,84)

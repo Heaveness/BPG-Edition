@@ -1,0 +1,310 @@
+{
+    "images":
+    {
+	
+		"logo":
+        {
+            "image" : "rotn:textures/rotn.png",
+            "posX" : 30,
+            "posY" : 35,
+            "width" : 540,
+            "height" : 540,
+            "alignment" : "top_left"
+        },
+        "akliz":
+        {
+            "image" : "rotn:textures/AklizBadge.png",
+            "posX" : -50,
+            "posY" : -25,
+            "width" : 50,
+            "height" : 24,
+            "alignment" : "bottom_right"
+        }
+	
+	},
+    
+    "buttons":
+    {    
+		"singleplayer":
+        {
+            "text" : "Write Your Own Story",
+			"normalTextColor" : 1888512,
+			"hoverTextColor" : 1888512,
+			"texture" : "rotn:textures/btn.png",
+            "posX" : 100,
+            "posY" : -40,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+			"hoverText" : "For Those Who Remember...",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },	
+        "server":
+        {
+            "text" : "Get A Server!",
+            "normalTextColor" : 16776960,
+            "hoverTextColor" : 3125670,
+            "texture" : "rotn:textures/btn.png",
+            "posX" : -137,
+            "posY" : -23,
+            "width" : 100,
+            "height" : 20,
+            "imageWidth" : 100,
+            "imageHeight" : 50,
+            "alignment" : "bottom_right",
+			"hoverText" : "Unavailable!",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.akliz.net/rebirthofthenight"
+            }
+        },
+
+
+		"multiplayer":
+        {
+            "text" : "Together With Friends Or Foes",			
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "rotn:textures/btn.png",
+            "posX" : 100,
+            "posY" : -20,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+			"hoverText" : "Currently Unavailable!",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text" : "Options For The Narrative",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "rotn:textures/btn.png",
+            "posX" : 100,
+            "posY" : 0,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		        
+		"language":
+        {
+            "text" : "Localization Publisher",
+			"texture" : "rotn:textures/btn.png",
+            "posX" : 100,
+            "posY" : 105,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"normalTextColor" : 12303291,			
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+                    
+        "quit":
+        {
+            "text" : "Close The Book",
+			"normalTextColor" : 16729156,
+			"hoverTextColor" : 14483456,
+			"texture" : "rotn:textures/btn.png",
+            "posX" : 100,
+            "posY" : 20,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+			"hoverText" : "To Rest...",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+        "mods":
+        {
+            "text" : "Book Adjustments (#modsloaded#/#modsactive#)",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "rotn:textures/btn.png",
+            "posX" : 100,
+            "posY" : 85,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        }
+	},
+
+	"alignments":
+    {
+        "c1":
+        {
+            "factorWidth" : 0.5,
+            "factorHeight" : 0.7
+        },
+ 
+        "c2":
+        {
+            "factorWidth" : 0.2,
+            "factorHeight" : 0.2
+        }
+    },
+	
+    "labels":
+    {
+        "packName": {
+            "text": "Version 1.1 (Golden Sea Horizon)",
+            "posX": 2,
+            "posY": -10,
+            "color": 380,
+            "alignment": "bottom_left"
+        }
+    },
+
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 5,
+            "posY" : 95,
+            "color" : 6950317,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+    
+		"background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["rotn:textures/background/1.png","rotn:textures/background/2.png","rotn:textures/background/3.png","rotn:textures/background/4.png","rotn:textures/background/5.png",
+                    "rotn:textures/background/6.png","rotn:textures/background/7.png","rotn:textures/background/8.png","rotn:textures/background/9.png",
+                    "rotn:textures/background/10.png","rotn:textures/background/11.png","rotn:textures/background/12.png","rotn:textures/background/13.png","rotn:textures/background/14.png",
+                    "rotn:textures/background/15.png",
+                    "rotn:textures/background/16.png","rotn:textures/background/17.png","rotn:textures/background/18.png","rotn:textures/background/19.png",
+                    "rotn:textures/background/20.png","rotn:textures/background/21.png","rotn:textures/background/22.png","rotn:textures/background/23.png","rotn:textures/background/24.png",
+                    "rotn:textures/background/25.png",
+                    "rotn:textures/background/26.png","rotn:textures/background/27.png","rotn:textures/background/28.png","rotn:textures/background/29.png",
+                    "rotn:textures/background/30.png","rotn:textures/background/31.png","rotn:textures/background/32.png","rotn:textures/background/33.png","rotn:textures/background/34.png",
+                    "rotn:textures/background/35.png",
+                    "rotn:textures/background/36.png","rotn:textures/background/37.png","rotn:textures/background/38.png","rotn:textures/background/39.png",
+                    "rotn:textures/background/40.png","rotn:textures/background/41.png","rotn:textures/background/42.png","rotn:textures/background/43.png","rotn:textures/background/44.png",
+                    "rotn:textures/background/45.png",
+                    "rotn:textures/background/46.png","rotn:textures/background/47.png","rotn:textures/background/48.png","rotn:textures/background/49.png","rotn:textures/background/50.png",
+		    "rotn:textures/background/51.png","rotn:textures/background/52.png","rotn:textures/background/53.png","rotn:textures/background/54.png",
+	  	    "rotn:textures/background/55.png",
+                    "rotn:textures/background/56.png","rotn:textures/background/57.png","rotn:textures/background/58.png","rotn:textures/background/59.png",
+                    "rotn:textures/background/60.png","rotn:textures/background/61.png","rotn:textures/background/62.png","rotn:textures/background/63.png","rotn:textures/background/64.png",
+                    "rotn:textures/background/65.png",
+                    "rotn:textures/background/66.png","rotn:textures/background/67.png","rotn:textures/background/68.png","rotn:textures/background/69.png",
+                    "rotn:textures/background/70.png","rotn:textures/background/71.png","rotn:textures/background/72.png","rotn:textures/background/73.png","rotn:textures/background/74.png",
+                    "rotn:textures/background/75.png",
+                    "rotn:textures/background/76.png","rotn:textures/background/77.png","rotn:textures/background/78.png","rotn:textures/background/79.png",
+                    "rotn:textures/background/80.png","rotn:textures/background/81.png","rotn:textures/background/82.png","rotn:textures/background/83.png","rotn:textures/background/84.png",
+                    "rotn:textures/background/85.png",
+                    "rotn:textures/background/86.png","rotn:textures/background/87.png","rotn:textures/background/88.png","rotn:textures/background/89.png",
+                    "rotn:textures/background/90.png","rotn:textures/background/91.png","rotn:textures/background/92.png","rotn:textures/background/93.png","rotn:textures/background/94.png",
+                    "rotn:textures/background/95.png",
+                    "rotn:textures/background/96.png","rotn:textures/background/97.png","rotn:textures/background/98.png","rotn:textures/background/99.png","rotn:textures/background/100.png",
+		    "rotn:textures/background/101.png","rotn:textures/background/102.png","rotn:textures/background/103.png","rotn:textures/background/104.png",
+	  	    "rotn:textures/background/105.png",
+                    "rotn:textures/background/106.png","rotn:textures/background/107.png","rotn:textures/background/108.png","rotn:textures/background/109.png",
+                    "rotn:textures/background/110.png","rotn:textures/background/111.png","rotn:textures/background/112.png","rotn:textures/background/113.png","rotn:textures/background/114.png",
+                    "rotn:textures/background/115.png",
+                    "rotn:textures/background/116.png","rotn:textures/background/117.png","rotn:textures/background/118.png","rotn:textures/background/119.png",
+                    "rotn:textures/background/120.png","rotn:textures/background/121.png","rotn:textures/background/122.png","rotn:textures/background/123.png","rotn:textures/background/124.png",
+                    "rotn:textures/background/125.png",
+                    "rotn:textures/background/126.png","rotn:textures/background/127.png","rotn:textures/background/128.png","rotn:textures/background/129.png",
+                    "rotn:textures/background/130.png","rotn:textures/background/131.png","rotn:textures/background/132.png","rotn:textures/background/133.png","rotn:textures/background/134.png",
+                    "rotn:textures/background/135.png",
+                    "rotn:textures/background/136.png","rotn:textures/background/137.png","rotn:textures/background/138.png","rotn:textures/background/139.png",
+                    "rotn:textures/background/140.png","rotn:textures/background/141.png","rotn:textures/background/142.png","rotn:textures/background/143.png","rotn:textures/background/144.png",
+                    "rotn:textures/background/145.png",
+                    "rotn:textures/background/146.png","rotn:textures/background/147.png","rotn:textures/background/148.png","rotn:textures/background/149.png","rotn:textures/background/150.png",
+		    "rotn:textures/background/151.png","rotn:textures/background/152.png","rotn:textures/background/153.png","rotn:textures/background/154.png",
+	  	    "rotn:textures/background/155.png",
+                    "rotn:textures/background/156.png","rotn:textures/background/157.png","rotn:textures/background/158.png","rotn:textures/background/159.png",
+                    "rotn:textures/background/160.png","rotn:textures/background/161.png","rotn:textures/background/162.png","rotn:textures/background/163.png","rotn:textures/background/164.png",
+                    "rotn:textures/background/165.png",
+                    "rotn:textures/background/166.png","rotn:textures/background/167.png","rotn:textures/background/168.png","rotn:textures/background/169.png",
+                    "rotn:textures/background/170.png","rotn:textures/background/171.png","rotn:textures/background/172.png","rotn:textures/background/173.png","rotn:textures/background/174.png",
+                    "rotn:textures/background/175.png",
+                    "rotn:textures/background/176.png","rotn:textures/background/177.png","rotn:textures/background/178.png","rotn:textures/background/179.png",
+                    "rotn:textures/background/180.png","rotn:textures/background/181.png","rotn:textures/background/182.png","rotn:textures/background/183.png","rotn:textures/background/184.png",
+                    "rotn:textures/background/185.png",
+                    "rotn:textures/background/186.png","rotn:textures/background/187.png","rotn:textures/background/188.png","rotn:textures/background/189.png",
+                    "rotn:textures/background/190.png","rotn:textures/background/191.png","rotn:textures/background/192.png","rotn:textures/background/193.png","rotn:textures/background/194.png",
+                    "rotn:textures/background/195.png",
+                    "rotn:textures/background/196.png","rotn:textures/background/197.png","rotn:textures/background/198.png","rotn:textures/background/199.png","rotn:textures/background/200.png",
+		    "rotn:textures/background/201.png","rotn:textures/background/202.png","rotn:textures/background/203.png","rotn:textures/background/204.png",
+	  	    "rotn:textures/background/205.png",
+                    "rotn:textures/background/206.png","rotn:textures/background/207.png","rotn:textures/background/208.png","rotn:textures/background/209.png",
+                    "rotn:textures/background/210.png","rotn:textures/background/211.png","rotn:textures/background/212.png","rotn:textures/background/213.png","rotn:textures/background/214.png",
+                    "rotn:textures/background/215.png",
+                    "rotn:textures/background/216.png","rotn:textures/background/217.png","rotn:textures/background/218.png","rotn:textures/background/219.png",
+                    "rotn:textures/background/220.png","rotn:textures/background/221.png","rotn:textures/background/222.png","rotn:textures/background/223.png","rotn:textures/background/224.png",
+                    "rotn:textures/background/225.png",
+                    "rotn:textures/background/226.png","rotn:textures/background/227.png","rotn:textures/background/228.png","rotn:textures/background/229.png",
+                    "rotn:textures/background/230.png","rotn:textures/background/231.png","rotn:textures/background/232.png","rotn:textures/background/233.png","rotn:textures/background/234.png",
+                    "rotn:textures/background/235.png",
+                    "rotn:textures/background/236.png","rotn:textures/background/237.png","rotn:textures/background/238.png","rotn:textures/background/239.png",
+                    "rotn:textures/background/240.png","rotn:textures/background/241.png","rotn:textures/background/242.png","rotn:textures/background/243.png","rotn:textures/background/244.png",
+                    "rotn:textures/background/245.png",
+                    "rotn:textures/background/246.png","rotn:textures/background/247.png","rotn:textures/background/248.png","rotn:textures/background/249.png","rotn:textures/background/250.png",
+		    "rotn:textures/background/251.png","rotn:textures/background/252.png","rotn:textures/background/253.png","rotn:textures/background/254.png",
+	  	    "rotn:textures/background/255.png",
+                    "rotn:textures/background/256.png","rotn:textures/background/257.png","rotn:textures/background/258.png","rotn:textures/background/259.png",
+                    "rotn:textures/background/260.png","rotn:textures/background/261.png","rotn:textures/background/262.png","rotn:textures/background/263.png","rotn:textures/background/264.png",
+                    "rotn:textures/background/265.png",
+                    "rotn:textures/background/266.png","rotn:textures/background/267.png","rotn:textures/background/268.png","rotn:textures/background/269.png",
+                    "rotn:textures/background/270.png","rotn:textures/background/271.png","rotn:textures/background/272.png","rotn:textures/background/273.png","rotn:textures/background/274.png",
+                    "rotn:textures/background/275.png",
+                    "rotn:textures/background/276.png","rotn:textures/background/277.png","rotn:textures/background/278.png","rotn:textures/background/279.png",
+                    "rotn:textures/background/280.png","rotn:textures/background/281.png","rotn:textures/background/282.png","rotn:textures/background/283.png","rotn:textures/background/284.png",
+                    "rotn:textures/background/285.png",
+                    "rotn:textures/background/286.png","rotn:textures/background/287.png","rotn:textures/background/288.png","rotn:textures/background/289.png",
+                    "rotn:textures/background/290.png","rotn:textures/background/291.png","rotn:textures/background/292.png","rotn:textures/background/293.png","rotn:textures/background/294.png",
+                    "rotn:textures/background/295.png",
+                    "rotn:textures/background/296.png","rotn:textures/background/297.png","rotn:textures/background/298.png","rotn:textures/background/299.png","rotn:textures/background/300.png"],
+                "displayDuration" : 1,
+                "fadeDuration" : 0
+            }
+        }
+    }
+ 
+}

@@ -1,0 +1,13 @@
+setIcon("ebwizardry:armour_upgrade")
+setTitle("Legendary Wizard!")
+setDescription("Acquire a Arcane Seal of Protection!")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Wizard Armor Upgrade", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:armour_upgrade")
+
+alwaysVisible()
+setPos(-592,159)

@@ -1,0 +1,225 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "epic_armor",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "deathworm_white_chestplate",
+					"type": "item",
+					"name": "iceandfire:deathworm_white_chestplate",
+					"weight": 18,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "deathworm_white_leggings",
+					"type": "item",
+					"name": "iceandfire:deathworm_white_leggings",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]		
+				},
+				{
+					"entryName": "deathworm_white_helmet",
+					"type": "item",
+					"name": "iceandfire:deathworm_white_helmet",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]	
+				},
+				{
+					"entryName": "deathworm_white_boots",
+					"type": "item",
+					"name": "iceandfire:deathworm_white_boots",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "deathworm_yellow_chestplate",
+					"type": "item",
+					"name": "iceandfire:deathworm_yellow_chestplate",
+					"weight": 18,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "deathworm_yellow_leggings",
+					"type": "item",
+					"name": "iceandfire:deathworm_yellow_leggings",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]		
+				},
+				{
+					"entryName": "deathworm_yellow_helmet",
+					"type": "item",
+					"name": "iceandfire:deathworm_yellow_helmet",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]	
+				},
+				{
+					"entryName": "deathworm_yellow_boots",
+					"type": "item",
+					"name": "iceandfire:deathworm_yellow_boots",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "forest_troll_leather_helmet",
+					"type": "item",
+					"name": "iceandfire:forest_troll_leather_helmet",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "forest_troll_leather_chestplate",
+					"type": "item",
+					"name": "iceandfire:forest_troll_leather_chestplate",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "forest_troll_leather_leggings",
+					"type": "item",
+					"name": "iceandfire:forest_troll_leather_leggings",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "forest_troll_leather_boots",
+					"type": "item",
+					"name": "iceandfire:forest_troll_leather_boots",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "frost_troll_leather_helmet",
+					"type": "item",
+					"name": "iceandfire:frost_troll_leather_helmet",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "frost_troll_leather_chestplate",
+					"type": "item",
+					"name": "iceandfire:frost_troll_leather_chestplate",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "frost_troll_leather_leggings",
+					"type": "item",
+					"name": "iceandfire:frost_troll_leather_leggings",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "frost_troll_leather_boots",
+					"type": "item",
+					"name": "iceandfire:frost_troll_leather_boots",
+					"weight": 22,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "shield_basic_soulforged_steel",
+					"type": "item",
+					"name": "spartanshields:shield_basic_soulforged_steel",
+					"weight": 10		
+				}
+			]
+		}
+	]
+}

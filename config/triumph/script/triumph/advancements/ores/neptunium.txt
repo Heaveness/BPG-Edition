@@ -1,0 +1,11 @@
+setIcon(<aquaculture:loot, meta:1>)
+setTitle("Ancient Underwater Metal")
+setDescription("Acquire a neptunium ingot")
+
+addParent("triumph:advancements/ores/bronze")
+
+criteria = addCriteria("Neptunium Ingot", "minecraft:inventory_changed")
+criteria.addItem(<aquaculture:loot, meta:1>)
+
+alwaysVisible()
+setPos(-135,-142)

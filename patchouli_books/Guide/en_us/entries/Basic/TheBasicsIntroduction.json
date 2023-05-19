@@ -1,0 +1,16 @@
+{
+    "name": "1) Introduction",
+    "icon": "minecraft:grass",
+    "category": "patchouli:TheBasicCategory",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "To get started on your journey, one must understand the importance of basics. You will notice on your first time arriving on these lands that you will have to maintain a lot of aspects of your life. $(br2)For now, we will focus on these four aspects: $(br)$(#AA0000)Health, $(#00AA00)Hunger, $(#0000AA)Thirst, $()and $(#FFAA00)Temperature."
+        },
+        {
+            "type": "text",
+            "text": "It's imperative to know how to deal with your current situation. This is the unfortunate reality of necessity than a freedom of choice. $(br2)However, life or death is still up to you. This book will briefly explain each aspect to give you a stronger grasp on how to live a healthy and prosperous adventure!"
+        }
+    ]
+}

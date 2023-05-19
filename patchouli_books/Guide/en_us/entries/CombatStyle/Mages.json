@@ -1,0 +1,87 @@
+{
+    "name": "12) Mages",
+    "icon": "ebwizardry:apprentice_wand",
+    "category": "patchouli:CombatStyleCategory",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Weird bunch of folks. You could never understand how their powers even work, let alone what their mental state could be. $(br2)But asking Lady $(k)Morgana$() for help on clarification. They can use a wide variety of powerful spells from offensive to defensive and support magic...?"
+        },
+        {
+            "type": "text",
+            "text": "Let's see here... A lot of their power comes from learning spells from either books, research, or a teacher. You can seek out magisters residing in towers that are scattered around the world. Just be careful, some are not-so-happy to see uninvited guests. You could also try guessing with your spells to see what they do. Last time our friendly arch-mage Phyneks had a burnt spot on his... nevermind."
+        },
+        {
+            "type": "text",
+            "text": "There are about 7 elements and 3 research magics for you to currently delve into. They are fire, ice, lightning, necromancy$(m)Unholy!$(), earth, sorcery, and healing elements. $(br2)For research there is the beginner Wizardry's handbook, Astrology, and... Thaum$(k)craft$(). Well, if your aptitude for magic happens to be really low. It does make for good party tricks at bars."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "ebwizardry:arcane_workbench",
+      	    "link_recipe": true,
+      	    "text": "$(#AA00AA)The most important workstation to work your magic. It will imbue wands with magic spells and upgrade them to a higher tier. Make sure to build one if you are going for the Mage's path, or steal one it matters not~"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "ebwizardry:magic_crystal:0",
+      	    "link_recipe": true,
+      	    "text": "$(#AA00AA)The most important component to fuel your magic. It will add mana into your wands for them to cast spells. You can find them in crystal flowers or as a ore block deep underground. You can also try using bonemeals on grass blocks if a crystal flower might grow."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "astralsorcery:itemjournal",
+      	    "link_recipe": true,
+      	    "text": "$(#AA00AA)Mark down notes and progress through a beautiful world of astrology. Stars, moons, symbols, and much more to discover. Just make sure you watch your back at night, monsters don't take kindly to people embellish the night sky."
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "ebwizardry:wizard_hat",
+      	    "recipe2": "ebwizardry:wizard_robe",
+      	    "title": "Upper Wizard Robes"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "ebwizardry:wizard_leggings",
+      	    "recipe2": "ebwizardry:wizard_boots",
+      	    "title": "Lower Wizard Robes"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "ebwizardry:magic_wand",
+      	    "recipe2": "ebwizardry:wizard_handbook",
+      	    "title": "Trial and Error"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "crafttweaker:identificationscroll",
+      	    "recipe2": "ebwizardry:small_mana_flask",
+      	    "title": "Important items!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "dungeontactics:magic_powder",
+      	    "link_recipe": true,
+      	    "text": "$(#AA00AA)Pretty self explanatory crafting ingredient. It's used for numerous amounts of magical-based crafting, you can reliable get them from fallen stars at night. Listen for a distinct sound and looks for it! Monster can get attracted to its light, so be careful!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "thaumcraft:thaumonomicon",
+      	    "link_recipe": true,
+      	    "text": "$(#AA00AA)Lady$() $(k)Morgana$() $(#AA00AA)and Arch-Mage Phyneks said to only mention this book, but to not speak of it. It's up to you if you want to venture any farther with this one. $(br2)A dark and deadly fate awaits to those to read this book. Fare thee well wanderer.$() $(k)I pray for your safe return.$()"
+        },
+        {
+            "type": "text",
+            "text": "Before you ask, Lady $(k)Morgana$() is our $(k)Holy Saintess$(). She will recommend these stats for you to invest in. $(br2)$(#AA00AA)Recommended Stats:$()$(br) $(li)Intelligence - To cast and research magic $(m)[You don't say?]$() $(li)Building / Strength / Consitution - Optional, craft magic items or use magic weapons or wear armor sets."
+        },
+        {
+            "type": "image",
+	    "title": "Curious Wizards",
+            "border": true,
+            "text": "Do you believe in magic, in a young girl's heart?",
+      	    "images": [
+        	    "rotn:textures/book/photo/MageSketch.png"
+      		]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:tool_rack>)
+setTitle("Don't be such a tool!")
+setDescription("Craft a Kitchen Tool Rack.")
+
+addParent("triumph:advancements/cook/kitchenSpicerack")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Tool Rack", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:tool_rack")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-191,50)

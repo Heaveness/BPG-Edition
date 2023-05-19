@@ -1,0 +1,20 @@
+setIcon(<enderstorage:ender_storage, meta:1>)
+setTitle("To the world's ending")
+setDescription("Craft an Ender Storage Tank.")
+
+addParent("triumph:advancements/storage/radiantTank")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Ender Storage Chest", "minecraft:inventory_changed")
+criteria.addItem(<enderstorage:ender_storage, meta:1>)
+
+// hideLines()
+// setHidden(true)
+setFrameType("CHALLENGE")
+alwaysVisible()
+setPos(-438,-4)

@@ -1,0 +1,35 @@
+setIcon("ebwizardry:master_wand")
+setTitle("Master of all elements!")
+setDescription("Acquire the entire elemental master wand")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Master Vanilla", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardvanillawand")
+
+criteria = addCriteria("Master Healing", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardhealingwand")
+
+criteria = addCriteria("Master Lightning", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardlightningwand")
+
+criteria = addCriteria("Master Fire", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardfirewand")
+
+criteria = addCriteria("Master Earth", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardearthwand")
+
+criteria = addCriteria("Master Ice", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardicewand")
+
+criteria = addCriteria("Master Sorcery", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardsorcerywand")
+
+criteria = addCriteria("Master Necromancy", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardnecromancywand")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-632,79)

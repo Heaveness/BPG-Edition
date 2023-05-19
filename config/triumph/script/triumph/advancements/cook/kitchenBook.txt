@@ -1,0 +1,25 @@
+setIcon(<cookingforblockheads:recipe_book>)
+setTitle("Cooking by the book")
+setDescription("You know you can't be lazy~!")
+
+addParent("triumph:advancements/cook/minecraftFurnace")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Cook Book I", "minecraft:inventory_changed")
+criteria.addItem(<cookingforblockheads:recipe_book, meta:0>)
+
+criteria = addCriteria("Cook Book II", "minecraft:inventory_changed")
+criteria.addItem(<cookingforblockheads:recipe_book, meta:1>)
+
+criteria = addCriteria("Cook Book III", "minecraft:inventory_changed")
+criteria.addItem(<cookingforblockheads:recipe_book, meta:2>)
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-89,118)

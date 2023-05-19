@@ -1,0 +1,132 @@
+{
+  "crimson": {
+    "name": "The Crimson Cultist Invasion!",
+    "selector": {
+      "weight": 1,
+      "dimension": {
+        "type": "include",
+        "dimensions": [0]
+      }
+    },
+    "messages": {
+      "start": "The space between worlds crack as a portal emerges!",
+      "end": "The Crimson Army retreats back into the shadows. For now...",
+      "warn": {
+        "ticks": 12000,
+        "message": "Do you hear that? Sounds like chanting. What is that?"
+      }
+    },
+    "waves": [
+      {
+        "delayTicks": [0],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "crimson",
+                "count": [4, 8],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 7],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "delayTicks": [1200, 2000],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "crimson_reinforcement_00",
+                "count": [4, 8],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "crimson_reinforcement_01",
+                "count": [2, 10],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "delayTicks": [1800, 2400],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "crimson_reinforcement_02",
+                "count": [2, 10],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "crimson_reinforcement_03",
+                "count": [4, 8],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "delayTicks": [8000],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "crimson_boss",
+                "count": [1],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 20]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

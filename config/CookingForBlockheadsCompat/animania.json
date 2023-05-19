@@ -1,0 +1,44 @@
+{
+  "modid": "animania",
+  "foods": {
+        "Ingredients" : [
+          "salt",
+          "bacon_omelette",
+          "cheese_omelette",
+          "chocolate_truffle",
+          "friesian_cheese_wedge",
+          "goat_cheese_wedge",
+          "holstein_cheese_wedge",
+          "jersey_cheese_wedge",
+          "plain_omelette",
+          "salt",
+          "salt_lick",
+          "sheep_cheese_wedge",
+          "super_omelette",
+          "truffle",
+          "truffle_omelette",
+          "truffle_soup"
+        ]
+      },
+  "tools" : [
+    "carving_knife"
+  ],
+  "milk": [
+    "milk_bottle"
+  ],
+  "oven_recipies": {
+    "raw_chevon": "cooked_chevon",
+    "raw_frog_legs": "cooked_frog_legs",
+    "raw_horse": "cooked_horse",
+    "raw_peacock": "cooked_peacock",
+    "raw_prime_bacon": "cooked_prime_bacon",
+    "raw_prime_beef": "cooked_prime_beef",
+    "raw_prime_chevon": "cooked_prime_chevon",
+    "raw_prime_chicken": "cooked_prime_chicken",
+    "raw_prime_mutton":"cooked_prime_mutton",
+    "raw_prime_peacock": "cooked_prime_peacock",
+    "raw_prime_pork": "cooked_prime_pork",
+    "raw_prime_rabbit": "cooked_prime_rabbit",
+    "raw_prime_steak": "cooked_prime_steak"
+  }
+}

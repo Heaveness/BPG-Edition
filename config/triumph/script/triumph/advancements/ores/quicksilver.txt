@@ -1,0 +1,11 @@
+setIcon("thaumcraft:quicksilver")
+setTitle("Pearly Silver")
+setDescription("Mine cinnabar ore to turn into quicksilver")
+
+addParent("triumph:advancements/ores/bronze")
+
+criteria = addCriteria("Quicksilver", "triumph:player_harvest_block")
+criteria.setBlock(<ore:oreCinnabar>)
+
+alwaysVisible()
+setPos(-185,108)

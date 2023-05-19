@@ -1,0 +1,15 @@
+setIcon(<mutantbeasts:endersoul_hand>)
+setTitle("?!s@j#?AkM!+?")
+setDescription("Void... Awaits...")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("mutant_enderman", "minecraft:player_killed_entity")
+criteria.setEntityType("mutantbeasts:mutant_enderman")
+
+setRewardExperience(100)
+
+hideLines()
+alwaysVisible()
+
+setPos(-219,211)

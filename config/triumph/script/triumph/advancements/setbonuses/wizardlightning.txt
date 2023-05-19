@@ -1,0 +1,22 @@
+setIcon("ebwizardry:wizard_robe_lightning")
+setTitle("Master of the Thundering Sky!")
+setDescription("Complete the Master of the Thundering Sky set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Lightning Wizard Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_hat_lightning")
+
+criteria = addCriteria("Lightning Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_robe_lightning")
+
+criteria = addCriteria("Lightning Wizard Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_leggings_lightning")
+
+criteria = addCriteria("Lightning Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_boots_lightning")
+
+alwaysVisible()
+setPos(-552,39)

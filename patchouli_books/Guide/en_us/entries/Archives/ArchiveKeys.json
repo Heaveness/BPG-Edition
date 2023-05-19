@@ -1,0 +1,198 @@
+{
+    "name": "19) Locks & Keys Info",
+    "icon": "treasure2:ruby_key",
+    "category": "patchouli:AchivesCategory",
+    "sortnum": 19,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Throughout your journey, you will come across a lot of treasures. Many of them are locked which can be frustrating! $(br2)So this section will tell you which key is used for which lock. Pretty neat right?$()"
+        },
+        {
+			"type": "spotlight",
+			"title": "Key Ring!",
+			"item": "treasure2:key_ring",
+			"text": "This is a pretty handy little thing. There is a limit to how much keys you can carry around with you on hand. This will significantly lower your inventory space usage. $(br2)A must-have for any treasure hunter!$()"
+		},
+		{
+			"type": "spotlight",
+			"title": "Modern Lock",
+			"item": "locks:steel_lock",
+			"text": "These days a lot of people use these locks because they are safe... That is a load of $(k)arse$(). Either use a modern lock pick or blow it up!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Modern Lock Pick",
+			"item": "locks:steel_lock_pick",
+			"text": "When using the modern lock pick, you have to hit the right tumblers in the right order. All locks are different in terms of length and sequence. $(br2)So keep a good amount on you when attempting to borrow whatever is within the locked chest.$()"
+		},
+		{
+			"type": "spotlight",
+			"title": "Wood Lock",
+			"item": "treasure2:wood_lock",
+			"text": "The cheapest lock ever created. Easiest to remove with a wooden key or a legacy crude lock pick. Usually the items within the locked chest isn't anything spectacular, but free stuff doesn't hurt nobody."
+		},
+		{
+			"type": "spotlight",
+			"title": "Wood Key",
+			"item": "treasure2:wood_key",
+			"text": "Easy to find and cheap to buy off of one those villagers. Forgot which profession... Not much to say here."
+		},
+		{
+			"type": "spotlight",
+			"title": "Stone Lock",
+			"item": "treasure2:stone_lock",
+			"text": "Crude but it gets the job done. Someone in the ancient times didn't have much material to work with eh?"
+		},
+		{
+			"type": "spotlight",
+			"title": "Stone Key",
+			"item": "treasure2:stone_key",
+			"text": "This civilization must have been desperate to make keys out of stone. Or didn't have any metal on them... $(br2)Don't expect too much of these chests.$()"
+		},
+		{
+			"type": "spotlight",
+			"title": "Iron Lock",
+			"item": "treasure2:iron_lock",
+			"text": "Now this is what you call a typical lock variant. Tried and true iron does the job. A classic."
+		},
+		{
+			"type": "spotlight",
+			"title": "Iron Key",
+			"item": "treasure2:iron_key",
+			"text": "OH! The cartographer villagers that sell these kinds of keys. You should check their trade stock if they sell any. Fingers crossed!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Gold Lock",
+			"item": "treasure2:gold_lock",
+			"text": "Razlick said smelting these down to its source material is an insult to all craftmans over the world. $(br2)Well that still won't help you pay for last night's meal tab."
+		},
+		{
+			"type": "spotlight",
+			"title": "Gold Key",
+			"item": "treasure2:gold_key",
+			"text": "Ouuuhhhh shiny! You think you would smelt these down and make a good coin out of it. But NOOOOOOoooooooooo......"
+		},
+		{
+			"type": "spotlight",
+			"title": "Diamond Lock",
+			"item": "treasure2:diamond_lock",
+			"text": "Who would have thought that diamonds and coal are similar in nature. So you wonder if they burn the same..."
+		},
+		{
+			"type": "spotlight",
+			"title": "Diamond Key",
+			"item": "treasure2:diamond_key",
+			"text": "Wow, got an earful from Caz for an experiment. Who knew throwing a coal and a diamond into a fire resulted in the same outcome."
+		},
+		{
+			"type": "spotlight",
+			"title": "Emerald Lock",
+			"item": "treasure2:emerald_lock",
+			"text": "Phyneks once said it used to belong to an ancient civilization of fairies and whatnot from many centuries ago. What a load of $(k)arse$()!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Emerald Key",
+			"item": "treasure2:emerald_key",
+			"text": "Looks pretty though..."
+		},
+		{
+			"type": "spotlight",
+			"title": "Ruby Lock",
+			"item": "treasure2:ruby_lock",
+			"text": "Bright as the red sun!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Ruby Key",
+			"item": "treasure2:ruby_key",
+			"text": "Let it harness the heat of Nether's fiery hells!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Sapphire Lock",
+			"item": "treasure2:sapphire_lock",
+			"text": "Mysterious as the blue moon!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Sapphire Key",
+			"item": "treasure2:sapphire_key",
+			"text": "Let it pierce the high heavens of the Aether!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Spider Lock",
+			"item": "treasure2:spider_lock",
+			"text": "No, thank you."
+		},
+		{
+			"type": "spotlight",
+			"title": "Spider Key",
+			"item": "treasure2:spider_key",
+			"text": "This key is the worst thing in existance. Who made this design? $(br2)Vendrick likes the way they look and Min-Soo won't stop bothering people with them.$()"
+		},
+		{
+			"type": "spotlight",
+			"title": "Ember Lock",
+			"item": "treasure2:ember_lock",
+			"text": "Could be a lock to the chest's fiery heart!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Ember Key",
+			"item": "treasure2:ember_key",
+			"text": "Hot to the touch yet cool to look at!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Leaf Lock",
+			"item": "treasure2:leaf_lock",
+			"text": "Unable to burn it off. Almost destroyed an innocent chest for that experiment."
+		},
+		{
+			"type": "spotlight",
+			"title": "Leaf Key",
+			"item": "treasure2:leaf_key",
+			"text": "It's flimsy as you would have imagined..."
+		},
+		{
+			"type": "spotlight",
+			"title": "Wither Lock",
+			"item": "treasure2:wither_lock",
+			"text": "Ugh, something unsettling about this lock. Definitely gives off a weird vibe. Might be something good inside though."
+		},
+		{
+			"type": "spotlight",
+			"title": "Wither Key",
+			"item": "treasure2:wither_key",
+			"text": "Made from a wither tree that you can find in the overworld. They are hard to miss and like to clump around in an area. $(br2)Smells very awful and breathing that air can kill you! Yuck!$()"
+		},
+		{
+			"type": "spotlight",
+			"title": "Jeweled Key",
+			"item": "treasure2:jewelled_key",
+			"text": "You must be one pompous noble to be carrying this around your pocket. Either you have too much money to spend or nothing left to spend it on."
+		},
+		{
+			"type": "spotlight",
+			"title": "Metallurgists Key",
+			"item": "treasure2:metallurgists_key",
+			"text": "RAZLICK! That's enough! All craftsman can go cry for all they want! $(br2)This looks awful, try a little bit harder next time!$()"
+		},
+		{
+			"type": "spotlight",
+			"title": "Lightning Key",
+			"item": "treasure2:lightning_key",
+			"text": "Lightning caught in a key. Make sure you make it strike!"
+		},
+		{
+			"type": "spotlight",
+			"title": "Skeleton Key",
+			"item": "treasure2:skeleton_key",
+			"text": "Lady $(k)Morgana$() absolutely hates this key. Doesn't hurt to use it when needed. $(br2)Just don't tell her Grace...$()"
+		}
+    ]
+}

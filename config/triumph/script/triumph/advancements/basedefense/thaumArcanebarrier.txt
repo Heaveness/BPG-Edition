@@ -1,0 +1,11 @@
+setIcon(<thaumcraft:paving_stone_barrier>)
+setTitle("Barrier to entry")
+setDescription("Blocks all hostiles from passing through.")
+
+addParent("triumph:advancements/basedefense/thaumPavementstone")
+
+criteria = addCriteria("Thaumcraft Barrier Stone", "minecraft:inventory_changed")
+criteria.addItem(<thaumcraft:paving_stone_barrier>)
+
+alwaysVisible()
+setPos(39,50)

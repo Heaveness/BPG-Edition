@@ -1,0 +1,14 @@
+setIcon(<ancientbeasts:sandmonster_scale>)
+setTitle("Tales of the Guardian Sands!")
+setDescription("Defeat The Serpent Queen!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("sand_monster", "minecraft:player_killed_entity")
+criteria.setEntityType("ancientbeasts:sandy")
+
+setRewardExperience(100)
+
+hideLines()
+alwaysVisible()
+setPos(-64,211)

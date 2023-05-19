@@ -1,0 +1,86 @@
+{
+    "name": "3) Hunger",
+    "icon": "scalingfeast:heartyshank",
+    "category": "patchouli:TheBasicCategory",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The aspect to enjoy the most. A good homemade meals can truly lift one's spirit even in the most darkest of times. Of course, it would have the opposite effect if you fed someone with the worst meal of their lives. $(br2)Lanaya tries $(m)a little too hard$() to make the best meals. Razlick wasn't a fan of the Miner's stew, how do dwarves even eat this?"
+        },
+        {
+            "type": "text",
+            "text": "The rows of shanks you will see on the right side of the center indicates on your current cravings for a decent meal. $(br2)Learning the basics of home-cooking can decide how long you can survive in the wilderness. If you are alone then you will have to learn how to be your own chef, alchemist, craftsman, and many more."
+        },
+        {
+            "type": "text",
+            "text": "A dedicated chef or a hard-working farmer can provide a more reliable source of food. Otherwise, you will have to focus on fishing your entire life. Don't dismiss the importance of assigning roles within your group! Would you waste through 5 cooked porkchops to satisfy your everlasting void you would call [appetite?]"
+        },
+        {
+            "type": "text",
+            "text": "Instead kindly ask your local chef to prepare 1 Fried Feast to sate your starvation. After eating a certain amount of delicious delicacy, it can even increase your body to withstand more punishment! $(br2)Make sure: $(#00AA00)$(li)To not eat rotten food... $(br)$(li)Create a kitchen from CookingForBlockheads. $(br)$(li)Try to create a wide variety of foods with high nutritional value."
+        },
+		{
+      	    "type": "spotlight",
+      	    "item": "harvestcraft:thankfuldinneritem",
+      	    "link_recipe": true,
+      	    "text": "$(#00AA00)Meals like these can go a long way to improving your situation. The higher nutritional value will make the person stronger in the long run. It definitely beats eating cooked pork rations all day..."
+        },
+        {
+            "type": "text",
+            "text": "Just keep in mind that each food group has its own benefits when you achieve peak performance. $(br)To keep it simple: $(#00AA00)$(br2)- Protein provides stronger arms to deal more damage. $(br)- Dairy provides stronger bones to resist damage. $(br)- Fruit provides a solid foundation to climb. $(br)- Grains provides energy to move/act faster. $(br)- Vegetables provide better vision and reach!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "harvestcraft:waterfilter",
+      	    "link_recipe": true,
+      	    "text": "$(#00AA00)Not sure exactly how this works, but the way Razlick describes it is that it's a sea water filter. Place it in a 5x5 water filled space with the filter at its center. Place a woven cloth inside to seperate freshwater and salt! Good for cooking recipes."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "cookingforblockheads:recipe_book:0",
+      	    "link_recipe": true,
+      	    "text": "$(#00AA00)The basic cook-book used for everything. You probably should do the cooking by the book, you know you can't be lazy about it."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "cookingforblockheads:cooking_table",
+      	    "link_recipe": true,
+      	    "text": "$(#00AA00)It's part of a multi-block kitchen. You can create a lovely kitchen to cook, bake, and roast all your food desires."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "cookingforblockheads:cow_jar",
+      	    "link_recipe": true,
+      	    "text": "$(#00AA00)Ummm... what? How does even work? To be honest, not sure. Cow in a Jar, ladies and gentlemen."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "harvestcraft:apiary",
+      	    "link_recipe": true,
+      	    "text": "$(#00AA00)The wax and honeycomb will come in handy for many recipes. Not a huge fan of bees, but you can admire their loyalty and duty for their queen..."
+        },
+        {
+            "type": "text",
+            "text": "As a chef or farmer, it's important to note the quality and food value of your produce. Last time, someone ate the entire stock and the reserves because he kept getting hungry. $(br2)Make SURE to keep yourself and your party's nutrition in check. Otherwise, scurvy might be the least of your problems. Variety is the spice of life!"
+        },
+        {
+            "type": "image",
+	    "title": "Lanaya's Kitchen",
+            "border": true,
+            "text": "Her personal kitchen. Highly functional!",
+      	    "images": [
+        	    "rotn:textures/book/photo/Kitchen1Sketch.png"
+      		]
+        },
+        {
+            "type": "image",
+	    "title": "Nature's Kitchen",
+            "border": true,
+            "text": "Nothing beats a nice breeze and night sky.",
+      	    "images": [
+        	    "rotn:textures/book/photo/Kitchen2Sketch.png"
+      		]
+        }
+    ]
+}

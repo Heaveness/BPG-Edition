@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:oven>)
+setTitle("Easy Bake!")
+setDescription("Craft an Oven.")
+
+addParent("triumph:advancements/cook/kitchenSink")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Oven", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:oven")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-21,84)

@@ -1,0 +1,199 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "rare_armor",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "diamond_chestplate",
+					"type": "item",
+					"name": "minecraft:diamond_chestplate",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]
+				},
+				{
+					"entryName": "diamond_leggings",
+					"type": "item",
+					"name": "minecraft:diamond_leggings",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "diamond_helmet",
+					"type": "item",
+					"name": "minecraft:diamond_helmet",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "diamond_boots",
+					"type": "item",
+					"name": "minecraft:diamond_boots",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "mud_helmet",
+					"type": "item",
+					"name": "atop:mud_helmet",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "mud_chestplate",
+					"type": "item",
+					"name": "atop:mud_chestplate",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "mud_leggings",
+					"type": "item",
+					"name": "atop:mud_leggings",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "mud_boots",
+					"type": "item",
+					"name": "atop:mud_boots",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "ice_chestplate",
+					"type": "item",
+					"name": "simpledifficulty:ice_chestplate",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]
+				},
+				{
+					"entryName": "ice_leggings",
+					"type": "item",
+					"name": "simpledifficulty:ice_leggings",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "ice_helmet",
+					"type": "item",
+					"name": "simpledifficulty:ice_helmet",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "ice_boots",
+					"type": "item",
+					"name": "simpledifficulty:ice_boots",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "wool_chestplate",
+					"type": "item",
+					"name": "simpledifficulty:wool_chestplate",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]
+				},
+				{
+					"entryName": "wool_leggings",
+					"type": "item",
+					"name": "simpledifficulty:wool_leggings",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "wool_helmet",
+					"type": "item",
+					"name": "simpledifficulty:wool_helmet",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "wool_boots",
+					"type": "item",
+					"name": "simpledifficulty:wool_boots",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "diamond_horse_armor",
+					"type": "item",
+					"name": "minecraft:diamond_horse_armor",
+					"weight": 25	
+				},
+				{
+					"entryName": "shield_basic_bronze",
+					"type": "item",
+					"name": "spartanshields:shield_basic_bronze",
+					"weight": 10		
+				}	
+			]
+		}
+	]
+}

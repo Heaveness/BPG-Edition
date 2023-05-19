@@ -1,0 +1,15 @@
+setIcon(<mutantbeasts:mutant_skeleton_skull>)
+setTitle("Long live the ruthless commander...")
+setDescription("Defeat the one that leads the skeletons!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("mutant_skeleton", "minecraft:player_killed_entity")
+criteria.setEntityType("mutantbeasts:mutant_skeleton")
+
+setRewardExperience(75)
+
+hideLines()
+alwaysVisible()
+
+setPos(-188,180)

@@ -1,0 +1,15 @@
+setIcon("msmlegacy:relic_keyblade")
+setTitle("For Heart Surgeries")
+setDescription("Discover Relic 4 of 7")
+
+addParent("triumph:advancements/eastereggs/root")
+
+criteria = addCriteria("Relic 4", "minecraft:inventory_changed")
+criteria.addItem("msmlegacy:relic_keyblade")
+
+
+setRewardExperience(50)
+
+alwaysVisible()
+hideLines()
+setPos(-300,94)

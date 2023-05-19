@@ -1,0 +1,22 @@
+setIcon("ebwizardry:wizard_handbook")
+setTitle("Wielder of Basic Arts!")
+setDescription("Acquire all levels of the Magic wand.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Novice Magic Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:magic_wand")
+
+criteria = addCriteria("Apprentice Magic Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:apprentice_wand")
+
+criteria = addCriteria("Advanced Magic Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:advanced_wand")
+
+criteria = addCriteria("Master Magic Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:master_wand")
+
+alwaysVisible()
+setPos(-592,79)

@@ -1,0 +1,77 @@
+{
+    "name": "5) Temperature",
+    "icon": "simpledifficulty:thermometer",
+    "category": "patchouli:TheBasicCategory",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "text",
+            "text": "If only you can feel the encroaching coldness seeping into every fibre of your body. Or the feeling of blood being boiled under the hot intensity of a thousand suns. $(br2)Luckily for you there are many ways to prevent this issue! But, before we get to that part. A reminder..."
+        },
+      	{
+            "type": "text",
+            "text": "While using extreme measures to keep yourself from feeling the temperature is a tempting notion. It will only have an effect on your thirst, so keep that in mind when you stand next to bubbling lava. Or jump in a pool of ice water... $(br2)Now back to some suggestions for you to try, flip over to the next page!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minecraft:bucket",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Pretty self-explanatory. Fill it with water and drop the water to cool off while staying inside or remove lava in the area. Or pick up lava and use it to heat yourself during the coldest winter nights."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:campfire",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Keeps you nice and warm during the cold nights. You can also place a BBQ spit on it to cook your meats."
+        },
+		{
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:thermometer",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Gives you an accurate rating of your surrounding temperature. Pretty useful if you need to know how cold or hot your room is. Doesn't help with cooking though..."
+        },
+		{
+      	    "type": "spotlight",
+      	    "item": "harvestcraft:pinacoladaitem",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Nothing beats drinking this on a hot summer day! Especially under a nice shade from the blazing heat! Soups can also help too"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "armorunder:cooling_goo",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Important in making cooling liners for your clothing to stay nice and cold. Also used in making cooling Goopaks, very useful in keeping yourself from burning."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "armorunder:heating_goo",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Important in making heating liners for your clothing to stay nice and hot. Also used in making heating Goopaks, very useful in keeping yourself from freezing."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:chiller",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Brrrrr... Chilly! Air Conditions within an area! Efficiency and effectiveness depends on how close you are to the heater itself."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:heater",
+      	    "link_recipe": true,
+      	    "text": "$(#FFAA00)Mmmmmm... Toasty! Insulates within an area! Efficiency and effectiveness depends on how close you are to the heater itself."
+        },
+    	{
+            "type": "text",
+            "text": "Other ideas you can try to stay off the temperature and achieve inner peace:$(br) $(#FFAA00)$(li)Try jumping into water to cool off or $(m)lava to sta- $()$(br)$(#FFAA00)$(li)Drink beverages like smoothies or juice to stay cool. Helpful in the Nether! $(br)$(li)Try using the appropriate Goopaks for right situations. $()$(br2)Try finding some Hot Spring Pools in the colder biomes to cleanse the cold."
+        },
+        {
+            "type": "image",
+	    "title": "Nice and Toasty!",
+            "border": true,
+            "text": "Simple yet effective way to use campfires! Don't let it on too long!",
+      	    "images": [
+        	    "rotn:textures/book/photo/CampfireSketch.png"
+      		]
+        }
+    ]
+}

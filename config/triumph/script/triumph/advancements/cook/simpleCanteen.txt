@@ -1,0 +1,19 @@
+setIcon(<simpledifficulty:canteen>)
+setTitle("Alcohol not included.")
+setDescription("Craft a Leather Canteen or find one...")
+
+addParent("triumph:advancements/cook/simpleRaincollector")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Leather Canteen", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:canteen")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-191,180)

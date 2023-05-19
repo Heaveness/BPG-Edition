@@ -1,0 +1,12 @@
+setIcon(<thaumadditions:mithrillium_ingot>)
+setTitle("Pre-Mythical Metal")
+setDescription("Acquire a mithrillium ingot")
+
+addParent("triumph:advancements/ores/voidmetal")
+
+criteria = addCriteria("Mithrillium Ingot", "minecraft:inventory_changed")
+criteria.addItem(<thaumadditions:mithrillium_ingot>)
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-12,-78)

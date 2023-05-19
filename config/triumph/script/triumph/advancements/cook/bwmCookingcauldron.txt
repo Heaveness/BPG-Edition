@@ -1,0 +1,19 @@
+setIcon(<betterwithmods:cooking_pot>)
+setTitle("For making soup! And other things...")
+setDescription("Crafting Cooking Cauldron")
+
+addParent("triumph:advancements/cook/kitchenBook")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("BWM Cooking Cauldron", "minecraft:inventory_changed")
+criteria.addItem(<betterwithmods:cooking_pot, meta:1>)
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-55,152)

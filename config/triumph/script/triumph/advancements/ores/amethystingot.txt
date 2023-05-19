@@ -1,0 +1,12 @@
+setIcon(<contenttweaker:amethyst_ingot>)
+setTitle("Attractive End")
+setDescription("Craft a amethyst ingot")
+
+addParent("triumph:advancements/ores/amethyst")
+
+criteria = addCriteria("Amethyst Ingot", "minecraft:inventory_changed")
+criteria.addItem("contenttweaker:amethyst_ingot")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-239,-100)

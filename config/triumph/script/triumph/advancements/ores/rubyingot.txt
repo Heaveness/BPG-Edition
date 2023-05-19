@@ -1,0 +1,12 @@
+setIcon(<contenttweaker:ruby_ingot>)
+setTitle("Fiery Forged")
+setDescription("Craft ruby ingot")
+
+addParent("triumph:advancements/ores/ruby")
+
+criteria = addCriteria("Ruby Ingot", "minecraft:inventory_changed")
+criteria.addItem("contenttweaker:ruby_ingot")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-239,-67)

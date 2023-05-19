@@ -1,0 +1,54 @@
+{
+    "name": "17) Biome Info",
+    "icon": "minecraft:tallgrass",
+    "category": "patchouli:AchivesCategory",
+    "sortnum": 17,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Many biomes will come with its own quarks. So listen carefully! You might wake up somewhere you have no desire to stay in. $(br2)Being stuck on an barren land in the middle of the ocean is never an enjoyable experience. Ever heard of the undead champion tales? No? Well... maybe for another time."
+        },
+        {
+			"type": "spotlight",
+			"title": "Mother Nature's Guidance!",
+			"item": "naturescompass:naturescompass",
+			"text": "This compass saves you so much time. Gone are the days of aimlessly wandering around the world. This time do it with purpose in mind! $(br2)It will give you the nearest biome you're currently searching for. It does have a maximum search range which was never known.$()"
+		},
+		{
+            "type": "text",
+            "text": "Though let this be clear, this book does not need to tell you that fire is hot or snow is cold. It's already explained in another area of this guidebook. $(br2)Especially don't say that around Caz or Lanaya, both of them can get quite agitated when someone complains about the temperature. Or even the weather...$()"
+        },
+		{
+			"type": "spotlight",
+			"title": "Ask The Atlas!",
+			"item": "antiqueatlas:empty_antique_atlas",
+			"text": "It's not with the publisher's best interest to promote a different book without their consent, but who cares? This $(k)faithless & dying$() world is hard to navigate in. $(br2)Try to get this one as soon as possible. The coordinates, biome information, and the $(k)minimap$() is very helpful."
+		},
+		{
+            "type": "text",
+            "text": "Ahhh... The hot springs! One of the finest things in life mother nature is willing to share with you. It heats up your soul as well as remove any negative potion effects. $(br2)Not sure exactly sure why you don't see any bath houses around... It definitely sold well.$()"
+        },
+		{
+			"type": "spotlight",
+			"title": "Mother Nature's Wonder!",
+			"item": "simplyhotsprings:hot_spring_water",
+			"text": "You're going to be needing a lot of ingredients to make one of your own. You will also require a stoked Cauldron setup. $(br2)Though it's possible to find them in the wild. Look for them in the Alps, the Volcanic Islands, and the Bamboo Forests.$()"
+		},
+		{
+            "type": "text",
+            "text": "$(k)SADLASDKCMQasdasdQAWEMMSA2s $(br2)gohpsmdgpfmsdpanoimoiasnfdoimasodfimasoifdmasvcdfpseihopsZXVMPOEm$() THE $(br2) $(k)ASDASEIASMDASIEMFSIasdfasoemoq129573$() WORLD $(k)ASDOIOAISEJSASDAOSSDASMIE$()"
+        },
+        {
+            "type": "text",
+            "text": "$(k)ASDASDACAPSD'WOPWEP $(br)SADOISAADMCPIQASDOOMDOASODIMJNAKJSNDLAPWDMEAPSJEasdnasoidqowmeoiaxc$() IS $(br2) $(k)ASDASEIASMDASIEMFSIasdfasoemoq129573$() CHANGING $(br2) $(k)ASDASEIASMDASIEMFSIasdfasoemoq129573$()"
+        },
+		{
+            "type": "text",
+            "text": "$(k)SADLASDKCMQasdasdQAWEMMSA2s $(br2)ASDASDASXCV$() $(br2)$(k)ASDASEIASMDASIEMFSIasdfasoemoq129573($) $(k)ASGDOIOAISEJSASDAOSSDASMIE$() $(br2)$(k)ASPMASDafioinaosidoqpaSAIOASODMWasd$()"
+        },
+        {
+            "type": "text",
+            "text": "$(k)ASDASDACAPSD'WOPWEP$() $(br2)[The rest of this section is currently illegible. Something might change in the future...]$() $(br2)$(k)SADOIASDDSADSAADMCPIQASDJNAKJSNDLAPWDMASAEAPSJEasdnaasdasdaseaeasdadssoidqowmeoiaxc$()"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "6) Important Tips!",
+    "icon": "minecraft:cobblestone",
+    "category": "patchouli:GettingStartedCategory",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Some general rules of thumb for starting on your journey. While everybody have different experiences with the challenges, maybe these tips will help you out. Make sure to use these pages to remember what might be important! $(br2)Or don't... It's up to you."
+        },
+        {
+            "type": "text",
+            "text": "$(n)Here are some important tips for you to learn:$()$(br) $(li)Don't dig straight up or down. Proceed at your own peril. $(br)$(li)Don't drink $(#0000AA)water$() off of any source you just find. You have to purify it first! $(br)$(li)Keep your $(#00AA00)Nutrition $()at a health level! $(br)$(li)Stay $(#AA0000)warm $()or $(#00AAAA)cool $()depending on your situation."
+        },
+        {
+            "type": "text",
+            "text": "$(n)Here are some more tips!:$()$(br) $(li)Always carry a lot of torches. If the sun can't reach you then just bring it with you! $(l)Try glare torches.  $()$(br)$(li)If you're going to give up after going downed, make sure to remember where you left everything. You can retrieve your own $(k)dead body $() to pillage and desecrate. $(br)$(li)Try not to use a $(m)wormhole potion or mirror... $()It creates an unfortunate situation, hard to explain."
+        },
+        {
+            "type": "text",
+            "text": "$(n)Hey, why not some more tips?:$()$(br) $(li)Be extra prepared if you decide to explore during nighttime. Unless that was your plan... $(br)$(li)Make sure you craft a bed or visited a Waystone before doing anything drastic. A higher quality pillow makes all the difference in the sleep department. $(br)$(li)$(#00AA00)Cake or pie $()is worth stealing and to die for! $(m)Unless it's all a big lie!"
+        }
+    ]
+}

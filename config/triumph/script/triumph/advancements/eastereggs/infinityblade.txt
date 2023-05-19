@@ -1,0 +1,15 @@
+setIcon("msmlegacy:relic_infinity")
+setTitle("Infinity's Beyond")
+setDescription("Discover Relic 3 of 7")
+
+addParent("triumph:advancements/eastereggs/root")
+
+criteria = addCriteria("Relic 3", "minecraft:inventory_changed")
+criteria.addItem("msmlegacy:relic_infinity")
+
+setRewardExperience(50)
+
+
+alwaysVisible()
+hideLines()
+setPos(-334,94)

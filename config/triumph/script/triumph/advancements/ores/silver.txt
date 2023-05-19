@@ -1,0 +1,11 @@
+setIcon("dungeontactics:silver_ingot")
+setTitle("Shiny!")
+setDescription("Mine silver ore")
+
+addParent("triumph:advancements/ores/iron")
+
+criteria = addCriteria("Silver ore", "triumph:player_harvest_block")
+criteria.setBlock(<ore:oreSilver>)
+
+alwaysVisible()
+setPos(-80,4)

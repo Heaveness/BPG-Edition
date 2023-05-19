@@ -1,0 +1,16 @@
+{
+    "name": "16) Archive Introduction",
+    "icon": "minecraft:obsidian",
+    "category": "patchouli:AchivesCategory",
+    "sortnum": 16,
+    "pages": [
+        {
+            "type": "text",
+            "text": "This section will discuss and show the important information needed for your travels. Things can include biome, dimension, and $(k)weapons$(). So use these for a quick reminder. $(br2)SO HEED MY WARNINGS! Everything here could mean the difference between life and death! Well sort of..."
+        },
+        {
+            "type": "text",
+            "text": "As you grow stronger, you will begin to ask more questions. $(br2)But know this wanderer, the further you fly to the light the more blinded you'll become... Take the time you need to understand what's at stake. $(br2)Absorb the knowledge you've gained and find the $(k)truth$(). Don't rush the experience like $(k)us$() Or should I say $(k)us from a long time ago.$()"
+        }
+    ]
+}

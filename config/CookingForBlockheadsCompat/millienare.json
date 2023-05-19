@@ -1,0 +1,16 @@
+{
+  "modid":"millenaire",
+  "foods":{
+    "Ingredients":[
+      "vegcurry",
+      "chickencurry",
+      "masa",
+      "wah"
+    ]
+  },
+  "cooking_recipies":{
+    "bearmeat_cooked":"bearmeat_raw",
+    "wolfmeat_raw":"wolfmeat_cooked",
+    "seafood_raw":"seafood_cooked"
+  }
+}

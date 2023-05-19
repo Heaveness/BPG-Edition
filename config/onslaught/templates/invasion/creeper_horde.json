@@ -1,0 +1,98 @@
+{
+  "creeper": {
+    "name": "The Explosive Siege",
+    "selector": {
+      "weight": 1,
+      "dimension": {
+        "type": "include",
+        "dimensions": [0]
+      }
+    },
+    "messages": {
+      "start": "Brace for impact!",
+      "end": "The threat is gone but at what cost?",
+      "warn": {
+        "ticks": 12000,
+        "message": "You feel a weird disturbance in the air..."
+      }
+    },
+    "waves": [
+      {
+        "delayTicks": [0],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "creeper",
+                "count": [8, 10],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 7],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "delayTicks": [1800, 2400],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "creeper_reinforcement_00",
+                "count": [8, 10],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          },
+          {
+		    "delayTicks": [1800, 2400],
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "creeper_reinforcement_01",
+                "count": [8, 10],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "delayTicks": [8000],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "creeper_boss",
+                "count": [7],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 20]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+setIcon(<simpledifficulty:spit>)
+setTitle("Leather Maker!")
+setDescription("Craft a Campfire BBQ Spit!")
+
+addParent("triumph:advancements/cook/simpleCampfire")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Strong Spit", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:spit")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-157,211)

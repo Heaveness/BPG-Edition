@@ -1,0 +1,8 @@
+{
+	"name": "A Guide to a New Life",
+	"landing_text": "This is the new upgraded version of the previous version! The Advanced Darkness Prints and the author want to sincerely thank our loyal fans for supporting our publication. Those who bought the previous version will earn this copy for free! Please enjoy and good luck wanderers on your journey!",
+	"version": 4,
+	"book_texture": "patchouli:textures/gui/book_purple.png",
+	"model": "patchouli:book_purple",
+	"header_color": "000000"
+}

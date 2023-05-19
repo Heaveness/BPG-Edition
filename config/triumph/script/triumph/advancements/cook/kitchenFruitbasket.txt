@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:fruit_basket>)
+setTitle("A basket case")
+setDescription("Craft a Fruit Basket")
+
+addParent("triumph:advancements/cook/kitchenCounter")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Fruit Basket", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:fruit_basket")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-89,50)

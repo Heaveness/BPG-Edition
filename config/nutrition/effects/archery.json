@@ -1,0 +1,13 @@
+{
+	"name": "archery",
+	"potion": "potioncore:archery",
+	"amplifier": 1,
+	"minimum": 95,
+	"maximum": 100,
+	"detect": "any",
+	"nutrients": [                   
+		"fruit"
+		],
+	"particles": "transparent",
+	"enabled": true
+}

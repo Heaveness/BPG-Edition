@@ -1,0 +1,64 @@
+{ 
+	Profession:"minecraft:smith",
+	Career:"weapon",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"add", CareerLevel:3, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:16,max:24}
+				},
+				sell:{
+					id:"betterwithmods:steel_gearbox",
+					Count:2
+				}
+			},
+			{
+				action:"add", CareerLevel:3, chance:0.25,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:16,max:24}
+				},
+				sell:{
+					id:"betterwithmods:steel_anvil",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:16,max:24}
+				},
+				sell:{
+					id:"betterwithmods:steel_axle",
+					Count:4
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.25,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:16,max:24}
+				},
+				sell:{
+					id:"dungeontactics:steel_ingot",
+					Count:3
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:32,max:64}
+				},
+				sell:{
+					id:"openblocks:auto_anvil",
+					Count:1
+				}
+			}
+		]
+	}
+}

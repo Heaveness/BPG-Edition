@@ -1,0 +1,448 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "rare_tools",
+			"rolls": 1,
+			"entries": [
+								{
+					"entryName": "mud_axe",
+					"type": "item",
+					"name": "atop:mud_axe",
+					"weight": 25
+				},
+				{
+					"entryName": "mud_pickaxe",
+					"type": "item",
+					"name": "atop:mud_pickaxe",
+					"weight": 25
+				},
+				{
+					"entryName": "mud_shovel",
+					"type": "item",
+					"name": "atop:mud_shovel",
+					"weight": 25
+				},
+				{
+					"entryName": "mud_sword",
+					"type": "item",
+					"name": "atop:mud_sword",
+					"weight": 25
+				},
+				{
+					"entryName": "shield_basic_bronze",
+					"type": "item",
+					"name": "spartanweaponry:shield_basic_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "battleaxe_bronze",
+					"type": "item",
+					"name": "spartanweaponry:battleaxe_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "boomerang_bronze",
+					"type": "item",
+					"name": "spartanweaponry:boomerang_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "crossbow_bronze",
+					"type": "item",
+					"name": "spartanweaponry:crossbow_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "dagger_bronze",
+					"type": "item",
+					"name": "spartanweaponry:dagger_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "glaive_bronze",
+					"type": "item",
+					"name": "spartanweaponry:glaive_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "greatsword_bronze",
+					"type": "item",
+					"name": "spartanweaponry:greatsword_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "halberd_bronze",
+					"type": "item",
+					"name": "spartanweaponry:halberd_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "hammer_bronze",
+					"type": "item",
+					"name": "spartanweaponry:hammer_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "javelin_bronze",
+					"type": "item",
+					"name": "spartanweaponry:javelin_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "katana_bronze",
+					"type": "item",
+					"name": "spartanweaponry:katana_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "lance_bronze",
+					"type": "item",
+					"name": "spartanweaponry:lance_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "longbow_bronze",
+					"type": "item",
+					"name": "spartanweaponry:longbow_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "longsword_bronze",
+					"type": "item",
+					"name": "spartanweaponry:longsword_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "mace_bronze",
+					"type": "item",
+					"name": "spartanweaponry:mace_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "pike_bronze",
+					"type": "item",
+					"name": "spartanweaponry:pike_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "rapier_bronze",
+					"type": "item",
+					"name": "spartanweaponry:rapier_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "saber_bronze",
+					"type": "item",
+					"name": "spartanweaponry:saber_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "spear_bronze",
+					"type": "item",
+					"name": "spartanweaponry:spear_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "staff_bronze",
+					"type": "item",
+					"name": "spartanweaponry:staff_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "throwing_axe_bronze",
+					"type": "item",
+					"name": "spartanweaponry:throwing_axe_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "throwing_knife_bronze",
+					"type": "item",
+					"name": "spartanweaponry:throwing_knife_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "warhammer_bronze",
+					"type": "item",
+					"name": "spartanweaponry:warhammer_bronze",
+					"weight": 25
+				},
+				{
+					"entryName": "thaumium_axe",
+					"type": "item",
+					"name": "thaumcraft:thaumium_axe",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "thaumium_hoe",
+					"type": "item",
+					"name": "thaumcraft:thaumium_hoe",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "thaumium_pick",
+					"type": "item",
+					"name": "thaumcraft:thaumium_pick",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "thaumium_shovel",
+					"type": "item",
+					"name": "thaumcraft:thaumium_shovel",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "thaumium_sword",
+					"type": "item",
+					"name": "thaumcraft:thaumium_sword",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "crossbow_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:crossbow_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "dagger_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:dagger_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "glaive_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:glaive_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "greatsword_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:greatsword_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "halberd_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:halberd_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "hammer_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:hammer_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "javelin_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:javelin_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "katana_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:katana_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]						
+				},
+				{
+					"entryName": "lance_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:lance_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]						
+				},
+				{
+					"entryName": "longbow_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:longbow_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]					
+				},
+				{
+					"entryName": "longsword_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:longsword_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]						
+				},
+				{
+					"entryName": "mace_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:mace_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]						
+				},
+				{
+					"entryName": "pike_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:pike_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]							
+				},
+				{
+					"entryName": "rapier_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:rapier_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]				
+				},
+				{
+					"entryName": "saber_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:saber_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]				
+				},
+				{
+					"entryName": "spear_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:spear_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]				
+				},
+				{
+					"entryName": "staff_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:staff_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]				
+				},
+				{
+					"entryName": "throwing_axe_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:throwing_axe_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]				
+				},
+				{
+					"entryName": "throwing_knife_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:throwing_knife_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]				
+				},
+				{
+					"entryName": "warhammer_thaumium",
+					"type": "item",
+					"name": "spartanweaponryarcana:warhammer_thaumium",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]				
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "21) Conclusion",
+    "icon": "minecraft:bedrock",
+    "category": "patchouli:ConclusionCategory",
+    "sortnum": 21,
+    "pages": [
+        {
+            "type": "text",
+            "text": "There you have it! If you have read all of the pages this guide has to offer then you are more than ready to face the unknown. You can always come back to this book whenever you ever need a refresher. $(br2)Don't fret! It may be the end of our journey here, but your path to success is just getting started."
+        },
+        {
+            "type": "text",
+            "text": "If you ever see one of us in the wilderness or in a tavern then give us a shoutout. If not, that's fine too as long as you don't die! Otherwise we would have failed at our job to educate you on this world. You'll probably be out there taking names and titles in no time! $(br2)With this book, you'll have a great start on your adventure! Write your own story, maybe together with friends or foes."
+        },
+        {
+            "type": "text",
+            "text": "But if you have read this guide from start to finish without taking any breaks. Then it's probably halfway through daylight depending on how fast you are at reading. $(br2)So good luck with that wanderer! Earn your glory and fame! Harness your abilities! Hone your skills! Perhaps, you and I will meet someday... preferably through some ale!"
+        },
+        {
+            "type": "image",
+	    "title": "A New World!",
+            "border": false,
+            "text": "Adventure is just ahead! Onwards to glory!",
+      	    "images": [
+        	    "rotn:textures/book/photo/ConclusionSketch.png"
+      		]
+        }
+    ]
+}

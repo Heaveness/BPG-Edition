@@ -1,0 +1,2185 @@
+[
+  // Zotzpyre
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "betteranimalsplus:zotzpyre",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  //trumpet skelly
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "trumpetskeleton:trumpet_skeleton",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+  //more mobs
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "minecraft:enderman",
+        "weight": 0.2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": [0,4],
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:valkyrie",
+        "weight": 0.2,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "minecraft:creeper",
+        "weight": 0.2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "minecraft:skeleton",
+        "weight": 0.2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "minecraft:zombie",
+        "weight": 0.2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "minecraft:spider",
+        "weight": 0.2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+ 
+
+
+//beneath
+  {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "minecraft:cave_spider",
+        "weight": 6,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+  {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "iceandfire:if_troll",
+        "weight": 0.3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "minecraft:slime",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "twilightforest:fire_beetle",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  
+   {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "quark:dweller",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+    {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "quark:ashen",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+
+//lantern
+    {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:lantern",
+        "weight": 50,
+        "groupcountmin": 1,
+        "groupcountmax": 7
+      }
+    ]
+  },
+  
+ //grottol
+    {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:grottol",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+//spinout
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "netherex:spinout",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   // Direwolves
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "betteranimalsplus:feralwolf",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 6
+      }
+    ]
+  },
+  
+  // Gold Golems
+  {
+    "dimension": -1,
+    "block": ["betternether:bone_tile", "betternether:nether_brick_tile_large"],
+    "mobs": [
+      {
+        "mob": "netherex:gold_golem",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+   // Zombie Pigmen in Abandoned Cities
+  {
+    "dimension": -1,
+    "block": ["betternether:bone_tile", "betternether:nether_brick_tile_large", "betternether:stalagnate_planks", "betternether:bone_stairs", "betternether:nether_brick_tile_stairs"],
+    "mobs": [
+      {
+        "mob": "minecraft:zombie_pigman",
+        "weight": 0.3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  // Magma Monster Grunt Overworld
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "magma_monsters:magma_monster_grunt",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  // Magma Monster Grunt Nether
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "magma_monsters:magma_monster_grunt",
+        "weight": 40,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+
+  // Magma Monster Nether
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "magma_monsters:magma_monster",
+        "weight": 50,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  //Ember
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "netherex:ember",
+        "weight": 0.3,
+        "groupcountmin": 1,
+        "groupcountmax": 5
+      }
+    ]
+  },
+
+  // Cockatrice/Kelenk
+  {
+    "dimension": 0,
+    "seesky": true,
+    "mobs": [
+      {
+        "mob": "aether_legacy:cockatrice",
+        "weight": 2
+      }
+    ]
+  },
+
+
+  // Void Eyes
+  {
+    "dimension": [0,1,10],
+    "mobs": [
+      {
+        "mob": "primitivemobs:void_eye",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  // Trollagers
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "primitivemobs:trollager",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+
+  // Pigmen
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:hungrypigzombie",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+
+  // Wither Skeletons
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:giantwitherskeleton",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:spitfirewitherskeleton",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "netherex:salamander",
+        "weight": 3
+      }
+    ]
+  },
+
+
+
+  // Blazes
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:cinderblaze",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:emberblaze",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:hellfireblaze",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:infernoblaze",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:joltblaze",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:conflagrationblaze",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:wildfireblaze",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+// magma slimes
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:flyinglavaslime",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": [-1,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:hardenedlavaslime",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:stickylavaslime",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:volatilelavaslime",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+// ghast
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:kingghast",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+    {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:queenghast",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+     {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "specialmobs:unholyghast",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+// return of primitive mobs
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "primitivemobs:festive_creeper",
+        "weight": 0.05,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "primitivemobs:brain_slime",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+  // Creepers
+  {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "specialmobs:deathcreeper",
+        "weight": 5
+      }
+    ]
+  },
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "specialmobs:doomcreeper",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "primitivemobs:rocket_creeper",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:jumpingcreeper",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:darkcreeper",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:lightningcreeper",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:firecreeper",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:endercreeper",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:splittingcreeper",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+
+    // Zombies
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:hungryzombie",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:plaguezombie",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:fishingzombie",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:firezombie",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:giantzombie",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+
+ // Skeletons
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:sniperskeleton",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+ /*
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:poisonskeleton",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+*/
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:ninjaskeleton",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:fireskeleton",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:giantskeleton",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:spitfireskeleton",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:gatlingskeleton",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+// Spiders
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:hungryspider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:palespider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:desertspider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:witchspider",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:poisonspider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:webspider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:giantspider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:flyingspider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:motherspider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+// GoG
+	{
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:harpy_wizard",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:dullahan",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:cyan_flower",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:sporeling",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:matango",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:toad",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:wither_cow",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:oni",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:nine_tails",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:dryad",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:spriggan",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:deathword",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:arachne",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:cobblestone_golem",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:campfire",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:yeti",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "ancientbeasts:boulderer",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "ancientbeasts:owlstack",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "ancientbeasts:netherhound",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "ancientbeasts:frost_walker",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "ancientbeasts:frostash_fox",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:siren",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:naga",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:sharko",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:cecaelia",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 1,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:beholder",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:illager_fire",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:succubus",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:minotaur",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:anubis",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:sphinx",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "primitivemobs:filch_lizard",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:creep",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:banshee",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:gelatinous_slime",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,17],
+    "mobs": [
+      {
+        "mob": "betteranimalsplus:tarantula",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,17],
+    "mobs": [
+      {
+        "mob": "iceandfire:deathworm",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:cultistportalgreater",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": [0,10,17],
+    "mobs": [
+      {
+        "mob": "thaumcraft:cultistportallesser",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:ant",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:ant_ranger",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:ant_hill",
+        "weight": 6,
+        "groupcountmin": 1,
+        "groupcountmax": 5
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:firebat",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:taintseedprime",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+   {
+    "dimension": [0,17],
+    "mobs": [
+      {
+        "mob": "thaumcraft:taintseed",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:taintacle",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:taintacletiny",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:wisp",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:thaumslime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:pech",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:eldritchcrab",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "thaumcraft:eldritchguardian",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:mimic",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+     {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "weeping-angels:weepingangel",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+    {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "ancientbeasts:zealot",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "ancientbeasts:damcell",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+// Slimes
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:blackberryslime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:lemonslime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:grapeslime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:blueberryslime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:strawberryslime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:watermelonslime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+
+
+
+
+
+  // Enderman
+
+  {
+    "dimension": [0,10,1,-1],
+    "mobs": [
+      {
+        "mob": "specialmobs:blindingenderman",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10,1],
+    "mobs": [
+      {
+        "mob": "specialmobs:icyenderman",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10,1],
+    "mobs": [
+      {
+        "mob": "specialmobs:lightningenderman",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10,1],
+    "mobs": [
+      {
+        "mob": "specialmobs:mirageenderman",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+  {
+    "dimension": [0,10,1],
+    "mobs": [
+      {
+        "mob": "specialmobs:blindingenderman",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+ // Witches
+
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:windwitch",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+    {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "specialmobs:wildswitch",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+    {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:undeadwitch",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+    {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:dominationwitch",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+//silverfish
+    {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "minecraft:silverfish",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  
+    {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:flyingsilverfish",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:blindingsilverfish",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:poisonsilverfish",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:toughsilverfish",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "specialmobs:fishingsilverfish",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+ {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "netherex:frost",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+ // Fish's Undead Rising 
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "mod_lavacow:ithaqua",
+        "weight": 0.5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+    {
+    "dimension": 17,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:boneworm",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:undeadswine",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+    {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:pingu",
+        "weight": 4,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  
+     {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:zombiefrozen",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+    {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "mod_lavacow:zombiemushroom",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  
+    {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:foglet",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 4
+      }
+    ]
+  },
+  
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:ptera",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 4
+      }
+    ]
+  },
+  
+  {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:ptera",
+        "weight": 0.45,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },  
+// rats
+ {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "rats:rat",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  
+  {
+    "dimension": [-1,0,10],
+    "mobs": [
+      {
+        "mob": "rats:ratlantean_spirit",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  
+  {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "rats:plague_beast",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "rats:black_death",
+        "weight": 0.05,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+  {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "netherex:wight",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+
+  {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "netherex:coolmar_spider",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": [0,4],
+    "mobs": [
+      {
+        "mob": "grimoireofgaia:harpy",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  
+    {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "iceandfire:stymphalianbird",
+        "weight": 0.3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+ 
+    {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "aether_legacy:swet",
+        "weight": 0.01,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+
+   {
+    "dimension": 4,
+    "mobs": [
+      {
+        "mob": "aether_legacy:aechor_plant",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+ 
+ 
+  {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "betterwithmods:bwm_jungle_spider",
+        "weight": 3,
+        "groupcountmin": 2,
+        "groupcountmax": 3
+      }
+    ]
+  },
+
+   {
+    "dimension": -1,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:salamander",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "mutantbeasts:mutant_zombie",
+        "weight": 1.0,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": [0,-1,10],
+    "mobs": [
+      {
+        "mob": "mutantbeasts:mutant_skeleton",
+        "weight": 1.0,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": [0,1,10],
+    "mobs": [
+      {
+        "mob": "mutantbeasts:mutant_enderman",
+        "weight": 1.0,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+
+   {
+    "dimension": [0,10],
+    "mobs": [
+      {
+        "mob": "mutantbeasts:mutant_creeper",
+        "weight": 1.0,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 10,
+    "mobs": [
+      {
+        "mob": "mutantbeasts:spider_pig",
+        "weight": 1.0,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:vespa",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+   {
+    "dimension": 0,
+    "mobs": [
+      {
+        "mob": "mod_lavacow:scarecrow",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  }
+]

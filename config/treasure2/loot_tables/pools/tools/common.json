@@ -1,0 +1,473 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "common_tools",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "stone_sword",
+					"type": "item",
+					"name": "minecraft:stone_sword",
+					"weight": 35	
+				},
+				{
+					"entryName": "stone_pickaxe",
+					"type": "item",
+					"name": "minecraft:stone_pickaxe",
+					"weight": 35
+				},
+				{
+					"entryName": "stone_axe",
+					"type": "item",
+					"name": "minecraft:stone_axe",
+					"weight": 35
+				},
+				{
+					"entryName": "stone_shovel",
+					"type": "item",
+					"name": "minecraft:stone_shovel",
+					"weight": 35
+				},
+				{
+					"entryName": "dagger_stone",
+					"type": "item",
+					"name": "spartanweaponry:dagger_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "greatsword_stone",
+					"type": "item",
+					"name": "spartanweaponry:greatsword_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "warhammer_stone",
+					"type": "item",
+					"name": "spartanweaponry:warhammer_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "battleaxe_stone",
+					"type": "item",
+					"name": "spartanweaponry:battleaxe_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "boomerang_stone",
+					"type": "item",
+					"name": "spartanweaponry:boomerang_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "glaive_stone",
+					"type": "item",
+					"name": "spartanweaponry:glaive_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "halberd_stone",
+					"type": "item",
+					"name": "spartanweaponry:halberd_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "hammer_stone",
+					"type": "item",
+					"name": "spartanweaponry:hammer_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "javelin_stone",
+					"type": "item",
+					"name": "spartanweaponry:javelin_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "katana_stone",
+					"type": "item",
+					"name": "spartanweaponry:katana_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "lance_stone",
+					"type": "item",
+					"name": "spartanweaponry:lance_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "longsword_stone",
+					"type": "item",
+					"name": "spartanweaponry:longsword_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "mace_stone",
+					"type": "item",
+					"name": "spartanweaponry:mace_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "pike_stone",
+					"type": "item",
+					"name": "spartanweaponry:pike_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "rapier_stone",
+					"type": "item",
+					"name": "spartanweaponry:rapier_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "saber_stone",
+					"type": "item",
+					"name": "spartanweaponry:saber_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "spear_stone",
+					"type": "item",
+					"name": "spartanweaponry:spear_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "staff_stone",
+					"type": "item",
+					"name": "spartanweaponry:staff_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "throwing_axe_stone",
+					"type": "item",
+					"name": "spartanweaponry:throwing_axe_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "throwing_knife_stone",
+					"type": "item",
+					"name": "spartanweaponry:throwing_knife_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "shield_basic_stone",
+					"type": "item",
+					"name": "spartanshields:shield_basic_stone",
+					"weight": 35
+				},
+				{
+					"entryName": "iron_sword",
+					"type": "item",
+					"name": "minecraft:iron_sword",
+					"weight": 25	
+				},
+				{
+					"entryName": "iron_pickaxe",
+					"type": "item",
+					"name": "minecraft:iron_pickaxe",
+					"weight": 25
+				},
+				{
+					"entryName": "iron_axe",
+					"type": "item",
+					"name": "minecraft:iron_axe",
+					"weight": 25
+				},
+				{
+					"entryName": "iron_shovel",
+					"type": "item",
+					"name": "minecraft:iron_shovel",
+					"weight": 25
+				},
+				{
+					"entryName": "shield_basic_iron",
+					"type": "item",
+					"name": "spartanshields:shield_basic_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "battleaxe_iron",
+					"type": "item",
+					"name": "spartanweaponry:battleaxe_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "boomerang_iron",
+					"type": "item",
+					"name": "spartanweaponry:boomerang_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "crossbow_iron",
+					"type": "item",
+					"name": "spartanweaponry:crossbow_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "dagger_iron",
+					"type": "item",
+					"name": "spartanweaponry:dagger_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "glaive_iron",
+					"type": "item",
+					"name": "spartanweaponry:glaive_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "greatsword_iron",
+					"type": "item",
+					"name": "spartanweaponry:greatsword_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "halberd_iron",
+					"type": "item",
+					"name": "spartanweaponry:halberd_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "hammer_iron",
+					"type": "item",
+					"name": "spartanweaponry:hammer_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "javelin_iron",
+					"type": "item",
+					"name": "spartanweaponry:javelin_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "katana_iron",
+					"type": "item",
+					"name": "spartanweaponry:katana_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "lance_iron",
+					"type": "item",
+					"name": "spartanweaponry:lance_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "longbow_iron",
+					"type": "item",
+					"name": "spartanweaponry:longbow_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "longsword_iron",
+					"type": "item",
+					"name": "spartanweaponry:longsword_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "mace_iron",
+					"type": "item",
+					"name": "spartanweaponry:mace_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "pike_iron",
+					"type": "item",
+					"name": "spartanweaponry:pike_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "rapier_iron",
+					"type": "item",
+					"name": "spartanweaponry:rapier_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "saber_iron",
+					"type": "item",
+					"name": "spartanweaponry:saber_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "spear_iron",
+					"type": "item",
+					"name": "spartanweaponry:spear_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "staff_iron",
+					"type": "item",
+					"name": "spartanweaponry:staff_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "throwing_axe_iron",
+					"type": "item",
+					"name": "spartanweaponry:throwing_axe_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "throwing_knife_iron",
+					"type": "item",
+					"name": "spartanweaponry:throwing_knife_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "warhammer_iron",
+					"type": "item",
+					"name": "spartanweaponry:warhammer_iron",
+					"weight": 25
+				},
+				{
+					"entryName": "golden_sword",
+					"type": "item",
+					"name": "minecraft:golden_sword",
+					"weight": 15
+				},
+				{
+					"entryName": "golden_pickaxe",
+					"type": "item",
+					"name": "minecraft:golden_pickaxe",
+					"weight": 15
+				},
+				{
+					"entryName": "golden_axe",
+					"type": "item",
+					"name": "minecraft:golden_axe",
+					"weight": 15
+				},
+				{
+					"entryName": "golden_shovel",
+					"type": "item",
+					"name": "minecraft:golden_shovel",
+					"weight": 15
+				},
+				{
+					"entryName": "shield_basic_gold",
+					"type": "item",
+					"name": "spartanweaponry:shield_basic_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "battleaxe_gold",
+					"type": "item",
+					"name": "spartanweaponry:battleaxe_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "boomerang_gold",
+					"type": "item",
+					"name": "spartanweaponry:boomerang_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "dagger_gold",
+					"type": "item",
+					"name": "spartanweaponry:dagger_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "glaive_gold",
+					"type": "item",
+					"name": "spartanweaponry:glaive_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "greatsword_gold",
+					"type": "item",
+					"name": "spartanweaponry:greatsword_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "halberd_gold",
+					"type": "item",
+					"name": "spartanweaponry:halberd_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "hammer_gold",
+					"type": "item",
+					"name": "spartanweaponry:hammer_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "javelin_gold",
+					"type": "item",
+					"name": "spartanweaponry:javelin_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "katana_gold",
+					"type": "item",
+					"name": "spartanweaponry:katana_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "lance_gold",
+					"type": "item",
+					"name": "spartanweaponry:lance_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "longsword_gold",
+					"type": "item",
+					"name": "spartanweaponry:longsword_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "mace_gold",
+					"type": "item",
+					"name": "spartanweaponry:mace_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "pike_gold",
+					"type": "item",
+					"name": "spartanweaponry:pike_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "rapier_gold",
+					"type": "item",
+					"name": "spartanweaponry:rapier_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "saber_gold",
+					"type": "item",
+					"name": "spartanweaponry:saber_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "spear_gold",
+					"type": "item",
+					"name": "spartanweaponry:spear_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "staff_gold",
+					"type": "item",
+					"name": "spartanweaponry:staff_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "throwing_axe_gold",
+					"type": "item",
+					"name": "spartanweaponry:throwing_axe_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "throwing_knife_gold",
+					"type": "item",
+					"name": "spartanweaponry:throwing_knife_gold",
+					"weight": 15
+				},
+				{
+					"entryName": "warhammer_gold",
+					"type": "item",
+					"name": "spartanweaponry:warhammer_gold",
+					"weight": 15
+				}
+			]
+		}
+	]
+}

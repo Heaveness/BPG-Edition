@@ -1,0 +1,165 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "uncommon_armor",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "silver_chestplate",
+					"type": "item",
+					"name": "iceandfire:armor_silver_metal_chestplate",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]			
+				},
+				{
+					"entryName": "silver_leggings",
+					"type": "item",
+					"name": "iceandfire:armor_silver_metal_leggings",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]			
+				},
+				{
+					"entryName": "silver_helmet",
+					"type": "item",
+					"name": "iceandfire:armor_silver_metal_helmet",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]			
+				},
+				{
+					"entryName": "silver_boots",
+					"type": "item",
+					"name": "iceandfire:armor_silver_metal_boots",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]			
+				},
+				{
+					"entryName": "wizard_robe",
+					"type": "item",
+					"name": "ebwizardry:wizard_robe",
+					"weight": 20		
+				},
+				{
+					"entryName": "wizard_leggings",
+					"type": "item",
+					"name": "ebwizardry:wizard_leggings",
+					"weight": 20		
+				},
+				{
+					"entryName": "wizard_hat",
+					"type": "item",
+					"name": "ebwizardry:wizard_hat",
+					"weight": 20		
+				},
+				{
+					"entryName": "wizard_boots",
+					"type": "item",
+					"name": "ebwizardry:wizard_boots",
+					"weight": 20		
+				},
+				{
+					"entryName": "mud_chestplate",
+					"type": "item",
+					"name": "atop:mud_chestplate",
+					"weight": 10		
+				},
+				{
+					"entryName": "mud_leggings",
+					"type": "item",
+					"name": "atop:mud_leggings",
+					"weight": 10		
+				},
+				{
+					"entryName": "mud_helmet",
+					"type": "item",
+					"name": "atop:mud_helmet",
+					"weight": 10		
+				},
+				{
+					"entryName": "mud_boots",
+					"type": "item",
+					"name": "atop:mud_boots",
+					"weight": 10		
+				},
+				{
+					"entryName": "shield_basic_gold",
+					"type": "item",
+					"name": "spartanshields:shield_basic_gold",
+					"weight": 10		
+				},
+				{
+					"entryName": "shield_basic_iron",
+					"type": "item",
+					"name": "spartanshields:shield_basic_iron",
+					"weight": 10		
+				},
+				{
+					"entryName": "shield_basic_silver",
+					"type": "item",
+					"name": "spartanshields:shield_basic_silver",
+					"weight": 20		
+				},
+				{
+					"entryName": "golden_chestplate",
+					"type": "item",
+					"name": "minecraft:golden_chestplate",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]
+				},
+				{
+					"entryName": "golden_leggings",
+					"type": "item",
+					"name": "minecraft:golden_leggings",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]						
+				},
+				{
+					"entryName": "golden_helmet",
+					"type": "item",
+					"name": "minecraft:golden_helmet",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "golden_boots",
+					"type": "item",
+					"name": "minecraft:golden_boots",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				}	
+			]
+		}
+	]
+}

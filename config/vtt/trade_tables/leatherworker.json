@@ -1,0 +1,52 @@
+{ 
+	Profession:"minecraft:butcher",
+	Career:"leather",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"add", CareerLevel:3,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:5,max:10}
+				},
+				buyB:{
+					id:"minecraft:leather",
+					Count:1
+				},
+				sell:{
+					id:"betterwithmods:material",
+					Damage:6,
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:10,max:20}
+				},
+				buyB:{
+					id:"betterwithmods:material",
+					Damage:6,
+					Count:1
+				},
+				sell:{
+					id:"harvestcraft:hardenedleatheritem",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:10,max:20}
+				},
+				sell:{
+					id:"simpledifficulty:canteen",
+					Count:1
+				}
+			}
+		]
+	}
+}

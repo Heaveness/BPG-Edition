@@ -1,0 +1,14 @@
+{
+    "parent":"spartanshields:item/shield_basic_base",
+    "textures": {
+        "layer0":"spartanshields:items/thaumcraft/shield_tc_thaumium"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "spartanshields:item/shield_tc_thaumium_blocking"
+        }
+    ]
+}

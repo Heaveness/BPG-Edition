@@ -1,0 +1,82 @@
+{
+  "skeleton": {
+    "id": "minecraft:skeleton"
+  },
+  "skeleton_reinforcement_00": {
+    "id": "minecraft:skeleton",
+    "nbt": {
+      "HandDropChances": [0.0, 0.0],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.3 }
+          }
+        }
+      }
+    }
+  },
+  "skeleton_reinforcement_01": {
+    "id": "minecraft:skeleton",
+    "nbt": {
+      "ArmorItems": [
+        { "Count": 1, "id": "minecraft:chainmail_boots" },
+        { "Count": 1, "id": "minecraft:chainmail_leggings" },
+        { "Count": 1, "id": "minecraft:chainmail_chestplate" },
+        { "Count": 1, "id": "minecraft:chainmail_helmet" }
+      ],
+      "ArmorDropChances": [0.0, 0.0, 0.0, 0.0],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 2, "SpeedModifier": 0.4 }
+          }
+        }
+      }
+    }
+  },
+  "skeleton_reinforcement_02": {
+    "id": "minecraft:skeleton",
+    "nbt": {
+      "ArmorItems": [
+        { "Count": 1, "id": "minecraft:chainmail_boots" },
+        { "Count": 1, "id": "minecraft:chainmail_leggings" },
+        { "Count": 1, "id": "minecraft:chainmail_chestplate" },
+        { "Count": 1, "id": "minecraft:chainmail_helmet" }
+      ],
+      "ArmorDropChances": [0.0, 0.0, 0.0, 0.0],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 2, "SpeedModifier": 0.4 }
+          }
+        }
+      }
+    }
+  },
+  "skeleton_boss": {
+    "id": "specialmobs:sniperskeleton",
+    "effects": [
+      {
+        "id": "potioncore:archery",
+        "duration": 6000,
+        "amplifier": 3,
+        "showParticles": true
+      }
+    ],
+    "extraLootTables": ["onslaught:zombie_boss"],
+    "nbt": {
+      "CustomName": "",
+      "HandItems": [
+        { "Count": 1, "id": "betterwithmods:composite_bow" }
+      ],
+      "HandDropChances": [0.0, 0.0],
+      "ArmorItems": [
+        { "Count": 1, "id": "minecraft:iron_boots" },
+        { "Count": 1, "id": "minecraft:iron_leggings" },
+        { "Count": 1, "id": "minecraft:iron_chestplate" },
+        { "Count": 1, "id": "minecraft:iron_helmet" }
+      ],
+      "ArmorDropChances": [0.0, 0.0, 0.0, 0.0]
+    }
+  }
+}

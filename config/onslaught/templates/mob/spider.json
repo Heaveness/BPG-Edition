@@ -1,0 +1,48 @@
+{
+  "spider": {
+    "id": "minecraft:spider"
+  },
+  "spider_reinforcement_00": {
+    "id": "minecraft:spider",
+	"id": "minecraft:cave_spider",
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.2 }
+          }
+        }
+      }
+  },
+  "spider_reinforcement_01": {
+    "id": "minecraft:spider",
+	"id": "minecraft:cave_spider",
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 }
+          }
+        }
+      }
+  },
+  "spider_boss": {
+    "id": "specialmobs:giantspider",
+    "effects": [
+      {
+        "id": "minecraft:speed",
+        "duration": 1600,
+        "amplifier": 0,
+        "showParticles": true
+      }
+    ],
+    "extraLootTables": ["onslaught:zombie_boss"],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.2 },
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 },
+            "Mining": { "Range": 4, "SpeedModifier": 1 }
+          }
+        }
+      }
+  }
+}

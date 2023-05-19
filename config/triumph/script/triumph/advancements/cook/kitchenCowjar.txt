@@ -1,0 +1,22 @@
+setIcon(<cookingforblockheads:cow_jar>)
+setTitle("Had a beef towards cows eh? Cow-ard!")
+setDescription("Make a Cow-in-a-jar! No Cows were harmed in the making on this jar.")
+
+addParent("triumph:advancements/cook/kitchenMilkjar")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Cow Jar", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:cow_jar")
+
+setRewardExperience(50)
+
+// hideLines()
+// setHidden(true)
+setFrameType("CHALLENGE")
+alwaysVisible()
+setPos(-123,16)

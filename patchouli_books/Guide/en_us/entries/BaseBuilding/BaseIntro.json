@@ -1,0 +1,24 @@
+{
+    "name": "13) Building Introduction!",
+    "icon": "minecraft:stonebrick",
+    "category": "patchouli:BaseBuildingCategory",
+    "sortnum": 13,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Hey, you've almost made it to the finish line! Only this important section left of the guide. Last, but certainly not least! $(br2)The art of base building and how to set up your base defense. It's a rough world out there and barely sympathic towards your noble journey."
+        },
+        {
+            "type": "text",
+            "text": "To truly survive for more than a week after starting on your adventure. One must learn to build a strong fortified base to keep your belongings, citizens, and most importantly your furniture safe and secured from heinous monsters of the night. $(o)<- That does not include your companions.$() $(br2)Also don't leave torches everywhere, the monsters are attracted to light. Like moths to a flame."
+        },
+        {
+            "type": "text",
+            "text": "You should start with either a stone fort on the surface with a clear wide view of your surroundings, or an underground base to stay hidden and keep raw materials nearby for mining. You could also try building on top rivers, ravines, mountains, and the ocean. $(br2)$(l)The building possibilities are endless!$()"
+        },
+        {
+            "type": "text",
+            "text": "While the decision is purely up to you and/or your group for what kind of base suits the needs and wants of everyone. It's important to remind you that building an $(m)airbase$() will surely earn the disapproval and ire from your fellow peers, companions, strangers, and even the $(k)Elder Gods$(). $(br2)Time to move onto the actual meat of this category. Go ahead and check the next entry."
+        }
+    ]
+}

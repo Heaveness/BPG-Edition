@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:heating_unit>)
+setTitle("The power of the sun in your oven!")
+setDescription("Craft a Heating Unit.")
+
+addParent("triumph:advancements/cook/kitchenOven")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Heating Unit", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:heating_unit")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(13,84)

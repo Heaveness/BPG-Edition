@@ -1,0 +1,21 @@
+setIcon("atum:wanderer_helmet")
+setTitle("Wandering Traveler")
+setDescription("Complete the Wandering Traveler set.")
+
+addParent("triumph:advancements/setbonuses/root")
+
+criteria = addCriteria("Wanderer Helmet", "minecraft:inventory_changed")
+criteria.addItem(<atum:wanderer_helmet>)
+
+criteria = addCriteria("Wanderer Chestplate", "minecraft:inventory_changed")
+criteria.addItem(<atum:wanderer_chest>)
+
+criteria = addCriteria("Wanderer Leggings", "minecraft:inventory_changed")
+criteria.addItem(<atum:wanderer_legs>)
+
+criteria = addCriteria("Wanderer Boots", "minecraft:inventory_changed")
+criteria.addItem(<atum:wanderer_boots>)
+
+hideLines()
+alwaysVisible()
+setPos(-265,49)

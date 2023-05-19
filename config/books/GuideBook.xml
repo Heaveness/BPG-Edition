@@ -1,0 +1,182 @@
+<book title="A Guide to a New Life v.2" cover="gbook:demo" fontSize="0.6" home="0:0"
+      xmlns="http://localhost/gbook/base"
+      xmlns:minecraft="http://localhost/gbook/minecraft-addons">
+
+    <include ref="gbook:xml/standard.xml"/>
+
+    <conditions>
+        <all name="water_and_earth">
+            <item-exists registry-name="minecraft:iron_ingot"/>
+            <true/>
+            <all>
+                <item-exists registry-name="minecraft:iron_ingot"/>
+                <true/>
+            </all>
+        </all>
+        <true name="true" />
+        <false name="false" />
+        <not name="alt_false"><true /></not>
+        <not name="alt_true"><false /></not>
+        <advancement-unlocked name="advancement_test" advancement="minecraft:end/root" />
+        <stage-unlocked name="test1" stage="test1" />
+    </conditions>
+
+    <chapter>
+        <section>
+            <link ref="0:1">Test</link>
+            <link ref="chapter2">Test</link>
+        </section>
+        <section condition="test1">
+            <p scale="1.0">Left</p>
+            <p align="center">Center</p>
+            <p align="right">Right</p>
+            <title>Title</title>
+            <p bold="true">Bold</p>
+            <p italics="true">Italics</p>
+            <p underline="true">Underline</p>
+            <p color="#306090">Colored</p>
+            <p bold="true" italics="true" underline="true" color="#123456" align="center">All the Formats</p>
+            <p>
+                <span bold="true">Let's</span>
+                <span italics="true">try</span>
+                <span underline="true">mixing</span>
+                <span color="#306090">up</span>
+                <span bold="true" italics="true" underline="true" color="#123456" align="center">the Styles!</span>
+            </p>
+            <space height="20"/>
+            <p space="20">A</p>
+            <p>B</p>
+            <space height="25%"/>
+            <p>C</p>
+            <p indent="60">D</p>
+            <link indent="10" ref="intro:1">ааааааа ббббббббббббб вввв</link>
+            <link indent="10" ref="intro:2">Сильные элементальные духи</link>
+            <p condition="advancement_test">Has entered the end.</p>
+        </section>
+        <section>
+            <p>Page 2</p>
+            <p>Test (<link ref="chapter2">Click me</link>) test</p>
+            <link href="https://minecraft.curseforge.com/projects/guidebook">Click me 2</link>
+            <link action="copyText" text="Text to copy to the clipboard">Click me 3</link>
+            <p>An image <image src="minecraft:item/coal" tw="16" th="16"/> mixed into the text.</p>
+            <p>An image <image src="minecraft:item/coal" tw="16" th="16" scale="3.0"/> mixed into the text.</p>
+        </section>
+    </chapter>
+    <chapter id="chapter2" condition="test1">
+        <section>
+            <title>Using the template system</title>
+
+            <big_recipe>
+                <stack item="minecraft:iron_ingot"/>
+                <stack item="minecraft:iron_ingot"/>
+                <stack item="minecraft:iron_ingot"/>
+                <space/>
+                <stack item="minecraft:stick"/>
+                <space/>
+                <space/>
+                <stack item="minecraft:stick"/>
+                <space/>
+                <stack item="minecraft:iron_pickaxe"/>
+            </big_recipe>
+
+            <small_recipe>
+                <stack item="minecraft:quartz"/>
+                <stack item="minecraft:quartz"/>
+                <stack item="minecraft:quartz"/>
+                <stack item="minecraft:quartz"/>
+                <stack item="minecraft:quartz_block"/>
+            </small_recipe>
+        </section>
+        <section>
+            <title>Using the recipe tag</title>
+            <minecraft:recipe type="gbook:crafting" key="minecraft:iron_pickaxe"/>
+            <recipe type="gbook:crafting" key="minecraft:quartz_block"/>
+            <recipe type="shaped">
+                <recipe.result>
+                    <stack item="minecraft:comparator"/>
+                </recipe.result>
+            </recipe>
+        </section>
+    </chapter>
+    <chapter id="conditions">
+        <section>
+            <p>This chapter should appear even though it has a condition. The condition should always resolve to "true".</p>
+            <p>After this, there should be another section, and then a hidden third one. On top of that, the next chapter should be hidden.</p>
+            <p>Below this paragraph, there should be another paragraph that is visible, and then one that is hidden.</p>
+            <p condition="true">This paragraph has a true condition.</p>
+            <p condition="false">This paragraph has a false condition.</p>
+        </section>
+        <section condition="true">
+            <title>Condition: Always True</title>
+            <p>This section has a true condition.</p>
+            <p condition="alt_false">This paragraph has an alternate way to calculate a false condition.</p>
+            <p condition="alt_true">This paragraph has an alternate way to calculate a true condition.</p>
+        </section>
+        <section condition="false">
+            <p>This section has a false condition.</p>
+        </section>
+    </chapter>
+    <chapter id="hidden" condition="false">
+        <section>
+            <p>This chapter has a false condition.</p>
+        </section>
+    </chapter>
+    <chapter id="paginator">
+        <section>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at turpis in risus maximus lacinia id quis
+                neque. Vestibulum a hendrerit neque. Mauris elementum varius magna, sed faucibus felis lacinia semper.
+                Phasellus eget tincidunt ligula, interdum tincidunt dui. Ut in nunc bibendum nunc porta vestibulum. Sed
+                eu egestas purus, eget fringilla sem. Pellentesque interdum non erat nec mollis. Vivamus feugiat
+                sollicitudin lacinia. Etiam non orci eu purus gravida placerat a ac lorem. Fusce id justo rhoncus,
+                faucibus justo vel, iaculis mauris. Curabitur rutrum ac est in sagittis. In dapibus suscipit arcu, sit
+                amet dapibus mauris condimentum ut. Cras eget ante in elit fermentum egestas id non metus.
+            </p>
+            <p>
+                Nullam vel lorem urna. Vivamus ornare tortor enim, sit amet tincidunt magna efficitur ac. Aliquam erat
+                volutpat. Phasellus sem dui, sollicitudin ut posuere eu, elementum eget dolor. Sed aliquet at risus nec
+                elementum. Suspendisse convallis, ante id porttitor facilisis, quam erat laoreet nibh, at faucibus ante
+                justo eu massa. Phasellus sit amet justo lectus. In vel risus eleifend, sodales metus a, blandit urna.
+                Donec condimentum nunc ante, sit amet porttitor felis blandit eget. Nulla pulvinar turpis id varius
+                cursus. Duis mattis in augue eu hendrerit. Donec a pellentesque erat.
+            </p>
+            <p>
+                Vivamus convallis rutrum rutrum. Quisque suscipit est eget nibh placerat ultricies. Morbi eu dictum
+                urna, quis dignissim ipsum. Aenean ac orci sagittis, eleifend nibh in, ultricies turpis. Donec blandit
+                in libero suscipit gravida. Fusce eget egestas mi, ac sodales lectus. Vestibulum aliquam malesuada
+                facilisis. Nam at tortor quis nisl vestibulum semper nec malesuada sapien. Vestibulum et enim tristique
+                diam varius imperdiet non at nisl.
+            </p>
+            <section-break/>
+            <p>
+                Praesent consectetur ante turpis, non scelerisque felis iaculis vestibulum. Duis ut ipsum libero. Fusce
+                congue posuere urna ultrices luctus. Nullam tincidunt enim vitae tempus euismod. Ut iaculis facilisis
+                vestibulum. Nulla elementum rutrum neque sed consectetur. Vivamus ac elit et quam feugiat dignissim.
+            </p>
+            <p>
+                Aenean venenatis elit risus, in venenatis dui ullamcorper et. Cras augue purus, porttitor vel turpis
+                sed, iaculis sodales elit. Mauris pretium suscipit elit vitae dignissim. Nulla imperdiet suscipit
+                viverra. Donec viverra interdum lorem ac semper. Vestibulum pretium urna quis pretium pulvinar. Cras
+                dignissim felis sit amet lorem venenatis, sed consectetur lacus porttitor. Donec sit amet bibendum enim.
+                Nunc eget eros non sem pulvinar viverra nec in ante.
+            </p>
+            <p>
+                Sed consequat rutrum urna, vitae eleifend urna tincidunt vitae. Vestibulum sed arcu varius, imperdiet
+                magna sed, convallis ligula. Praesent mattis nec augue vitae gravida. Donec pretium porta neque. Nam a
+                arcu ac tellus pulvinar accumsan non at orci. Nam ac lacus lorem. Duis commodo, ex sed vestibulum
+                tempus, eros odio viverra justo, sed dignissim nisl ex vitae elit. Donec nec tincidunt ex. Vivamus est
+                lacus, auctor vel eleifend eu, vehicula sit amet erat. Etiam id augue vestibulum, viverra sapien vel,
+                auctor lacus. Cras lobortis tincidunt enim vel feugiat. Aenean ut velit quis dui euismod aliquet.
+                Pellentesque rhoncus eget est vel placerat. Nullam maximus urna felis, nec sagittis tortor ultricies et.
+            </p>
+            <p>
+                Mauris ac augue quis turpis euismod sagittis in ac justo. Suspendisse vel nunc eu diam elementum
+                convallis et sed nulla. Mauris id tristique sapien, porttitor facilisis turpis. Duis viverra ipsum a
+                dignissim fermentum. Nam lobortis velit dolor, a dignissim nulla dapibus quis. In vitae erat
+                condimentum, malesuada quam et, posuere orci. Duis auctor rhoncus ante in elementum. Aliquam ac urna
+                mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque convallis facilisis
+                libero quis ullamcorper. Nam lacinia erat at dui dignissim elementum.
+            </p>
+        </section>
+    </chapter>
+</book>

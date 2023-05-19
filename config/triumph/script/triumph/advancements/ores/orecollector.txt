@@ -1,0 +1,129 @@
+setIcon(<simpleores:onyx_pickaxe>)
+setTitle("Legendary Ore Collector!")
+setDescription("Become a Legendary Ore Collector by completing all other Journey of a Spelunker achievements!")
+
+addParent("triumph:advancements/ores/root")
+
+criteria = addCriteria("adaminite", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/adaminite")
+
+criteria = addCriteria("alchemicalbrass", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/alchemicalbrass")
+
+criteria = addCriteria("amber", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/amber")
+
+criteria = addCriteria("amethyst", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/amethyst")
+
+criteria = addCriteria("amethystingot", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/amethystingot")
+
+criteria = addCriteria("aquamarine", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/aquamarine")
+
+criteria = addCriteria("bronze", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/bronze")
+
+criteria = addCriteria("cincinnasite", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/cincinnasite")
+
+criteria = addCriteria("copper", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/copper")
+
+criteria = addCriteria("crudeSteel", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/crudeSteel")
+
+criteria = addCriteria("diamond", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/diamond")
+
+criteria = addCriteria("dragonsteelfire", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/dragonsteelfire")
+
+criteria = addCriteria("dragonsteelice", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/dragonsteelice")
+
+criteria = addCriteria("gold", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/gold")
+
+criteria = addCriteria("heartCrystal", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/heartCrystal")
+
+criteria = addCriteria("iron", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/iron")
+
+criteria = addCriteria("lapis", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/lapis")
+
+criteria = addCriteria("mithminite", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/mithminite")
+
+criteria = addCriteria("mithrillium", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/mithrillium")
+
+criteria = addCriteria("mythril", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/mythril")
+
+criteria = addCriteria("neptunium", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/neptunium")
+
+criteria = addCriteria("onyx", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/onyx")
+
+criteria = addCriteria("peridot", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/peridot")
+
+criteria = addCriteria("peridotingot", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/peridotingot")
+
+criteria = addCriteria("quartz", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/quartz")
+
+criteria = addCriteria("quicksilver", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/quicksilver")
+
+criteria = addCriteria("redstone", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/redstone")
+
+criteria = addCriteria("rime", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/rime")
+
+criteria = addCriteria("ruby", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/ruby")
+
+criteria = addCriteria("rubyingot", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/rubyingot")
+
+criteria = addCriteria("sapphire", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/sapphire")
+
+criteria = addCriteria("sapphireingot", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/sapphireingot")
+
+criteria = addCriteria("silver", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/silver")
+
+criteria = addCriteria("soulForgedSteel", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/soulForgedSteel")
+
+criteria = addCriteria("starmetal", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/starmetal")
+
+criteria = addCriteria("thaumium", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/thaumium")
+
+criteria = addCriteria("tin", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/tin")
+
+criteria = addCriteria("viridium", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/viridium")
+
+criteria = addCriteria("voidmetal", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/voidmetal")
+
+setRewardExperience(300)
+
+hideLines()
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-70,-106)

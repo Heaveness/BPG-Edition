@@ -1,0 +1,13 @@
+setIcon(<minecraft:skull, meta:4>)
+setTitle("I Can Never Forget Those Eyes")
+setDescription("Die by a Creeper 100 times.")
+
+addParent("triumph:advancements/deaths/creeper12")
+
+
+criteria = addCriteria("Creeper", "minecraft:entity_killed_player")
+criteria.setEntityType("creeper")
+
+criteria.setCount(100)
+setPos(504,113)
+setHidden(true)

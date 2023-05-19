@@ -1,0 +1,12 @@
+setIcon(<contenttweaker:sapphire_ingot>)
+setTitle("Aquatic Qualities")
+setDescription("Craft sapphire ingot")
+
+addParent("triumph:advancements/ores/sapphire")
+
+criteria = addCriteria("Sapphire Ingot", "minecraft:inventory_changed")
+criteria.addItem("contenttweaker:sapphire_ingot")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-175,-100)

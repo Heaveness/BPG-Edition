@@ -1,0 +1,26 @@
+﻿item.nagaFang.name=Skydrake Fang
+item.nagaFang.text.0=Used to brew a Potion of Poison Resistance or craft a Skydrake Shiv
+
+item.nagaFangDagger.name=Skydrake Shiv
+item.nagaFangDagger.text.0=Poisons targets
+item.nagaFangDagger.text.1=Deals +3 damage from behind
+
+entity.mowziesmobs.mowziesmobs.naga.name=Tainted Skydrake
+entity.mowziesmobs:naga.name=Tainted Skydrake
+entity.naga.name=Tainted Skydrake
+entity.mowziesmobs.mowziesmobs:naga.name=Tainted Skydrake
+advancements.mowziesmobs.kill_naga.description=Kill a Tainted Skydrake
+
+entity.ferrous_wroughtnaut.name=Forgotton Wroughtnaut Champion
+item.wroughtAxe.name=Axe of a Thousand Metals
+item.wroughtAxe.text.0=Never breaks, much like his soul.
+item.wroughtHelmet.text.0=Never breaks, much like his mind.
+item.wroughtHelmet.name=Champion Wrought Helm
+advancements.mowziesmobs.kill_ferrous_wroughtnaut.description=Kill an Forgotton Wroughtnaut Champion
+
+item.barakoMask.text.0=Never breaks, much like his faith.
+
+entity.mowziesmobs.mowziesmobs.lantern.name=Puffbulb
+entity.mowziesmobs:lantern.name=Puffbulb
+entity.lantern.name=Puffbulb
+entity.mowziesmobs.mowziesmobs:lantern.name=Puffbulb

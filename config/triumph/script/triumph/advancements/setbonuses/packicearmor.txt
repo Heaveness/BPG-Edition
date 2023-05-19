@@ -1,0 +1,23 @@
+setIcon("simpledifficulty:ice_chestplate")
+setTitle("Cold Embrace")
+setDescription("Complete the Cold Embrace set.")
+
+addParent("triumph:advancements/setbonuses/goldarmor")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Packed Ice Helmet", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:ice_helmet")
+
+criteria = addCriteria("Packed Ice Chestplate", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:ice_chestplate")
+
+criteria = addCriteria("Packed Ice Leggings", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:ice_leggings")
+
+criteria = addCriteria("Packed Ice Boots", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:ice_boots")
+
+hideLines()
+alwaysVisible()
+setPos(-432,-87)

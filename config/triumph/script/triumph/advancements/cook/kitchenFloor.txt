@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:kitchen_floor>)
+setTitle("Floor it, Tile it, and Clean it...")
+setDescription("Craft some Kitchen Floors")
+
+addParent("triumph:advancements/cook/kitchenCookingtable")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Floor", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:kitchen_floor")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-55,16)

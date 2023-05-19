@@ -1,0 +1,53 @@
+{
+    "name": "4) Thirst",
+    "icon": "simpledifficulty:purified_water_bottle",
+    "category": "patchouli:TheBasicCategory",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Nothing beats a cold drink under a hot summer day. Or a warm drink by the fire of a mid-winter sky. Especially nothing beats that dizzy and blurry feeling from a lack of water. $(br2)Drinking salt water from the ocean definitely does not help, in fact it probably makes it worse."
+        },
+        {
+            "type": "text",
+            "text": "Make sure you purify the water with either cooking it or use a purifying filter. $(m)Last thing you want to do is drink your own urine. $()In a survival setting, it's possible to live many weeks without food(although not recommended), but you can barely survive a few days without water. $(br2)Luckily for you there are several ways to quench that thirst:$(m)(For knowledge perhaps?)"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:purified_water_bottle",
+      	    "link_recipe": true,
+      	    "text": "$(#0000AA)Refreshing! Just cook it through a furnace and let it purify. Or use a purifying filter if there isn't a cooking method nearby. Purifying setup on the next page!"
+        },
+        {
+            "type": "image",
+			"title": "Purifying the water supply!",
+            "border": true,
+            "text": "Chest -> Hopper -> Furnace $(br)-> Hopper -> Chest",
+      	    "images": [
+        	    "rotn:textures/book/photo/WaterSketch.png"
+      		]
+        },
+		{
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:canteen",
+      	    "link_recipe": true,
+      	    "text": "$(#0000AA)This leathered version of a canteen will hold about 16 charges of water! It's useful and keep your fresh water in nice spot. It's better than carrying several stacks of drinks! $(br2)It's possible to upgrade to Steel Canteen for more charges and even upgrade it to $(k)End Dragon Canteen.$()"
+        },
+		{
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:charcoal_filter",
+      	    "link_recipe": true,
+      	    "text": "$(#0000AA)You are going to need these if you ever want to clean the water inside your canteen. It will get rid of the parasites too! Otherwise, it will taste like swamp water. Yuck!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "simpledifficulty:rain_collector",
+      	    "link_recipe": true,
+      	    "text": "$(#0000AA)Leave it outside in the rain for a few days to fully fill it. Automatically purified, so drink away!"
+        },
+		{
+			"type": "text",
+            "text": "It's advised to make as much glass bottles to store water. One of your main objectives is to look for sand and a large body of water. Carrying around several bottles of water can be inconvenient, but it can mean the difference between life and death. Also try to keep your temperature stable, so you lose less water. Especially don't drink straight from the ocean. Salt is not a great compliment to water."
+        }
+    ]
+}

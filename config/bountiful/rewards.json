@@ -1,0 +1,1354 @@
+[
+  {
+    "content": "minecraft:gold_ingot",
+    "unitWorth": 200,
+    "weight": 50
+  },
+  {
+    "content": "minecraft:iron_ingot",
+    "unitWorth": 100,
+    "weight": 50
+  },
+  {
+    "content": "iceandfire:silver_ingot",
+    "unitWorth": 300,
+    "weight": 50
+  },
+  {
+    "content": "contenttweaker:material_part:0",
+    "unitWorth": 200,
+    "weight": 50
+  },
+  {
+    "content": "dungeontactics:steel_ingot",
+    "unitWorth": 1000,
+    "weight": 50,
+	"stages": ["enteredNether"],
+	"amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "minecraft:flint",
+    "unitWorth": 100,
+    "weight": 100,
+	"amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "minecraft:flint_and_steel",
+    "unitWorth": 1000,
+    "weight": 50,
+	"amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "openblocks:grave",
+    "unitWorth": 5000,
+    "weight": 25,
+	"stages": ["enteredBeneath"],
+	"amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "openblocks:sonic_glasses",
+    "unitWorth": 1000,
+    "weight": 25,
+	"amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "openblocks:vacuum_hopper",
+    "unitWorth": 2500,
+    "weight": 25,
+	"stages": ["enteredBeneath"],
+	"amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "openblocks:tank",
+    "unitWorth": 500,
+    "weight": 25,
+	"amount": {
+      "min": 1,
+      "max": 8
+    }
+  },
+  {
+    "content": "paraglider:paraglider",
+    "unitWorth": 2500,
+    "weight": 25,
+	"stages": ["enteredAether"],
+	"amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:gold_nugget",
+    "unitWorth": 25,
+    "weight": 75
+  },
+  {
+    "content": "minecraft:iron_nugget",
+    "unitWorth": 50,
+    "weight": 75
+  },
+  {
+    "content": "minecraft:emerald",
+    "unitWorth": 500,
+    "weight": 100,
+	"amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "treasure2:wishing_well_block",
+    "unitWorth": 250,
+    "weight": 65,
+	"amount": {
+      "min": 8,
+      "max": 16
+    }
+  },
+  {
+    "content": "treasure2:desert_wishing_well_block",
+    "unitWorth": 500,
+    "weight": 50,
+	"amount": {
+      "min": 8,
+      "max": 16
+    }
+  },
+  {
+    "content": "minecraft:cobblestone",
+    "unitWorth": 1,
+    "weight": 60,
+	"amount": {
+      "min": 4,
+      "max": 320
+    }
+  },
+   {
+    "content": "undergroundbiomes:igneous_brick:0",
+    "unitWorth": 15,
+    "weight": 40,
+	"amount": {
+      "min": 1,
+      "max": 320
+    }
+  },
+  {
+    "content": "undergroundbiomes:igneous_brick:1",
+    "unitWorth": 10,
+    "weight": 50,
+	"amount": {
+      "min": 1,
+      "max": 320
+    }
+  },
+   {
+    "content": "undergroundbiomes:igneous_brick:5",
+    "unitWorth": 5,
+    "weight": 60,
+	"amount": {
+      "min": 1,
+      "max": 320
+    }
+  },
+  {
+    "content": "undergroundbiomes:igneous_brick:6",
+    "unitWorth": 5,
+    "weight": 60,
+	"amount": {
+      "min": 1,
+      "max": 320
+    }
+  },
+  {
+    "content": "minecraft:stonebrick",
+    "unitWorth": 2,
+    "weight": 80,
+	"amount": {
+      "min": 1,
+      "max": 320
+    }
+  },
+  {
+    "content": "minecraft:stone",
+    "unitWorth": 5,
+    "weight": 60,
+	"amount": {
+      "min": 1,
+      "max": 1000
+    }
+  },
+  {
+    "content": "minecraft:coal:0",
+    "unitWorth": 20,
+    "weight": 70,
+	"amount": {
+      "min": 1,
+      "max": 1000
+    }
+  },
+  {
+    "content": "minecraft:coal:1",
+    "unitWorth": 10,
+    "weight": 70,
+	"amount": {
+      "min": 1,
+      "max": 1000
+    }
+  },
+  {
+    "content": "minecraft:bread",
+    "unitWorth": 200,
+    "weight": 50,
+	"amount": {
+      "min": 1,
+      "max": 1000
+    }
+  },
+  {
+    "content": "ancientwarfarenpc:food_bundle",
+    "unitWorth": 750,
+    "weight": 35
+  },
+  {
+    "content": "minecraft:diamond",
+    "unitWorth": 1000,
+    "weight": 25
+  },
+  {
+    "content": "minecraft:redstone",
+    "unitWorth": 150,
+    "weight": 20,
+	"amount": {
+      "min": 1,
+      "max": 1000
+    }
+  },
+  {
+    "content": "thaumcraft:bottle_taint",
+    "unitWorth": 3,
+    "weight": 1,
+	"amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:cake",
+    "unitWorth": 1000,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:lapis_ore",
+    "unitWorth": 300,
+    "weight": 25
+  },
+  {
+    "content": "scalinghealth:crystalshard",
+    "unitWorth": 2000,
+    "weight": 15
+  },
+  {
+    "content": "minecraft:potion",
+    "unitWorth": 500,
+    "weight": 40,
+    "nbt_data": "{Potion: \"minecraft:healing\"}"
+  },
+  {
+    "content": "waystones:warp_stone",
+    "unitWorth": 7500,
+    "weight": 5,
+	"stages": ["enteredNether"],
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "waystones:warp_scroll",
+    "unitWorth": 2500,
+    "weight": 10,
+	"stages": ["enteredNether"],
+    "amount": {
+      "min": 1,
+      "max": 4
+    }
+  },
+  {
+    "content": "waystones:return_scroll",
+    "unitWorth": 1000,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "waystones:bound_scroll",
+    "unitWorth": 1000,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "wards:ward",
+    "unitWorth": 7500,
+    "weight": 5,
+	"stages": ["enteredNether"],
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "thaumcraft:bath_salts",
+    "unitWorth": 500,
+	"stages": ["enteredNether"],
+    "weight": 20
+  },
+  {
+    "content": "thaumcraft:curio:6",
+    "unitWorth": 2000,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 4
+    }
+  },
+  {
+    "content": "thaumcraft:traveller_boots",
+    "unitWorth": 2500,
+    "weight": 5,
+	"stages": ["enteredBeneath"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "thaumcraft:turret:0",
+    "unitWorth": 2000,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 8
+    }
+  },
+  {
+    "content": "thaumcraft:turret:1",
+    "unitWorth": 4000,
+    "weight": 10,
+	"stages": ["enteredNether"],
+    "amount": {
+      "min": 1,
+      "max": 4
+    }
+  },
+  {
+    "content": "thaumcraft:curio:6",
+    "unitWorth": 2000,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 4
+    }
+  },
+  {
+    "content": "treasure2:silver_coin",
+    "unitWorth": 1000,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  {
+    "content": "treasure2:gold_coin",
+    "unitWorth": 2000,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  {
+    "content": "treasure2:skeleton_key",
+    "unitWorth": 10000,
+    "weight": 1,
+	"stages": ["killedWither"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "trumpetskeleton:trumpet",
+    "unitWorth": 5000,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "aether_legacy:gravitite_ore",
+    "unitWorth": 1500,
+    "weight": 10,
+	"stages": ["enteredAether"]
+  },
+  {
+    "content": "aether_legacy:ambrosium_shard",
+    "unitWorth": 500,
+    "weight": 5,
+	"stages": ["enteredAether"]
+  },
+  {
+    "content": "dungeontactics:magic_powder",
+    "unitWorth": 750,
+    "weight": 20
+  },
+  {
+    "content": "minecraft:gunpowder",
+    "unitWorth": 500,
+    "weight": 15
+  },
+  {
+    "content": "nyx:fallen_star",
+    "unitWorth": 1500,
+    "weight": 20,
+	"amount": {
+      "min": 1,
+      "max": 5
+    }
+  },
+  {
+    "content": "nyx:comet_shard",
+    "unitWorth": 7500,
+    "weight": 5,
+	"amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "contenttweaker:blank_rune",
+    "unitWorth": 1500,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  {
+    "content": "contenttweaker:magic_orb",
+    "unitWorth": 2000,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  {
+    "content": "ebwizardry:arcane_tome:1",
+    "unitWorth": 1000,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  {
+    "content": "ebwizardry:arcane_tome:2",
+    "unitWorth": 2500,
+    "weight": 10,
+	"stages": ["enteredNether"],
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "ebwizardry:arcane_tome:3",
+    "unitWorth": 5000,
+    "weight": 5,
+	"stages": ["enteredBeneath"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "iceandfire:blindfold",
+    "unitWorth": 5000,
+    "weight": 10,
+	"stages": ["killedWither"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "betterwithmods:mining_charge",
+    "unitWorth": 1000,
+    "weight": 15,
+	"stages": ["enteredNether"],
+    "amount": {
+      "min": 1,
+      "max": 5
+    }
+  },
+  {
+    "content": "locks:steel_lock_pick",
+    "unitWorth": 150,
+    "weight": 20,
+    "amount": {
+      "min": 8,
+      "max": 32
+    }
+  },
+  {
+    "content": "locks:diamond_lock_pick",
+    "unitWorth": 300,
+	"stages": ["enteredBeneath"],
+    "weight": 10,
+    "amount": {
+      "min": 8,
+      "max": 16
+    }
+  },
+  {
+    "content": "treasure2:diamond_key",
+    "unitWorth": 2000,
+	"stages": ["enteredAether"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "treasure2:emerald_key",
+    "unitWorth": 1500,
+	"stages": ["enteredNether"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "treasure2:gold_key",
+    "unitWorth": 1000,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "treasure2:iron_key",
+    "unitWorth": 750,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "treasure2:ember_key",
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "treasure2:lightning_key",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "treasure2:leaf_key",
+    "unitWorth": 500,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "treasure2:ruby_key",
+    "unitWorth": 2000,
+	"stages": ["enteredNether"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "treasure2:sapphire_key",
+    "unitWorth": 2000,
+	"stages": ["enteredNether"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "simpledifficulty:canteen",
+    "unitWorth": 5000,
+	"stages": ["enteredNether"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "armorunder:heating_goo",
+    "unitWorth": 150,
+	"stages": ["enteredNether"],
+    "weight": 50,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "armorunder:cooling_goo",
+    "unitWorth": 150,
+	"stages": ["enteredAether"],
+    "weight": 50,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "armorunder:warm_liner_material",
+    "unitWorth": 200,
+	"stages": ["enteredNether"],
+    "weight": 25,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "armorunder:cool_liner_material",
+    "unitWorth": 200,
+	"stages": ["enteredAether"],
+    "weight": 25,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "armorunder:goopak_heat",
+    "unitWorth": 300,
+	"stages": ["enteredNether"],
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 16
+    }
+  },
+  {
+    "content": "armorunder:goopak_cool",
+    "unitWorth": 300,
+	"stages": ["enteredAether"],
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 16
+    }
+  },
+  {
+    "content": "doggytalents:doggy_charm",
+    "unitWorth": 2500,
+    "weight": 25,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "cookingforblockheads:cow_jar",
+    "unitWorth": 5000,
+	"stages": ["enteredBeneath"],
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "corpsecomplex:scroll",
+    "unitWorth": 1000,
+	"stages": ["enteredBeneath"],
+    "weight": 100,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "betterwithmods:axle_generator:0",
+    "unitWorth": 2000,
+	"stages": ["enteredAether"],
+    "weight": 25,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "betterwithmods:axle_generator:1",
+    "unitWorth": 3000,
+	"stages": ["enteredBeneath"],
+    "weight": 25,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+   {
+    "content": "betterwithmods:hibachi",
+    "unitWorth": 1000,
+	"stages": ["enteredBeneath"],
+    "weight": 50,
+    "amount": {
+      "min": 1,
+      "max": 9
+    }
+  },
+  {
+    "content": "betterwithmods:material:6",
+    "unitWorth": 500,
+	"stages": ["enteredNether"],
+    "weight": 100,
+    "amount": {
+      "min": 1,
+      "max": 16
+    }
+  },
+  {
+    "content": "betterwithmods:material:12",
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 25,
+    "amount": {
+      "min": 1,
+      "max": 16
+    }
+  },
+  {
+    "content": "simpledifficulty:purified_water_bottle",
+    "unitWorth": 100,
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 32
+    }
+  },
+  {
+    "content": "simpledifficulty:thermometer",
+    "unitWorth": 5000,
+	"stages": ["enteredAether", "enteredNether"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "scalinghealth:healingitem:0",
+    "unitWorth": 100,
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 32
+    }
+  },
+  {
+    "content": "scalinghealth:healingitem:1",
+    "unitWorth": 250,
+	"stages": ["enteredBeneath"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 8
+    }
+  },
+  {
+    "content": "sereneseasons:greenhouse_glass",
+    "unitWorth": 1500,
+	"stages": ["enteredAether", "enteredNether"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 32
+    }
+  },
+  {
+    "content": "sereneseasons:season_clock",
+    "unitWorth": 500,
+	"stages": ["enteredAether"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "architecturecraft:sawbench",
+    "unitWorth": 2500,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "arcanearchives:raw_quartz",
+    "unitWorth": 10000,
+    "weight": 5,
+	"stages": ["enteredBeneath"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "simpleores:mythril_ingot",
+    "unitWorth": 5000,
+    "weight": 5,
+	"stages": ["minedMythril"],
+    "amount": {
+      "min": 1,
+      "max": 15
+    }
+  },
+  {
+    "content": "simpleores:onyx_gem",
+    "unitWorth": 5000,
+    "weight": 5,
+	"stages": ["minedOnyx"],
+    "amount": {
+      "min": 1,
+      "max": 15
+    }
+  },
+  {
+    "content": "simpleores:adamantium_ingot",
+    "unitWorth": 5000,
+    "weight": 5,
+	"stages": ["minedMythril"],
+    "amount": {
+      "min": 1,
+      "max": 15
+    }
+  },
+  {
+    "content": "doggytalents:doggy_charm",
+    "unitWorth": 4000,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "grimoireofgaia:misc_soul_fiery",
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 32
+    }
+  },
+  {
+    "content": "grimoireofgaia:misc_soul_fire",
+    "unitWorth": 2500,
+	"stages": ["enteredBeneath"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 8
+    }
+  },
+  {
+    "content": "grimoireofgaia:misc_experience:0",
+    "unitWorth": 500,
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 100
+    }
+  },
+  {
+    "content": "grimoireofgaia:misc_experience:1",
+    "unitWorth": 750,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 100
+    }
+  },
+  {
+    "content": "grimoireofgaia:misc_experience:2",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 100
+    }
+  },
+  {
+    "content": "grimoireofgaia:misc_book",
+    "unitWorth": 1500,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 100
+    }
+  },
+  {
+    "content": "minecraft:leather_helmet",
+    "unitWorth": 100,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:leather_boots",
+    "unitWorth": 100,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+    {
+    "content": "minecraft:leather_chestplate",
+    "unitWorth": 100,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:leather_leggings",
+    "unitWorth": 100,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:iron_chestplate",
+    "unitWorth": 1500,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:iron_helmet",
+    "unitWorth": 1500,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:iron_leggings",
+    "unitWorth": 1500,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:iron_boots",
+    "unitWorth": 1500,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:iron_horse_armor",
+    "unitWorth": 250,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:golden_horse_armor",
+    "unitWorth": 500,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:diamond_horse_armor",
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:golden_helmet",
+    "unitWorth": 750,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:golden_chestplate",
+    "unitWorth": 750,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:golden_leggings",
+    "unitWorth": 750,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:golden_boots",
+    "unitWorth": 750,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:diamond_helmet",
+    "unitWorth": 1000,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:diamond_chestplate",
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:diamond_leggings",
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:diamond_boots",
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "glaretorch:itemglaretorchsmall",
+    "unitWorth": 2000,
+	"stages": ["enteredAether"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "glaretorch:itemglaretorch",
+    "unitWorth": 2000,
+	"stages": ["enteredNether"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "glaretorch:itemglaretorchlarge",
+    "unitWorth": 2000,
+	"stages": ["enteredBeneath"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "glaretorch:itemglaretorchlarge2",
+    "unitWorth": 2000,
+	"stages": ["enteredBeneath"],
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "primitivemobs:camouflage_dye",
+    "unitWorth": 500,
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 4
+    }
+  },
+  {
+    "content": "ebwizardry:crystal_block:0",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "ebwizardry:crystal_block:1",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "ebwizardry:crystal_block:2",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "ebwizardry:crystal_block:3",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "ebwizardry:crystal_block:4",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "ebwizardry:crystal_block:5",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "ebwizardry:crystal_block:6",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "ebwizardry:crystal_block:7",
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "arcanearchives:raw_quartz",
+    "unitWorth": 10000,
+	"stages": ["minedMythril"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "enderstorage:ender_pouch",
+    "unitWorth": 10000,
+	"stages": ["minedMythril"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:ender_chest",
+    "unitWorth": 5000,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "minecraft:ender_eye",
+    "unitWorth": 2500,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 6
+    }
+  },
+  {
+    "content": "minecraft:beacon",
+    "unitWorth": 25000,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "bountifulbaubles:trinketballoon",
+    "unitWorth": 5000,
+	"stages": ["enteredNether"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "bountifulbaubles:trinketvitamins",
+    "unitWorth": 5000,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "bountifulbaubles:trinketshulkerheart",
+    "unitWorth": 5000,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "bountifulbaubles:trinketbezoar",
+    "unitWorth": 5000,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "bountifulbaubles:spectralsilt",
+    "unitWorth": 4000,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "bountifulbaubles:crowngold",
+    "unitWorth": 3000,
+	"stages": ["killedWither"],
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "betterwithmods:composite_bow",
+    "unitWorth": 2500,
+    "weight": 15,
+    "nbt_data": "{ench:[{id:48,lvl:2}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:bow",
+    "unitWorth": 1300,
+    "weight": 15,
+    "nbt_data": "{ench:[{id:48,lvl:2}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  }
+]

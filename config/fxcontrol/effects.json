@@ -1,0 +1,197 @@
+[
+	{
+		"summer": "true",
+		"message": "§4it summer!",
+		"timeout": 432000
+	},
+	{
+		"autumn": "true",
+		"message": "§6it fall!",
+		"timeout": 432000
+	},
+	{
+		"winter": "true",
+		"message": "§bit winter!!",
+		"timeout": 432000
+	},
+	{
+		"spring": "true",
+		"message": "§2it spring!!",
+		"timeout": 432000
+	},
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:limestone_cracked"
+		},
+    "potion": "thaumcraft:fluxtaint,60,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:limestone_cracked_door"
+		},
+    "potion": "thaumcraft:fluxtaint,60,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:limestone_cracked_slab"
+		},
+    "potion": "thaumcraft:fluxtaint,60,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:limestone_cracked_wall"
+		},
+    "potion": "thaumcraft:fluxtaint,60,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:cracked_stairs"
+		},
+    "potion": "thaumcraft:fluxtaint,60,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:limestone_gravel"
+		},
+    "potion": "thaumcraft:fluxtaint,60,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:alabaster"
+		},
+    "potion": "thaumcraft:fluxtaint,100,1"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:porphyry"
+		},
+    "potion": "thaumcraft:fluxtaint,100,1"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_log"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_planks"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_stairs"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_slab"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_fence"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_fence_gate"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_torch"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_hatch"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_door"
+		},
+    "potion": "thaumcraft:fluxtaint,40,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "atum:deadwood_branch"
+		},
+    "potion": "thaumcraft:fluxtaint,20,0"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "thaumcraft:taint_crust"
+		},
+    "potion": "thaumcraft:fluxtaint,100,1"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "thaumcraft:taint_fibre"
+		},
+    "potion": "thaumcraft:fluxtaint,100,1"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "thaumcraft:taint_log"
+		},
+    "potion": "thaumcraft:fluxtaint,100,1"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "thaumcraft:taint_rock"
+		},
+    "potion": "thaumcraft:fluxtaint,100,1"
+    },
+	{
+    "timeout": 10,
+    "block": {
+      "block": "thaumcraft:taint_soil"
+		},
+    "potion": "thaumcraft:fluxtaint,100,1"
+    },
+	{
+	"timeout": 10,
+    "block": {
+      "block": "atum:sand"
+		},
+    "potion": "minecraft:slowness,40,1"
+    },
+	{
+	"timeout": 10,
+    "block": {
+      "block": "atum:sand_layer"
+		},
+    "potion": "minecraft:slowness,60,2"
+    }
+]

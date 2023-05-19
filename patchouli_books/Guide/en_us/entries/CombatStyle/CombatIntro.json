@@ -1,0 +1,34 @@
+{
+    "name": "9) Combat Introduction",
+    "icon": "minecraft:stone",
+    "category": "patchouli:CombatStyleCategory",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "text",
+            "text": "If you read this category's introduction then let's not mince words here. To begin with, you must choose your vocation as soon as possible. Choose wisely as you will stay in those roles for some time. $(br2)Although, there is an item to reset your chosen class... Not sure how it's made exactly. It's possible to ask Lady $(k) Morgana..."
+        },
+        {
+            "type": "text",
+            "text": "There are three main specializations you can decide to do for most of your journey. Each one is important, so keep in mind:$(br) $(li)Gathering focuses on getting raw materials for the group. $(li)Crafting requires people to build tools, items, and equipment for entire party. $(li)Combat fixated in brining as much pain to all living creatures."
+        },
+	{
+            "type": "text",
+            "text": "Let's start with opening the class menu hidden within your mind with the assign key$(#00AA00)(L)$()? Lady $(k)Morgana$() says $(o)[if it's not the assign key, then go to Controls and press Reset Keys]$(), whatever that means. $(br2)Each class comes with their own powerful passive perks, but require huge investment of experience. Each perk cost increases as it gets stronger. $(br2)$(l)$(#00AA00)10 levels = 1 point"
+        },
+        {
+            "type": "text",
+            "text": "It's also important to check your stat on different expertises. You can start by opening up your imaginery concept of what your knowledge base looks like by pressing the assigned key$(#00AA00)(Y)$(). $(m)That still makes no sense.$() The expertises include:$(li)Farming$(li)Agility$(li)Defense$(li)Building$(li)Attack$(li)Gathering$(li)Magic$(li)Mining"
+        },
+	{
+            "type": "text",
+            "text": "These will determine what role you should be contributing to your goal or the group. You may choose whichever you'd prefer. But for the sake of simplicity, it is highly recommended you invest into two stats at the beginning. This guide will also explain the three basic styles of combat in the next three entries. The head-strong $(#FFAA00)Warriors$(), the cunning $(#00AAAA)Rogues$(), and the curious $(#AA00AA)Mages$()."
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "openblocks:target_0",
+            "recipe2": "crafttweaker:testdummy",
+      	    "title": "Practice your skills!"
+        }
+    ]
+}

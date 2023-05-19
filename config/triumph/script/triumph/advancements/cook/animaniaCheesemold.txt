@@ -1,0 +1,19 @@
+setIcon(<animania:cheese_mold>)
+setTitle("For making cheeeeeeeeeeeeeeeeese")
+setDescription("Crafting a Cheese Mold.")
+
+addParent("triumph:advancements/cook/bwmCookingcauldron")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Ani Cheese Mold", "minecraft:inventory_changed")
+criteria.addItem("animania:cheese_mold")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-21,152)

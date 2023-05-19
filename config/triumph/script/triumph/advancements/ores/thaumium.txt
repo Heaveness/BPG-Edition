@@ -1,0 +1,11 @@
+setIcon(<thaumcraft:ingot, meta:0>)
+setTitle("Purple Metality!")
+setDescription("Obtain a thaumium ingot")
+
+addParent("triumph:advancements/ores/iron")
+
+criteria = addCriteria("Thaumium Ingot", "minecraft:inventory_changed")
+criteria.addItem(<thaumcraft:ingot, meta:0>)
+
+alwaysVisible()
+setPos(-80,-35)

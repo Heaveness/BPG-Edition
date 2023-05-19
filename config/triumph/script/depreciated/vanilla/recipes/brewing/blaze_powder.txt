@@ -1,0 +1,8 @@
+addParent("triumph:vanilla/recipes/root")
+
+addRewardRecipe("quark:blaze_lantern")
+
+criteria = addCriteria("has_blaze_rod", "minecraft:inventory_changed")
+criteria.addItem("minecraft:blaze_rod")
+
+setRequirements("any")

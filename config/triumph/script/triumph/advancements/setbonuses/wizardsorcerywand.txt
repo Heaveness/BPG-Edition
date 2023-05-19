@@ -1,0 +1,22 @@
+setIcon("ebwizardry:master_sorcery_wand")
+setTitle("Wielder of the Arcane Arts!")
+setDescription("Acquire all levels of the Sorcery wand.")
+
+addParent("triumph:advancements/setbonuses/wizardsorcery")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Novice Sorcery Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:novice_sorcery_wand")
+
+criteria = addCriteria("Apprentice Sorcery Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:apprentice_sorcery_wand")
+
+criteria = addCriteria("Advanced Sorcery Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:advanced_sorcery_wand")
+
+criteria = addCriteria("Master Sorcery Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:master_sorcery_wand")
+
+alwaysVisible()
+setPos(-512,199)

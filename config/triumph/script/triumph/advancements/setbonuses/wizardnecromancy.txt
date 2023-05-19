@@ -1,0 +1,22 @@
+setIcon("ebwizardry:wizard_robe_necromancy")
+setTitle("Master of the Living Undeath!")
+setDescription("Complete the Master of the Living Undeath set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Sorcery Wizard Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_hat_necromancy")
+
+criteria = addCriteria("Sorcery Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_robe_necromancy")
+
+criteria = addCriteria("Sorcery Wizard Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_leggings_necromancy")
+
+criteria = addCriteria("Sorcery Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_boots_necromancy")
+
+alwaysVisible()
+setPos(-552,239)

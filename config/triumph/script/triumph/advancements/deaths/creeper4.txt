@@ -1,0 +1,13 @@
+setIcon(<minecraft:skull, meta:4>)
+setTitle("Got Our Pickaxe Swinging From")
+setDescription("Die by a Creeper 10 times.")
+
+addParent("triumph:advancements/deaths/creeper3")
+
+
+criteria = addCriteria("Creeper", "minecraft:entity_killed_player")
+criteria.setEntityType("creeper")
+
+criteria.setCount(10)
+setPos(144,113)
+setHidden(true)

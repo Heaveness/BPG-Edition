@@ -1,0 +1,144 @@
+{ 
+	Profession:"minecraft:farmer",
+	Career:"fisherman",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"add", CareerLevel:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:1,max:5}
+				},
+				sell:{
+					id:"fishingmadebetter:basic_fishing_rod",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:2, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:6
+				},
+				sell:{
+					id:"fishingmadebetter:fish_tracker",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:2, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:4
+				},
+				sell:{
+					id:"fishingmadebetter:scale_remover",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:8,max:10}
+				},
+				sell:{
+					id:"fishingmadebetter:diamond_fishing_rod",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:3,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:5,max:8}
+				},
+				sell:{
+					id:"fishingmadebetter:iron_fishing_rod",
+					Count:1
+				}
+			},
+		{
+			action:"add", CareerLevel:3, chance:0.50,
+				buy:{id:"minecraft:emerald",
+				Count:24},
+				sell:{id:"aquaculture:loot",
+				Damage:1,
+				Count:{min:1,max:2}}
+		},
+		{
+			action:"add", CareerLevel:4, chance:0.25,
+				buy:{id:"minecraft:emerald",
+				Count:64},
+				sell:{id:"aquaculture:loot",
+				Damage:7,
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"minecraft:emerald",
+				Count:{min:2,max:6}},
+				sell:{id:"advanced-fishing:fish",
+				Damage:[0,2,3,4,6,7,23,25,26,27,28,29],
+				Count:{min:2,max:6}}
+		},
+		{
+			action:"add", CareerLevel:2,
+				buy:{id:"minecraft:emerald",
+				Count:{min:4,max:10}},
+				sell:{id:"advanced-fishing:fish",
+				Damage:[14,15,16,17,18,19,20,21,22],
+				Count:{min:4,max:10}}
+		},
+		{
+			action:"add", CareerLevel:3, chance:0.50,
+				buy:{id:"minecraft:emerald",
+				Count:{min:6,max:12}},
+				sell:{id:"advanced-fishing:fish",
+				Damage:[30,31,32,33,34,35,36,37,38,39,40,41,42],
+				Count:{min:6,max:12}}
+		},
+		{
+			action:"add", CareerLevel:4, chance:0.25,
+				buy:{id:"minecraft:emerald",
+				Count:{min:8,max:16}},
+				sell:{id:"advanced-fishing:fish",
+				Damage:[1,5,8,9,10,11,12,13,24],
+				Count:{min:8,max:16}}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"minecraft:emerald",
+				Count:{min:2,max:6}},
+				sell:{id:"aquaculture:fish",
+				Damage:[0,1,2,3,4,5,6,7,8,9],
+				Count:{min:2,max:6}}
+		},
+		{
+			action:"add", CareerLevel:2,
+				buy:{id:"minecraft:emerald",
+				Count:{min:4,max:10}},
+				sell:{id:"aquaculture:fish",
+				Damage:[10,11,12,13,14,15,16,17,18,19],
+				Count:{min:4,max:10}}
+		},
+		{
+			action:"add", CareerLevel:3, chance:0.50,
+				buy:{id:"minecraft:emerald",
+				Count:{min:6,max:12}},
+				sell:{id:"aquaculture:fish",
+				Damage:[20,21,22,23,24,25,26,27,28,29],
+				Count:{min:6,max:12}}
+		},
+		{
+			action:"add", CareerLevel:4, chance:0.25,
+				buy:{id:"minecraft:emerald",
+				Count:{min:8,max:16}},
+				sell:{id:"aquaculture:fish",
+				Damage:[30,31,32,33,34,35,36,37,38],
+				Count:{min:8,max:16}}
+		},
+		]
+	}
+}

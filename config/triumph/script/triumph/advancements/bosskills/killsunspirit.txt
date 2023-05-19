@@ -1,0 +1,14 @@
+setIcon(<aether_legacy:flaming_sword>)
+setTitle("The Spirit of the Sun")
+setDescription("Defeat The Sun Spirit")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("sun_spirit", "minecraft:player_killed_entity")
+criteria.setEntityType("aether_legacy:sun_spirit")
+
+setRewardExperience(50)
+
+hideLines()
+alwaysVisible()
+setPos(-95,180)

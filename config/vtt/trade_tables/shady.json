@@ -1,0 +1,266 @@
+{ 
+	Profession:"vtt:shady", 
+	Career:"collector",
+
+	Offers:{
+		Recipes:[
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:5}},
+				sell:{id:"spartanweaponry:katana_wood",
+				Count:1,
+				tag:{display: {Name: "Wrapped Stick"}}}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.5,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}},
+				sell:{id:"eplus:decorative_book",
+				Damage:[0,1,4],
+				Count:{min:4,max:12}}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.5,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:4}},
+				sell:{id:"thaumcraft:curio",
+				Damage:6,
+				Count:{min:1,max:4}}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.5,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:2,max:3}},
+				sell:{id:"treasure2:wither_key",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:4, chance:0.5,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:2,max:3}},
+				sell:{id:"openblocks:grave",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.5,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:2,max:4}},
+				sell:{id:"waystones:warp_stone",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"ancientwarfarenpc:coin",
+				Count:{min:32,max:64},
+				tag:{metal: "gold"}},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"ancientwarfarenpc:coin",
+				Count:{min:8,max:16},
+				tag:{metal: "gold"}},
+				sell:{id:"minecraft:emerald",
+				Count:{min:12,max:24}}
+		},
+		{
+			action:"add", CareerLevel:1, chance:0.25,
+				buy:{id:"thaumcraft:baubles",
+				Damage:[0,1,2],
+				Count:1},
+				sell:{id:"minecraft:emerald",
+				Count:{min:2,max:5}}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.25,
+				buy:{id:"thaumcraft:baubles",
+				Damage:[3,4,5],
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"thaumcraft:brain",
+				Count:1},
+				sell:{id:"thaumcraft:bottle_taint",
+				Count:{min:1,max:2}}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:1},
+				sell:{id:"undergroundbiomes:fossil_piece",
+				Damage:[0,1,2,3,4,5,6,7],
+				Count:{min:12,max:28}}
+		},
+		{
+			action:"add", CareerLevel:2, maxUses:4, rewardExp:true,
+				buy:{id:"minecraft:emerald",
+				Count:{min:64,max:128}},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}}
+		},
+		{
+			action:"add", CareerLevel:2, maxUses:16, rewardExp:true, chance:0.75,
+				buy:{id:"nyx:comet_shard",
+				Count:{min:8,max:12}},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:4}}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.80,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}},
+				sell:{id:"iceandfire:manuscript",
+				Count:{min:1,max:3}}
+		},
+		{
+			action:"add", CareerLevel:2,
+				buy:{id:"minecraft:emerald",
+				Count:{min:2,max:4}},
+				sell:{id:"betterwithaddons:shinai",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.37,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}},
+				sell:{id:"betterwithmods:material",
+				Damage:[24,50],
+				Count:{min:4,max:8}}
+		},
+		{
+			action:"add", CareerLevel:3, chance:0.35,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:1},
+				sell:{id:"betterwithaddons:wood_lamp",
+				Count:{min:16,max:32}}
+		},
+		{
+			action:"add", CareerLevel:3, chance:0.35,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:1},
+				sell:{id:"betterwithaddons:wrought_lamp",
+				Count:{min:8,max:16}}
+		},
+		{
+			action:"add", CareerLevel:2,
+				buy:{id:"thaumcraft:curio",
+				Damage:6,
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:4}}
+		},
+		{
+			action:"add", CareerLevel:1, chance:0.25,
+				buy:{id:"thaumcraft:seal",
+				Damage:[0,1,3,5,7,9,10,11,13,14,15,16,17],
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.10,
+				buy:{id:"thaumcraft:seal",
+				Damage:[2,4,6,8,12,18],
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:2,max:4}}
+		},
+		{
+			action:"add", CareerLevel:3, maxUses:3, rewardExp:true, chance:0.35,
+				buy:{id:"mowziesmobs:barakoa_mask_fury",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:4,max:6}}
+		},
+		{
+			action:"add", CareerLevel:3, maxUses:4, rewardExp:true, chance:0.35,
+				buy:{id:"mowziesmobs:wrought_helmet",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:3,max:5}}
+		},
+		{
+			action:"add", CareerLevel:3, maxUses:1, rewardExp:true, chance:0.35,
+				buy:{id:"mowziesmobs:barako_mask",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:8,max:10}}
+		},
+		{
+			action:"add", CareerLevel:4, maxUses:3, rewardExp:true, chance:0.25,
+				buy:{id:"mutantbeasts:hulk_hammer",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:3,max:4}}
+		},
+		{
+			action:"add", CareerLevel:3, maxUses:2, rewardExp:true, chance:0.30,
+				buy:{id:"mutantbeasts:creeper_shard",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:4,max:5}}
+		},
+		{
+			action:"add", CareerLevel:5, maxUses:1, rewardExp:true, chance:0.10,
+				buy:{id:"mutantbeasts:endersoul_hand",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:8,max:9}}
+		},
+		{
+			action:"add", CareerLevel:4, maxUses:5, rewardExp:true, chance:0.35,
+				buy:{id:"mutantbeasts:mutant_skeleton_skull",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:2,max:3}}
+		},
+		{
+			action:"add", CareerLevel:4, maxUses:1, rewardExp:true,
+				buy:{id:"atop:malachite_sword",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:4,max:6}}
+		},
+		{
+			action:"add", CareerLevel:1, maxUses:1, rewardExp:true,
+				buy:{id:"atop:peridot_sword",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:2,max:3}}
+		},
+		{
+			action:"add", CareerLevel:2, maxUses:1, rewardExp:true,
+				buy:{id:"atop:sapphire_sword",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:3,max:4}}
+		},
+		{
+			action:"add", CareerLevel:3, maxUses:1, rewardExp:true,
+				buy:{id:"atop:ruby_sword",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:{min:4,max:5}}
+		},
+		{
+			action:"add", CareerLevel:4, maxUses:1, rewardExp:true, chance:0.25,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:48,max:56}},
+				sell:{id:"betterwithaddons:thorn_rose",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:5, maxUses:2, rewardExp:true,
+				buy:{id:"contenttweaker:elevator",
+				Count:1},
+				sell:{id:"contenttweaker:nethercoin",
+				Count:5}
+		}
+	]	
+	}
+}

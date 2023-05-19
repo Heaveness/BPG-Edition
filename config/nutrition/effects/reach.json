@@ -1,0 +1,13 @@
+{
+	"name": "reach",
+	"potion": "potioncore:reach",
+	"amplifier": 1,
+	"minimum": 95,
+	"maximum": 100,
+	"detect": "any",
+	"nutrients": [                   
+		"vegetable"
+		],
+	"particles": "transparent",
+	"enabled": true
+}

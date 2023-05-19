@@ -1,0 +1,38 @@
+setIcon("ebwizardry:astral_diamond")
+setTitle("A Wizard of Legend!")
+setDescription("Acquire the entire elemental wizard armor set!")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Vanilla", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardvanilla")
+
+criteria = addCriteria("Earth", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardearth")
+
+criteria = addCriteria("Fire", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardfire")
+
+criteria = addCriteria("Healing", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardhealing")
+
+criteria = addCriteria("Ice", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardice")
+
+criteria = addCriteria("Lightning", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardlightning")
+
+criteria = addCriteria("Sorcery", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardsorcery")
+
+criteria = addCriteria("Necromancy", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardnecromancy")
+
+criteria = addCriteria("Armor Upgrade", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardupgrade")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-632,159)

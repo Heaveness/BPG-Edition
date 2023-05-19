@@ -1,0 +1,22 @@
+setIcon("ebwizardry:wizard_robe_ice")
+setTitle("Master of the Frostbitten Air!")
+setDescription("Complete the Master of the Frostbitten Air set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Ice Wizard Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_hat_ice")
+
+criteria = addCriteria("Ice Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_robe_ice")
+
+criteria = addCriteria("Ice Wizard Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_leggings_ice")
+
+criteria = addCriteria("Ice Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_boots_ice")
+
+alwaysVisible()
+setPos(-552,159)

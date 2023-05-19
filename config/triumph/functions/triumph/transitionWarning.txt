@@ -1,0 +1,4 @@
+gamerule commandBlockOutput false
+gamerule sendCommandFeedback false
+tellraw @p ["",{"text":" The barrier trembles. You sense a foul presence yearning to break free...","color":"gold","italic":true}]
+playsound mutantbeasts:entity.mutant_zombie.roar ambient @p ~ ~ ~ 0.8 0.1

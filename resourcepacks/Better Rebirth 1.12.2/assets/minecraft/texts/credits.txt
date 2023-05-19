@@ -1,0 +1,171 @@
+[C]§f========
+[C]§eRebirth of the Night Team
+[C]§f========
+
+§7Owner
+§f          CalaMariGold
+
+§7Lead Pack Developer(s)
+§f          SandwichHorror
+
+§7Pack Developers
+§f          Foreck1
+§f          Kompy_87
+§f          kilobyt3ttv
+§f          cutcat101
+§f          democat3457
+ 
+[C]§f===========
+[C]§eBPG Edition Team
+[C]§f===========
+
+§7The Main Developer
+§f          Heaveness
+
+§7The Developers
+§f          Yungfemur
+§f          Mercenaryarek
+
+§7Contributors (configs, mod recommendations, and texture work)
+§f          Garfink
+§f          DawnSparkle
+§f          Zac
+§f          EZ_BZ
+§f          FloppyDingo
+§f          NoisyThunder
+§f          Ralsei
+§f          Tony Lopez
+
+[C]§f============
+[C]§eMinecraft Team
+[C]§f============
+ 
+§7Original Creator
+§f          Markus Persson
+ 
+§7Lead Creative Designer
+§f          Jens Bergensten
+ 
+§7Production Director
+§f          Daniel Kaplan
+ 
+§7Game Developers
+§f          Agnes Larsson
+§f          Alexander Östman
+§f          Aron Nieminen
+§f          Daniel Wustenhoff
+§f          Erik Broes
+§f          Erik Bylund
+§f          Johan Bernhardsson
+§f          Jon Maiga
+§f          Maria Lemón
+§f          Michael Stoyke
+§f          Mikael Hedberg
+§f          Måns Olson
+§f          Nathan Adams
+§f          Nathan Gilbert
+§f          Ryan Holtz
+§f          Sebastian Hindefelt
+§f          Shoghi Cervantes
+§f          Thomas Guimbretière
+§f          Tomas Alaeus
+§f          Tommaso Checchi
+ 
+§7Additional Programming
+§f          Paul Spooner
+§f          Ryan 'Scaevolus' Hitchman
+§f          Elliot 'Hippoplatimus' Segal
+ 
+§7Assistant Producers
+§f          Adrian Östergård
+§f          Aleksandra Zajac
+§f          Warren Loo
+
+§7Art Director
+§f          Markus Toivonen
+ 
+§7Graphics Artists
+§f          Johan Aronson
+§f          Kristoffer Zetterstrand
+ 
+§7Additional Graphics
+§f          Jonatan Pöljö
+§f          Mariana Graham Ramirez
+§f          Martin Johansson
+§f          Ninni Landin
+ 
+§7User Experience Design
+§f          Tobias Ahlin
+ 
+§7Lead Sound Designer
+§f          Samuel Åberg
+ 
+§7Sound Design
+§f          Daniel Rosenfeld
+ 
+§7Music composed by
+§f          Daniel Rosenfeld
+ 
+§7Writing
+§f          Julian Gough
+
+[C]§f============
+[C]§eSpecial Thanks
+[C]§f============
+
+§7Alpha/Beta Testers
+§f          Garfink
+§f          DawnSparkle
+§f          Aoki
+§f          Soul
+§f          Caz_The_Hero
+§f          Bluerz
+§f          TheMetaDoctor
+§f          TheKraken
+§f          Fyresworde
+§f          Texan Janus
+§f          flamyko
+§f          Mercury
+§f          Ralsei
+§f          Tony Lopez
+
+§7To The Great Dwarves of the Beard Kingdom
+§f          BeardPrincess
+§f          FloppyDingo
+
+§7To The Great Cheese-Makers of Old
+§f          LoneDefense
+§f          ros3s
+§f          Fyresworde
+
+§7To The Tinkerers & Testers of Tomorrow
+§f          Kortako
+§f          Penguinmonk
+§f          stevely
+
+§f§3"You have done well, Champion. But, your journey does not end here... As we speak, there are far more dangers lurking around all worlds. The barrier between realms are weakening, with creatures of the night further reaching into ours. But for this victory, rest well. You have long days ahead of you. I will not envy nor pity you, instead I will congratulate you.. for your hard earned victory and celebrate your true braveness! Tell your story to others for generations to come! Take care Champion! Hopefully we will meet someday..." §3- Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+§f§2"Be prepared..."
+
+
+
+
+
+
+
+
+
+§f§2"For we will arise." - Unknown

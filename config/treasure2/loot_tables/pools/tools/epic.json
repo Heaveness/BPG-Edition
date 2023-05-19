@@ -1,0 +1,308 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "epic_tools",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "diamond_pickaxe",
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]		
+				},	
+				{
+					"entryName": "diamond_axe",
+					"type": "item",
+					"name": "minecraft:diamond_axe",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]
+				},
+				{
+					"entryName": "diamond_sword",
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 35	,
+					"functions": [				
+						{
+							"function": "enchant_randomly"
+						}
+					]					
+				},
+				{
+					"entryName": "diamond_shovel",
+					"type": "item",
+					"name": "minecraft:diamond_shovel",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "battleaxe_diamond",
+					"type": "item",
+					"name": "spartanweaponry:battleaxe_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "boomerang_diamond",
+					"type": "item",
+					"name": "spartanweaponry:boomerang_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "crossbow_diamond",
+					"type": "item",
+					"name": "spartanweaponry:crossbow_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "dagger_diamond",
+					"type": "item",
+					"name": "spartanweaponry:dagger_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "glaive_diamond",
+					"type": "item",
+					"name": "spartanweaponry:glaive_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "greatsword_diamond",
+					"type": "item",
+					"name": "spartanweaponry:greatsword_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "halberd_diamond",
+					"type": "item",
+					"name": "spartanweaponry:halberd_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "hammer_diamond",
+					"type": "item",
+					"name": "spartanweaponry:hammer_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "javelin_diamond",
+					"type": "item",
+					"name": "spartanweaponry:javelin_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "katana_diamond",
+					"type": "item",
+					"name": "spartanweaponry:katana_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "lance_diamond",
+					"type": "item",
+					"name": "spartanweaponry:lance_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "longbow_diamond",
+					"type": "item",
+					"name": "spartanweaponry:longbow_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "longsword_diamond",
+					"type": "item",
+					"name": "spartanweaponry:longsword_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "mace_diamond",
+					"type": "item",
+					"name": "spartanweaponry:mace_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "pike_diamond",
+					"type": "item",
+					"name": "spartanweaponry:pike_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "rapier_diamond",
+					"type": "item",
+					"name": "spartanweaponry:rapier_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},
+				{
+					"entryName": "saber_diamond",
+					"type": "item",
+					"name": "spartanweaponry:saber_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "spear_diamond",
+					"type": "item",
+					"name": "spartanweaponry:spear_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "staff_diamond",
+					"type": "item",
+					"name": "spartanweaponry:staff_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "throwing_axe_diamond",
+					"type": "item",
+					"name": "spartanweaponry:throwing_axe_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "throwing_knife_diamond",
+					"type": "item",
+					"name": "spartanweaponry:throwing_knife_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "warhammer_diamond",
+					"type": "item",
+					"name": "spartanweaponry:warhammer_diamond",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				},	
+				{
+					"entryName": "",
+					"type": "item",
+					"name": "spartanweaponry:",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}					
+					]					
+				}
+			]
+		}
+	]
+}

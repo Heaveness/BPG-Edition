@@ -1,0 +1,102 @@
+{
+  "spider": {
+    "name": "Spider Invasion!",
+    "selector": {
+      "weight": 1,
+      "dimension": {
+        "type": "include",
+        "dimensions": [0]
+      }
+    },
+    "messages": {
+      "start": "Here they come! Stomp them out! Quick!",
+      "end": "You feel both satisfied and relieved that nightmare was over.",
+      "warn": {
+        "ticks": 12000,
+        "message": "You feel very uneasy when an anthropod is mentioned..."
+      }
+    },
+    "waves": [
+      {
+        "delayTicks": [0],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "spider",
+                "count": [4, 12],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 7],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "delayTicks": [1200, 2000],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "spider_reinforcement_00",
+                "count": [5, 10],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "delayTicks": [1800, 2400],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "spider_reinforcement_01",
+                "count": [5, 10],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 30]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "delayTicks": [8000],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "spider_boss",
+                "count": [3],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [12, 20]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

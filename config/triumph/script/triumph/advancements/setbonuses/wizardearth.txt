@@ -1,0 +1,22 @@
+setIcon("ebwizardry:wizard_robe_earth")
+setTitle("Master of the Earth's Ruin!")
+setDescription("Complete the Master of the Earth's Ruin set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Earth Wizard Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_hat_earth")
+
+criteria = addCriteria("Earth Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_robe_earth")
+
+criteria = addCriteria("Earth Wizard Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_leggings_earth")
+
+criteria = addCriteria("Earth Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_boots_earth")
+
+alwaysVisible()
+setPos(-552,119)

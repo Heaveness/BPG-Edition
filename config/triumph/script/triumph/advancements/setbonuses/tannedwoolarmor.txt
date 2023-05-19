@@ -1,0 +1,21 @@
+setIcon("simpledifficulty:wool_chestplate")
+setTitle("Hardcore Survivalist")
+setDescription("Complete the Hardcore Survivalist set.")
+
+addParent("triumph:advancements/setbonuses/goldarmor")
+
+criteria = addCriteria("Tanned Wool Helmet", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:wool_helmet")
+
+criteria = addCriteria("Tanned Wool Chestplate", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:wool_chestplate")
+
+criteria = addCriteria("Tanned Wool Leggings", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:wool_leggings")
+
+criteria = addCriteria("Tanned Wool Boots", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:wool_boots")
+
+hideLines()
+alwaysVisible()
+setPos(-432,-139)

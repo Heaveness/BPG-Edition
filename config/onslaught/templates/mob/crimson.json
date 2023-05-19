@@ -1,0 +1,79 @@
+{
+  "crimson": {
+    "id": "thaumcraft:cultistportallesser"
+  },
+  "crimson_reinforcement_00": {
+    "id": "thaumcraft:cultistportallesser",
+    "effects": [
+      {
+        "id": "minecraft:resistance",
+        "duration": 1200,
+        "amplifier": 0,
+        "showParticles": true
+      }
+	],
+	"id": "thaumcraft:cultistknight",
+    "effects": [
+      {
+        "id": "minecraft:strength",
+        "duration": 1200,
+        "amplifier": 0,
+        "showParticles": true
+      }
+	]
+  },
+  "crimson_reinforcement_01": {
+    "id": "thaumcraft:cultistknight",
+    "effects": [
+      {
+        "id": "minecraft:strength",
+        "duration": 1200,
+        "amplifier": 0,
+        "showParticles": true
+      }
+	]
+  },
+  "crimson_reinforcement_02": {
+    "id": "thaumcraft:cultistcleric",
+    "effects": [
+      {
+        "id": "minecraft:strength",
+        "duration": 1200,
+        "amplifier": 0,
+        "showParticles": true
+      }
+	]
+  },
+  "crimson_reinforcement_03": {
+    "id": "thaumcraft:cultistportallesser",
+	"effects": [
+      {
+        "id": "minecraft:resistance",
+        "duration": 1200,
+        "amplifier": 0,
+        "showParticles": true
+      }
+	],
+	"id": "thaumcraft:cultistcleric",
+    "effects": [
+      {
+        "id": "minecraft:strength",
+        "duration": 1200,
+        "amplifier": 0,
+        "showParticles": true
+      }
+	]
+  },
+  "crimson_boss": {
+    "id": "thaumcraft:cultistportalgreater",
+    "effects": [
+      {
+        "id": "minecraft:resistance",
+        "duration": 4800,
+        "amplifier": 1,
+        "showParticles": true
+      }
+    ],
+    "extraLootTables": ["onslaught:zombie_boss"]
+  }
+}

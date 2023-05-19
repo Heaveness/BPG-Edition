@@ -1,0 +1,19 @@
+setIcon(<simpledifficulty:iron_canteen>)
+setTitle("Dancing Juice not included.")
+setDescription("Craft a Steel Canteen or find one...")
+
+addParent("triumph:advancements/cook/simpleCanteen")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Steel Canteen", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:iron_canteen")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-225,180)

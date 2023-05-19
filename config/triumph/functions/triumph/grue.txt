@@ -1,0 +1,2 @@
+gamestage silentadd @a grue
+playsound grue:grue.whisper ambient @p ~ ~ ~ 0.8 0.1

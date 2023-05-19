@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:milk_jar>)
+setTitle("Moo-ve along! Nothing to see here!")
+setDescription("Craft a Milk Jar.")
+
+addParent("triumph:advancements/cook/kitchenCounter")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Milk Jar", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:milk_jar")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-89,16)

@@ -1,0 +1,15 @@
+setIcon(<minecraft:sandstone>)
+setTitle("The Golden Sea Horizon")
+setDescription("Enter The Desert of Atum")
+
+addParent("triumph:advancements/dimensions/enterEnd")
+
+addRewardFunction("triumph:enteredAtum")
+
+criteria = addCriteria("entered_atum", "triumph:changed_dimension")
+criteria.setDimensionDestination(17)
+
+setRewardExperience(150)
+
+alwaysVisible()
+setPos(-14,32)

@@ -1,0 +1,11 @@
+setIcon(<thaumcraft:amber>)
+setTitle("Heart of Orange")
+setDescription("Mine amber ore")
+
+addParent("triumph:advancements/ores/bronze")
+
+criteria = addCriteria("Amber Ore", "triumph:player_harvest_block")
+criteria.setBlock(<ore:gemAmber>)
+
+alwaysVisible()
+setPos(-185,74)

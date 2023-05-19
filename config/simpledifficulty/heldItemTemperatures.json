@@ -1,0 +1,2162 @@
+{
+  "quark:biotite_ore": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:longsword_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "cookingforblockheads:heating_unit": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "atum:pharaoh_torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:sweetteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -1.0
+    }
+  ],
+  "minecraft:end_crystal": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "thaumcraft:nitor_magenta": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "armorunder:goopak_heat": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:dagger_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:turnipsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:vegetablesoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:pike_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:candledeco9": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco5": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco6": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "minecraft:ender_eye": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "minecraft:magma": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:candledeco7": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco8": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:chaiteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:candledeco1": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco2": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:lambbarleysoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:candledeco3": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:teaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:candledeco4": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:warhammer_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "thaumcraft:nitor_green": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:cherryicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "harvestcraft:gardensoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:pizzasoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "iceandfire:dragonsteel_fire_sword": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:throwing_axe_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "msmlegacy:relic_aqueous": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "spartanfire:spear_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "msmlegacy:adminium_ark": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -8.0
+    }
+  ],
+  "harvestcraft:tomatosoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:neapolitanicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "iceandfire:dragonbone_sword_fire": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "netherex:gloomy_netherrack": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:nether_brick_stairs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:hotdishcasseroleitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "ebwizardry:apprentice_fire_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "quark:biotite": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:warhammer_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "harvestcraft:hotchocolateitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:halberd_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "ebwizardry:advanced_fire_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "harvestcraft:asparagussoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "ebwizardry:advanced_ice_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "spartanfire:battleaxe_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:throwing_axe_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "spartanfire:greatsword_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "minecraft:ice": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "spartanfire:javelin_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:glaive_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "minecraft:lava_bucket": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 10.0
+    }
+  ],
+  "thaumcraft:nitor_white": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "thaumcraft:nitor_brown": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:lance_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:hotcocoaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:strawberryicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "spartanfire:hammer_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "thaumcraft:nitor_lime": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "thaumcraft:nitor_orange": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:dagger_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "quark:biome_cobblestone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:cucumbersoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:carrotsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:end_rod": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:throwing_knife_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:javelin_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:staff_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "minecraft:end_bricks": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "harvestcraft:chocolateicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "ebwizardry:apprentice_ice_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "harvestcraft:peanutsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:katana_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "spartanfire:longbow_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "minecraftfuture:lantern": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:saber_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:vanillaicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "spartanfire:greatsword_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:halberd_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:crossbow_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "thaumcraft:nitor_cyan": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "atop:malachite_sword": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "spartanfire:throwing_axe_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:warhammer_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "thaumcraft:nitor_red": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "atum:bone_torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "betternether:stalagnate_bowl_mushroom": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:glaive_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "minecraft:ender_pearl": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "spartanfire:mace_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:spear_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:beetsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "thaumcraft:crystal_aer": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -1.0
+    }
+  ],
+  "harvestcraft:lycheeteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:end_portal_frame": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "harvestcraft:blazingsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "msmlegacy:dawn_star": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "thaumcraft:nitor_silver": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:hotandsoursoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:halberd_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "armorunder:goopak_cool": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:spidereyesoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:javelin_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:wontonsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:dagger_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "thaumcraft:nitor_pink": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:pike_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "animania:truffle_soup": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "biomesoplenty:ash_block": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "msmlegacy:relic_pie": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:ricesoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "ebwizardry:master_fire_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:ender_chest": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "harvestcraft:bubbleteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -1.0
+    }
+  ],
+  "harvestcraft:oldworldveggiesoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:candledeco14": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:spear_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:candledeco15": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco16": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:crossbow_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:pumpkinsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "harvestcraft:candledeco10": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco11": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco12": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco13": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:ramenitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:seedsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:chorusfruitsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:end_stone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:crystal_aqua": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "aether_legacy:ambrosium_torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "spartanfire:mace_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "spartanfire:battleaxe_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "spartanfire:glaive_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "minecraft:snow_layer": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:crystal_ignis": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "glaretorch:itemglaretorch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "dungeontactics:silver_sword": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "msmlegacy:eye_end_blade": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "thaumcraft:nitor_purple": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:spumoniicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "harvestcraft:creamedbroccolisoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:misosoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:netherrack": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "pyrotech:bucket_clay": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "spartanfire:saber_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "minecraft:nether_brick_fence": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:rapier_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "iceandfire:dragonsteel_icee_ingot": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "spartanfire:lance_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "spartanfire:throwing_knife_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:greatsword_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:icecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "rustic:candle_gold": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "partanfire:battleaxe_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:staff_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:longsword_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:throwing_knife_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:lance_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "msmlegacy:vampiric_blade": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "msmlegacy:aethers_guard": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -1.0
+    }
+  ],
+  "betternether:stalagnate_bowl_wart": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:creamofavocadosoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "thaumcraft:nitor_black": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:longsword_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "minecraft:snow": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:sundayhighteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "iceandfire:dragonforge_fire_core": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:staff_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:halberd_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "simpleores:copper_bucket_water": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "spartanfire:spear_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:rapier_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "ebwizardry:novice_ice_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -1.0
+    }
+  ],
+  "spartanfire:saber_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "minecraft:nether_brick": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "adventurepack:lantern": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "thaumcraft:crystal_terra": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:crossbow_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:glaive_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:katana_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:onionsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:katana_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:saber_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "rustic:candle": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:greenteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:rapier_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:longbow_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  " minecraft:soul_sand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -1.0
+    }
+  ],
+  "spartanfire:lance_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:boomerang_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:dagger_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "iceandfire:dragonforge_ice_core": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:battleaxe_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "cookingforblockheads:ice_unit": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "quark:enderdragon_scale": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "thaumcraft:nitor_lightblue": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:javelin_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "iceandfire:dragonbone_sword_ice": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "msmlegacy:relic_molten": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:crossbow_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:rosepetalteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:mace_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:cactussoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:hammer_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:dandelionteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:rapier_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "netherex:fiery_netherrack": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:pike_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:peaandhamsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "iceandfire:ash": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:leekbaconsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:longbow_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:hammer_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "harvestcraft:driedsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:chickennoodlesoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "mutantbeasts:endersoul_hand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:boomerang_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "msmlegacy:relic_candy": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:potatosoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "ebwizardry:novice_fire_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "minecraft:beetroot_soup": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:greatsword_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:warhammer_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "glaretorch:itemglaretorchlarge2": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 8.0
+    }
+  ],
+  "spartanfire:boomerang_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:celerysoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "atum:deadwood_torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "minecraft:snowball": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "ebwizardry:master_ice_wand": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "msmlegacy:crystaline_blade": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:packed_ice": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "atum:palm_torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:throwing_knife_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:mobsoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "glaretorch:itemglaretorchlarge": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:pike_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:caramelicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:nitor_yellow": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "atum:limestone_torch": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:raspberryicedteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -2.0
+    }
+  ],
+  "minecraft:water_bucket": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "spartanfire:longbow_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "iceandfire:dragonsteel_ice_sword": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "thaumcraft:nitor_gray": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "rustic:iron_lantern": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:throwing_axe_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "spartanfire:katana_fire_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "spartanfire:boomerang_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "aquaculture:food": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:hammer_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:mintchocolatechipicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:nitor_blue": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ],
+  "spartanfire:mace_ice_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -6.0
+    }
+  ],
+  "harvestcraft:splitpeasoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "harvestcraft:mochaicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "spartanfire:longsword_fire_dragonbone": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "harvestcraft:potatoandleeksoupitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 2.0
+    }
+  ],
+  "spartanfire:staff_ice_dragonsteel": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:pistachioicecreamitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "iceandfire:dragonsteel_fire_ingot": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "harvestcraft:earlgreyteaitem": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.0
+    }
+  ],
+  "msmlegacy:wither_bane": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -4.0
+    }
+  ],
+  "rustic:golden_lantern": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 1.0
+    }
+  ]
+}

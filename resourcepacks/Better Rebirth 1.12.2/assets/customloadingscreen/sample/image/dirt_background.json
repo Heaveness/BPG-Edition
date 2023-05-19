@@ -1,0 +1,19 @@
+{
+  "parent": "builtin/image",
+  "image": "textures/gui/options_background.png",
+  "position_type": "CENTER",
+  "offset_pos": "CENTER",
+  "colour": "0xFF_5A_5A_5A",
+  "position": {
+    "x": "0",
+    "y": "0",
+    "width": "64 * 16",
+    "height": "64 * 16"
+  },
+  "texture": {
+    "x": "0",
+    "y": "0",
+    "width": "64",
+    "height": "64"
+  }
+}

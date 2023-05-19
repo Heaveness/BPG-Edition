@@ -1,0 +1,8 @@
+entity.grue.EntityGrue.name=Void Keeper
+
+death.attack.grue=%1$s was eaten by a Void Keeper
+death.attack.grue.player=%1$s was eaten by a Void Keeper whilst trying to escape %2$s
+death.attack.wimpgrue=%1$s was cowardly eaten by a Void Keeper
+death.attack.wimpgrue.player=%1$s was cowardly eaten by a Void Keeper whilst trying to escape %2$s
+
+text.warning.grue=Do you feel the encroaching darkness? The void's cold embrace approaches...

@@ -1,0 +1,34 @@
+[
+  {
+    "tier": 1,
+    "color": 16776960,
+    "affixes": 1,
+    "growthFactor": 1,
+    "chance": 0.20,
+    "potions": []
+  },
+  {
+    "tier": 2,
+    "color": 16216832,
+    "affixes": 2,
+    "growthFactor": 4,
+    "chance": 0.15,
+    "potions": ["ebwizardry:fireskin"]
+  },
+  {
+    "tier": 3,
+    "color": 14880512,
+    "affixes": 3,
+    "growthFactor": 7,
+    "chance": 0.10,
+    "potions": ["ebwizardry:ice_shroud", "ebwizardry:frost_step"]
+  },
+  {
+    "tier": 4,
+    "color": 13382655,
+    "affixes": 4,
+    "growthFactor": 10,
+    "chance": 0.05,
+    "potions": ["ebwizardry:static_aura", "potioncore:cure", "potioncore:reach;0", "minecraft:jump_boost;0"]
+  }
+]

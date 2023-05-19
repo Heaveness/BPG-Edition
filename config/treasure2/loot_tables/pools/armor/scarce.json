@@ -1,0 +1,151 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "scarce_armor",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "hardenedleatherchestitem",
+					"type": "item",
+					"name": "harvestcraft:hardenedleatherchestitem",
+					"weight": 10		
+				},
+				{
+					"entryName": "hardenedleatherleggingsitem",
+					"type": "item",
+					"name": "harvestcraft:hardenedleatherleggingsitem",
+					"weight": 10		
+				},
+				{
+					"entryName": "hardenedleatherhelmitem",
+					"type": "item",
+					"name": "harvestcraft:hardenedleatherhelmitem",
+					"weight": 10	
+				},
+				{
+					"entryName": "hardenedleatherbootsitem",
+					"type": "item",
+					"name": "harvestcraft:hardenedleatherbootsitem",
+					"weight": 10
+				},
+				{
+					"entryName": "myrmex_desert_chestplate",
+					"type": "item",
+					"name": "iceandfire:myrmex_desert_chestplate",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "myrmex_desert_leggings",
+					"type": "item",
+					"name": "iceandfire:myrmex_desert_leggings",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]						
+				},
+				{
+					"entryName": "myrmex_desert_helmet",
+					"type": "item",
+					"name": "iceandfire:myrmex_desert_helmet",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]		
+				},
+				{
+					"entryName": "myrmex_desert_boots",
+					"type": "item",
+					"name": "iceandfire:myrmex_desert_boots",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]	
+				},
+				{
+					"entryName": "myrmex_jungle_chestplate",
+					"type": "item",
+					"name": "iceandfire:myrmex_jungle_chestplate",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]
+				},
+				{
+					"entryName": "myrmex_jungle_leggings",
+					"type": "item",
+					"name": "iceandfire:myrmex_jungle_leggings",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]						
+				},
+				{
+					"entryName": "myrmex_jungle_helmet",
+					"type": "item",
+					"name": "iceandfire:myrmex_jungle_helmet",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]		
+				},
+				{
+					"entryName": "myrmex_jungle_boots",
+					"type": "item",
+					"name": "iceandfire:myrmex_jungle_boots",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "enchant_with_levels",
+							"levels": 30,
+							"treasure": true
+						}
+					]	
+				},
+				{
+					"entryName": "shield_basic_diamond",
+					"type": "item",
+					"name": "spartanshields:shield_basic_diamond",
+					"weight": 10		
+				},
+				{
+					"entryName": "diamond_hippogryph_armor",
+					"type": "item",
+					"name": "iceandfire:diamond_hippogryph_armor",
+					"weight": 25	
+				}
+			]
+		}
+	]
+}

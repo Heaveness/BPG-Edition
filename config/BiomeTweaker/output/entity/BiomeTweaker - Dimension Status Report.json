@@ -1,0 +1,4213 @@
+//Yeah, it's a doozy.
+[
+  {
+    "Name": "ElderGuardian",
+    "Registry ID": "minecraft:elder_guardian",
+    "Class": "net.minecraft.entity.monster.EntityElderGuardian"
+  },
+  {
+    "Name": "WitherSkeleton",
+    "Registry ID": "minecraft:wither_skeleton",
+    "Class": "net.minecraft.entity.monster.EntityWitherSkeleton"
+  },
+  {
+    "Name": "Stray",
+    "Registry ID": "minecraft:stray",
+    "Class": "net.minecraft.entity.monster.EntityStray"
+  },
+  {
+    "Name": "Husk",
+    "Registry ID": "minecraft:husk",
+    "Class": "net.minecraft.entity.monster.EntityHusk"
+  },
+  {
+    "Name": "ZombieVillager",
+    "Registry ID": "minecraft:zombie_villager",
+    "Class": "net.minecraft.entity.monster.EntityZombieVillager"
+  },
+  {
+    "Name": "SkeletonHorse",
+    "Registry ID": "minecraft:skeleton_horse",
+    "Class": "net.minecraft.entity.passive.EntitySkeletonHorse"
+  },
+  {
+    "Name": "ZombieHorse",
+    "Registry ID": "minecraft:zombie_horse",
+    "Class": "net.minecraft.entity.passive.EntityZombieHorse"
+  },
+  {
+    "Name": "Donkey",
+    "Registry ID": "minecraft:donkey",
+    "Class": "net.minecraft.entity.passive.EntityDonkey"
+  },
+  {
+    "Name": "Mule",
+    "Registry ID": "minecraft:mule",
+    "Class": "net.minecraft.entity.passive.EntityMule"
+  },
+  {
+    "Name": "EvocationIllager",
+    "Registry ID": "minecraft:evocation_illager",
+    "Class": "net.minecraft.entity.monster.EntityEvoker"
+  },
+  {
+    "Name": "Vex",
+    "Registry ID": "minecraft:vex",
+    "Class": "net.minecraft.entity.monster.EntityVex"
+  },
+  {
+    "Name": "VindicationIllager",
+    "Registry ID": "minecraft:vindication_illager",
+    "Class": "net.minecraft.entity.monster.EntityVindicator"
+  },
+  {
+    "Name": "IllusionIllager",
+    "Registry ID": "minecraft:illusion_illager",
+    "Class": "net.minecraft.entity.monster.EntityIllusionIllager"
+  },
+  {
+    "Name": "Creeper",
+    "Registry ID": "minecraft:creeper",
+    "Class": "net.minecraft.entity.monster.EntityCreeper"
+  },
+  {
+    "Name": "Skeleton",
+    "Registry ID": "minecraft:skeleton",
+    "Class": "net.minecraft.entity.monster.EntitySkeleton"
+  },
+  {
+    "Name": "Spider",
+    "Registry ID": "minecraft:spider",
+    "Class": "net.minecraft.entity.monster.EntitySpider"
+  },
+  {
+    "Name": "Giant",
+    "Registry ID": "minecraft:giant",
+    "Class": "net.minecraft.entity.monster.EntityGiantZombie"
+  },
+  {
+    "Name": "Zombie",
+    "Registry ID": "minecraft:zombie",
+    "Class": "net.minecraft.entity.monster.EntityZombie"
+  },
+  {
+    "Name": "Slime",
+    "Registry ID": "minecraft:slime",
+    "Class": "net.minecraft.entity.monster.EntitySlime"
+  },
+  {
+    "Name": "Ghast",
+    "Registry ID": "minecraft:ghast",
+    "Class": "net.minecraft.entity.monster.EntityGhast"
+  },
+  {
+    "Name": "PigZombie",
+    "Registry ID": "minecraft:zombie_pigman",
+    "Class": "net.minecraft.entity.monster.EntityPigZombie"
+  },
+  {
+    "Name": "Enderman",
+    "Registry ID": "minecraft:enderman",
+    "Class": "net.minecraft.entity.monster.EntityEnderman"
+  },
+  {
+    "Name": "CaveSpider",
+    "Registry ID": "minecraft:cave_spider",
+    "Class": "net.minecraft.entity.monster.EntityCaveSpider"
+  },
+  {
+    "Name": "Silverfish",
+    "Registry ID": "minecraft:silverfish",
+    "Class": "net.minecraft.entity.monster.EntitySilverfish"
+  },
+  {
+    "Name": "Blaze",
+    "Registry ID": "minecraft:blaze",
+    "Class": "net.minecraft.entity.monster.EntityBlaze"
+  },
+  {
+    "Name": "LavaSlime",
+    "Registry ID": "minecraft:magma_cube",
+    "Class": "net.minecraft.entity.monster.EntityMagmaCube"
+  },
+  {
+    "Name": "EnderDragon",
+    "Registry ID": "minecraft:ender_dragon",
+    "Class": "net.minecraft.entity.boss.EntityDragon"
+  },
+  {
+    "Name": "WitherBoss",
+    "Registry ID": "minecraft:wither",
+    "Class": "net.minecraft.entity.boss.EntityWither"
+  },
+  {
+    "Name": "Bat",
+    "Registry ID": "minecraft:bat",
+    "Class": "net.minecraft.entity.passive.EntityBat"
+  },
+  {
+    "Name": "Witch",
+    "Registry ID": "minecraft:witch",
+    "Class": "net.minecraft.entity.monster.EntityWitch"
+  },
+  {
+    "Name": "Endermite",
+    "Registry ID": "minecraft:endermite",
+    "Class": "net.minecraft.entity.monster.EntityEndermite"
+  },
+  {
+    "Name": "Guardian",
+    "Registry ID": "minecraft:guardian",
+    "Class": "net.minecraft.entity.monster.EntityGuardian"
+  },
+  {
+    "Name": "Shulker",
+    "Registry ID": "minecraft:shulker",
+    "Class": "net.minecraft.entity.monster.EntityShulker"
+  },
+  {
+    "Name": "Pig",
+    "Registry ID": "minecraft:pig",
+    "Class": "net.minecraft.entity.passive.EntityPig"
+  },
+  {
+    "Name": "Sheep",
+    "Registry ID": "minecraft:sheep",
+    "Class": "net.minecraft.entity.passive.EntitySheep"
+  },
+  {
+    "Name": "Cow",
+    "Registry ID": "minecraft:cow",
+    "Class": "net.minecraft.entity.passive.EntityCow"
+  },
+  {
+    "Name": "Chicken",
+    "Registry ID": "minecraft:chicken",
+    "Class": "net.minecraft.entity.passive.EntityChicken"
+  },
+  {
+    "Name": "Squid",
+    "Registry ID": "minecraft:squid",
+    "Class": "net.minecraft.entity.passive.EntitySquid"
+  },
+  {
+    "Name": "Wolf",
+    "Registry ID": "minecraft:wolf",
+    "Class": "net.minecraft.entity.passive.EntityWolf"
+  },
+  {
+    "Name": "MushroomCow",
+    "Registry ID": "minecraft:mooshroom",
+    "Class": "net.minecraft.entity.passive.EntityMooshroom"
+  },
+  {
+    "Name": "SnowMan",
+    "Registry ID": "minecraft:snowman",
+    "Class": "net.minecraft.entity.monster.EntitySnowman"
+  },
+  {
+    "Name": "Ozelot",
+    "Registry ID": "minecraft:ocelot",
+    "Class": "net.minecraft.entity.passive.EntityOcelot"
+  },
+  {
+    "Name": "VillagerGolem",
+    "Registry ID": "minecraft:villager_golem",
+    "Class": "net.minecraft.entity.monster.EntityIronGolem"
+  },
+  {
+    "Name": "Horse",
+    "Registry ID": "minecraft:horse",
+    "Class": "net.minecraft.entity.passive.EntityHorse"
+  },
+  {
+    "Name": "Rabbit",
+    "Registry ID": "minecraft:rabbit",
+    "Class": "net.minecraft.entity.passive.EntityRabbit"
+  },
+  {
+    "Name": "PolarBear",
+    "Registry ID": "minecraft:polar_bear",
+    "Class": "net.minecraft.entity.monster.EntityPolarBear"
+  },
+  {
+    "Name": "Llama",
+    "Registry ID": "minecraft:llama",
+    "Class": "net.minecraft.entity.passive.EntityLlama"
+  },
+  {
+    "Name": "Parrot",
+    "Registry ID": "minecraft:parrot",
+    "Class": "net.minecraft.entity.passive.EntityParrot"
+  },
+  {
+    "Name": "Villager",
+    "Registry ID": "minecraft:villager",
+    "Class": "net.minecraft.entity.passive.EntityVillager"
+  },
+  {
+    "Name": "SandMonster",
+    "Registry ID": "ancientbeasts:sandy",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntitySandy"
+  },
+  {
+    "Name": "Ghost",
+    "Registry ID": "ancientbeasts:ghost",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityGhost"
+  },
+  {
+    "Name": "Zealot",
+    "Registry ID": "ancientbeasts:zealot",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityZealot"
+  },
+  {
+    "Name": "Vessel",
+    "Registry ID": "ancientbeasts:vessel",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityVessel"
+  },
+  {
+    "Name": "Fake_Vessel",
+    "Registry ID": "ancientbeasts:fake_vessel",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityFakeDuplicate"
+  },
+  {
+    "Name": "Frostash_fox",
+    "Registry ID": "ancientbeasts:frostash_fox",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityFrostashFox"
+  },
+  {
+    "Name": "Frost_walker",
+    "Registry ID": "ancientbeasts:frost_walker",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityFrostWalker"
+  },
+  {
+    "Name": "Giant_Zombie",
+    "Registry ID": "ancientbeasts:giant_zombie",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityGiant"
+  },
+  {
+    "Name": "Lil_Vessel",
+    "Registry ID": "ancientbeasts:lil_vessel",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityLilVessel"
+  },
+  {
+    "Name": "Damcell",
+    "Registry ID": "ancientbeasts:damcell",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityDamcell"
+  },
+  {
+    "Name": "Netherhound",
+    "Registry ID": "ancientbeasts:netherhound",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityNetherhound"
+  },
+  {
+    "Name": "Boulderer",
+    "Registry ID": "ancientbeasts:boulderer",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityBoulderer"
+  },
+  {
+    "Name": "Owlstack",
+    "Registry ID": "ancientbeasts:owlstack",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityOwlstack"
+  },
+  {
+    "Name": "Rifted_Enderman",
+    "Registry ID": "ancientbeasts:rifted_enderman",
+    "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityRiftedEnderman"
+  },
+  {
+    "Name": "wasp",
+    "Registry ID": "biomesoplenty:wasp",
+    "Class": "biomesoplenty.common.entities.EntityWasp"
+  },
+  {
+    "Name": "animania:mare_draft",
+    "Registry ID": "animania:mare_draft",
+    "Class": "com.animania.common.entities.horses.HorseDraft.EntityMareDraftHorse"
+  },
+  {
+    "Name": "animania:stallion_draft",
+    "Registry ID": "animania:stallion_draft",
+    "Class": "com.animania.common.entities.horses.HorseDraft.EntityStallionDraftHorse"
+  },
+  {
+    "Name": "animania:foal_draft",
+    "Registry ID": "animania:foal_draft",
+    "Class": "com.animania.common.entities.horses.HorseDraft.EntityFoalDraftHorse"
+  },
+  {
+    "Name": "animania:hamster",
+    "Registry ID": "animania:hamster",
+    "Class": "com.animania.common.entities.rodents.EntityHamster"
+  },
+  {
+    "Name": "animania:ferret_grey",
+    "Registry ID": "animania:ferret_grey",
+    "Class": "com.animania.common.entities.rodents.EntityFerretGrey"
+  },
+  {
+    "Name": "animania:ferret_white",
+    "Registry ID": "animania:ferret_white",
+    "Class": "com.animania.common.entities.rodents.EntityFerretWhite"
+  },
+  {
+    "Name": "animania:hedgehog",
+    "Registry ID": "animania:hedgehog",
+    "Class": "com.animania.common.entities.rodents.EntityHedgehog"
+  },
+  {
+    "Name": "animania:hedgehog_albino",
+    "Registry ID": "animania:hedgehog_albino",
+    "Class": "com.animania.common.entities.rodents.EntityHedgehogAlbino"
+  },
+  {
+    "Name": "animania:piglet_yorkshire",
+    "Registry ID": "animania:piglet_yorkshire",
+    "Class": "com.animania.common.entities.pigs.PigYorkshire.EntityPigletYorkshire"
+  },
+  {
+    "Name": "animania:sow_yorkshire",
+    "Registry ID": "animania:sow_yorkshire",
+    "Class": "com.animania.common.entities.pigs.PigYorkshire.EntitySowYorkshire"
+  },
+  {
+    "Name": "animania:hog_yorkshire",
+    "Registry ID": "animania:hog_yorkshire",
+    "Class": "com.animania.common.entities.pigs.PigYorkshire.EntityHogYorkshire"
+  },
+  {
+    "Name": "animania:piglet_old_spot",
+    "Registry ID": "animania:piglet_old_spot",
+    "Class": "com.animania.common.entities.pigs.PigOldSpot.EntityPigletOldSpot"
+  },
+  {
+    "Name": "animania:sow_old_spot",
+    "Registry ID": "animania:sow_old_spot",
+    "Class": "com.animania.common.entities.pigs.PigOldSpot.EntitySowOldSpot"
+  },
+  {
+    "Name": "animania:hog_old_spot",
+    "Registry ID": "animania:hog_old_spot",
+    "Class": "com.animania.common.entities.pigs.PigOldSpot.EntityHogOldSpot"
+  },
+  {
+    "Name": "animania:piglet_large_black",
+    "Registry ID": "animania:piglet_large_black",
+    "Class": "com.animania.common.entities.pigs.PigLargeBlack.EntityPigletLargeBlack"
+  },
+  {
+    "Name": "animania:sow_large_black",
+    "Registry ID": "animania:sow_large_black",
+    "Class": "com.animania.common.entities.pigs.PigLargeBlack.EntitySowLargeBlack"
+  },
+  {
+    "Name": "animania:hog_large_black",
+    "Registry ID": "animania:hog_large_black",
+    "Class": "com.animania.common.entities.pigs.PigLargeBlack.EntityHogLargeBlack"
+  },
+  {
+    "Name": "animania:piglet_large_white",
+    "Registry ID": "animania:piglet_large_white",
+    "Class": "com.animania.common.entities.pigs.PigLargeWhite.EntityPigletLargeWhite"
+  },
+  {
+    "Name": "animania:sow_large_white",
+    "Registry ID": "animania:sow_large_white",
+    "Class": "com.animania.common.entities.pigs.PigLargeWhite.EntitySowLargeWhite"
+  },
+  {
+    "Name": "animania:hog_large_white",
+    "Registry ID": "animania:hog_large_white",
+    "Class": "com.animania.common.entities.pigs.PigLargeWhite.EntityHogLargeWhite"
+  },
+  {
+    "Name": "animania:piglet_hampshire",
+    "Registry ID": "animania:piglet_hampshire",
+    "Class": "com.animania.common.entities.pigs.PigHampshire.EntityPigletHampshire"
+  },
+  {
+    "Name": "animania:sow_hampshire",
+    "Registry ID": "animania:sow_hampshire",
+    "Class": "com.animania.common.entities.pigs.PigHampshire.EntitySowHampshire"
+  },
+  {
+    "Name": "animania:hog_hampshire",
+    "Registry ID": "animania:hog_hampshire",
+    "Class": "com.animania.common.entities.pigs.PigHampshire.EntityHogHampshire"
+  },
+  {
+    "Name": "animania:piglet_duroc",
+    "Registry ID": "animania:piglet_duroc",
+    "Class": "com.animania.common.entities.pigs.PigDuroc.EntityPigletDuroc"
+  },
+  {
+    "Name": "animania:sow_duroc",
+    "Registry ID": "animania:sow_duroc",
+    "Class": "com.animania.common.entities.pigs.PigDuroc.EntitySowDuroc"
+  },
+  {
+    "Name": "animania:hog_duroc",
+    "Registry ID": "animania:hog_duroc",
+    "Class": "com.animania.common.entities.pigs.PigDuroc.EntityHogDuroc"
+  },
+  {
+    "Name": "animania:chick_leghorn",
+    "Registry ID": "animania:chick_leghorn",
+    "Class": "com.animania.common.entities.chickens.ChickenLeghorn.EntityChickLeghorn"
+  },
+  {
+    "Name": "animania:hen_leghorn",
+    "Registry ID": "animania:hen_leghorn",
+    "Class": "com.animania.common.entities.chickens.ChickenLeghorn.EntityHenLeghorn"
+  },
+  {
+    "Name": "animania:rooster_leghorn",
+    "Registry ID": "animania:rooster_leghorn",
+    "Class": "com.animania.common.entities.chickens.ChickenLeghorn.EntityRoosterLeghorn"
+  },
+  {
+    "Name": "animania:chick_orpington",
+    "Registry ID": "animania:chick_orpington",
+    "Class": "com.animania.common.entities.chickens.ChickenOrpington.EntityChickOrpington"
+  },
+  {
+    "Name": "animania:hen_orpington",
+    "Registry ID": "animania:hen_orpington",
+    "Class": "com.animania.common.entities.chickens.ChickenOrpington.EntityHenOrpington"
+  },
+  {
+    "Name": "animania:rooster_orpington",
+    "Registry ID": "animania:rooster_orpington",
+    "Class": "com.animania.common.entities.chickens.ChickenOrpington.EntityRoosterOrpington"
+  },
+  {
+    "Name": "animania:chick_plymouth_rock",
+    "Registry ID": "animania:chick_plymouth_rock",
+    "Class": "com.animania.common.entities.chickens.ChickenPlymouthRock.EntityChickPlymouthRock"
+  },
+  {
+    "Name": "animania:hen_plymouth_rock",
+    "Registry ID": "animania:hen_plymouth_rock",
+    "Class": "com.animania.common.entities.chickens.ChickenPlymouthRock.EntityHenPlymouthRock"
+  },
+  {
+    "Name": "animania:rooster_plymouth_rock",
+    "Registry ID": "animania:rooster_plymouth_rock",
+    "Class": "com.animania.common.entities.chickens.ChickenPlymouthRock.EntityRoosterPlymouthRock"
+  },
+  {
+    "Name": "animania:chick_rhode_island_red",
+    "Registry ID": "animania:chick_rhode_island_red",
+    "Class": "com.animania.common.entities.chickens.ChickenRhodeIslandRed.EntityChickRhodeIslandRed"
+  },
+  {
+    "Name": "animania:hen_rhode_island_red",
+    "Registry ID": "animania:hen_rhode_island_red",
+    "Class": "com.animania.common.entities.chickens.ChickenRhodeIslandRed.EntityHenRhodeIslandRed"
+  },
+  {
+    "Name": "animania:rooster_rhode_island_red",
+    "Registry ID": "animania:rooster_rhode_island_red",
+    "Class": "com.animania.common.entities.chickens.ChickenRhodeIslandRed.EntityRoosterRhodeIslandRed"
+  },
+  {
+    "Name": "animania:chick_wyandotte",
+    "Registry ID": "animania:chick_wyandotte",
+    "Class": "com.animania.common.entities.chickens.ChickenWyandotte.EntityChickWyandotte"
+  },
+  {
+    "Name": "animania:hen_wyandotte",
+    "Registry ID": "animania:hen_wyandotte",
+    "Class": "com.animania.common.entities.chickens.ChickenWyandotte.EntityHenWyandotte"
+  },
+  {
+    "Name": "animania:rooster_wyandotte",
+    "Registry ID": "animania:rooster_wyandotte",
+    "Class": "com.animania.common.entities.chickens.ChickenWyandotte.EntityRoosterWyandotte"
+  },
+  {
+    "Name": "animania:calf_angus",
+    "Registry ID": "animania:calf_angus",
+    "Class": "com.animania.common.entities.cows.CowAngus.EntityCalfAngus"
+  },
+  {
+    "Name": "animania:cow_angus",
+    "Registry ID": "animania:cow_angus",
+    "Class": "com.animania.common.entities.cows.CowAngus.EntityCowAngus"
+  },
+  {
+    "Name": "animania:bull_angus",
+    "Registry ID": "animania:bull_angus",
+    "Class": "com.animania.common.entities.cows.CowAngus.EntityBullAngus"
+  },
+  {
+    "Name": "animania:calf_friesian",
+    "Registry ID": "animania:calf_friesian",
+    "Class": "com.animania.common.entities.cows.CowFriesian.EntityCalfFriesian"
+  },
+  {
+    "Name": "animania:cow_friesian",
+    "Registry ID": "animania:cow_friesian",
+    "Class": "com.animania.common.entities.cows.CowFriesian.EntityCowFriesian"
+  },
+  {
+    "Name": "animania:bull_friesian",
+    "Registry ID": "animania:bull_friesian",
+    "Class": "com.animania.common.entities.cows.CowFriesian.EntityBullFriesian"
+  },
+  {
+    "Name": "animania:calf_hereford",
+    "Registry ID": "animania:calf_hereford",
+    "Class": "com.animania.common.entities.cows.CowHereford.EntityCalfHereford"
+  },
+  {
+    "Name": "animania:cow_hereford",
+    "Registry ID": "animania:cow_hereford",
+    "Class": "com.animania.common.entities.cows.CowHereford.EntityCowHereford"
+  },
+  {
+    "Name": "animania:bull_hereford",
+    "Registry ID": "animania:bull_hereford",
+    "Class": "com.animania.common.entities.cows.CowHereford.EntityBullHereford"
+  },
+  {
+    "Name": "animania:calf_holstein",
+    "Registry ID": "animania:calf_holstein",
+    "Class": "com.animania.common.entities.cows.CowHolstein.EntityCalfHolstein"
+  },
+  {
+    "Name": "animania:cow_holstein",
+    "Registry ID": "animania:cow_holstein",
+    "Class": "com.animania.common.entities.cows.CowHolstein.EntityCowHolstein"
+  },
+  {
+    "Name": "animania:bull_holstein",
+    "Registry ID": "animania:bull_holstein",
+    "Class": "com.animania.common.entities.cows.CowHolstein.EntityBullHolstein"
+  },
+  {
+    "Name": "animania:calf_longhorn",
+    "Registry ID": "animania:calf_longhorn",
+    "Class": "com.animania.common.entities.cows.CowLonghorn.EntityCalfLonghorn"
+  },
+  {
+    "Name": "animania:cow_longhorn",
+    "Registry ID": "animania:cow_longhorn",
+    "Class": "com.animania.common.entities.cows.CowLonghorn.EntityCowLonghorn"
+  },
+  {
+    "Name": "animania:bull_longhorn",
+    "Registry ID": "animania:bull_longhorn",
+    "Class": "com.animania.common.entities.cows.CowLonghorn.EntityBullLonghorn"
+  },
+  {
+    "Name": "animania:calf_highland",
+    "Registry ID": "animania:calf_highland",
+    "Class": "com.animania.common.entities.cows.CowHighland.EntityCalfHighland"
+  },
+  {
+    "Name": "animania:cow_highland",
+    "Registry ID": "animania:cow_highland",
+    "Class": "com.animania.common.entities.cows.CowHighland.EntityCowHighland"
+  },
+  {
+    "Name": "animania:bull_highland",
+    "Registry ID": "animania:bull_highland",
+    "Class": "com.animania.common.entities.cows.CowHighland.EntityBullHighland"
+  },
+  {
+    "Name": "animania:calf_jersey",
+    "Registry ID": "animania:calf_jersey",
+    "Class": "com.animania.common.entities.cows.CowJersey.EntityCalfJersey"
+  },
+  {
+    "Name": "animania:cow_jersey",
+    "Registry ID": "animania:cow_jersey",
+    "Class": "com.animania.common.entities.cows.CowJersey.EntityCowJersey"
+  },
+  {
+    "Name": "animania:bull_jersey",
+    "Registry ID": "animania:bull_jersey",
+    "Class": "com.animania.common.entities.cows.CowJersey.EntityBullJersey"
+  },
+  {
+    "Name": "animania:calf_mooshroom",
+    "Registry ID": "animania:calf_mooshroom",
+    "Class": "com.animania.common.entities.cows.CowMooshroom.EntityCalfMooshroom"
+  },
+  {
+    "Name": "animania:cow_mooshroom",
+    "Registry ID": "animania:cow_mooshroom",
+    "Class": "com.animania.common.entities.cows.CowMooshroom.EntityCowMooshroom"
+  },
+  {
+    "Name": "animania:bull_mooshroom",
+    "Registry ID": "animania:bull_mooshroom",
+    "Class": "com.animania.common.entities.cows.CowMooshroom.EntityBullMooshroom"
+  },
+  {
+    "Name": "animania:toad",
+    "Registry ID": "animania:toad",
+    "Class": "com.animania.common.entities.amphibians.EntityToad"
+  },
+  {
+    "Name": "animania:frog",
+    "Registry ID": "animania:frog",
+    "Class": "com.animania.common.entities.amphibians.EntityFrogs"
+  },
+  {
+    "Name": "animania:dartfrog",
+    "Registry ID": "animania:dartfrog",
+    "Class": "com.animania.common.entities.amphibians.EntityDartFrogs"
+  },
+  {
+    "Name": "animania:kid_alpine",
+    "Registry ID": "animania:kid_alpine",
+    "Class": "com.animania.common.entities.goats.GoatAlpine.EntityKidAlpine"
+  },
+  {
+    "Name": "animania:buck_alpine",
+    "Registry ID": "animania:buck_alpine",
+    "Class": "com.animania.common.entities.goats.GoatAlpine.EntityBuckAlpine"
+  },
+  {
+    "Name": "animania:doe_alpine",
+    "Registry ID": "animania:doe_alpine",
+    "Class": "com.animania.common.entities.goats.GoatAlpine.EntityDoeAlpine"
+  },
+  {
+    "Name": "animania:kid_angora",
+    "Registry ID": "animania:kid_angora",
+    "Class": "com.animania.common.entities.goats.GoatAngora.EntityKidAngora"
+  },
+  {
+    "Name": "animania:buck_angora",
+    "Registry ID": "animania:buck_angora",
+    "Class": "com.animania.common.entities.goats.GoatAngora.EntityBuckAngora"
+  },
+  {
+    "Name": "animania:doe_angora",
+    "Registry ID": "animania:doe_angora",
+    "Class": "com.animania.common.entities.goats.GoatAngora.EntityDoeAngora"
+  },
+  {
+    "Name": "animania:kid_fainting",
+    "Registry ID": "animania:kid_fainting",
+    "Class": "com.animania.common.entities.goats.GoatFainting.EntityKidFainting"
+  },
+  {
+    "Name": "animania:buck_fainting",
+    "Registry ID": "animania:buck_fainting",
+    "Class": "com.animania.common.entities.goats.GoatFainting.EntityBuckFainting"
+  },
+  {
+    "Name": "animania:doe_fainting",
+    "Registry ID": "animania:doe_fainting",
+    "Class": "com.animania.common.entities.goats.GoatFainting.EntityDoeFainting"
+  },
+  {
+    "Name": "animania:kid_kiko",
+    "Registry ID": "animania:kid_kiko",
+    "Class": "com.animania.common.entities.goats.GoatKiko.EntityKidKiko"
+  },
+  {
+    "Name": "animania:buck_kiko",
+    "Registry ID": "animania:buck_kiko",
+    "Class": "com.animania.common.entities.goats.GoatKiko.EntityBuckKiko"
+  },
+  {
+    "Name": "animania:doe_kiko",
+    "Registry ID": "animania:doe_kiko",
+    "Class": "com.animania.common.entities.goats.GoatKiko.EntityDoeKiko"
+  },
+  {
+    "Name": "animania:kid_kinder",
+    "Registry ID": "animania:kid_kinder",
+    "Class": "com.animania.common.entities.goats.GoatKinder.EntityKidKinder"
+  },
+  {
+    "Name": "animania:buck_kinder",
+    "Registry ID": "animania:buck_kinder",
+    "Class": "com.animania.common.entities.goats.GoatKinder.EntityBuckKinder"
+  },
+  {
+    "Name": "animania:doe_kinder",
+    "Registry ID": "animania:doe_kinder",
+    "Class": "com.animania.common.entities.goats.GoatKinder.EntityDoeKinder"
+  },
+  {
+    "Name": "animania:kid_nigerian_dwarf",
+    "Registry ID": "animania:kid_nigerian_dwarf",
+    "Class": "com.animania.common.entities.goats.GoatNigerianDwarf.EntityKidNigerianDwarf"
+  },
+  {
+    "Name": "animania:buck_nigerian_dwarf",
+    "Registry ID": "animania:buck_nigerian_dwarf",
+    "Class": "com.animania.common.entities.goats.GoatNigerianDwarf.EntityBuckNigerianDwarf"
+  },
+  {
+    "Name": "animania:doe_nigerian_dwarf",
+    "Registry ID": "animania:doe_nigerian_dwarf",
+    "Class": "com.animania.common.entities.goats.GoatNigerianDwarf.EntityDoeNigerianDwarf"
+  },
+  {
+    "Name": "animania:kid_pygmy",
+    "Registry ID": "animania:kid_pygmy",
+    "Class": "com.animania.common.entities.goats.GoatPygmy.EntityKidPygmy"
+  },
+  {
+    "Name": "animania:buck_pygmy",
+    "Registry ID": "animania:buck_pygmy",
+    "Class": "com.animania.common.entities.goats.GoatPygmy.EntityBuckPygmy"
+  },
+  {
+    "Name": "animania:doe_pygmy",
+    "Registry ID": "animania:doe_pygmy",
+    "Class": "com.animania.common.entities.goats.GoatPygmy.EntityDoePygmy"
+  },
+  {
+    "Name": "animania:lamb_friesian",
+    "Registry ID": "animania:lamb_friesian",
+    "Class": "com.animania.common.entities.sheep.SheepFriesian.EntityLambFriesian"
+  },
+  {
+    "Name": "animania:ewe_friesian",
+    "Registry ID": "animania:ewe_friesian",
+    "Class": "com.animania.common.entities.sheep.SheepFriesian.EntityEweFriesian"
+  },
+  {
+    "Name": "animania:ram_friesian",
+    "Registry ID": "animania:ram_friesian",
+    "Class": "com.animania.common.entities.sheep.SheepFriesian.EntityRamFriesian"
+  },
+  {
+    "Name": "animania:lamb_suffolk",
+    "Registry ID": "animania:lamb_suffolk",
+    "Class": "com.animania.common.entities.sheep.SheepSuffolk.EntityLambSuffolk"
+  },
+  {
+    "Name": "animania:ewe_suffolk",
+    "Registry ID": "animania:ewe_suffolk",
+    "Class": "com.animania.common.entities.sheep.SheepSuffolk.EntityEweSuffolk"
+  },
+  {
+    "Name": "animania:ram_suffolk",
+    "Registry ID": "animania:ram_suffolk",
+    "Class": "com.animania.common.entities.sheep.SheepSuffolk.EntityRamSuffolk"
+  },
+  {
+    "Name": "animania:lamb_dorper",
+    "Registry ID": "animania:lamb_dorper",
+    "Class": "com.animania.common.entities.sheep.SheepDorper.EntityLambDorper"
+  },
+  {
+    "Name": "animania:ewe_dorper",
+    "Registry ID": "animania:ewe_dorper",
+    "Class": "com.animania.common.entities.sheep.SheepDorper.EntityEweDorper"
+  },
+  {
+    "Name": "animania:ram_dorper",
+    "Registry ID": "animania:ram_dorper",
+    "Class": "com.animania.common.entities.sheep.SheepDorper.EntityRamDorper"
+  },
+  {
+    "Name": "animania:lamb_dorset",
+    "Registry ID": "animania:lamb_dorset",
+    "Class": "com.animania.common.entities.sheep.SheepDorset.EntityLambDorset"
+  },
+  {
+    "Name": "animania:ewe_dorset",
+    "Registry ID": "animania:ewe_dorset",
+    "Class": "com.animania.common.entities.sheep.SheepDorset.EntityEweDorset"
+  },
+  {
+    "Name": "animania:ram_dorset",
+    "Registry ID": "animania:ram_dorset",
+    "Class": "com.animania.common.entities.sheep.SheepDorset.EntityRamDorset"
+  },
+  {
+    "Name": "animania:lamb_merino",
+    "Registry ID": "animania:lamb_merino",
+    "Class": "com.animania.common.entities.sheep.SheepMerino.EntityLambMerino"
+  },
+  {
+    "Name": "animania:ewe_merino",
+    "Registry ID": "animania:ewe_merino",
+    "Class": "com.animania.common.entities.sheep.SheepMerino.EntityEweMerino"
+  },
+  {
+    "Name": "animania:ram_merino",
+    "Registry ID": "animania:ram_merino",
+    "Class": "com.animania.common.entities.sheep.SheepMerino.EntityRamMerino"
+  },
+  {
+    "Name": "animania:lamb_jacob",
+    "Registry ID": "animania:lamb_jacob",
+    "Class": "com.animania.common.entities.sheep.SheepJacob.EntityLambJacob"
+  },
+  {
+    "Name": "animania:ewe_jacob",
+    "Registry ID": "animania:ewe_jacob",
+    "Class": "com.animania.common.entities.sheep.SheepJacob.EntityEweJacob"
+  },
+  {
+    "Name": "animania:ram_jacob",
+    "Registry ID": "animania:ram_jacob",
+    "Class": "com.animania.common.entities.sheep.SheepJacob.EntityRamJacob"
+  },
+  {
+    "Name": "animania:buck_cottontail",
+    "Registry ID": "animania:buck_cottontail",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitCottonail.EntityRabbitBuckCottontail"
+  },
+  {
+    "Name": "animania:doe_cottontail",
+    "Registry ID": "animania:doe_cottontail",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitCottonail.EntityRabbitDoeCottontail"
+  },
+  {
+    "Name": "animania:kit_cottontail",
+    "Registry ID": "animania:kit_cottontail",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitCottonail.EntityRabbitKitCottontail"
+  },
+  {
+    "Name": "animania:buck_chinchilla",
+    "Registry ID": "animania:buck_chinchilla",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitChinchilla.EntityRabbitBuckChinchilla"
+  },
+  {
+    "Name": "animania:doe_chinchilla",
+    "Registry ID": "animania:doe_chinchilla",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitChinchilla.EntityRabbitDoeChinchilla"
+  },
+  {
+    "Name": "animania:kit_chinchilla",
+    "Registry ID": "animania:kit_chinchilla",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitChinchilla.EntityRabbitKitChinchilla"
+  },
+  {
+    "Name": "animania:buck_dutch",
+    "Registry ID": "animania:buck_dutch",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitDutch.EntityRabbitBuckDutch"
+  },
+  {
+    "Name": "animania:doe_dutch",
+    "Registry ID": "animania:doe_dutch",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitDutch.EntityRabbitDoeDutch"
+  },
+  {
+    "Name": "animania:kit_dutch",
+    "Registry ID": "animania:kit_dutch",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitDutch.EntityRabbitKitDutch"
+  },
+  {
+    "Name": "animania:buck_havana",
+    "Registry ID": "animania:buck_havana",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitHavana.EntityRabbitBuckHavana"
+  },
+  {
+    "Name": "animania:doe_havana",
+    "Registry ID": "animania:doe_havana",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitHavana.EntityRabbitDoeHavana"
+  },
+  {
+    "Name": "animania:kit_havana",
+    "Registry ID": "animania:kit_havana",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitHavana.EntityRabbitKitHavana"
+  },
+  {
+    "Name": "animania:buck_jack",
+    "Registry ID": "animania:buck_jack",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitJack.EntityRabbitBuckJack"
+  },
+  {
+    "Name": "animania:doe_jack",
+    "Registry ID": "animania:doe_jack",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitJack.EntityRabbitDoeJack"
+  },
+  {
+    "Name": "animania:kit_jack",
+    "Registry ID": "animania:kit_jack",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitJack.EntityRabbitKitJack"
+  },
+  {
+    "Name": "animania:buck_new_zealand",
+    "Registry ID": "animania:buck_new_zealand",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitNewZealand.EntityRabbitBuckNewZealand"
+  },
+  {
+    "Name": "animania:doe_new_zealand",
+    "Registry ID": "animania:doe_new_zealand",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitNewZealand.EntityRabbitDoeNewZealand"
+  },
+  {
+    "Name": "animania:kit_new_zealand",
+    "Registry ID": "animania:kit_new_zealand",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitNewZealand.EntityRabbitKitNewZealand"
+  },
+  {
+    "Name": "animania:buck_rex",
+    "Registry ID": "animania:buck_rex",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitRex.EntityRabbitBuckRex"
+  },
+  {
+    "Name": "animania:doe_rex",
+    "Registry ID": "animania:doe_rex",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitRex.EntityRabbitDoeRex"
+  },
+  {
+    "Name": "animania:kit_rex",
+    "Registry ID": "animania:kit_rex",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitRex.EntityRabbitKitRex"
+  },
+  {
+    "Name": "animania:buck_lop",
+    "Registry ID": "animania:buck_lop",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitLop.EntityRabbitBuckLop"
+  },
+  {
+    "Name": "animania:doe_lop",
+    "Registry ID": "animania:doe_lop",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitLop.EntityRabbitDoeLop"
+  },
+  {
+    "Name": "animania:kit_lop",
+    "Registry ID": "animania:kit_lop",
+    "Class": "com.animania.common.entities.rodents.rabbits.RabbitLop.EntityRabbitKitLop"
+  },
+  {
+    "Name": "animania:peachick_charcoal",
+    "Registry ID": "animania:peachick_charcoal",
+    "Class": "com.animania.common.entities.peacocks.PeafowlCharcoal.EntityPeachickCharcoal"
+  },
+  {
+    "Name": "animania:peahen_charcoal",
+    "Registry ID": "animania:peahen_charcoal",
+    "Class": "com.animania.common.entities.peacocks.PeafowlCharcoal.EntityPeafowlCharcoal"
+  },
+  {
+    "Name": "animania:peacock_charcoal",
+    "Registry ID": "animania:peacock_charcoal",
+    "Class": "com.animania.common.entities.peacocks.PeafowlCharcoal.EntityPeacockCharcoal"
+  },
+  {
+    "Name": "animania:peachick_opal",
+    "Registry ID": "animania:peachick_opal",
+    "Class": "com.animania.common.entities.peacocks.PeafowlOpal.EntityPeachickOpal"
+  },
+  {
+    "Name": "animania:peahen_opal",
+    "Registry ID": "animania:peahen_opal",
+    "Class": "com.animania.common.entities.peacocks.PeafowlOpal.EntityPeafowlOpal"
+  },
+  {
+    "Name": "animania:peacock_opal",
+    "Registry ID": "animania:peacock_opal",
+    "Class": "com.animania.common.entities.peacocks.PeafowlOpal.EntityPeacockOpal"
+  },
+  {
+    "Name": "animania:peachick_peach",
+    "Registry ID": "animania:peachick_peach",
+    "Class": "com.animania.common.entities.peacocks.PeafowlPeach.EntityPeachickPeach"
+  },
+  {
+    "Name": "animania:peahen_peach",
+    "Registry ID": "animania:peahen_peach",
+    "Class": "com.animania.common.entities.peacocks.PeafowlPeach.EntityPeafowlPeach"
+  },
+  {
+    "Name": "animania:peacock_peach",
+    "Registry ID": "animania:peacock_peach",
+    "Class": "com.animania.common.entities.peacocks.PeafowlPeach.EntityPeacockPeach"
+  },
+  {
+    "Name": "animania:peachick_purple",
+    "Registry ID": "animania:peachick_purple",
+    "Class": "com.animania.common.entities.peacocks.PeafowlPurple.EntityPeachickPurple"
+  },
+  {
+    "Name": "animania:peahen_purple",
+    "Registry ID": "animania:peahen_purple",
+    "Class": "com.animania.common.entities.peacocks.PeafowlPurple.EntityPeafowlPurple"
+  },
+  {
+    "Name": "animania:peacock_purple",
+    "Registry ID": "animania:peacock_purple",
+    "Class": "com.animania.common.entities.peacocks.PeafowlPurple.EntityPeacockPurple"
+  },
+  {
+    "Name": "animania:peachick_taupe",
+    "Registry ID": "animania:peachick_taupe",
+    "Class": "com.animania.common.entities.peacocks.PeafowlTaupe.EntityPeachickTaupe"
+  },
+  {
+    "Name": "animania:peahen_taupe",
+    "Registry ID": "animania:peahen_taupe",
+    "Class": "com.animania.common.entities.peacocks.PeafowlTaupe.EntityPeafowlTaupe"
+  },
+  {
+    "Name": "animania:peacock_taupe",
+    "Registry ID": "animania:peacock_taupe",
+    "Class": "com.animania.common.entities.peacocks.PeafowlTaupe.EntityPeacockTaupe"
+  },
+  {
+    "Name": "animania:peachick_blue",
+    "Registry ID": "animania:peachick_blue",
+    "Class": "com.animania.common.entities.peacocks.PeafowlBlue.EntityPeachickBlue"
+  },
+  {
+    "Name": "animania:peahen_blue",
+    "Registry ID": "animania:peahen_blue",
+    "Class": "com.animania.common.entities.peacocks.PeafowlBlue.EntityPeafowlBlue"
+  },
+  {
+    "Name": "animania:peacock_blue",
+    "Registry ID": "animania:peacock_blue",
+    "Class": "com.animania.common.entities.peacocks.PeafowlBlue.EntityPeacockBlue"
+  },
+  {
+    "Name": "animania:peachick_white",
+    "Registry ID": "animania:peachick_white",
+    "Class": "com.animania.common.entities.peacocks.PeafowlWhite.EntityPeachickWhite"
+  },
+  {
+    "Name": "animania:peahen_white",
+    "Registry ID": "animania:peahen_white",
+    "Class": "com.animania.common.entities.peacocks.PeafowlWhite.EntityPeafowlWhite"
+  },
+  {
+    "Name": "animania:peacock_white",
+    "Registry ID": "animania:peacock_white",
+    "Class": "com.animania.common.entities.peacocks.PeafowlWhite.EntityPeacockWhite"
+  },
+  {
+    "Name": "entity_sheared_creeper",
+    "Registry ID": "betterwithmods:entity_sheared_creeper",
+    "Class": "betterwithmods.common.entity.EntityShearedCreeper"
+  },
+  {
+    "Name": "bwm_jungle_spider",
+    "Registry ID": "betterwithmods:bwm_jungle_spider",
+    "Class": "betterwithmods.common.entity.EntityJungleSpider"
+  },
+  {
+    "Name": "artifacts.mimic",
+    "Registry ID": "artifacts:mimic",
+    "Class": "artifacts.common.entity.EntityMimic"
+  },
+  {
+    "Name": "EntityFlare",
+    "Registry ID": "astralsorcery:entityflare",
+    "Class": "hellfirepvp.astralsorcery.common.entities.EntityFlare"
+  },
+  {
+    "Name": "EntitySpectralTool",
+    "Registry ID": "astralsorcery:entityspectraltool",
+    "Class": "hellfirepvp.astralsorcery.common.entities.EntitySpectralTool"
+  },
+  {
+    "Name": "EntityLiquidSpark",
+    "Registry ID": "astralsorcery:entityliquidspark",
+    "Class": "hellfirepvp.astralsorcery.common.entities.EntityLiquidSpark"
+  },
+  {
+    "Name": "quark:stoneling",
+    "Registry ID": "quark:stoneling",
+    "Class": "vazkii.quark.world.entity.EntityStoneling"
+  },
+  {
+    "Name": "quark:archaeologist",
+    "Registry ID": "quark:archaeologist",
+    "Class": "vazkii.quark.world.entity.EntityArchaeologist"
+  },
+  {
+    "Name": "quark:foxhound",
+    "Registry ID": "quark:foxhound",
+    "Class": "vazkii.quark.world.entity.EntityFoxhound"
+  },
+  {
+    "Name": "quark:dweller",
+    "Registry ID": "quark:dweller",
+    "Class": "vazkii.quark.world.entity.EntityDweller"
+  },
+  {
+    "Name": "quark:ashen",
+    "Registry ID": "quark:ashen",
+    "Class": "vazkii.quark.world.entity.EntityAshen"
+  },
+  {
+    "Name": "quark:pirate",
+    "Registry ID": "quark:pirate",
+    "Class": "vazkii.quark.world.entity.EntityPirate"
+  },
+  {
+    "Name": "quark:crab",
+    "Registry ID": "quark:crab",
+    "Class": "vazkii.quark.world.entity.EntityCrab"
+  },
+  {
+    "Name": "quark:wraith",
+    "Registry ID": "quark:wraith",
+    "Class": "vazkii.quark.world.entity.EntityWraith"
+  },
+  {
+    "Name": "quark:leash_knot",
+    "Registry ID": "quark:leash_knot",
+    "Class": "vazkii.quark.decoration.entity.EntityLeashKnot2TheKnotting"
+  },
+  {
+    "Name": "karate_zombie",
+    "Registry ID": "betterwithaddons:karate_zombie",
+    "Class": "betterwithaddons.entity.EntityKarateZombie"
+  },
+  {
+    "Name": "firefly",
+    "Registry ID": "betternether:firefly",
+    "Class": "paulevs.betternether.entities.EntityFirefly"
+  },
+  {
+    "Name": "doggytalents.dog",
+    "Registry ID": "doggytalents:dog",
+    "Class": "doggytalents.entity.EntityDog"
+  },
+  {
+    "Name": "dungeontactics:towerguardian",
+    "Registry ID": "dungeontactics:towerguardian",
+    "Class": "pegbeard.dungeontactics.entities.DTEntityTowerGuardian"
+  },
+  {
+    "Name": "dungeontactics:bone_wolf",
+    "Registry ID": "dungeontactics:bone_wolf",
+    "Class": "pegbeard.dungeontactics.entities.DTEntityCompanion"
+  },
+  {
+    "Name": "dungeontactics:attacken",
+    "Registry ID": "dungeontactics:attacken",
+    "Class": "pegbeard.dungeontactics.entities.DTEntityCucco"
+  },
+  {
+    "Name": "endguard",
+    "Registry ID": "endreborn:endguard",
+    "Class": "endreborn.mod.entity.EntityEGuard"
+  },
+  {
+    "Name": "watcher",
+    "Registry ID": "endreborn:watcher",
+    "Class": "endreborn.mod.entity.EntityWatcher"
+  },
+  {
+    "Name": "endlord",
+    "Registry ID": "endreborn:endlord",
+    "Class": "endreborn.mod.entity.EntityLord"
+  },
+  {
+    "Name": "chronologist",
+    "Registry ID": "endreborn:chronologist",
+    "Class": "endreborn.mod.entity.EntityChronologist"
+  },
+  {
+    "Name": "panda",
+    "Registry ID": "minecraftfuture:panda",
+    "Class": "thedarkcolour.futuremc.entity.panda.EntityPanda"
+  },
+  {
+    "Name": "bee",
+    "Registry ID": "minecraftfuture:bee",
+    "Class": "thedarkcolour.futuremc.entity.bee.EntityBee"
+  },
+  {
+    "Name": "grue.EntityGrue",
+    "Registry ID": "grue:entitygrue",
+    "Class": "com.shinoow.grue.common.entity.EntityGrue"
+  },
+  {
+    "Name": "thaumadditions.chester",
+    "Registry ID": "thaumadditions:chester",
+    "Class": "com.zeitheron.thaumicadditions.entity.EntityChester"
+  },
+  {
+    "Name": "thaumadditions.blue_wolf",
+    "Registry ID": "thaumadditions:blue_wolf",
+    "Class": "com.zeitheron.thaumicadditions.entity.EntityBlueWolf"
+  },
+  {
+    "Name": "magma_monster",
+    "Registry ID": "magma_monsters:magma_monster",
+    "Class": "magma_monsters.entities.EntityMagmaMonster"
+  },
+  {
+    "Name": "magma_monster_grunt",
+    "Registry ID": "magma_monsters:magma_monster_grunt",
+    "Class": "magma_monsters.entities.EntityMagmaMonsterGrunt"
+  },
+  {
+    "Name": "Dummy",
+    "Registry ID": "testdummy:dummy",
+    "Class": "boni.dummy.EntityDummy"
+  },
+  {
+    "Name": "multimob.dummy",
+    "Registry ID": "multimob:dummy",
+    "Class": "net.daveyx0.multimob.entity.EntityDummy"
+  },
+  {
+    "Name": "openblocks.luggage",
+    "Registry ID": "openblocks:luggage",
+    "Class": "openblocks.common.entity.EntityLuggage"
+  },
+  {
+    "Name": "openblocks.mini_me",
+    "Registry ID": "openblocks:mini_me",
+    "Class": "openblocks.common.entity.EntityMiniMe"
+  },
+  {
+    "Name": "primitivemobs.chameleon",
+    "Registry ID": "primitivemobs:chameleon",
+    "Class": "net.daveyx0.primitivemobs.entity.passive.EntityChameleon"
+  },
+  {
+    "Name": "primitivemobs.treasure_slime",
+    "Registry ID": "primitivemobs:treasure_slime",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime"
+  },
+  {
+    "Name": "primitivemobs.haunted_tool",
+    "Registry ID": "primitivemobs:haunted_tool",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityHauntedTool"
+  },
+  {
+    "Name": "primitivemobs.grovesprite",
+    "Registry ID": "primitivemobs:grovesprite",
+    "Class": "net.daveyx0.primitivemobs.entity.passive.EntityGroveSprite"
+  },
+  {
+    "Name": "primitivemobs.bewitched_tome",
+    "Registry ID": "primitivemobs:bewitched_tome",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook"
+  },
+  {
+    "Name": "primitivemobs.filch_lizard",
+    "Registry ID": "primitivemobs:filch_lizard",
+    "Class": "net.daveyx0.primitivemobs.entity.passive.EntityFilchLizard"
+  },
+  {
+    "Name": "primitivemobs.brain_slime",
+    "Registry ID": "primitivemobs:brain_slime",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityBrainSlime"
+  },
+  {
+    "Name": "primitivemobs.rocket_creeper",
+    "Registry ID": "primitivemobs:rocket_creeper",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper"
+  },
+  {
+    "Name": "primitivemobs.festive_creeper",
+    "Registry ID": "primitivemobs:festive_creeper",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper"
+  },
+  {
+    "Name": "primitivemobs.support_creeper",
+    "Registry ID": "primitivemobs:support_creeper",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntitySupportCreeper"
+  },
+  {
+    "Name": "primitivemobs.skeleton_warrior",
+    "Registry ID": "primitivemobs:skeleton_warrior",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntitySkeletonWarrior"
+  },
+  {
+    "Name": "primitivemobs.blazing_juggernaut",
+    "Registry ID": "primitivemobs:blazing_juggernaut",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityBlazingJuggernaut"
+  },
+  {
+    "Name": "primitivemobs.lily_lurker",
+    "Registry ID": "primitivemobs:lily_lurker",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityLilyLurker"
+  },
+  {
+    "Name": "primitivemobs.mother_spider",
+    "Registry ID": "primitivemobs:mother_spider",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityMotherSpider"
+  },
+  {
+    "Name": "primitivemobs.baby_spider",
+    "Registry ID": "primitivemobs:baby_spider",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityBabySpider"
+  },
+  {
+    "Name": "primitivemobs.trollager",
+    "Registry ID": "primitivemobs:trollager",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityTrollager"
+  },
+  {
+    "Name": "primitivemobs.lost_miner",
+    "Registry ID": "primitivemobs:lost_miner",
+    "Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner"
+  },
+  {
+    "Name": "primitivemobs.traveling_merchant",
+    "Registry ID": "primitivemobs:traveling_merchant",
+    "Class": "net.daveyx0.primitivemobs.entity.passive.EntityTravelingMerchant"
+  },
+  {
+    "Name": "primitivemobs.dodo",
+    "Registry ID": "primitivemobs:dodo",
+    "Class": "net.daveyx0.primitivemobs.entity.passive.EntityDodo"
+  },
+  {
+    "Name": "primitivemobs.mimic",
+    "Registry ID": "primitivemobs:mimic",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityMimic"
+  },
+  {
+    "Name": "primitivemobs.sheepman",
+    "Registry ID": "primitivemobs:sheepman",
+    "Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepman"
+  },
+  {
+    "Name": "primitivemobs.goblin",
+    "Registry ID": "primitivemobs:goblin",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityGoblin"
+  },
+  {
+    "Name": "primitivemobs.harpy",
+    "Registry ID": "primitivemobs:harpy",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityHarpy"
+  },
+  {
+    "Name": "primitivemobs.flame_spewer",
+    "Registry ID": "primitivemobs:flame_spewer",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityFlameSpewer"
+  },
+  {
+    "Name": "primitivemobs.void_eye",
+    "Registry ID": "primitivemobs:void_eye",
+    "Class": "net.daveyx0.primitivemobs.entity.monster.EntityVoidEye"
+  },
+  {
+    "Name": "bosszombie",
+    "Registry ID": "roughmobsrevamped:bosszombie",
+    "Class": "com.p1ut0nium.roughmobsrevamped.entities.BossZombie"
+  },
+  {
+    "Name": "bossskeleton",
+    "Registry ID": "roughmobsrevamped:bossskeleton",
+    "Class": "com.p1ut0nium.roughmobsrevamped.entities.BossSkeleton"
+  },
+  {
+    "Name": "hostilebat",
+    "Registry ID": "roughmobsrevamped:hostilebat",
+    "Class": "com.p1ut0nium.roughmobsrevamped.entities.EntityHostileBat"
+  },
+  {
+    "Name": "beneath.shadow",
+    "Registry ID": "beneath:shadow",
+    "Class": "com.shinoow.beneath.common.entity.EntityShadow"
+  },
+  {
+    "Name": "aw_npc_combat",
+    "Registry ID": "ancientwarfarenpc:aw_npc_combat",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.NpcCombat"
+  },
+  {
+    "Name": "aw_npc_worker",
+    "Registry ID": "ancientwarfarenpc:aw_npc_worker",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.NpcWorker"
+  },
+  {
+    "Name": "aw_npc_courier",
+    "Registry ID": "ancientwarfarenpc:aw_npc_courier",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.NpcCourier"
+  },
+  {
+    "Name": "aw_npc_trader",
+    "Registry ID": "ancientwarfarenpc:aw_npc_trader",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.NpcTrader"
+  },
+  {
+    "Name": "aw_npc_priest",
+    "Registry ID": "ancientwarfarenpc:aw_npc_priest",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.NpcPriest"
+  },
+  {
+    "Name": "aw_npc_bard",
+    "Registry ID": "ancientwarfarenpc:aw_npc_bard",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.NpcBard"
+  },
+  {
+    "Name": "aw_npc_siege_engineer",
+    "Registry ID": "ancientwarfarenpc:aw_npc_siege_engineer",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.vehicle.NpcSiegeEngineer"
+  },
+  {
+    "Name": "faction.archer",
+    "Registry ID": "ancientwarfarenpc:faction.archer",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionArcher"
+  },
+  {
+    "Name": "faction.soldier",
+    "Registry ID": "ancientwarfarenpc:faction.soldier",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionSoldier"
+  },
+  {
+    "Name": "faction.leader",
+    "Registry ID": "ancientwarfarenpc:faction.leader",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionLeader"
+  },
+  {
+    "Name": "faction.priest",
+    "Registry ID": "ancientwarfarenpc:faction.priest",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionPriest"
+  },
+  {
+    "Name": "faction.trader",
+    "Registry ID": "ancientwarfarenpc:faction.trader",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionTrader"
+  },
+  {
+    "Name": "faction.cavalry",
+    "Registry ID": "ancientwarfarenpc:faction.cavalry",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionMountedSoldier"
+  },
+  {
+    "Name": "faction.mounted_archer",
+    "Registry ID": "ancientwarfarenpc:faction.mounted_archer",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionMountedArcher"
+  },
+  {
+    "Name": "faction.civilian.male",
+    "Registry ID": "ancientwarfarenpc:faction.civilian.male",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionCivilianMale"
+  },
+  {
+    "Name": "faction.civilian.female",
+    "Registry ID": "ancientwarfarenpc:faction.civilian.female",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionCivilianFemale"
+  },
+  {
+    "Name": "faction.archer.elite",
+    "Registry ID": "ancientwarfarenpc:faction.archer.elite",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionArcherElite"
+  },
+  {
+    "Name": "faction.soldier.elite",
+    "Registry ID": "ancientwarfarenpc:faction.soldier.elite",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionSoldierElite"
+  },
+  {
+    "Name": "faction.leader.elite",
+    "Registry ID": "ancientwarfarenpc:faction.leader.elite",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionLeaderElite"
+  },
+  {
+    "Name": "faction.bard",
+    "Registry ID": "ancientwarfarenpc:faction.bard",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionBard"
+  },
+  {
+    "Name": "faction.siege_engineer",
+    "Registry ID": "ancientwarfarenpc:faction.siege_engineer",
+    "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionSiegeEngineer"
+  },
+  {
+    "Name": "CultistPortalGreater",
+    "Registry ID": "thaumcraft:cultistportalgreater",
+    "Class": "thaumcraft.common.entities.monster.boss.EntityCultistPortalGreater"
+  },
+  {
+    "Name": "CultistPortalLesser",
+    "Registry ID": "thaumcraft:cultistportallesser",
+    "Class": "thaumcraft.common.entities.monster.cult.EntityCultistPortalLesser"
+  },
+  {
+    "Name": "TurretBasic",
+    "Registry ID": "thaumcraft:turretbasic",
+    "Class": "thaumcraft.common.entities.construct.EntityTurretCrossbow"
+  },
+  {
+    "Name": "TurretAdvanced",
+    "Registry ID": "thaumcraft:turretadvanced",
+    "Class": "thaumcraft.common.entities.construct.EntityTurretCrossbowAdvanced"
+  },
+  {
+    "Name": "ArcaneBore",
+    "Registry ID": "thaumcraft:arcanebore",
+    "Class": "thaumcraft.common.entities.construct.EntityArcaneBore"
+  },
+  {
+    "Name": "Golem",
+    "Registry ID": "thaumcraft:golem",
+    "Class": "thaumcraft.common.golems.EntityThaumcraftGolem"
+  },
+  {
+    "Name": "EldritchWarden",
+    "Registry ID": "thaumcraft:eldritchwarden",
+    "Class": "thaumcraft.common.entities.monster.boss.EntityEldritchWarden"
+  },
+  {
+    "Name": "EldritchGolem",
+    "Registry ID": "thaumcraft:eldritchgolem",
+    "Class": "thaumcraft.common.entities.monster.boss.EntityEldritchGolem"
+  },
+  {
+    "Name": "CultistLeader",
+    "Registry ID": "thaumcraft:cultistleader",
+    "Class": "thaumcraft.common.entities.monster.boss.EntityCultistLeader"
+  },
+  {
+    "Name": "TaintacleGiant",
+    "Registry ID": "thaumcraft:taintaclegiant",
+    "Class": "thaumcraft.common.entities.monster.boss.EntityTaintacleGiant"
+  },
+  {
+    "Name": "BrainyZombie",
+    "Registry ID": "thaumcraft:brainyzombie",
+    "Class": "thaumcraft.common.entities.monster.EntityBrainyZombie"
+  },
+  {
+    "Name": "GiantBrainyZombie",
+    "Registry ID": "thaumcraft:giantbrainyzombie",
+    "Class": "thaumcraft.common.entities.monster.EntityGiantBrainyZombie"
+  },
+  {
+    "Name": "Wisp",
+    "Registry ID": "thaumcraft:wisp",
+    "Class": "thaumcraft.common.entities.monster.EntityWisp"
+  },
+  {
+    "Name": "Firebat",
+    "Registry ID": "thaumcraft:firebat",
+    "Class": "thaumcraft.common.entities.monster.EntityFireBat"
+  },
+  {
+    "Name": "Spellbat",
+    "Registry ID": "thaumcraft:spellbat",
+    "Class": "thaumcraft.common.entities.monster.EntitySpellBat"
+  },
+  {
+    "Name": "Pech",
+    "Registry ID": "thaumcraft:pech",
+    "Class": "thaumcraft.common.entities.monster.EntityPech"
+  },
+  {
+    "Name": "MindSpider",
+    "Registry ID": "thaumcraft:mindspider",
+    "Class": "thaumcraft.common.entities.monster.EntityMindSpider"
+  },
+  {
+    "Name": "EldritchGuardian",
+    "Registry ID": "thaumcraft:eldritchguardian",
+    "Class": "thaumcraft.common.entities.monster.EntityEldritchGuardian"
+  },
+  {
+    "Name": "CultistKnight",
+    "Registry ID": "thaumcraft:cultistknight",
+    "Class": "thaumcraft.common.entities.monster.cult.EntityCultistKnight"
+  },
+  {
+    "Name": "CultistCleric",
+    "Registry ID": "thaumcraft:cultistcleric",
+    "Class": "thaumcraft.common.entities.monster.cult.EntityCultistCleric"
+  },
+  {
+    "Name": "EldritchCrab",
+    "Registry ID": "thaumcraft:eldritchcrab",
+    "Class": "thaumcraft.common.entities.monster.EntityEldritchCrab"
+  },
+  {
+    "Name": "InhabitedZombie",
+    "Registry ID": "thaumcraft:inhabitedzombie",
+    "Class": "thaumcraft.common.entities.monster.EntityInhabitedZombie"
+  },
+  {
+    "Name": "ThaumSlime",
+    "Registry ID": "thaumcraft:thaumslime",
+    "Class": "thaumcraft.common.entities.monster.EntityThaumicSlime"
+  },
+  {
+    "Name": "TaintCrawler",
+    "Registry ID": "thaumcraft:taintcrawler",
+    "Class": "thaumcraft.common.entities.monster.tainted.EntityTaintCrawler"
+  },
+  {
+    "Name": "Taintacle",
+    "Registry ID": "thaumcraft:taintacle",
+    "Class": "thaumcraft.common.entities.monster.tainted.EntityTaintacle"
+  },
+  {
+    "Name": "TaintacleTiny",
+    "Registry ID": "thaumcraft:taintacletiny",
+    "Class": "thaumcraft.common.entities.monster.tainted.EntityTaintacleSmall"
+  },
+  {
+    "Name": "TaintSwarm",
+    "Registry ID": "thaumcraft:taintswarm",
+    "Class": "thaumcraft.common.entities.monster.tainted.EntityTaintSwarm"
+  },
+  {
+    "Name": "TaintSeed",
+    "Registry ID": "thaumcraft:taintseed",
+    "Class": "thaumcraft.common.entities.monster.tainted.EntityTaintSeed"
+  },
+  {
+    "Name": "TaintSeedPrime",
+    "Registry ID": "thaumcraft:taintseedprime",
+    "Class": "thaumcraft.common.entities.monster.tainted.EntityTaintSeedPrime"
+  },
+  {
+    "Name": "twilightforest.wild_boar",
+    "Registry ID": "twilightforest:wild_boar",
+    "Class": "twilightforest.entity.passive.EntityTFBoar"
+  },
+  {
+    "Name": "twilightforest.bighorn_sheep",
+    "Registry ID": "twilightforest:bighorn_sheep",
+    "Class": "twilightforest.entity.passive.EntityTFBighorn"
+  },
+  {
+    "Name": "twilightforest.deer",
+    "Registry ID": "twilightforest:deer",
+    "Class": "twilightforest.entity.passive.EntityTFDeer"
+  },
+  {
+    "Name": "twilightforest.redcap",
+    "Registry ID": "twilightforest:redcap",
+    "Class": "twilightforest.entity.EntityTFRedcap"
+  },
+  {
+    "Name": "twilightforest.swarm_spider",
+    "Registry ID": "twilightforest:swarm_spider",
+    "Class": "twilightforest.entity.EntityTFSwarmSpider"
+  },
+  {
+    "Name": "twilightforest.naga",
+    "Registry ID": "twilightforest:naga",
+    "Class": "twilightforest.entity.boss.EntityTFNaga"
+  },
+  {
+    "Name": "twilightforest.skeleton_druid",
+    "Registry ID": "twilightforest:skeleton_druid",
+    "Class": "twilightforest.entity.EntityTFSkeletonDruid"
+  },
+  {
+    "Name": "twilightforest.hostile_wolf",
+    "Registry ID": "twilightforest:hostile_wolf",
+    "Class": "twilightforest.entity.EntityTFHostileWolf"
+  },
+  {
+    "Name": "twilightforest.wraith",
+    "Registry ID": "twilightforest:wraith",
+    "Class": "twilightforest.entity.EntityTFWraith"
+  },
+  {
+    "Name": "twilightforest.hedge_spider",
+    "Registry ID": "twilightforest:hedge_spider",
+    "Class": "twilightforest.entity.EntityTFHedgeSpider"
+  },
+  {
+    "Name": "twilightforest.hydra",
+    "Registry ID": "twilightforest:hydra",
+    "Class": "twilightforest.entity.boss.EntityTFHydra"
+  },
+  {
+    "Name": "twilightforest.lich",
+    "Registry ID": "twilightforest:lich",
+    "Class": "twilightforest.entity.boss.EntityTFLich"
+  },
+  {
+    "Name": "twilightforest.penguin",
+    "Registry ID": "twilightforest:penguin",
+    "Class": "twilightforest.entity.passive.EntityTFPenguin"
+  },
+  {
+    "Name": "twilightforest.lich_minion",
+    "Registry ID": "twilightforest:lich_minion",
+    "Class": "twilightforest.entity.boss.EntityTFLichMinion"
+  },
+  {
+    "Name": "twilightforest.loyal_zombie",
+    "Registry ID": "twilightforest:loyal_zombie",
+    "Class": "twilightforest.entity.EntityTFLoyalZombie"
+  },
+  {
+    "Name": "twilightforest.tiny_bird",
+    "Registry ID": "twilightforest:tiny_bird",
+    "Class": "twilightforest.entity.passive.EntityTFTinyBird"
+  },
+  {
+    "Name": "twilightforest.squirrel",
+    "Registry ID": "twilightforest:squirrel",
+    "Class": "twilightforest.entity.passive.EntityTFSquirrel"
+  },
+  {
+    "Name": "twilightforest.bunny",
+    "Registry ID": "twilightforest:bunny",
+    "Class": "twilightforest.entity.passive.EntityTFBunny"
+  },
+  {
+    "Name": "twilightforest.raven",
+    "Registry ID": "twilightforest:raven",
+    "Class": "twilightforest.entity.passive.EntityTFRaven"
+  },
+  {
+    "Name": "twilightforest.quest_ram",
+    "Registry ID": "twilightforest:quest_ram",
+    "Class": "twilightforest.entity.passive.EntityTFQuestRam"
+  },
+  {
+    "Name": "twilightforest.kobold",
+    "Registry ID": "twilightforest:kobold",
+    "Class": "twilightforest.entity.EntityTFKobold"
+  },
+  {
+    "Name": "twilightforest.mosquito_swarm",
+    "Registry ID": "twilightforest:mosquito_swarm",
+    "Class": "twilightforest.entity.EntityTFMosquitoSwarm"
+  },
+  {
+    "Name": "twilightforest.death_tome",
+    "Registry ID": "twilightforest:death_tome",
+    "Class": "twilightforest.entity.EntityTFDeathTome"
+  },
+  {
+    "Name": "twilightforest.minotaur",
+    "Registry ID": "twilightforest:minotaur",
+    "Class": "twilightforest.entity.EntityTFMinotaur"
+  },
+  {
+    "Name": "twilightforest.minoshroom",
+    "Registry ID": "twilightforest:minoshroom",
+    "Class": "twilightforest.entity.boss.EntityTFMinoshroom"
+  },
+  {
+    "Name": "twilightforest.fire_beetle",
+    "Registry ID": "twilightforest:fire_beetle",
+    "Class": "twilightforest.entity.EntityTFFireBeetle"
+  },
+  {
+    "Name": "twilightforest.slime_beetle",
+    "Registry ID": "twilightforest:slime_beetle",
+    "Class": "twilightforest.entity.EntityTFSlimeBeetle"
+  },
+  {
+    "Name": "twilightforest.pinch_beetle",
+    "Registry ID": "twilightforest:pinch_beetle",
+    "Class": "twilightforest.entity.EntityTFPinchBeetle"
+  },
+  {
+    "Name": "twilightforest.maze_slime",
+    "Registry ID": "twilightforest:maze_slime",
+    "Class": "twilightforest.entity.EntityTFMazeSlime"
+  },
+  {
+    "Name": "twilightforest.redcap_sapper",
+    "Registry ID": "twilightforest:redcap_sapper",
+    "Class": "twilightforest.entity.EntityTFRedcapSapper"
+  },
+  {
+    "Name": "twilightforest.mist_wolf",
+    "Registry ID": "twilightforest:mist_wolf",
+    "Class": "twilightforest.entity.EntityTFMistWolf"
+  },
+  {
+    "Name": "twilightforest.king_spider",
+    "Registry ID": "twilightforest:king_spider",
+    "Class": "twilightforest.entity.EntityTFKingSpider"
+  },
+  {
+    "Name": "twilightforest.firefly",
+    "Registry ID": "twilightforest:firefly",
+    "Class": "twilightforest.entity.passive.EntityTFMobileFirefly"
+  },
+  {
+    "Name": "twilightforest.mini_ghast",
+    "Registry ID": "twilightforest:mini_ghast",
+    "Class": "twilightforest.entity.EntityTFMiniGhast"
+  },
+  {
+    "Name": "twilightforest.tower_ghast",
+    "Registry ID": "twilightforest:tower_ghast",
+    "Class": "twilightforest.entity.EntityTFTowerGhast"
+  },
+  {
+    "Name": "twilightforest.tower_golem",
+    "Registry ID": "twilightforest:tower_golem",
+    "Class": "twilightforest.entity.EntityTFTowerGolem"
+  },
+  {
+    "Name": "twilightforest.tower_termite",
+    "Registry ID": "twilightforest:tower_termite",
+    "Class": "twilightforest.entity.EntityTFTowerTermite"
+  },
+  {
+    "Name": "twilightforest.tower_broodling",
+    "Registry ID": "twilightforest:tower_broodling",
+    "Class": "twilightforest.entity.EntityTFTowerBroodling"
+  },
+  {
+    "Name": "twilightforest.ur_ghast",
+    "Registry ID": "twilightforest:ur_ghast",
+    "Class": "twilightforest.entity.boss.EntityTFUrGhast"
+  },
+  {
+    "Name": "twilightforest.blockchain_goblin",
+    "Registry ID": "twilightforest:blockchain_goblin",
+    "Class": "twilightforest.entity.EntityTFBlockGoblin"
+  },
+  {
+    "Name": "twilightforest.goblin_knight_upper",
+    "Registry ID": "twilightforest:goblin_knight_upper",
+    "Class": "twilightforest.entity.EntityTFGoblinKnightUpper"
+  },
+  {
+    "Name": "twilightforest.goblin_knight_lower",
+    "Registry ID": "twilightforest:goblin_knight_lower",
+    "Class": "twilightforest.entity.EntityTFGoblinKnightLower"
+  },
+  {
+    "Name": "twilightforest.helmet_crab",
+    "Registry ID": "twilightforest:helmet_crab",
+    "Class": "twilightforest.entity.EntityTFHelmetCrab"
+  },
+  {
+    "Name": "twilightforest.knight_phantom",
+    "Registry ID": "twilightforest:knight_phantom",
+    "Class": "twilightforest.entity.boss.EntityTFKnightPhantom"
+  },
+  {
+    "Name": "twilightforest.yeti",
+    "Registry ID": "twilightforest:yeti",
+    "Class": "twilightforest.entity.EntityTFYeti"
+  },
+  {
+    "Name": "twilightforest.yeti_alpha",
+    "Registry ID": "twilightforest:yeti_alpha",
+    "Class": "twilightforest.entity.boss.EntityTFYetiAlpha"
+  },
+  {
+    "Name": "twilightforest.winter_wolf",
+    "Registry ID": "twilightforest:winter_wolf",
+    "Class": "twilightforest.entity.EntityTFWinterWolf"
+  },
+  {
+    "Name": "twilightforest.snow_guardian",
+    "Registry ID": "twilightforest:snow_guardian",
+    "Class": "twilightforest.entity.EntityTFSnowGuardian"
+  },
+  {
+    "Name": "twilightforest.stable_ice_core",
+    "Registry ID": "twilightforest:stable_ice_core",
+    "Class": "twilightforest.entity.EntityTFIceShooter"
+  },
+  {
+    "Name": "twilightforest.unstable_ice_core",
+    "Registry ID": "twilightforest:unstable_ice_core",
+    "Class": "twilightforest.entity.EntityTFIceExploder"
+  },
+  {
+    "Name": "twilightforest.snow_queen",
+    "Registry ID": "twilightforest:snow_queen",
+    "Class": "twilightforest.entity.boss.EntityTFSnowQueen"
+  },
+  {
+    "Name": "twilightforest.troll",
+    "Registry ID": "twilightforest:troll",
+    "Class": "twilightforest.entity.EntityTFTroll"
+  },
+  {
+    "Name": "twilightforest.giant_miner",
+    "Registry ID": "twilightforest:giant_miner",
+    "Class": "twilightforest.entity.EntityTFGiantMiner"
+  },
+  {
+    "Name": "twilightforest.armored_giant",
+    "Registry ID": "twilightforest:armored_giant",
+    "Class": "twilightforest.entity.EntityTFArmoredGiant"
+  },
+  {
+    "Name": "twilightforest.ice_crystal",
+    "Registry ID": "twilightforest:ice_crystal",
+    "Class": "twilightforest.entity.boss.EntityTFIceCrystal"
+  },
+  {
+    "Name": "twilightforest.harbinger_cube",
+    "Registry ID": "twilightforest:harbinger_cube",
+    "Class": "twilightforest.entity.EntityTFHarbingerCube"
+  },
+  {
+    "Name": "twilightforest.adherent",
+    "Registry ID": "twilightforest:adherent",
+    "Class": "twilightforest.entity.EntityTFAdherent"
+  },
+  {
+    "Name": "twilightforest.roving_cube",
+    "Registry ID": "twilightforest:roving_cube",
+    "Class": "twilightforest.entity.EntityTFRovingCube"
+  },
+  {
+    "Name": "twilightforest.castle_guardian",
+    "Registry ID": "twilightforest:castle_guardian",
+    "Class": "twilightforest.entity.finalcastle.EntityTFCastleGuardian"
+  },
+  {
+    "Name": "twilightforest.hydra_head",
+    "Registry ID": "twilightforest:hydra_head",
+    "Class": "twilightforest.entity.boss.EntityTFHydraHead"
+  },
+  {
+    "Name": "twilightforest.boggard",
+    "Registry ID": "twilightforest:boggard",
+    "Class": "twilightforest.entity.EntityTFBoggard"
+  },
+  {
+    "Name": "twilightforest.rising_zombie",
+    "Registry ID": "twilightforest:rising_zombie",
+    "Class": "twilightforest.entity.EntityTFRisingZombie"
+  },
+  {
+    "Name": "atum.assassin",
+    "Registry ID": "atum:assassin",
+    "Class": "com.teammetallurgy.atum.entity.bandit.EntityAssassin"
+  },
+  {
+    "Name": "atum.warlord",
+    "Registry ID": "atum:warlord",
+    "Class": "com.teammetallurgy.atum.entity.bandit.EntityWarlord"
+  },
+  {
+    "Name": "atum.barbarian",
+    "Registry ID": "atum:barbarian",
+    "Class": "com.teammetallurgy.atum.entity.bandit.EntityBarbarian"
+  },
+  {
+    "Name": "atum.bonestorm",
+    "Registry ID": "atum:bonestorm",
+    "Class": "com.teammetallurgy.atum.entity.undead.EntityBonestorm"
+  },
+  {
+    "Name": "atum.brigand",
+    "Registry ID": "atum:brigand",
+    "Class": "com.teammetallurgy.atum.entity.bandit.EntityBrigand"
+  },
+  {
+    "Name": "atum.camel",
+    "Registry ID": "atum:camel",
+    "Class": "com.teammetallurgy.atum.entity.animal.EntityCamel"
+  },
+  {
+    "Name": "atum.desertWolf",
+    "Registry ID": "atum:desert_wolf",
+    "Class": "com.teammetallurgy.atum.entity.animal.EntityDesertWolf"
+  },
+  {
+    "Name": "atum.forsaken",
+    "Registry ID": "atum:forsaken",
+    "Class": "com.teammetallurgy.atum.entity.undead.EntityForsaken"
+  },
+  {
+    "Name": "atum.mummy",
+    "Registry ID": "atum:mummy",
+    "Class": "com.teammetallurgy.atum.entity.undead.EntityMummy"
+  },
+  {
+    "Name": "atum.nomad",
+    "Registry ID": "atum:nomad",
+    "Class": "com.teammetallurgy.atum.entity.bandit.EntityNomad"
+  },
+  {
+    "Name": "atum.pharaoh",
+    "Registry ID": "atum:pharaoh",
+    "Class": "com.teammetallurgy.atum.entity.undead.EntityPharaoh"
+  },
+  {
+    "Name": "atum.desertRabbit",
+    "Registry ID": "atum:desert_rabbit",
+    "Class": "com.teammetallurgy.atum.entity.animal.EntityDesertRabbit"
+  },
+  {
+    "Name": "atum.scarab",
+    "Registry ID": "atum:scarab",
+    "Class": "com.teammetallurgy.atum.entity.animal.EntityScarab"
+  },
+  {
+    "Name": "atum.stoneguard",
+    "Registry ID": "atum:stoneguard",
+    "Class": "com.teammetallurgy.atum.entity.stone.EntityStoneguard"
+  },
+  {
+    "Name": "atum.stonewarden",
+    "Registry ID": "atum:stonewarden",
+    "Class": "com.teammetallurgy.atum.entity.stone.EntityStonewarden"
+  },
+  {
+    "Name": "atum.sunspeaker",
+    "Registry ID": "atum:sunspeaker",
+    "Class": "com.teammetallurgy.atum.entity.efreet.EntitySunspeaker"
+  },
+  {
+    "Name": "atum.tarantula",
+    "Registry ID": "atum:tarantula",
+    "Class": "com.teammetallurgy.atum.entity.animal.EntityTarantula"
+  },
+  {
+    "Name": "atum.wraith",
+    "Registry ID": "atum:wraith",
+    "Class": "com.teammetallurgy.atum.entity.undead.EntityWraith"
+  },
+  {
+    "Name": "peeper",
+    "Registry ID": "better_diving:peeper",
+    "Class": "meldexun.better_diving.entity.EntityPeeper"
+  },
+  {
+    "Name": "bladderfish",
+    "Registry ID": "better_diving:bladderfish",
+    "Class": "meldexun.better_diving.entity.EntityBladderfish"
+  },
+  {
+    "Name": "garryfish",
+    "Registry ID": "better_diving:garryfish",
+    "Class": "meldexun.better_diving.entity.EntityGarryfish"
+  },
+  {
+    "Name": "holefish",
+    "Registry ID": "better_diving:holefish",
+    "Class": "meldexun.better_diving.entity.EntityHolefish"
+  },
+  {
+    "Name": "boomerang",
+    "Registry ID": "better_diving:boomerang",
+    "Class": "meldexun.better_diving.entity.EntityBoomerang"
+  },
+  {
+    "Name": "ebwizardry:zombie_minion",
+    "Registry ID": "ebwizardry:zombie_minion",
+    "Class": "electroblob.wizardry.entity.living.EntityZombieMinion"
+  },
+  {
+    "Name": "ebwizardry:husk_minion",
+    "Registry ID": "ebwizardry:husk_minion",
+    "Class": "electroblob.wizardry.entity.living.EntityHuskMinion"
+  },
+  {
+    "Name": "ebwizardry:skeleton_minion",
+    "Registry ID": "ebwizardry:skeleton_minion",
+    "Class": "electroblob.wizardry.entity.living.EntitySkeletonMinion"
+  },
+  {
+    "Name": "ebwizardry:stray_minion",
+    "Registry ID": "ebwizardry:stray_minion",
+    "Class": "electroblob.wizardry.entity.living.EntityStrayMinion"
+  },
+  {
+    "Name": "ebwizardry:spider_minion",
+    "Registry ID": "ebwizardry:spider_minion",
+    "Class": "electroblob.wizardry.entity.living.EntitySpiderMinion"
+  },
+  {
+    "Name": "ebwizardry:blaze_minion",
+    "Registry ID": "ebwizardry:blaze_minion",
+    "Class": "electroblob.wizardry.entity.living.EntityBlazeMinion"
+  },
+  {
+    "Name": "ebwizardry:wither_skeleton_minion",
+    "Registry ID": "ebwizardry:wither_skeleton_minion",
+    "Class": "electroblob.wizardry.entity.living.EntityWitherSkeletonMinion"
+  },
+  {
+    "Name": "ebwizardry:silverfish_minion",
+    "Registry ID": "ebwizardry:silverfish_minion",
+    "Class": "electroblob.wizardry.entity.living.EntitySilverfishMinion"
+  },
+  {
+    "Name": "ebwizardry:vex_minion",
+    "Registry ID": "ebwizardry:vex_minion",
+    "Class": "electroblob.wizardry.entity.living.EntityVexMinion"
+  },
+  {
+    "Name": "ebwizardry:ice_wraith",
+    "Registry ID": "ebwizardry:ice_wraith",
+    "Class": "electroblob.wizardry.entity.living.EntityIceWraith"
+  },
+  {
+    "Name": "ebwizardry:lightning_wraith",
+    "Registry ID": "ebwizardry:lightning_wraith",
+    "Class": "electroblob.wizardry.entity.living.EntityLightningWraith"
+  },
+  {
+    "Name": "ebwizardry:spirit_wolf",
+    "Registry ID": "ebwizardry:spirit_wolf",
+    "Class": "electroblob.wizardry.entity.living.EntitySpiritWolf"
+  },
+  {
+    "Name": "ebwizardry:spirit_horse",
+    "Registry ID": "ebwizardry:spirit_horse",
+    "Class": "electroblob.wizardry.entity.living.EntitySpiritHorse"
+  },
+  {
+    "Name": "ebwizardry:phoenix",
+    "Registry ID": "ebwizardry:phoenix",
+    "Class": "electroblob.wizardry.entity.living.EntityPhoenix"
+  },
+  {
+    "Name": "ebwizardry:ice_giant",
+    "Registry ID": "ebwizardry:ice_giant",
+    "Class": "electroblob.wizardry.entity.living.EntityIceGiant"
+  },
+  {
+    "Name": "ebwizardry:magic_slime",
+    "Registry ID": "ebwizardry:magic_slime",
+    "Class": "electroblob.wizardry.entity.living.EntityMagicSlime"
+  },
+  {
+    "Name": "ebwizardry:decoy",
+    "Registry ID": "ebwizardry:decoy",
+    "Class": "electroblob.wizardry.entity.living.EntityDecoy"
+  },
+  {
+    "Name": "ebwizardry:shadow_wraith",
+    "Registry ID": "ebwizardry:shadow_wraith",
+    "Class": "electroblob.wizardry.entity.living.EntityShadowWraith"
+  },
+  {
+    "Name": "ebwizardry:storm_elemental",
+    "Registry ID": "ebwizardry:storm_elemental",
+    "Class": "electroblob.wizardry.entity.living.EntityStormElemental"
+  },
+  {
+    "Name": "ebwizardry:wizard",
+    "Registry ID": "ebwizardry:wizard",
+    "Class": "electroblob.wizardry.entity.living.EntityWizard"
+  },
+  {
+    "Name": "ebwizardry:evil_wizard",
+    "Registry ID": "ebwizardry:evil_wizard",
+    "Class": "electroblob.wizardry.entity.living.EntityEvilWizard"
+  },
+  {
+    "Name": "golems.golem_bedrock",
+    "Registry ID": "golems:golem_bedrock",
+    "Class": "com.golems.entity.EntityBedrockGolem"
+  },
+  {
+    "Name": "golems.golem_bone",
+    "Registry ID": "golems:golem_bone",
+    "Class": "com.golems.entity.EntityBoneGolem"
+  },
+  {
+    "Name": "golems.golem_bookshelf",
+    "Registry ID": "golems:golem_bookshelf",
+    "Class": "com.golems.entity.EntityBookshelfGolem"
+  },
+  {
+    "Name": "golems.golem_clay",
+    "Registry ID": "golems:golem_clay",
+    "Class": "com.golems.entity.EntityClayGolem"
+  },
+  {
+    "Name": "golems.golem_coal",
+    "Registry ID": "golems:golem_coal",
+    "Class": "com.golems.entity.EntityCoalGolem"
+  },
+  {
+    "Name": "golems.golem_concrete",
+    "Registry ID": "golems:golem_concrete",
+    "Class": "com.golems.entity.EntityConcreteGolem"
+  },
+  {
+    "Name": "golems.golem_crafting",
+    "Registry ID": "golems:golem_crafting",
+    "Class": "com.golems.entity.EntityCraftingGolem"
+  },
+  {
+    "Name": "golems.golem_diamond",
+    "Registry ID": "golems:golem_diamond",
+    "Class": "com.golems.entity.EntityDiamondGolem"
+  },
+  {
+    "Name": "golems.golem_dispenser",
+    "Registry ID": "golems:golem_dispenser",
+    "Class": "com.golems.entity.EntityDispenserGolem"
+  },
+  {
+    "Name": "golems.golem_emerald",
+    "Registry ID": "golems:golem_emerald",
+    "Class": "com.golems.entity.EntityEmeraldGolem"
+  },
+  {
+    "Name": "golems.golem_end_stone",
+    "Registry ID": "golems:golem_end_stone",
+    "Class": "com.golems.entity.EntityEndstoneGolem"
+  },
+  {
+    "Name": "golems.golem_furnace",
+    "Registry ID": "golems:golem_furnace",
+    "Class": "com.golems.entity.EntityFurnaceGolem"
+  },
+  {
+    "Name": "golems.golem_glass",
+    "Registry ID": "golems:golem_glass",
+    "Class": "com.golems.entity.EntityGlassGolem"
+  },
+  {
+    "Name": "golems.golem_glowstone",
+    "Registry ID": "golems:golem_glowstone",
+    "Class": "com.golems.entity.EntityGlowstoneGolem"
+  },
+  {
+    "Name": "golems.golem_gold",
+    "Registry ID": "golems:golem_gold",
+    "Class": "com.golems.entity.EntityGoldGolem"
+  },
+  {
+    "Name": "golems.golem_hardened_clay",
+    "Registry ID": "golems:golem_hardened_clay",
+    "Class": "com.golems.entity.EntityHardenedClayGolem"
+  },
+  {
+    "Name": "golems.golem_ice",
+    "Registry ID": "golems:golem_ice",
+    "Class": "com.golems.entity.EntityIceGolem"
+  },
+  {
+    "Name": "golems.golem_lapis",
+    "Registry ID": "golems:golem_lapis",
+    "Class": "com.golems.entity.EntityLapisGolem"
+  },
+  {
+    "Name": "golems.golem_leaves",
+    "Registry ID": "golems:golem_leaves",
+    "Class": "com.golems.entity.EntityLeafGolem"
+  },
+  {
+    "Name": "golems.golem_magma",
+    "Registry ID": "golems:golem_magma",
+    "Class": "com.golems.entity.EntityMagmaGolem"
+  },
+  {
+    "Name": "golems.golem_melon",
+    "Registry ID": "golems:golem_melon",
+    "Class": "com.golems.entity.EntityMelonGolem"
+  },
+  {
+    "Name": "golems.golem_shroom",
+    "Registry ID": "golems:golem_shroom",
+    "Class": "com.golems.entity.EntityMushroomGolem"
+  },
+  {
+    "Name": "golems.golem_nether_brick",
+    "Registry ID": "golems:golem_nether_brick",
+    "Class": "com.golems.entity.EntityNetherBrickGolem"
+  },
+  {
+    "Name": "golems.golem_nether_wart",
+    "Registry ID": "golems:golem_nether_wart",
+    "Class": "com.golems.entity.EntityNetherWartGolem"
+  },
+  {
+    "Name": "golems.golem_obsidian",
+    "Registry ID": "golems:golem_obsidian",
+    "Class": "com.golems.entity.EntityObsidianGolem"
+  },
+  {
+    "Name": "golems.golem_prismarine",
+    "Registry ID": "golems:golem_prismarine",
+    "Class": "com.golems.entity.EntityPrismarineGolem"
+  },
+  {
+    "Name": "golems.golem_quartz",
+    "Registry ID": "golems:golem_quartz",
+    "Class": "com.golems.entity.EntityQuartzGolem"
+  },
+  {
+    "Name": "golems.golem_red_sandstone",
+    "Registry ID": "golems:golem_red_sandstone",
+    "Class": "com.golems.entity.EntityRedSandstoneGolem"
+  },
+  {
+    "Name": "golems.golem_redstone",
+    "Registry ID": "golems:golem_redstone",
+    "Class": "com.golems.entity.EntityRedstoneGolem"
+  },
+  {
+    "Name": "golems.golem_redstone_lamp",
+    "Registry ID": "golems:golem_redstone_lamp",
+    "Class": "com.golems.entity.EntityRedstoneLampGolem"
+  },
+  {
+    "Name": "golems.golem_sandstone",
+    "Registry ID": "golems:golem_sandstone",
+    "Class": "com.golems.entity.EntitySandstoneGolem"
+  },
+  {
+    "Name": "golems.golem_sea_lantern",
+    "Registry ID": "golems:golem_sea_lantern",
+    "Class": "com.golems.entity.EntitySeaLanternGolem"
+  },
+  {
+    "Name": "golems.golem_slime",
+    "Registry ID": "golems:golem_slime",
+    "Class": "com.golems.entity.EntitySlimeGolem"
+  },
+  {
+    "Name": "golems.golem_sponge",
+    "Registry ID": "golems:golem_sponge",
+    "Class": "com.golems.entity.EntitySpongeGolem"
+  },
+  {
+    "Name": "golems.golem_stained_clay",
+    "Registry ID": "golems:golem_stained_clay",
+    "Class": "com.golems.entity.EntityStainedClayGolem"
+  },
+  {
+    "Name": "golems.golem_stained_glass",
+    "Registry ID": "golems:golem_stained_glass",
+    "Class": "com.golems.entity.EntityStainedGlassGolem"
+  },
+  {
+    "Name": "golems.golem_straw",
+    "Registry ID": "golems:golem_straw",
+    "Class": "com.golems.entity.EntityStrawGolem"
+  },
+  {
+    "Name": "golems.golem_tnt",
+    "Registry ID": "golems:golem_tnt",
+    "Class": "com.golems.entity.EntityTNTGolem"
+  },
+  {
+    "Name": "golems.golem_wooden",
+    "Registry ID": "golems:golem_wooden",
+    "Class": "com.golems.entity.EntityWoodenGolem"
+  },
+  {
+    "Name": "golems.golem_wool",
+    "Registry ID": "golems:golem_wool",
+    "Class": "com.golems.entity.EntityWoolGolem"
+  },
+  {
+    "Name": "mod_lavacow.lavacow",
+    "Registry ID": "mod_lavacow:lavacow",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityLavaCow"
+  },
+  {
+    "Name": "mod_lavacow.zombiemushroom",
+    "Registry ID": "mod_lavacow:zombiemushroom",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityZombieMushroom"
+  },
+  {
+    "Name": "mod_lavacow.parasite",
+    "Registry ID": "mod_lavacow:parasite",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityParasite"
+  },
+  {
+    "Name": "mod_lavacow.foglet",
+    "Registry ID": "mod_lavacow:foglet",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityFoglet"
+  },
+  {
+    "Name": "mod_lavacow.zombiefrozen",
+    "Registry ID": "mod_lavacow:zombiefrozen",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityZombieFrozen"
+  },
+  {
+    "Name": "mod_lavacow.undeadswine",
+    "Registry ID": "mod_lavacow:undeadswine",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityUndeadSwine"
+  },
+  {
+    "Name": "mod_lavacow.salamander",
+    "Registry ID": "mod_lavacow:salamander",
+    "Class": "com.Fishmod.mod_LavaCow.entities.tameable.EntitySalamander"
+  },
+  {
+    "Name": "mod_lavacow.ithaqua",
+    "Registry ID": "mod_lavacow:ithaqua",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityWendigo"
+  },
+  {
+    "Name": "mod_lavacow.mimic",
+    "Registry ID": "mod_lavacow:mimic",
+    "Class": "com.Fishmod.mod_LavaCow.entities.tameable.EntityMimic"
+  },
+  {
+    "Name": "mod_lavacow.sludgelord",
+    "Registry ID": "mod_lavacow:sludgelord",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntitySludgeLord"
+  },
+  {
+    "Name": "mod_lavacow.lilsludge",
+    "Registry ID": "mod_lavacow:lilsludge",
+    "Class": "com.Fishmod.mod_LavaCow.entities.tameable.EntityLilSludge"
+  },
+  {
+    "Name": "mod_lavacow.raven",
+    "Registry ID": "mod_lavacow:raven",
+    "Class": "com.Fishmod.mod_LavaCow.entities.tameable.EntityRaven"
+  },
+  {
+    "Name": "mod_lavacow.ptera",
+    "Registry ID": "mod_lavacow:ptera",
+    "Class": "com.Fishmod.mod_LavaCow.entities.flying.EntityPtera"
+  },
+  {
+    "Name": "mod_lavacow.vespa",
+    "Registry ID": "mod_lavacow:vespa",
+    "Class": "com.Fishmod.mod_LavaCow.entities.flying.EntityVespa"
+  },
+  {
+    "Name": "mod_lavacow.scarecrow",
+    "Registry ID": "mod_lavacow:scarecrow",
+    "Class": "com.Fishmod.mod_LavaCow.entities.tameable.EntityScarecrow"
+  },
+  {
+    "Name": "mod_lavacow.vespacocoon",
+    "Registry ID": "mod_lavacow:vespacocoon",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityVespaCocoon"
+  },
+  {
+    "Name": "mod_lavacow.piranha",
+    "Registry ID": "mod_lavacow:piranha",
+    "Class": "com.Fishmod.mod_LavaCow.entities.aquatic.EntityPiranha"
+  },
+  {
+    "Name": "mod_lavacow.zombiepiranha",
+    "Registry ID": "mod_lavacow:zombiepiranha",
+    "Class": "com.Fishmod.mod_LavaCow.entities.aquatic.EntityZombiePiranha"
+  },
+  {
+    "Name": "mod_lavacow.boneworm",
+    "Registry ID": "mod_lavacow:boneworm",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityBoneWorm"
+  },
+  {
+    "Name": "mod_lavacow.pingu",
+    "Registry ID": "mod_lavacow:pingu",
+    "Class": "com.Fishmod.mod_LavaCow.entities.EntityPingu"
+  },
+  {
+    "Name": "grimoireofgaia.gorgon",
+    "Registry ID": "grimoireofgaia:gorgon",
+    "Class": "gaia.entity.monster.EntityGaiaGorgon"
+  },
+  {
+    "Name": "grimoireofgaia.creeper_girl",
+    "Registry ID": "grimoireofgaia:creeper_girl",
+    "Class": "gaia.entity.passive.EntityGaiaNPCCreeperGirl"
+  },
+  {
+    "Name": "grimoireofgaia.slime_girl",
+    "Registry ID": "grimoireofgaia:slime_girl",
+    "Class": "gaia.entity.passive.EntityGaiaNPCSlimeGirl"
+  },
+  {
+    "Name": "grimoireofgaia.ender_girl",
+    "Registry ID": "grimoireofgaia:ender_girl",
+    "Class": "gaia.entity.passive.EntityGaiaNPCEnderGirl"
+  },
+  {
+    "Name": "grimoireofgaia.trader",
+    "Registry ID": "grimoireofgaia:trader",
+    "Class": "gaia.entity.passive.EntityGaiaNPCTrader"
+  },
+  {
+    "Name": "grimoireofgaia.holstaurus",
+    "Registry ID": "grimoireofgaia:holstaurus",
+    "Class": "gaia.entity.passive.EntityGaiaNPCHolstaurus"
+  },
+  {
+    "Name": "grimoireofgaia.weresheep",
+    "Registry ID": "grimoireofgaia:weresheep",
+    "Class": "gaia.entity.passive.EntityGaiaNPCWeresheep"
+  },
+  {
+    "Name": "grimoireofgaia.mandragora",
+    "Registry ID": "grimoireofgaia:mandragora",
+    "Class": "gaia.entity.monster.EntityGaiaMandragora"
+  },
+  {
+    "Name": "grimoireofgaia.mimic",
+    "Registry ID": "grimoireofgaia:mimic",
+    "Class": "gaia.entity.monster.EntityGaiaMimic"
+  },
+  {
+    "Name": "grimoireofgaia.spawner_beholder",
+    "Registry ID": "grimoireofgaia:spawner_beholder",
+    "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerBeholder"
+  },
+  {
+    "Name": "grimoireofgaia.spawner_ender_dragon_girl",
+    "Registry ID": "grimoireofgaia:spawner_ender_dragon_girl",
+    "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerEnderDragonGirl"
+  },
+  {
+    "Name": "grimoireofgaia.spawner_gorgon",
+    "Registry ID": "grimoireofgaia:spawner_gorgon",
+    "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerGorgon"
+  },
+  {
+    "Name": "grimoireofgaia.spawner_minotaur",
+    "Registry ID": "grimoireofgaia:spawner_minotaur",
+    "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerMinotaur"
+  },
+  {
+    "Name": "grimoireofgaia.spawner_sphinx",
+    "Registry ID": "grimoireofgaia:spawner_sphinx",
+    "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerSphinx"
+  },
+  {
+    "Name": "grimoireofgaia.spawner_valkyrie",
+    "Registry ID": "grimoireofgaia:spawner_valkyrie",
+    "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerValkyrie"
+  },
+  {
+    "Name": "grimoireofgaia.spawner_vampire",
+    "Registry ID": "grimoireofgaia:spawner_vampire",
+    "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerVampire"
+  },
+  {
+    "Name": "grimoireofgaia.debug_mob",
+    "Registry ID": "grimoireofgaia:debug_mob",
+    "Class": "gaia.entity.debug.EntityDebugMob"
+  },
+  {
+    "Name": "grimoireofgaia.ant",
+    "Registry ID": "grimoireofgaia:ant",
+    "Class": "gaia.entity.monster.EntityGaiaAnt"
+  },
+  {
+    "Name": "grimoireofgaia.ant_hill",
+    "Registry ID": "grimoireofgaia:ant_hill",
+    "Class": "gaia.entity.prop.EntityGaiaPropAntHill"
+  },
+  {
+    "Name": "grimoireofgaia.ant_ranger",
+    "Registry ID": "grimoireofgaia:ant_ranger",
+    "Class": "gaia.entity.monster.EntityGaiaAntRanger"
+  },
+  {
+    "Name": "grimoireofgaia.anubis",
+    "Registry ID": "grimoireofgaia:anubis",
+    "Class": "gaia.entity.monster.EntityGaiaAnubis"
+  },
+  {
+    "Name": "grimoireofgaia.arachne",
+    "Registry ID": "grimoireofgaia:arachne",
+    "Class": "gaia.entity.monster.EntityGaiaArachne"
+  },
+  {
+    "Name": "grimoireofgaia.banshee",
+    "Registry ID": "grimoireofgaia:banshee",
+    "Class": "gaia.entity.monster.EntityGaiaBanshee"
+  },
+  {
+    "Name": "grimoireofgaia.baphomet",
+    "Registry ID": "grimoireofgaia:baphomet",
+    "Class": "gaia.entity.monster.EntityGaiaBaphomet"
+  },
+  {
+    "Name": "grimoireofgaia.bee",
+    "Registry ID": "grimoireofgaia:bee",
+    "Class": "gaia.entity.monster.EntityGaiaBee"
+  },
+  {
+    "Name": "grimoireofgaia.beholder",
+    "Registry ID": "grimoireofgaia:beholder",
+    "Class": "gaia.entity.monster.EntityGaiaBeholder"
+  },
+  {
+    "Name": "grimoireofgaia.bone_knight",
+    "Registry ID": "grimoireofgaia:bone_knight",
+    "Class": "gaia.entity.monster.EntityGaiaBoneKnight"
+  },
+  {
+    "Name": "grimoireofgaia.butler",
+    "Registry ID": "grimoireofgaia:butler",
+    "Class": "gaia.entity.monster.EntityGaiaIllagerButler"
+  },
+  {
+    "Name": "grimoireofgaia.campfire",
+    "Registry ID": "grimoireofgaia:campfire",
+    "Class": "gaia.delete.EntityGaiaPropCampfire"
+  },
+  {
+    "Name": "grimoireofgaia.cecaelia",
+    "Registry ID": "grimoireofgaia:cecaelia",
+    "Class": "gaia.entity.monster.EntityGaiaCecaelia"
+  },
+  {
+    "Name": "grimoireofgaia.centaur",
+    "Registry ID": "grimoireofgaia:centaur",
+    "Class": "gaia.entity.monster.EntityGaiaCentaur"
+  },
+  {
+    "Name": "grimoireofgaia.chest",
+    "Registry ID": "grimoireofgaia:chest",
+    "Class": "gaia.entity.prop.EntityGaiaPropChestMimic"
+  },
+  {
+    "Name": "grimoireofgaia.cobble_golem",
+    "Registry ID": "grimoireofgaia:cobble_golem",
+    "Class": "gaia.entity.monster.EntityGaiaCobbleGolem"
+  },
+  {
+    "Name": "grimoireofgaia.cobblestone_golem",
+    "Registry ID": "grimoireofgaia:cobblestone_golem",
+    "Class": "gaia.entity.monster.EntityGaiaCobblestoneGolem"
+  },
+  {
+    "Name": "grimoireofgaia.creep",
+    "Registry ID": "grimoireofgaia:creep",
+    "Class": "gaia.entity.monster.EntityGaiaCreep"
+  },
+  {
+    "Name": "grimoireofgaia.cyan_flower",
+    "Registry ID": "grimoireofgaia:cyan_flower",
+    "Class": "gaia.entity.prop.EntityGaiaPropFlowerCyan"
+  },
+  {
+    "Name": "grimoireofgaia.deathword",
+    "Registry ID": "grimoireofgaia:deathword",
+    "Class": "gaia.entity.monster.EntityGaiaDeathword"
+  },
+  {
+    "Name": "grimoireofgaia.dhampir",
+    "Registry ID": "grimoireofgaia:dhampir",
+    "Class": "gaia.entity.monster.EntityGaiaDhampir"
+  },
+  {
+    "Name": "grimoireofgaia.dryad",
+    "Registry ID": "grimoireofgaia:dryad",
+    "Class": "gaia.entity.monster.EntityGaiaDryad"
+  },
+  {
+    "Name": "grimoireofgaia.dullahan",
+    "Registry ID": "grimoireofgaia:dullahan",
+    "Class": "gaia.entity.monster.EntityGaiaDullahan"
+  },
+  {
+    "Name": "grimoireofgaia.dwarf",
+    "Registry ID": "grimoireofgaia:dwarf",
+    "Class": "gaia.entity.monster.EntityGaiaDwarf"
+  },
+  {
+    "Name": "grimoireofgaia.ender_dragon_girl",
+    "Registry ID": "grimoireofgaia:ender_dragon_girl",
+    "Class": "gaia.entity.monster.EntityGaiaEnderDragonGirl"
+  },
+  {
+    "Name": "grimoireofgaia.ender_eye",
+    "Registry ID": "grimoireofgaia:ender_eye",
+    "Class": "gaia.entity.monster.EntityGaiaEnderEye"
+  },
+  {
+    "Name": "grimoireofgaia.flesh_lich",
+    "Registry ID": "grimoireofgaia:flesh_lich",
+    "Class": "gaia.entity.monster.EntityGaiaFleshLich"
+  },
+  {
+    "Name": "grimoireofgaia.gelatinous_slime",
+    "Registry ID": "grimoireofgaia:gelatinous_slime",
+    "Class": "gaia.entity.monster.EntityGaiaGelatinousSlime"
+  },
+  {
+    "Name": "grimoireofgaia.goblin",
+    "Registry ID": "grimoireofgaia:goblin",
+    "Class": "gaia.entity.monster.EntityGaiaGoblin"
+  },
+  {
+    "Name": "grimoireofgaia.goblin_feral",
+    "Registry ID": "grimoireofgaia:goblin_feral",
+    "Class": "gaia.entity.monster.EntityGaiaGoblinFeral"
+  },
+  {
+    "Name": "grimoireofgaia.mite",
+    "Registry ID": "grimoireofgaia:mite",
+    "Class": "gaia.entity.monster.EntityGaiaMite"
+  },
+  {
+    "Name": "grimoireofgaia.gryphon",
+    "Registry ID": "grimoireofgaia:gryphon",
+    "Class": "gaia.entity.monster.EntityGaiaGryphon"
+  },
+  {
+    "Name": "grimoireofgaia.harpy",
+    "Registry ID": "grimoireofgaia:harpy",
+    "Class": "gaia.entity.monster.EntityGaiaHarpy"
+  },
+  {
+    "Name": "grimoireofgaia.harpy_wizard",
+    "Registry ID": "grimoireofgaia:harpy_wizard",
+    "Class": "gaia.entity.monster.EntityGaiaHarpyWizard"
+  },
+  {
+    "Name": "grimoireofgaia.horse",
+    "Registry ID": "grimoireofgaia:horse",
+    "Class": "gaia.entity.monster.EntityGaiaHorse"
+  },
+  {
+    "Name": "grimoireofgaia.hunter",
+    "Registry ID": "grimoireofgaia:hunter",
+    "Class": "gaia.entity.monster.EntityGaiaHunter"
+  },
+  {
+    "Name": "grimoireofgaia.illager_fire",
+    "Registry ID": "grimoireofgaia:illager_fire",
+    "Class": "gaia.entity.monster.EntityGaiaIllagerFire"
+  },
+  {
+    "Name": "grimoireofgaia.illager_inquisitor",
+    "Registry ID": "grimoireofgaia:illager_inquisitor",
+    "Class": "gaia.entity.monster.EntityGaiaIllagerInquisitor"
+  },
+  {
+    "Name": "grimoireofgaia.kikimora",
+    "Registry ID": "grimoireofgaia:kikimora",
+    "Class": "gaia.entity.monster.EntityGaiaKikimora"
+  },
+  {
+    "Name": "grimoireofgaia.kobold",
+    "Registry ID": "grimoireofgaia:kobold",
+    "Class": "gaia.entity.monster.EntityGaiaKobold"
+  },
+  {
+    "Name": "grimoireofgaia.matango",
+    "Registry ID": "grimoireofgaia:matango",
+    "Class": "gaia.entity.monster.EntityGaiaMatango"
+  },
+  {
+    "Name": "grimoireofgaia.mermaid",
+    "Registry ID": "grimoireofgaia:mermaid",
+    "Class": "gaia.entity.monster.EntityGaiaMermaid"
+  },
+  {
+    "Name": "grimoireofgaia.minotaur",
+    "Registry ID": "grimoireofgaia:minotaur",
+    "Class": "gaia.entity.monster.EntityGaiaMinotaur"
+  },
+  {
+    "Name": "grimoireofgaia.minotaurus",
+    "Registry ID": "grimoireofgaia:minotaurus",
+    "Class": "gaia.entity.monster.EntityGaiaMinotaurus"
+  },
+  {
+    "Name": "grimoireofgaia.cyclops",
+    "Registry ID": "grimoireofgaia:cyclops",
+    "Class": "gaia.entity.monster.EntityGaiaMonoeye"
+  },
+  {
+    "Name": "grimoireofgaia.mummy",
+    "Registry ID": "grimoireofgaia:mummy",
+    "Class": "gaia.entity.monster.EntityGaiaMummy"
+  },
+  {
+    "Name": "grimoireofgaia.naga",
+    "Registry ID": "grimoireofgaia:naga",
+    "Class": "gaia.entity.monster.EntityGaiaNaga"
+  },
+  {
+    "Name": "grimoireofgaia.nine_tails",
+    "Registry ID": "grimoireofgaia:nine_tails",
+    "Class": "gaia.entity.monster.EntityGaiaNineTails"
+  },
+  {
+    "Name": "grimoireofgaia.oni",
+    "Registry ID": "grimoireofgaia:oni",
+    "Class": "gaia.entity.monster.EntityGaiaOni"
+  },
+  {
+    "Name": "grimoireofgaia.orc",
+    "Registry ID": "grimoireofgaia:orc",
+    "Class": "gaia.entity.monster.EntityGaiaOrc"
+  },
+  {
+    "Name": "grimoireofgaia.satyress",
+    "Registry ID": "grimoireofgaia:satyress",
+    "Class": "gaia.entity.monster.EntityGaiaSatyress"
+  },
+  {
+    "Name": "grimoireofgaia.selkie",
+    "Registry ID": "grimoireofgaia:selkie",
+    "Class": "gaia.entity.monster.EntityGaiaSelkie"
+  },
+  {
+    "Name": "grimoireofgaia.shaman",
+    "Registry ID": "grimoireofgaia:shaman",
+    "Class": "gaia.entity.monster.EntityGaiaShaman"
+  },
+  {
+    "Name": "grimoireofgaia.sharko",
+    "Registry ID": "grimoireofgaia:sharko",
+    "Class": "gaia.entity.monster.EntityGaiaSharko"
+  },
+  {
+    "Name": "grimoireofgaia.siren",
+    "Registry ID": "grimoireofgaia:siren",
+    "Class": "gaia.entity.monster.EntityGaiaSiren"
+  },
+  {
+    "Name": "grimoireofgaia.sludge_girl",
+    "Registry ID": "grimoireofgaia:sludge_girl",
+    "Class": "gaia.entity.monster.EntityGaiaSludgeGirl"
+  },
+  {
+    "Name": "grimoireofgaia.sphinx",
+    "Registry ID": "grimoireofgaia:sphinx",
+    "Class": "gaia.entity.monster.EntityGaiaSphinx"
+  },
+  {
+    "Name": "grimoireofgaia.spriggan",
+    "Registry ID": "grimoireofgaia:spriggan",
+    "Class": "gaia.entity.monster.EntityGaiaSpriggan"
+  },
+  {
+    "Name": "grimoireofgaia.sporeling",
+    "Registry ID": "grimoireofgaia:sporeling",
+    "Class": "gaia.entity.monster.EntityGaiaSporeling"
+  },
+  {
+    "Name": "grimoireofgaia.succubus",
+    "Registry ID": "grimoireofgaia:succubus",
+    "Class": "gaia.entity.monster.EntityGaiaSuccubus"
+  },
+  {
+    "Name": "grimoireofgaia.toad",
+    "Registry ID": "grimoireofgaia:toad",
+    "Class": "gaia.entity.monster.EntityGaiaToad"
+  },
+  {
+    "Name": "grimoireofgaia.valkyrie",
+    "Registry ID": "grimoireofgaia:valkyrie",
+    "Class": "gaia.entity.monster.EntityGaiaValkyrie"
+  },
+  {
+    "Name": "grimoireofgaia.vase",
+    "Registry ID": "grimoireofgaia:vase",
+    "Class": "gaia.entity.prop.EntityGaiaPropVase"
+  },
+  {
+    "Name": "grimoireofgaia.vase_nether",
+    "Registry ID": "grimoireofgaia:vase_nether",
+    "Class": "gaia.entity.prop.EntityGaiaPropVaseNether"
+  },
+  {
+    "Name": "grimoireofgaia.vampire",
+    "Registry ID": "grimoireofgaia:vampire",
+    "Class": "gaia.entity.monster.EntityGaiaVampire"
+  },
+  {
+    "Name": "grimoireofgaia.werecat",
+    "Registry ID": "grimoireofgaia:werecat",
+    "Class": "gaia.entity.monster.EntityGaiaWerecat"
+  },
+  {
+    "Name": "grimoireofgaia.witch",
+    "Registry ID": "grimoireofgaia:witch",
+    "Class": "gaia.entity.monster.EntityGaiaWitch"
+  },
+  {
+    "Name": "grimoireofgaia.wither_cow",
+    "Registry ID": "grimoireofgaia:wither_cow",
+    "Class": "gaia.entity.monster.EntityGaiaWitherCow"
+  },
+  {
+    "Name": "grimoireofgaia.yeti",
+    "Registry ID": "grimoireofgaia:yeti",
+    "Class": "gaia.entity.monster.EntityGaiaYeti"
+  },
+  {
+    "Name": "grimoireofgaia.yuki-onna",
+    "Registry ID": "grimoireofgaia:yuki-onna",
+    "Class": "gaia.entity.monster.EntityGaiaYukiOnna"
+  },
+  {
+    "Name": "dragonegg",
+    "Registry ID": "iceandfire:dragonegg",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityDragonEgg"
+  },
+  {
+    "Name": "dragonskull",
+    "Registry ID": "iceandfire:dragonskull",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityDragonSkull"
+  },
+  {
+    "Name": "firedragon",
+    "Registry ID": "iceandfire:firedragon",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityFireDragon"
+  },
+  {
+    "Name": "icedragon",
+    "Registry ID": "iceandfire:icedragon",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityIceDragon"
+  },
+  {
+    "Name": "snowvillager",
+    "Registry ID": "iceandfire:snowvillager",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntitySnowVillager"
+  },
+  {
+    "Name": "hippogryph",
+    "Registry ID": "iceandfire:hippogryph",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph"
+  },
+  {
+    "Name": "stonestatue",
+    "Registry ID": "iceandfire:stonestatue",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityStoneStatue"
+  },
+  {
+    "Name": "gorgon",
+    "Registry ID": "iceandfire:gorgon",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityGorgon"
+  },
+  {
+    "Name": "if_pixie",
+    "Registry ID": "iceandfire:if_pixie",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityPixie"
+  },
+  {
+    "Name": "cyclops",
+    "Registry ID": "iceandfire:cyclops",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityCyclops"
+  },
+  {
+    "Name": "siren",
+    "Registry ID": "iceandfire:siren",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntitySiren"
+  },
+  {
+    "Name": "hippocampus",
+    "Registry ID": "iceandfire:hippocampus",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityHippocampus"
+  },
+  {
+    "Name": "deathworm",
+    "Registry ID": "iceandfire:deathworm",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityDeathWorm"
+  },
+  {
+    "Name": "if_cockatrice",
+    "Registry ID": "iceandfire:if_cockatrice",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityCockatrice"
+  },
+  {
+    "Name": "stymphalianbird",
+    "Registry ID": "iceandfire:stymphalianbird",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityStymphalianBird"
+  },
+  {
+    "Name": "if_troll",
+    "Registry ID": "iceandfire:if_troll",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityTroll"
+  },
+  {
+    "Name": "myrmex_worker",
+    "Registry ID": "iceandfire:myrmex_worker",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMyrmexWorker"
+  },
+  {
+    "Name": "myrmex_soldier",
+    "Registry ID": "iceandfire:myrmex_soldier",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMyrmexSoldier"
+  },
+  {
+    "Name": "myrmex_sentinel",
+    "Registry ID": "iceandfire:myrmex_sentinel",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMyrmexSentinel"
+  },
+  {
+    "Name": "myrmex_royal",
+    "Registry ID": "iceandfire:myrmex_royal",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMyrmexRoyal"
+  },
+  {
+    "Name": "myrmex_queen",
+    "Registry ID": "iceandfire:myrmex_queen",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMyrmexQueen"
+  },
+  {
+    "Name": "myrmex_egg",
+    "Registry ID": "iceandfire:myrmex_egg",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMyrmexEgg"
+  },
+  {
+    "Name": "amphithere",
+    "Registry ID": "iceandfire:amphithere",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityAmphithere"
+  },
+  {
+    "Name": "seaserpent",
+    "Registry ID": "iceandfire:seaserpent",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntitySeaSerpent"
+  },
+  {
+    "Name": "myrmex_swarmer",
+    "Registry ID": "iceandfire:myrmex_swarmer",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMyrmexSwarmer"
+  },
+  {
+    "Name": "if_mob_skull",
+    "Registry ID": "iceandfire:if_mob_skull",
+    "Class": "com.github.alexthe666.iceandfire.entity.EntityMobSkull"
+  },
+  {
+    "Name": "foliaath",
+    "Registry ID": "mowziesmobs:foliaath",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.foliaath.EntityFoliaath"
+  },
+  {
+    "Name": "baby_foliaath",
+    "Registry ID": "mowziesmobs:baby_foliaath",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.foliaath.EntityBabyFoliaath"
+  },
+  {
+    "Name": "ferrous_wroughtnaut",
+    "Registry ID": "mowziesmobs:ferrous_wroughtnaut",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut"
+  },
+  {
+    "Name": "barakoan_barakoana",
+    "Registry ID": "mowziesmobs:barakoan_barakoana",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoanToBarakoana"
+  },
+  {
+    "Name": "barakoana",
+    "Registry ID": "mowziesmobs:barakoana",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoana"
+  },
+  {
+    "Name": "barakoaya",
+    "Registry ID": "mowziesmobs:barakoaya",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoaya"
+  },
+  {
+    "Name": "barakoan_player",
+    "Registry ID": "mowziesmobs:barakoan_player",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoanToPlayer"
+  },
+  {
+    "Name": "barako",
+    "Registry ID": "mowziesmobs:barako",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarako"
+  },
+  {
+    "Name": "frostmaw",
+    "Registry ID": "mowziesmobs:frostmaw",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.frostmaw.EntityFrostmaw"
+  },
+  {
+    "Name": "grottol",
+    "Registry ID": "mowziesmobs:grottol",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol"
+  },
+  {
+    "Name": "lantern",
+    "Registry ID": "mowziesmobs:lantern",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.lantern.EntityLantern"
+  },
+  {
+    "Name": "naga",
+    "Registry ID": "mowziesmobs:naga",
+    "Class": "com.bobmowzie.mowziesmobs.server.entity.naga.EntityNaga"
+  },
+  {
+    "Name": "mutantbeasts.creeper_minion",
+    "Registry ID": "mutantbeasts:creeper_minion",
+    "Class": "chumbanotz.mutantbeasts.entity.CreeperMinionEntity"
+  },
+  {
+    "Name": "mutantbeasts.endersoul_clone",
+    "Registry ID": "mutantbeasts:endersoul_clone",
+    "Class": "chumbanotz.mutantbeasts.entity.EndersoulCloneEntity"
+  },
+  {
+    "Name": "mutantbeasts.mutant_creeper",
+    "Registry ID": "mutantbeasts:mutant_creeper",
+    "Class": "chumbanotz.mutantbeasts.entity.mutant.MutantCreeperEntity"
+  },
+  {
+    "Name": "mutantbeasts.mutant_enderman",
+    "Registry ID": "mutantbeasts:mutant_enderman",
+    "Class": "chumbanotz.mutantbeasts.entity.mutant.MutantEndermanEntity"
+  },
+  {
+    "Name": "mutantbeasts.mutant_skeleton",
+    "Registry ID": "mutantbeasts:mutant_skeleton",
+    "Class": "chumbanotz.mutantbeasts.entity.mutant.MutantSkeletonEntity"
+  },
+  {
+    "Name": "mutantbeasts.mutant_snow_golem",
+    "Registry ID": "mutantbeasts:mutant_snow_golem",
+    "Class": "chumbanotz.mutantbeasts.entity.mutant.MutantSnowGolemEntity"
+  },
+  {
+    "Name": "mutantbeasts.mutant_zombie",
+    "Registry ID": "mutantbeasts:mutant_zombie",
+    "Class": "chumbanotz.mutantbeasts.entity.mutant.MutantZombieEntity"
+  },
+  {
+    "Name": "mutantbeasts.spider_pig",
+    "Registry ID": "mutantbeasts:spider_pig",
+    "Class": "chumbanotz.mutantbeasts.entity.mutant.SpiderPigEntity"
+  },
+  {
+    "Name": "netherex:pigtificate_leader",
+    "Registry ID": "netherex:pigtificate_leader",
+    "Class": "logictechcorp.netherex.entity.passive.EntityPigtificateLeader"
+  },
+  {
+    "Name": "netherex:pigtificate",
+    "Registry ID": "netherex:pigtificate",
+    "Class": "logictechcorp.netherex.entity.passive.EntityPigtificate"
+  },
+  {
+    "Name": "netherex:gold_golem",
+    "Registry ID": "netherex:gold_golem",
+    "Class": "logictechcorp.netherex.entity.neutral.EntityGoldGolem"
+  },
+  {
+    "Name": "netherex:mogus",
+    "Registry ID": "netherex:mogus",
+    "Class": "logictechcorp.netherex.entity.neutral.EntityMogus"
+  },
+  {
+    "Name": "netherex:salamander",
+    "Registry ID": "netherex:salamander",
+    "Class": "logictechcorp.netherex.entity.neutral.EntitySalamander"
+  },
+  {
+    "Name": "netherex:wight",
+    "Registry ID": "netherex:wight",
+    "Class": "logictechcorp.netherex.entity.monster.EntityWight"
+  },
+  {
+    "Name": "netherex:ember",
+    "Registry ID": "netherex:ember",
+    "Class": "logictechcorp.netherex.entity.monster.EntityEmber"
+  },
+  {
+    "Name": "netherex:nethermite",
+    "Registry ID": "netherex:nethermite",
+    "Class": "logictechcorp.netherex.entity.monster.EntityNethermite"
+  },
+  {
+    "Name": "netherex:spinout",
+    "Registry ID": "netherex:spinout",
+    "Class": "logictechcorp.netherex.entity.monster.EntitySpinout"
+  },
+  {
+    "Name": "netherex:spore_creeper",
+    "Registry ID": "netherex:spore_creeper",
+    "Class": "logictechcorp.netherex.entity.monster.EntitySporeCreeper"
+  },
+  {
+    "Name": "netherex:spore",
+    "Registry ID": "netherex:spore",
+    "Class": "logictechcorp.netherex.entity.monster.EntitySpore"
+  },
+  {
+    "Name": "netherex:ghastling",
+    "Registry ID": "netherex:ghastling",
+    "Class": "logictechcorp.netherex.entity.monster.EntityGhastling"
+  },
+  {
+    "Name": "netherex:coolmar_spider",
+    "Registry ID": "netherex:coolmar_spider",
+    "Class": "logictechcorp.netherex.entity.monster.EntityCoolmarSpider"
+  },
+  {
+    "Name": "netherex:brute",
+    "Registry ID": "netherex:brute",
+    "Class": "logictechcorp.netherex.entity.monster.EntityBrute"
+  },
+  {
+    "Name": "netherex:frost",
+    "Registry ID": "netherex:frost",
+    "Class": "logictechcorp.netherex.entity.monster.EntityFrost"
+  },
+  {
+    "Name": "netherex:ghast_queen",
+    "Registry ID": "netherex:ghast_queen",
+    "Class": "logictechcorp.netherex.entity.boss.EntityGhastQueen"
+  },
+  {
+    "Name": "rat",
+    "Registry ID": "rats:rat",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityRat"
+  },
+  {
+    "Name": "illager_piper",
+    "Registry ID": "rats:illager_piper",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityIllagerPiper"
+  },
+  {
+    "Name": "ratlantean_spirit",
+    "Registry ID": "rats:ratlantean_spirit",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityRatlanteanSpirit"
+  },
+  {
+    "Name": "marbled_cheese_golem",
+    "Registry ID": "rats:marbled_cheese_golem",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityMarbleCheeseGolem"
+  },
+  {
+    "Name": "feral_ratlantean",
+    "Registry ID": "rats:feral_ratlantean",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityFeralRatlantean"
+  },
+  {
+    "Name": "neo_ratlantean",
+    "Registry ID": "rats:neo_ratlantean",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityNeoRatlantean"
+  },
+  {
+    "Name": "pirat_boat",
+    "Registry ID": "rats:pirat_boat",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityPiratBoat"
+  },
+  {
+    "Name": "pirat",
+    "Registry ID": "rats:pirat",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityPirat"
+  },
+  {
+    "Name": "plague_doctor",
+    "Registry ID": "rats:plague_doctor",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityPlagueDoctor"
+  },
+  {
+    "Name": "black_death",
+    "Registry ID": "rats:black_death",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityBlackDeath"
+  },
+  {
+    "Name": "plague_cloud",
+    "Registry ID": "rats:plague_cloud",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityPlagueCloud"
+  },
+  {
+    "Name": "plague_beast",
+    "Registry ID": "rats:plague_beast",
+    "Class": "com.github.alexthe666.rats.server.entity.EntityPlagueBeast"
+  },
+  {
+    "Name": "wood_mimic",
+    "Registry ID": "treasure2:wood_mimic",
+    "Class": "com.someguyssoftware.treasure2.entity.monster.WoodMimicEntity"
+  },
+  {
+    "Name": "pirate_mimic",
+    "Registry ID": "treasure2:pirate_mimic",
+    "Class": "com.someguyssoftware.treasure2.entity.monster.PirateMimicEntity"
+  },
+  {
+    "Name": "bound_soul",
+    "Registry ID": "treasure2:bound_soul",
+    "Class": "com.someguyssoftware.treasure2.entity.monster.BoundSoulEntity"
+  },
+  {
+    "Name": "betteranimalsplus.brownbear",
+    "Registry ID": "betteranimalsplus:brownbear",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBear"
+  },
+  {
+    "Name": "betteranimalsplus.blackbear",
+    "Registry ID": "betteranimalsplus:blackbear",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBearNeutral"
+  },
+  {
+    "Name": "betteranimalsplus.deer",
+    "Registry ID": "betteranimalsplus:deer",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityDeer"
+  },
+  {
+    "Name": "betteranimalsplus.lammergeier",
+    "Registry ID": "betteranimalsplus:lammergeier",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityLammergeier"
+  },
+  {
+    "Name": "betteranimalsplus.feralwolf",
+    "Registry ID": "betteranimalsplus:feralwolf",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityFeralWolf"
+  },
+  {
+    "Name": "betteranimalsplus.coyote",
+    "Registry ID": "betteranimalsplus:coyote",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityCoyote"
+  },
+  {
+    "Name": "betteranimalsplus.fox",
+    "Registry ID": "betteranimalsplus:fox",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityFox"
+  },
+  {
+    "Name": "betteranimalsplus.tarantula",
+    "Registry ID": "betteranimalsplus:tarantula",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityTarantula"
+  },
+  {
+    "Name": "betteranimalsplus.hirschgeist",
+    "Registry ID": "betteranimalsplus:hirschgeist",
+    "Class": "its_meow.betteranimalsplus.common.entity.miniboss.hirschgeist.EntityHirschgeist"
+  },
+  {
+    "Name": "betteranimalsplus.goat",
+    "Registry ID": "betteranimalsplus:goat",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityGoat"
+  },
+  {
+    "Name": "betteranimalsplus.jellyfish",
+    "Registry ID": "betteranimalsplus:jellyfish",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityJellyfish"
+  },
+  {
+    "Name": "betteranimalsplus.pheasant",
+    "Registry ID": "betteranimalsplus:pheasant",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityPheasant"
+  },
+  {
+    "Name": "betteranimalsplus.reindeer",
+    "Registry ID": "betteranimalsplus:reindeer",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityReindeer"
+  },
+  {
+    "Name": "betteranimalsplus.boar",
+    "Registry ID": "betteranimalsplus:boar",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBoar"
+  },
+  {
+    "Name": "betteranimalsplus.squirrel",
+    "Registry ID": "betteranimalsplus:squirrel",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntitySquirrel"
+  },
+  {
+    "Name": "betteranimalsplus.songbird",
+    "Registry ID": "betteranimalsplus:songbird",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntitySongbird"
+  },
+  {
+    "Name": "betteranimalsplus.badger",
+    "Registry ID": "betteranimalsplus:badger",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBadger"
+  },
+  {
+    "Name": "betteranimalsplus.lamprey",
+    "Registry ID": "betteranimalsplus:lamprey",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityLamprey"
+  },
+  {
+    "Name": "betteranimalsplus.nautilus",
+    "Registry ID": "betteranimalsplus:nautilus",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityNautilus"
+  },
+  {
+    "Name": "betteranimalsplus.crab",
+    "Registry ID": "betteranimalsplus:crab",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityCrab"
+  },
+  {
+    "Name": "betteranimalsplus.horseshoecrab",
+    "Registry ID": "betteranimalsplus:horseshoecrab",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityHorseshoeCrab"
+  },
+  {
+    "Name": "betteranimalsplus.shark",
+    "Registry ID": "betteranimalsplus:shark",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityShark"
+  },
+  {
+    "Name": "betteranimalsplus.moose",
+    "Registry ID": "betteranimalsplus:moose",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityMoose"
+  },
+  {
+    "Name": "betteranimalsplus.turkey",
+    "Registry ID": "betteranimalsplus:turkey",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityTurkey"
+  },
+  {
+    "Name": "betteranimalsplus.zotzpyre",
+    "Registry ID": "betteranimalsplus:zotzpyre",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityZotzpyre"
+  },
+  {
+    "Name": "betteranimalsplus.bobbit_worm",
+    "Registry ID": "betteranimalsplus:bobbit_worm",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBobbitWorm"
+  },
+  {
+    "Name": "betteranimalsplus.goose",
+    "Registry ID": "betteranimalsplus:goose",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityGoose"
+  },
+  {
+    "Name": "betteranimalsplus.eel_freshwater",
+    "Registry ID": "betteranimalsplus:eel_freshwater",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityFreshwaterEel"
+  },
+  {
+    "Name": "betteranimalsplus.eel_saltwater",
+    "Registry ID": "betteranimalsplus:eel_saltwater",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntitySaltwaterEel"
+  },
+  {
+    "Name": "betteranimalsplus.whale",
+    "Registry ID": "betteranimalsplus:whale",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityWhale"
+  },
+  {
+    "Name": "betteranimalsplus.walrus",
+    "Registry ID": "betteranimalsplus:walrus",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityWalrus"
+  },
+  {
+    "Name": "betteranimalsplus.kermodebear",
+    "Registry ID": "betteranimalsplus:kermodebear",
+    "Class": "its_meow.betteranimalsplus.common.entity.EmptyEntity"
+  },
+  {
+    "Name": "anomaly",
+    "Registry ID": "weeping-angels:anomaly",
+    "Class": "me.swirtzly.angels.common.entities.EntityAnomaly"
+  },
+  {
+    "Name": "angel",
+    "Registry ID": "weeping-angels:weepingangel",
+    "Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel"
+  },
+  {
+    "Name": "trumpetskeleton.TrumpetSkeleton",
+    "Registry ID": "trumpetskeleton:trumpet_skeleton",
+    "Class": "com.jamieswhiteshirt.trumpetskeleton.common.entity.EntityTrumpetSkeleton"
+  },
+  {
+    "Name": "moa",
+    "Registry ID": "aether_legacy:moa",
+    "Class": "com.legacy.aether.entities.passive.mountable.EntityMoa"
+  },
+  {
+    "Name": "phyg",
+    "Registry ID": "aether_legacy:phyg",
+    "Class": "com.legacy.aether.entities.passive.mountable.EntityPhyg"
+  },
+  {
+    "Name": "flying_cow",
+    "Registry ID": "aether_legacy:flying_cow",
+    "Class": "com.legacy.aether.entities.passive.mountable.EntityFlyingCow"
+  },
+  {
+    "Name": "sheepuff",
+    "Registry ID": "aether_legacy:sheepuff",
+    "Class": "com.legacy.aether.entities.passive.EntitySheepuff"
+  },
+  {
+    "Name": "aerbunny",
+    "Registry ID": "aether_legacy:aerbunny",
+    "Class": "com.legacy.aether.entities.passive.mountable.EntityAerbunny"
+  },
+  {
+    "Name": "aerwhale",
+    "Registry ID": "aether_legacy:aerwhale",
+    "Class": "com.legacy.aether.entities.passive.EntityAerwhale"
+  },
+  {
+    "Name": "swet",
+    "Registry ID": "aether_legacy:swet",
+    "Class": "com.legacy.aether.entities.passive.mountable.EntitySwet"
+  },
+  {
+    "Name": "cockatrice",
+    "Registry ID": "aether_legacy:cockatrice",
+    "Class": "com.legacy.aether.entities.hostile.EntityCockatrice"
+  },
+  {
+    "Name": "sentry",
+    "Registry ID": "aether_legacy:sentry",
+    "Class": "com.legacy.aether.entities.hostile.EntitySentry"
+  },
+  {
+    "Name": "zephyr",
+    "Registry ID": "aether_legacy:zephyr",
+    "Class": "com.legacy.aether.entities.hostile.EntityZephyr"
+  },
+  {
+    "Name": "aechor_plant",
+    "Registry ID": "aether_legacy:aechor_plant",
+    "Class": "com.legacy.aether.entities.hostile.EntityAechorPlant"
+  },
+  {
+    "Name": "mimic",
+    "Registry ID": "aether_legacy:mimic",
+    "Class": "com.legacy.aether.entities.hostile.EntityMimic"
+  },
+  {
+    "Name": "slider",
+    "Registry ID": "aether_legacy:slider",
+    "Class": "com.legacy.aether.entities.bosses.slider.EntitySlider"
+  },
+  {
+    "Name": "valkyrie_queen",
+    "Registry ID": "aether_legacy:valkyrie_queen",
+    "Class": "com.legacy.aether.entities.bosses.valkyrie_queen.EntityValkyrieQueen"
+  },
+  {
+    "Name": "sun_spirit",
+    "Registry ID": "aether_legacy:sun_spirit",
+    "Class": "com.legacy.aether.entities.bosses.sun_spirit.EntitySunSpirit"
+  },
+  {
+    "Name": "fire_ball",
+    "Registry ID": "aether_legacy:fire_ball",
+    "Class": "com.legacy.aether.entities.projectile.crystals.EntityFireBall"
+  },
+  {
+    "Name": "ice_ball",
+    "Registry ID": "aether_legacy:ice_ball",
+    "Class": "com.legacy.aether.entities.projectile.crystals.EntityIceyBall"
+  },
+  {
+    "Name": "thunder_ball",
+    "Registry ID": "aether_legacy:thunder_ball",
+    "Class": "com.legacy.aether.entities.projectile.crystals.EntityThunderBall"
+  },
+  {
+    "Name": "valkyrie",
+    "Registry ID": "aether_legacy:valkyrie",
+    "Class": "com.legacy.aether.entities.bosses.EntityValkyrie"
+  },
+  {
+    "Name": "fire_minion",
+    "Registry ID": "aether_legacy:fire_minion",
+    "Class": "com.legacy.aether.entities.bosses.EntityFireMinion"
+  },
+  {
+    "Name": "mini_cloud",
+    "Registry ID": "aether_legacy:mini_cloud",
+    "Class": "com.legacy.aether.entities.passive.EntityMiniCloud"
+  },
+  {
+    "Name": "whirlwind",
+    "Registry ID": "aether_legacy:whirlwind",
+    "Class": "com.legacy.aether.entities.hostile.EntityWhirlwind"
+  },
+  {
+    "Name": "bat_smart",
+    "Registry ID": "coroutil:bat_smart",
+    "Class": "CoroUtil.entity.EntityBatSmart"
+  },
+  {
+    "Name": "SpecialCreeper",
+    "Registry ID": "specialmobs:specialcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.Entity_SpecialCreeper"
+  },
+  {
+    "Name": "DarkCreeper",
+    "Registry ID": "specialmobs:darkcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityDarkCreeper"
+  },
+  {
+    "Name": "DeathCreeper",
+    "Registry ID": "specialmobs:deathcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityDeathCreeper"
+  },
+  {
+    "Name": "DirtCreeper",
+    "Registry ID": "specialmobs:dirtcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityDirtCreeper"
+  },
+  {
+    "Name": "DoomCreeper",
+    "Registry ID": "specialmobs:doomcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityDoomCreeper"
+  },
+  {
+    "Name": "DrowningCreeper",
+    "Registry ID": "specialmobs:drowningcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityDrowningCreeper"
+  },
+  {
+    "Name": "EnderCreeper",
+    "Registry ID": "specialmobs:endercreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityEnderCreeper"
+  },
+  {
+    "Name": "FireCreeper",
+    "Registry ID": "specialmobs:firecreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityFireCreeper"
+  },
+  {
+    "Name": "GravelCreeper",
+    "Registry ID": "specialmobs:gravelcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityGravelCreeper"
+  },
+  {
+    "Name": "JumpingCreeper",
+    "Registry ID": "specialmobs:jumpingcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityJumpingCreeper"
+  },
+  {
+    "Name": "LightningCreeper",
+    "Registry ID": "specialmobs:lightningcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityLightningCreeper"
+  },
+  {
+    "Name": "MiniCreeper",
+    "Registry ID": "specialmobs:minicreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntityMiniCreeper"
+  },
+  {
+    "Name": "SplittingCreeper",
+    "Registry ID": "specialmobs:splittingcreeper",
+    "Class": "fathertoast.specialmobs.entity.creeper.EntitySplittingCreeper"
+  },
+  {
+    "Name": "SpecialZombie",
+    "Registry ID": "specialmobs:specialzombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.Entity_SpecialZombie"
+  },
+  {
+    "Name": "BruteZombie",
+    "Registry ID": "specialmobs:brutezombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.EntityBruteZombie"
+  },
+  {
+    "Name": "FireZombie",
+    "Registry ID": "specialmobs:firezombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.EntityFireZombie"
+  },
+  {
+    "Name": "FishingZombie",
+    "Registry ID": "specialmobs:fishingzombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.EntityFishingZombie"
+  },
+  {
+    "Name": "GiantZombie",
+    "Registry ID": "specialmobs:giantzombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.EntityGiantZombie"
+  },
+  {
+    "Name": "HungryZombie",
+    "Registry ID": "specialmobs:hungryzombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.EntityHungryZombie"
+  },
+  {
+    "Name": "HuskZombie",
+    "Registry ID": "specialmobs:huskzombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.EntityHuskZombie"
+  },
+  {
+    "Name": "PlagueZombie",
+    "Registry ID": "specialmobs:plaguezombie",
+    "Class": "fathertoast.specialmobs.entity.zombie.EntityPlagueZombie"
+  },
+  {
+    "Name": "SpecialPigZombie",
+    "Registry ID": "specialmobs:specialpigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.Entity_SpecialPigZombie"
+  },
+  {
+    "Name": "BrutePigZombie",
+    "Registry ID": "specialmobs:brutepigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.EntityBrutePigZombie"
+  },
+  {
+    "Name": "FishingPigZombie",
+    "Registry ID": "specialmobs:fishingpigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.EntityFishingPigZombie"
+  },
+  {
+    "Name": "GiantPigZombie",
+    "Registry ID": "specialmobs:giantpigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.EntityGiantPigZombie"
+  },
+  {
+    "Name": "HungryPigZombie",
+    "Registry ID": "specialmobs:hungrypigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.EntityHungryPigZombie"
+  },
+  {
+    "Name": "KnightPigZombie",
+    "Registry ID": "specialmobs:knightpigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.EntityKnightPigZombie"
+  },
+  {
+    "Name": "PlaguePigZombie",
+    "Registry ID": "specialmobs:plaguepigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.EntityPlaguePigZombie"
+  },
+  {
+    "Name": "VampirePigZombie",
+    "Registry ID": "specialmobs:vampirepigzombie",
+    "Class": "fathertoast.specialmobs.entity.pigzombie.EntityVampirePigZombie"
+  },
+  {
+    "Name": "SpecialSkeleton",
+    "Registry ID": "specialmobs:specialskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.Entity_SpecialSkeleton"
+  },
+  {
+    "Name": "BruteSkeleton",
+    "Registry ID": "specialmobs:bruteskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityBruteSkeleton"
+  },
+  {
+    "Name": "FireSkeleton",
+    "Registry ID": "specialmobs:fireskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityFireSkeleton"
+  },
+  {
+    "Name": "GatlingSkeleton",
+    "Registry ID": "specialmobs:gatlingskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityGatlingSkeleton"
+  },
+  {
+    "Name": "GiantSkeleton",
+    "Registry ID": "specialmobs:giantskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityGiantSkeleton"
+  },
+  {
+    "Name": "KnightSkeleton",
+    "Registry ID": "specialmobs:knightskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityKnightSkeleton"
+  },
+  {
+    "Name": "NinjaSkeleton",
+    "Registry ID": "specialmobs:ninjaskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityNinjaSkeleton"
+  },
+  {
+    "Name": "PoisonSkeleton",
+    "Registry ID": "specialmobs:poisonskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityPoisonSkeleton"
+  },
+  {
+    "Name": "SniperSkeleton",
+    "Registry ID": "specialmobs:sniperskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntitySniperSkeleton"
+  },
+  {
+    "Name": "SpitfireSkeleton",
+    "Registry ID": "specialmobs:spitfireskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntitySpitfireSkeleton"
+  },
+  {
+    "Name": "StraySkeleton",
+    "Registry ID": "specialmobs:strayskeleton",
+    "Class": "fathertoast.specialmobs.entity.skeleton.EntityStraySkeleton"
+  },
+  {
+    "Name": "SpecialWitherSkeleton",
+    "Registry ID": "specialmobs:specialwitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.Entity_SpecialWitherSkeleton"
+  },
+  {
+    "Name": "BruteWitherSkeleton",
+    "Registry ID": "specialmobs:brutewitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.EntityBruteWitherSkeleton"
+  },
+  {
+    "Name": "GatlingWitherSkeleton",
+    "Registry ID": "specialmobs:gatlingwitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.EntityGatlingWitherSkeleton"
+  },
+  {
+    "Name": "GiantWitherSkeleton",
+    "Registry ID": "specialmobs:giantwitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.EntityGiantWitherSkeleton"
+  },
+  {
+    "Name": "KnightWitherSkeleton",
+    "Registry ID": "specialmobs:knightwitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.EntityKnightWitherSkeleton"
+  },
+  {
+    "Name": "NinjaWitherSkeleton",
+    "Registry ID": "specialmobs:ninjawitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.EntityNinjaWitherSkeleton"
+  },
+  {
+    "Name": "SniperWitherSkeleton",
+    "Registry ID": "specialmobs:sniperwitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.EntitySniperWitherSkeleton"
+  },
+  {
+    "Name": "SpitfireWitherSkeleton",
+    "Registry ID": "specialmobs:spitfirewitherskeleton",
+    "Class": "fathertoast.specialmobs.entity.witherskeleton.EntitySpitfireWitherSkeleton"
+  },
+  {
+    "Name": "SpecialSlime",
+    "Registry ID": "specialmobs:specialslime",
+    "Class": "fathertoast.specialmobs.entity.slime.Entity_SpecialSlime"
+  },
+  {
+    "Name": "BlackberrySlime",
+    "Registry ID": "specialmobs:blackberryslime",
+    "Class": "fathertoast.specialmobs.entity.slime.EntityBlackberrySlime"
+  },
+  {
+    "Name": "BlueberrySlime",
+    "Registry ID": "specialmobs:blueberryslime",
+    "Class": "fathertoast.specialmobs.entity.slime.EntityBlueberrySlime"
+  },
+  {
+    "Name": "CaramelSlime",
+    "Registry ID": "specialmobs:caramelslime",
+    "Class": "fathertoast.specialmobs.entity.slime.EntityCaramelSlime"
+  },
+  {
+    "Name": "GrapeSlime",
+    "Registry ID": "specialmobs:grapeslime",
+    "Class": "fathertoast.specialmobs.entity.slime.EntityGrapeSlime"
+  },
+  {
+    "Name": "LemonSlime",
+    "Registry ID": "specialmobs:lemonslime",
+    "Class": "fathertoast.specialmobs.entity.slime.EntityLemonSlime"
+  },
+  {
+    "Name": "StrawberrySlime",
+    "Registry ID": "specialmobs:strawberryslime",
+    "Class": "fathertoast.specialmobs.entity.slime.EntityStrawberrySlime"
+  },
+  {
+    "Name": "WatermelonSlime",
+    "Registry ID": "specialmobs:watermelonslime",
+    "Class": "fathertoast.specialmobs.entity.slime.EntityWatermelonSlime"
+  },
+  {
+    "Name": "SpecialLavaSlime",
+    "Registry ID": "specialmobs:speciallavaslime",
+    "Class": "fathertoast.specialmobs.entity.lavaslime.Entity_SpecialLavaSlime"
+  },
+  {
+    "Name": "FlyingLavaSlime",
+    "Registry ID": "specialmobs:flyinglavaslime",
+    "Class": "fathertoast.specialmobs.entity.lavaslime.EntityFlyingLavaSlime"
+  },
+  {
+    "Name": "HardenedLavaSlime",
+    "Registry ID": "specialmobs:hardenedlavaslime",
+    "Class": "fathertoast.specialmobs.entity.lavaslime.EntityHardenedLavaSlime"
+  },
+  {
+    "Name": "StickyLavaSlime",
+    "Registry ID": "specialmobs:stickylavaslime",
+    "Class": "fathertoast.specialmobs.entity.lavaslime.EntityStickyLavaSlime"
+  },
+  {
+    "Name": "VolatileLavaSlime",
+    "Registry ID": "specialmobs:volatilelavaslime",
+    "Class": "fathertoast.specialmobs.entity.lavaslime.EntityVolatileLavaSlime"
+  },
+  {
+    "Name": "SpecialSpider",
+    "Registry ID": "specialmobs:specialspider",
+    "Class": "fathertoast.specialmobs.entity.spider.Entity_SpecialSpider"
+  },
+  {
+    "Name": "BabySpider",
+    "Registry ID": "specialmobs:babyspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityBabySpider"
+  },
+  {
+    "Name": "DesertSpider",
+    "Registry ID": "specialmobs:desertspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityDesertSpider"
+  },
+  {
+    "Name": "FlyingSpider",
+    "Registry ID": "specialmobs:flyingspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityFlyingSpider"
+  },
+  {
+    "Name": "GiantSpider",
+    "Registry ID": "specialmobs:giantspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityGiantSpider"
+  },
+  {
+    "Name": "HungrySpider",
+    "Registry ID": "specialmobs:hungryspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityHungrySpider"
+  },
+  {
+    "Name": "MotherSpider",
+    "Registry ID": "specialmobs:motherspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityMotherSpider"
+  },
+  {
+    "Name": "PaleSpider",
+    "Registry ID": "specialmobs:palespider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityPaleSpider"
+  },
+  {
+    "Name": "PoisonSpider",
+    "Registry ID": "specialmobs:poisonspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityPoisonSpider"
+  },
+  {
+    "Name": "WebSpider",
+    "Registry ID": "specialmobs:webspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityWebSpider"
+  },
+  {
+    "Name": "WitchSpider",
+    "Registry ID": "specialmobs:witchspider",
+    "Class": "fathertoast.specialmobs.entity.spider.EntityWitchSpider"
+  },
+  {
+    "Name": "SpecialCaveSpider",
+    "Registry ID": "specialmobs:specialcavespider",
+    "Class": "fathertoast.specialmobs.entity.cavespider.Entity_SpecialCaveSpider"
+  },
+  {
+    "Name": "BabyCaveSpider",
+    "Registry ID": "specialmobs:babycavespider",
+    "Class": "fathertoast.specialmobs.entity.cavespider.EntityBabyCaveSpider"
+  },
+  {
+    "Name": "FlyingCaveSpider",
+    "Registry ID": "specialmobs:flyingcavespider",
+    "Class": "fathertoast.specialmobs.entity.cavespider.EntityFlyingCaveSpider"
+  },
+  {
+    "Name": "MotherCaveSpider",
+    "Registry ID": "specialmobs:mothercavespider",
+    "Class": "fathertoast.specialmobs.entity.cavespider.EntityMotherCaveSpider"
+  },
+  {
+    "Name": "WebCaveSpider",
+    "Registry ID": "specialmobs:webcavespider",
+    "Class": "fathertoast.specialmobs.entity.cavespider.EntityWebCaveSpider"
+  },
+  {
+    "Name": "WitchCaveSpider",
+    "Registry ID": "specialmobs:witchcavespider",
+    "Class": "fathertoast.specialmobs.entity.cavespider.EntityWitchCaveSpider"
+  },
+  {
+    "Name": "SpecialSilverfish",
+    "Registry ID": "specialmobs:specialsilverfish",
+    "Class": "fathertoast.specialmobs.entity.silverfish.Entity_SpecialSilverfish"
+  },
+  {
+    "Name": "BlindingSilverfish",
+    "Registry ID": "specialmobs:blindingsilverfish",
+    "Class": "fathertoast.specialmobs.entity.silverfish.EntityBlindingSilverfish"
+  },
+  {
+    "Name": "FishingSilverfish",
+    "Registry ID": "specialmobs:fishingsilverfish",
+    "Class": "fathertoast.specialmobs.entity.silverfish.EntityFishingSilverfish"
+  },
+  {
+    "Name": "FlyingSilverfish",
+    "Registry ID": "specialmobs:flyingsilverfish",
+    "Class": "fathertoast.specialmobs.entity.silverfish.EntityFlyingSilverfish"
+  },
+  {
+    "Name": "PoisonSilverfish",
+    "Registry ID": "specialmobs:poisonsilverfish",
+    "Class": "fathertoast.specialmobs.entity.silverfish.EntityPoisonSilverfish"
+  },
+  {
+    "Name": "ToughSilverfish",
+    "Registry ID": "specialmobs:toughsilverfish",
+    "Class": "fathertoast.specialmobs.entity.silverfish.EntityToughSilverfish"
+  },
+  {
+    "Name": "SpecialEnderman",
+    "Registry ID": "specialmobs:specialenderman",
+    "Class": "fathertoast.specialmobs.entity.enderman.Entity_SpecialEnderman"
+  },
+  {
+    "Name": "BlindingEnderman",
+    "Registry ID": "specialmobs:blindingenderman",
+    "Class": "fathertoast.specialmobs.entity.enderman.EntityBlindingEnderman"
+  },
+  {
+    "Name": "IcyEnderman",
+    "Registry ID": "specialmobs:icyenderman",
+    "Class": "fathertoast.specialmobs.entity.enderman.EntityIcyEnderman"
+  },
+  {
+    "Name": "LightningEnderman",
+    "Registry ID": "specialmobs:lightningenderman",
+    "Class": "fathertoast.specialmobs.entity.enderman.EntityLightningEnderman"
+  },
+  {
+    "Name": "MiniEnderman",
+    "Registry ID": "specialmobs:minienderman",
+    "Class": "fathertoast.specialmobs.entity.enderman.EntityMiniEnderman"
+  },
+  {
+    "Name": "MirageEnderman",
+    "Registry ID": "specialmobs:mirageenderman",
+    "Class": "fathertoast.specialmobs.entity.enderman.EntityMirageEnderman"
+  },
+  {
+    "Name": "ThiefEnderman",
+    "Registry ID": "specialmobs:thiefenderman",
+    "Class": "fathertoast.specialmobs.entity.enderman.EntityThiefEnderman"
+  },
+  {
+    "Name": "SpecialWitch",
+    "Registry ID": "specialmobs:specialwitch",
+    "Class": "fathertoast.specialmobs.entity.witch.Entity_SpecialWitch"
+  },
+  {
+    "Name": "DominationWitch",
+    "Registry ID": "specialmobs:dominationwitch",
+    "Class": "fathertoast.specialmobs.entity.witch.EntityDominationWitch"
+  },
+  {
+    "Name": "ShadowsWitch",
+    "Registry ID": "specialmobs:shadowswitch",
+    "Class": "fathertoast.specialmobs.entity.witch.EntityShadowsWitch"
+  },
+  {
+    "Name": "UndeadWitch",
+    "Registry ID": "specialmobs:undeadwitch",
+    "Class": "fathertoast.specialmobs.entity.witch.EntityUndeadWitch"
+  },
+  {
+    "Name": "WildsWitch",
+    "Registry ID": "specialmobs:wildswitch",
+    "Class": "fathertoast.specialmobs.entity.witch.EntityWildsWitch"
+  },
+  {
+    "Name": "WindWitch",
+    "Registry ID": "specialmobs:windwitch",
+    "Class": "fathertoast.specialmobs.entity.witch.EntityWindWitch"
+  },
+  {
+    "Name": "SpecialGhast",
+    "Registry ID": "specialmobs:specialghast",
+    "Class": "fathertoast.specialmobs.entity.ghast.Entity_SpecialGhast"
+  },
+  {
+    "Name": "BabyGhast",
+    "Registry ID": "specialmobs:babyghast",
+    "Class": "fathertoast.specialmobs.entity.ghast.EntityBabyGhast"
+  },
+  {
+    "Name": "FighterGhast",
+    "Registry ID": "specialmobs:fighterghast",
+    "Class": "fathertoast.specialmobs.entity.ghast.EntityFighterGhast"
+  },
+  {
+    "Name": "KingGhast",
+    "Registry ID": "specialmobs:kingghast",
+    "Class": "fathertoast.specialmobs.entity.ghast.EntityKingGhast"
+  },
+  {
+    "Name": "QueenGhast",
+    "Registry ID": "specialmobs:queenghast",
+    "Class": "fathertoast.specialmobs.entity.ghast.EntityQueenGhast"
+  },
+  {
+    "Name": "UnholyGhast",
+    "Registry ID": "specialmobs:unholyghast",
+    "Class": "fathertoast.specialmobs.entity.ghast.EntityUnholyGhast"
+  },
+  {
+    "Name": "SpecialBlaze",
+    "Registry ID": "specialmobs:specialblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.Entity_SpecialBlaze"
+  },
+  {
+    "Name": "CinderBlaze",
+    "Registry ID": "specialmobs:cinderblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.EntityCinderBlaze"
+  },
+  {
+    "Name": "ConflagrationBlaze",
+    "Registry ID": "specialmobs:conflagrationblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.EntityConflagrationBlaze"
+  },
+  {
+    "Name": "EmberBlaze",
+    "Registry ID": "specialmobs:emberblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.EntityEmberBlaze"
+  },
+  {
+    "Name": "HellfireBlaze",
+    "Registry ID": "specialmobs:hellfireblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.EntityHellfireBlaze"
+  },
+  {
+    "Name": "InfernoBlaze",
+    "Registry ID": "specialmobs:infernoblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.EntityInfernoBlaze"
+  },
+  {
+    "Name": "JoltBlaze",
+    "Registry ID": "specialmobs:joltblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.EntityJoltBlaze"
+  },
+  {
+    "Name": "WildfireBlaze",
+    "Registry ID": "specialmobs:wildfireblaze",
+    "Class": "fathertoast.specialmobs.entity.blaze.EntityWildfireBlaze"
+  },
+  {
+    "Name": "toroquest_mage",
+    "Registry ID": "toroquest:toroquest_mage",
+    "Class": "net.torocraft.toroquest.entities.EntityMage"
+  },
+  {
+    "Name": "toroquest_monolitheye",
+    "Registry ID": "toroquest:toroquest_monolitheye",
+    "Class": "net.torocraft.toroquest.entities.EntityMonolithEye"
+  },
+  {
+    "Name": "toroquest_toro",
+    "Registry ID": "toroquest:toroquest_toro",
+    "Class": "net.torocraft.toroquest.entities.EntityToro"
+  },
+  {
+    "Name": "toroquest_village_lord",
+    "Registry ID": "toroquest:toroquest_village_lord",
+    "Class": "net.torocraft.toroquest.entities.EntityVillageLord"
+  },
+  {
+    "Name": "toroquest_guard",
+    "Registry ID": "toroquest:toroquest_guard",
+    "Class": "net.torocraft.toroquest.entities.EntityGuard"
+  },
+  {
+    "Name": "toroquest_shopkeeper",
+    "Registry ID": "toroquest:toroquest_shopkeeper",
+    "Class": "net.torocraft.toroquest.entities.EntityShopkeeper"
+  },
+  {
+    "Name": "toroquest_bas",
+    "Registry ID": "toroquest:toroquest_bas",
+    "Class": "net.torocraft.toroquest.entities.EntityBas"
+  },
+  {
+    "Name": "toroquest_vampire_bat",
+    "Registry ID": "toroquest:toroquest_vampire_bat",
+    "Class": "net.torocraft.toroquest.entities.EntityVampireBat"
+  },
+  {
+    "Name": "toroquest_sentry",
+    "Registry ID": "toroquest:toroquest_sentry",
+    "Class": "net.torocraft.toroquest.entities.EntitySentry"
+  },
+  {
+    "Name": "toroquest_rainbow_guard",
+    "Registry ID": "toroquest:toroquest_rainbow_guard",
+    "Class": "net.torocraft.toroquest.entities.EntityRainbowGuard"
+  },
+  {
+    "Name": "toroquest_rainbow_king",
+    "Registry ID": "toroquest:toroquest_rainbow_king",
+    "Class": "net.torocraft.toroquest.entities.EntityRainbowKing"
+  },
+  {
+    "Name": "toroquest_fugitive",
+    "Registry ID": "toroquest:toroquest_fugitive",
+    "Class": "net.torocraft.toroquest.entities.EntityFugitive"
+  }
+]

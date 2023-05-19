@@ -1,0 +1,23 @@
+setIcon("ebwizardry:wizard_robe")
+setTitle("The Aspiring Wizard!")
+setDescription("Complete the Aspiring Wizard set.")
+
+addParent("triumph:advancements/setbonuses/goldarmor")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Vanilla Wizard Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_hat")
+
+criteria = addCriteria("Vanilla Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_robe")
+
+criteria = addCriteria("Vanilla Wizard Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_leggings")
+
+criteria = addCriteria("Vanilla Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_boots")
+
+hideLines()
+alwaysVisible()
+setPos(-592,119)

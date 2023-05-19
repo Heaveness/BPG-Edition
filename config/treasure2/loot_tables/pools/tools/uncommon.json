@@ -1,0 +1,583 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "uncommon_tools",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "iron_sword",
+					"type": "item",
+					"name": "minecraft:iron_sword",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "iron_pickaxe",
+					"type": "item",
+					"name": "minecraft:iron_pickaxe",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "iron_axe",
+					"type": "item",
+					"name": "minecraft:iron_axe",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "iron_shovel",
+					"type": "item",
+					"name": "minecraft:iron_shovel",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "shield_basic_iron",
+					"type": "item",
+					"name": "spartanshields:shield_basic_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "battleaxe_iron",
+					"type": "item",
+					"name": "spartanweaponry:battleaxe_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "boomerang_iron",
+					"type": "item",
+					"name": "spartanweaponry:boomerang_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "crossbow_iron",
+					"type": "item",
+					"name": "spartanweaponry:crossbow_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "dagger_iron",
+					"type": "item",
+					"name": "spartanweaponry:dagger_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "glaive_iron",
+					"type": "item",
+					"name": "spartanweaponry:glaive_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "greatsword_iron",
+					"type": "item",
+					"name": "spartanweaponry:greatsword_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "halberd_iron",
+					"type": "item",
+					"name": "spartanweaponry:halberd_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "hammer_iron",
+					"type": "item",
+					"name": "spartanweaponry:hammer_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "javelin_iron",
+					"type": "item",
+					"name": "spartanweaponry:javelin_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "katana_iron",
+					"type": "item",
+					"name": "spartanweaponry:katana_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "lance_iron",
+					"type": "item",
+					"name": "spartanweaponry:lance_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "longbow_iron",
+					"type": "item",
+					"name": "spartanweaponry:longbow_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "longsword_iron",
+					"type": "item",
+					"name": "spartanweaponry:longsword_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "mace_iron",
+					"type": "item",
+					"name": "spartanweaponry:mace_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "pike_iron",
+					"type": "item",
+					"name": "spartanweaponry:pike_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "rapier_iron",
+					"type": "item",
+					"name": "spartanweaponry:rapier_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "saber_iron",
+					"type": "item",
+					"name": "spartanweaponry:saber_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "spear_iron",
+					"type": "item",
+					"name": "spartanweaponry:spear_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "staff_iron",
+					"type": "item",
+					"name": "spartanweaponry:staff_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "throwing_axe_iron",
+					"type": "item",
+					"name": "spartanweaponry:throwing_axe_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "throwing_knife_iron",
+					"type": "item",
+					"name": "spartanweaponry:throwing_knife_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "warhammer_iron",
+					"type": "item",
+					"name": "spartanweaponry:warhammer_iron",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "golden_sword",
+					"type": "item",
+					"name": "minecraft:golden_sword",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "golden_pickaxe",
+					"type": "item",
+					"name": "minecraft:golden_pickaxe",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "golden_axe",
+					"type": "item",
+					"name": "minecraft:golden_axe",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "golden_shovel",
+					"type": "item",
+					"name": "minecraft:golden_shovel",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "shield_basic_gold",
+					"type": "item",
+					"name": "spartanweaponry:shield_basic_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "battleaxe_gold",
+					"type": "item",
+					"name": "spartanweaponry:battleaxe_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "boomerang_gold",
+					"type": "item",
+					"name": "spartanweaponry:boomerang_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "dagger_gold",
+					"type": "item",
+					"name": "spartanweaponry:dagger_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "glaive_gold",
+					"type": "item",
+					"name": "spartanweaponry:glaive_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "greatsword_gold",
+					"type": "item",
+					"name": "spartanweaponry:greatsword_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "halberd_gold",
+					"type": "item",
+					"name": "spartanweaponry:halberd_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "hammer_gold",
+					"type": "item",
+					"name": "spartanweaponry:hammer_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "javelin_gold",
+					"type": "item",
+					"name": "spartanweaponry:javelin_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "katana_gold",
+					"type": "item",
+					"name": "spartanweaponry:katana_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "lance_gold",
+					"type": "item",
+					"name": "spartanweaponry:lance_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "longsword_gold",
+					"type": "item",
+					"name": "spartanweaponry:longsword_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "mace_gold",
+					"type": "item",
+					"name": "spartanweaponry:mace_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "pike_gold",
+					"type": "item",
+					"name": "spartanweaponry:pike_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "rapier_gold",
+					"type": "item",
+					"name": "spartanweaponry:rapier_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "saber_gold",
+					"type": "item",
+					"name": "spartanweaponry:saber_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "spear_gold",
+					"type": "item",
+					"name": "spartanweaponry:spear_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "staff_gold",
+					"type": "item",
+					"name": "spartanweaponry:staff_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "throwing_axe_gold",
+					"type": "item",
+					"name": "spartanweaponry:throwing_axe_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "throwing_knife_gold",
+					"type": "item",
+					"name": "spartanweaponry:throwing_knife_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "warhammer_gold",
+					"type": "item",
+					"name": "spartanweaponry:warhammer_gold",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				}
+			]
+		}
+	]
+}

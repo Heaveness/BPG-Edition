@@ -1,0 +1,114 @@
+[
+  {
+    "identifier": "vortex",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:frostmaw", "aether_legacy:sun_spirit"],
+    "alwaysOnEntity": ["mowziesmobs:ferrous_wroughtnaut", "iceandfire:cyclops", "aether_legacy:slider", "artifacts:mimic"],
+    "tier": 3
+  },
+  {
+    "identifier": "cinder",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:frostmaw", "aether_legacy:slider", "ancientbeasts:vessel", "ancientbeasts:damcell"],
+    "alwaysOnEntity": ["aether_legacy:valkyrie_queen", "aether_legacy:sun_spirit"],
+    "tier": 1
+  },
+  {
+    "identifier": "arctic",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:frostmaw", "aether_legacy:sun_spirit", "ancientbeasts:vessel", "ancientbeasts:sandy", "ancientbeasts:damcell"],
+    "alwaysOnEntity": ["aether_legacy:valkyrie_queen", "aether_legacy:slider"],
+    "tier": 2
+  },
+  {
+    "identifier": "desecrator",
+    "enabled": true,
+    "entityBlacklist": ["aether_legacy:sun_spirit", "ancientbeasts:sandy"],
+    "alwaysOnEntity": ["grimoireofgaia:dullahan", "aether_legacy:slider", "ancientbeasts:damcell"],
+    "tier": 3
+  },
+  {
+    "identifier": "scrapper",
+    "enabled": true,
+    "entityBlacklist": ["aether_legacy:sun_spirit", "ancientbeasts:sandy"],
+    "alwaysOnEntity": [],
+    "tier": 1
+  },
+  {
+    "identifier": "reflecting",
+    "enabled": true,
+    "entityBlacklist": ["aether_legacy:sun_spirit", "ancientbeasts:sandy", "ancientbeasts:damcell"],
+    "alwaysOnEntity": [],
+    "tier": 2
+  },
+  {
+    "identifier": "knockback",
+    "enabled": true,
+    "entityBlacklist": ["aether_legacy:sun_spirit", "ancientbeasts:sandy", "ancientbeasts:damcell"],
+    "alwaysOnEntity": ["mowziesmobs:barako", "ancientbeasts:vessel"],
+    "tier": 1
+  },
+  {
+    "identifier": "jailer",
+    "enabled": true,
+    "entityBlacklist": ["aether_legacy:valkyrie_queen", "mowziesmobs:barako", "thaumcraft:cultistcleric", "thaumcraft:cultistknight", "aether_legacy:sun_spirit", "aether_legacy:slider", "artifacts:mimic", "ancientbeasts:vessel", "ancientbeasts:sandy"],
+    "alwaysOnEntity": ["thaumcraft:cultistleader", "iceandfire:gorgon"],
+    "tier": 3
+  },
+  {
+    "identifier": "dampening",
+    "enabled": true,
+    "entityBlacklist": ["aether_legacy:sun_spirit", "aether_legacy:slider", "ancientbeasts:sandy"],
+    "alwaysOnEntity": ["ancientbeasts:vessel"],
+    "tier": 2
+  },
+  {
+    "identifier": "lively",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:ferrous_wroughtnaut", "aether_legacy:sun_spirit", "aether_legacy:slider", "ancientbeasts:sandy", "ancientbeasts:zealot", "ancientbeasts:damcell", "aether_legacy:valkyrie_queen"],
+    "alwaysOnEntity": ["iceandfire:if_troll", "iceandfire:cyclops"],
+    "tier": 1
+  },
+  {
+    "identifier": "adaptable",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:ferrous_wroughtnaut", "aether_legacy:valkyrie_queen", "aether_legacy:sun_spirit", "aether_legacy:slider", "ancientbeasts:sandy", "ancientbeasts:damcell"],
+    "alwaysOnEntity": [],
+    "tier": 4
+  },
+  {
+    "identifier": "infested",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:ferrous_wroughtnaut", "aether_legacy:valkyrie_queen", "aether_legacy:sun_spirit", "aether_legacy:slider", "mowziesmobs:barakoana", "ancientbeasts:sandy", "ancientbeasts:vessel", "ancientbeasts:damcell"],
+    "alwaysOnEntity": [],
+    "tier": 2
+  },
+  {
+    "identifier": "hasty",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:foliaath", "aether_legacy:sun_spirit", "aether_legacy:slider", "ancientbeasts:vessel", "ancientbeasts:sandy", "ancientbeasts:damcell"],
+    "alwaysOnEntity": ["minecraft:creeper", "netherex:spore_creeper", "primitivemobs:festive_creeper","primitivemobs:rocket_creeper", "primitivemobs:support_creeper", "specialmobs:darkcreeper", "specialmobs:deathcreeper", "specialmobs:doomcreeper", "specialmobs:drowningcreeper", "specialmobs:endercreeper", "specialmobs:firecreeper", "specialmobs:gravelcreeper", "specialmobs:jumpingcreeper", "specialmobs:lightningcreeper", "specialmobs:specialcreeper", "specialmobs:splittingcreeper"],
+    "tier": 1
+  },
+  {
+    "identifier": "shielding",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:ferrous_wroughtnaut", "aether_legacy:sun_spirit", "aether_legacy:slider", "aether_legacy:valkyrie_queen", "artifacts:mimic", "ancientbeasts:vessel", "ancientbeasts:damcell"],
+    "alwaysOnEntity": ["ancientbeasts:zealot"],
+    "tier": 4
+  },
+  {
+    "identifier": "molten",
+    "enabled": true,
+    "entityBlacklist": ["mowziesmobs:frostmaw", "aether_legacy:slider", "ancientbeasts:sandy"],
+    "alwaysOnEntity": ["aether_legacy:sun_spirit", "ancientbeasts:sandy"],
+    "tier": 3
+  },
+  {
+    "identifier": "plagued",
+    "enabled": true,
+    "entityBlacklist": ["aether_legacy:valkyrie_queen", "aether_legacy:sun_spirit", "aether_legacy:slider", "ancientbeasts:sandy"],
+    "alwaysOnEntity": [],
+    "tier": 4
+  }
+]

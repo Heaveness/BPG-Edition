@@ -1,0 +1,19 @@
+setIcon(<simpledifficulty:campfire>)
+setTitle("Hot to the touch!")
+setDescription("Craft a Strong Campfire!")
+
+addParent("triumph:advancements/cook/minecraftFurnace")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Strong Campfire", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:campfire")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-123,211)

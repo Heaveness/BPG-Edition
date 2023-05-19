@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:fridge>)
+setTitle("Cool your head off!")
+setDescription("Craft a Fridge.")
+
+addParent("triumph:advancements/cook/kitchenCookingtable")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Fridge", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:fridge")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-123,84)

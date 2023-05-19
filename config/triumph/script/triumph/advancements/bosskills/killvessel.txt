@@ -1,0 +1,14 @@
+setIcon(<ancientbeasts:ectoplasm>)
+setTitle("The Master of Puppets & Tricks!")
+setDescription("Defeat The Puppet Vessel!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("puppet_vessel", "minecraft:player_killed_entity")
+criteria.setEntityType("ancientbeasts:vessel")
+
+setRewardExperience(125)
+
+hideLines()
+alwaysVisible()
+setPos(-95,211)

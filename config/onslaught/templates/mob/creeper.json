@@ -1,0 +1,65 @@
+{
+  "creeper": {
+    "id": "minecraft:creeper"
+  },
+  "creeper_reinforcement_00": {
+    "id": "minecraft:creeper",
+	"effects": [
+      {
+        "id": "minecraft:resistance",
+        "duration": 4800,
+        "amplifier": 1,
+        "showParticles": true
+      }
+    ],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.2 }
+          }
+        }
+      }
+  },
+  "creeper_reinforcement_01": {
+    "id": "minecraft:creeper",
+	"effects": [
+      {
+        "id": "minecraft:resistance",
+        "duration": 4800,
+        "amplifier": 1,
+        "showParticles": true
+      }
+    ],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 }
+          }
+        }
+      }
+  },
+  "creeper_boss": {
+    "id": "minecraft:creeper",
+    "effects": [
+      {
+        "id": "minecraft:speed",
+        "duration": 5000,
+        "amplifier": 1,
+        "showParticles": true
+      }
+    ],
+    "extraLootTables": ["onslaught:zombie_boss"],
+    "nbt": {
+	  "powered": 1,
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.2 },
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 },
+            "Mining": { "Range": 4, "SpeedModifier": 1 }
+          }
+        }
+      }
+    }
+  }
+}

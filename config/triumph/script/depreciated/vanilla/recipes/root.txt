@@ -1,0 +1,3 @@
+addCriteria("impossible", "minecraft:impossible")
+
+setHidden(true)

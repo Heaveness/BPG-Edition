@@ -1,0 +1,13 @@
+setIcon(<minecraft:skull, meta:4>)
+setTitle("Aww Man")
+setDescription("Die by a Creeper one time.")
+
+addParent("triumph:advancements/deaths/root")
+
+
+criteria = addCriteria("Creeper", "minecraft:entity_killed_player")
+criteria.setEntityType("creeper")
+
+// hideLines()
+setHidden(true)
+setPos(64,113)

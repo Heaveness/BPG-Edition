@@ -1,0 +1,1821 @@
+[
+  {
+    "comment": "This file contains custom reforging materials. By default, you can reforge
+                a tool with its repair item (like iron ingots for an iron sword), but some
+                items don't have a repair item, like bows. This adds items to reforge those.
+                It can also add an item for 'any', which will work for any item that can't be
+                reforged otherwise. For more info about how to add materials, visit:
+                https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
+    "tool": "any",
+    "material": {
+        "item": "simpleores:mythril_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:bow"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:fishing_rod"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:wooden_hoe"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:stone_hoe"
+    },
+    "material": {
+        "ore_dict": "cobblestone"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:iron_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:iron_horse_armor"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:golden_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:golden_horse_armor"
+    },
+    "material": {
+        "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:diamond_hoe"
+    },
+    "material": {
+        "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:diamond_horse_armor"
+    },
+    "material": {
+        "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+        "item": "betterwithaddons:greatbow"
+    },
+    "material": {
+        "ore_dict": "gemOnyx"
+    }
+  },
+  {
+    "tool": {
+        "item": "simpleores:mythril_bow"
+    },
+    "material": {
+        "ore_dict": "ingotMythril"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:tool_sword_endorium"
+    },
+    "material": {
+        "item": "endreborn:item_ingot_endorium"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:ender_sword"
+    },
+    "material": {
+        "item": "endreborn:item_ingot_endorium"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:tool_magnifier"
+    },
+    "material": {
+        "item": "endreborn:item_ingot_endorium"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:entropy_wand"
+    },
+    "material": {
+        "item": "endreborn:item_ingot_endorium"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:armour_chestplate_obsidian"
+    },
+    "material": {
+        "item": "minecraft:obsidian"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:armour_helmet_helmet"
+    },
+    "material": {
+        "item": "minecraft:obsidian"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:armour_boots_obsidian"
+    },
+    "material": {
+        "item": "minecraft:obsidian"
+    }
+  },
+  {
+    "tool": {
+        "item": "endreborn:armour_leggings_obsidian"
+    },
+    "material": {
+        "item": "minecraft:obsidian"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:peridot_sword"
+    },
+    "material": {
+        "ore_dict": "gemPeridot"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:sapphire_sword"
+    },
+    "material": {
+        "ore_dict": "gemSapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:ruby_sword"
+    },
+    "material": {
+        "ore_dict": "gemRuby"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:malachite_sword"
+    },
+    "material": {
+        "ore_dict": "gemAmethyst"
+    }
+  },
+    {
+    "tool": {
+        "item": "atop:mud_helmet"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_chestplate"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_leggings"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_boots"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_shovel"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_pickaxe"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_axe"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+      {
+    "tool": {
+        "item": "atop:mud_sword"
+    },
+    "material": {
+        "ore_dict": "ingotBronze"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:amethyst_helmet"
+    },
+    "material": {
+        "ore_dict": "gemAmethyst"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:amethyst_chestplate"
+    },
+    "material": {
+        "ore_dict": "gemAmethyst"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:amethyst_leggings"
+    },
+    "material": {
+        "ore_dict": "gemAmethyst"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:amethyst_boots"
+    },
+    "material": {
+        "ore_dict": "gemAmethyst"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:peridot_boots"
+    },
+    "material": {
+        "ore_dict": "gemPeridot"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:peridot_leggings"
+    },
+    "material": {
+        "ore_dict": "gemPeridot"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:peridot_chestplate"
+    },
+    "material": {
+        "ore_dict": "gemPeridot"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:peridot_helmet"
+    },
+    "material": {
+        "ore_dict": "gemPeridot"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:ruby_helmet"
+    },
+    "material": {
+        "ore_dict": "gemRuby"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:ruby_chestplate"
+    },
+    "material": {
+        "ore_dict": "gemRuby"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:ruby_leggings"
+    },
+    "material": {
+        "ore_dict": "gemRuby"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:ruby_boots"
+    },
+    "material": {
+        "ore_dict": "gemRuby"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:sapphire_helmet"
+    },
+    "material": {
+        "ore_dict": "gemSapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:sapphire_chestplate"
+    },
+    "material": {
+        "ore_dict": "gemSapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:sapphire_leggings"
+    },
+    "material": {
+        "ore_dict": "gemSapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "atop:sapphire_boots"
+    },
+    "material": {
+        "ore_dict": "gemSapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_pickaxe"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_axe"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_shovel"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_helmet"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_chestplate"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_leggings"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_boots"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "msmlegacy:relic_aqueous"
+    },
+    "material": {
+        "item": "harvestcraft:chilipepperitem"
+    }
+  },
+
+  {
+    "tool": {
+        "item": "msmlegacy:wither_bane"
+    },
+    "material": {
+        "item": "quark:biotite"
+    }
+  },
+  {
+    "tool": {
+        "item": "dungeontactics:silver_sword"
+    },
+    "material": {
+        "item": "quark:biotite"
+    }
+  },
+  {
+    "tool": {
+        "item": "msmlegacy:dawn_star"
+    },
+    "material": {
+        "item": "biomesoplenty:biome_essence"
+    }
+  },
+  {
+    "tool": {
+        "item": "msmlegacy:glacial_blade"
+    },
+    "material": {
+        "item": "iceandfire:dragonsteel_fire_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "msmlegacy:glacial_blade"
+    },
+    "material": {
+        "item": "iceandfire:dragonsteel_ice_ingot"
+    }
+  },
+
+
+  {
+    "tool": {
+        "item": "msmlegacy:aethers_guard"
+    },
+    "material": {
+        "item": "aether_legacy:zanite_gemstone"
+    }
+  },
+
+  {
+    "tool": {
+        "item": "msmlegacy:crystaline_blade"
+    },
+    "material": {
+        "item": "biomesoplenty:biome_essence"
+    }
+  },
+
+  {
+    "tool": {
+        "item": "msmlegacy:eye_end_blade"
+    },
+    "material": {
+        "item": "endreborn:item_ingot_endorium"
+    }
+  },
+  {
+    "tool": {
+        "item": "msmlegacy:eye_end_blade"
+    },
+    "material": {
+        "item": "aether_legacy:zanite_gemstone"
+    }
+  },
+  {
+    "tool": {
+        "item": "msmlegacy:eye_end_blade"
+    },
+    "material": {
+        "item": "netherex:rime_crystal"
+    }
+  },
+  {
+    "tool": {
+        "item": "msmlegacy:eye_end_blade"
+    },
+    "material": {
+        "item": "minecraft:glass"
+    }
+  },
+
+  {
+    "tool": {
+        "item": "msmlegacy:draconic_blade"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+
+  {
+    "tool": {
+        "item": "msmlegacy:gladiolus"
+    },
+    "material": {
+        "item": "minecraft:red_flower",
+        "meta": 1
+    }
+  },
+
+  {
+    "tool": {
+        "item": "msmlegacy:vampiric_blade"
+    },
+    "material": {
+        "item": "iceandfire:silver_ingot"
+    }
+  },
+                    
+  {
+    "tool": {
+        "item": "mowziesmobs:wrought_axe"
+    },
+    "material": {
+        "item": "minecraft:iron_block"
+    }
+  },
+                      
+					
+ {
+    "tool": {
+        "item": "rats:black_death_mask"
+    },
+    "material": {
+        "item": "rats:plague_essence"
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_pickaxe"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_shovel"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_axe"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_hoe"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_sword"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_helmet"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_chestplate"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_leggings"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "aquaculture:neptunium_boots"
+    },
+    "material": {
+        "item": "aquaculture:loot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:ice_helmet"
+    },
+    "material": {
+        "item": "minecraft:packed_ice"
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:ice_chestplate"
+    },
+    "material": {
+        "item": "minecraft:packed_ice"
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:ice_leggings"
+    },
+    "material": {
+        "item": "minecraft:packed_ice"
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:ice_boots"
+    },
+    "material": {
+        "item": "minecraft:packed_ice"
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:wool_helmet"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+		"meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:wool_chestplate"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+		"meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:wool_leggings"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+		"meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "simpledifficulty:wool_boots"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+		"meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat_fire"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe_fire"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings_fire"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots_fire"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat_ice"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 2
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe_ice"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 2
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings_ice"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 2
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots_ice"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 2
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat_lightning"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 3
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe_lightning"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 3
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings_lightning"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 3
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots_lightning"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 3
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat_necromancy"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 4
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe_necromancy"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 4
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings_necromancy"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 4
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots_necromancy"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 4
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat_earth"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 5
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe_earth"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 5
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings_earth"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 5
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots_earth"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 5
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat_sorcery"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe_sorcery"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings_sorcery"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots_sorcery"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 6
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_hat_healing"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 7
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_robe_healing"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 7
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_leggings_healing"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 7
+    }
+  },
+  {
+    "tool": {
+        "item": "ebwizardry:wizard_boots_healing"
+    },
+    "material": {
+        "item": "ebwizardry:magic_crystal",
+        "meta": 7
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_hood"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_robe"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_belt"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_boots"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_hood"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_robe"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_belt"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_boots"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "fishingmadebetter:basic_fishing_rod"
+    },
+    "material": {
+        "item": "minecraft:string"
+    }
+  },
+  {
+    "tool": {
+        "item": "fishingmadebetter:iron_fishing_rod"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "fishingmadebetter:diamond_fishing_rod"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_axe"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_sword"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_shovel"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_pick"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_hoe"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_helm"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_chest"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_legs"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:thaumium_boots"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:cloth_chest"
+    },
+    "material": {
+        "item": "thaumcraft:fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:cloth_legs"
+    },
+    "material": {
+        "item": "thaumcraft:fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:cloth_boots"
+    },
+    "material": {
+        "item": "thaumcraft:fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:traveller_boots"
+    },
+    "material": {
+        "item": "thaumcraft:fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:goggles"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 2
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:fortress_helm"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:fortress_chest"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:fortress_legs"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_helm"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_chest"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_legs"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_boots"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_robe_helm"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_robe_chest"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_robe_legs"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_axe"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_sword"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_shovel"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_pick"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:void_hoe"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 1
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:elemental_axe"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:elemental_sword"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:elemental_shovel"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:elemental_pick"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:elemental_hoe"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:primal_crusher"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_blade"
+    },
+    "material": {
+        "item": "thaumcraft:ingot",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_plate_helm"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_plate_chest"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_plate_legs"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_boots"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_robe_helm"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_robe_chest"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_robe_legs"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_praetor_helm"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_praetor_chest"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:crimson_praetor_legs"
+    },
+    "material": {
+        "item": "betterwithmods:material",
+        "meta": 14
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumcraft:caster_basic"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_hood"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_robe"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_belt"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:adaminite_boots"
+    },
+    "material": {
+        "item": "thaumadditions:adaminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_hood"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_robe"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_belt"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "thaumadditions:mithminite_boots"
+    },
+    "material": {
+        "item": "thaumadditions:mithminite_fabric"
+    }
+  },
+  {
+    "tool": {
+        "item": "rats:plague_scythe"
+    },
+    "material": {
+        "item": "rats:plague_essence"
+    }
+  },
+  {
+    "tool": {
+        "item": "mowziesmobs:wrought_helmet"
+    },
+    "material": {
+        "item": "minecraft:iron_block"
+    }
+  },
+  {
+	  "tool": {
+        "item": "spartancompat:crossbow_adamantium"
+      },
+		"material": {
+        "item": "minecraft:iron_block"
+	}
+  },
+  {
+	  "tool": {
+	    "item": "spartancompat:crossbow_gravitite"
+      },
+		"material": {
+        "item": "aether_legacy:gravitite_ore"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartancompat:crossbow_mythril"
+      },
+		"material": {
+        "item": "simpleores:mythril_ingot"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartancompat:crossbow_onyx"
+      },
+		"material": {
+        "item": "simpleores:onyx_ore"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartancompat:crossbow_soulforged_steel"
+      },
+		"material": {
+        "item": "betterwithmods:material",
+		"meta": 14
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartancompat:crossbow_zanite"
+      },
+		"material": {
+        "item": "aether_legacy:zanite_ore"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_desert"
+      },
+		"material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_desert_venom"
+      },
+		"material": {
+        "item": "iceandfire:myrmex_desert_chitin"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_dragonbone"
+      },
+		"material": {
+        "item": "iceandfire:dragonbone"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_fire_dragonbone"
+      },
+		"material": {
+        "item": "iceandfire:dragonbone"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_fire_dragonsteel"
+      },
+		"material": {
+        "item": "iceandfire:dragonsteel_fire_ingot"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_ice_dragonbone"
+      },
+		"material": {
+        "item": "iceandfire:dragonbone"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_ice_dragonsteel"
+      },
+		"material": {
+        "item": "iceandfire:dragonsteel_fire_ingot"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_jungle"
+      },
+		"material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanfire:crossbow_jungle_venom"
+      },
+		"material": {
+        "item": "iceandfire:myrmex_jungle_chitin"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanweaponry:crossbow_bronze"
+      },
+		"material": {
+        "item": "contenttweaker:material_part",
+		"meta": 0
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanweaponry:crossbow_copper"
+      },
+		"material": {
+        "item": "contenttweaker:material_part",
+		"meta": 0
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanweaponry:crossbow_diamond"
+      },
+		"material": {
+        "item": "minecraft:diamond"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanweaponry:crossbow_electrum"
+      },
+		"material": {
+        "item": "contenttweaker:material_part",
+		"meta": 12
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanweaponry:crossbow_iron"
+      },
+		"material": {
+        "item": "minecraft:iron_ingot"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanweaponry:crossbow_silver"
+      },
+		"material": {
+        "item": "dungeontactics:silver_ingot"
+	}
+  },
+  {
+	  "tool": {
+        "item": "spartanweaponry:crossbow_tin"
+      },
+		"material": {
+        "item": "simpleores:tin_ingot"
+	}
+  }
+]

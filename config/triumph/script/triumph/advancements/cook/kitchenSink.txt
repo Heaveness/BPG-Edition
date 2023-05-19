@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:sink>)
+setTitle("Let that sink in...")
+setDescription("Craft a Kitchen Sink.")
+
+addParent("triumph:advancements/cook/kitchenBook")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Sink", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:sink")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-55,84)

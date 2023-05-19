@@ -1,0 +1,18 @@
+{
+  "playerReviveTime": 80,
+  "playerReviveSurviveTime": 1600,
+  "playerHealthAfter": 5,
+  "playerFoodAfter": 10,
+  "banPlayerAfterDeath": false,
+  "exhaustion": 0.2,
+  "disableSounds": false,
+  "disableBleedingMessage": false,
+  "disableGiveUp": false,
+  "disableDisconnect": false,
+  "allowCommandsWhileBleeding": false,
+  "bypassDamageSources": [
+    "gorgon",
+    "death.attack.sgcraft:transient",
+    "death.attack.sgcraft:iris"
+  ]
+}

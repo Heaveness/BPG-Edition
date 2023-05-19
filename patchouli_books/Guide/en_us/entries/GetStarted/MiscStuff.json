@@ -1,0 +1,77 @@
+{
+    "name": "8) Miscellaneous!",
+    "icon": "openblocks:auto_anvil",
+    "category": "patchouli:GettingStartedCategory",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "text",
+            "text": "After all of that simple to-do list from the previous entry, you will have a general idea on what to do. This part of the book is about anything else you might find useful to know. It could be crafting stations, items, or gear! $(br2)Just don't say $(o)[The guidebook didn't mention this item]$(), the publisher is sick and tired of hearing about it!"
+        },
+        {
+            "type": "text",
+            "text": "Remember to assess your surroundings. $(br2)What biomes are you currently nearby? Are you near a desert, forest, or ocean? $(br)What are you food options? Are they hunting, farming, or fishing? $(br)Is there a reliable source of raw materials? Components such as ores, stone, wood, and sand. $(br)What is the climate like in the area? Cold, hot, or wet?"
+        },
+	{
+            "type": "text",
+            "text": "These are things you should be asking yourself on your first few days. Unless you're already doing it! That's amazing wanderer! Look at you, already a veteran in the making. Arms Master Vendrick would be quite proud of you and your companions. $(br2)$(n)Anyways, here are some recipes you should consider on your adventure:"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "crafttweaker:enchanting_table",
+      	    "recipe2": "Steel Anvil"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "auto_anvil",
+      	    "recipe2": "handcraftingpad"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "antiqueatlas:atlas_blank",
+      	    "recipe2": "crafttweaker:forgiving tool reforging station"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "crafttweaker:telescope",
+      	    "recipe2": "crafttweaker:waystone"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "crafttweaker:auto_ladder_steel",
+      	    "recipe2": "advancedliftingmethods:tile.double_oak_stairs"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "advancedliftingmethods:tile.blowing_elevator",
+      	    "recipe2": "crafttweaker:ender_elevator"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "crafttweaker:ct_shaped-1314594434",
+      	    "recipe2": "dungeontactics:tools/flint_and_steel"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "harvestcraft:market",
+      	    "recipe2": "shipping_bin"
+        },
+	{
+            "type": "text",
+            "text": "$(n)Assess your surroundings:$()$(br) $(li)If there is a forest nearby then try to get a sizeable amount of lumber to build yourself tools and other materials. $(br2)$(li)If you are in a tundra immediately look for ways to keep warm. Try a campfire and stay underground. $(br2)$(li)If you stuck in the desert, then immediately look for a water source to stay cool and quench your thirst."
+        },
+	{
+            "type": "text",
+            "text": "Please DO NOT terrorize or disturb the peaceful villagers. It is not in your best interest to anger them, otherwise you will be attacked on sight. $(br2)Lastly, only quitters will try to $(k)rebirth $()again for a better start in their journey. Just tough it up and do your best to survive. Whatever doesn't kill you makes you... wait... nevermind."
+        },
+	{
+            "type": "image",
+	    "title": "A peaceful village!",
+            "border": true,
+            "text": "Stop bothering them! It's not free stuff!",
+      	    "images": [
+        	    "rotn:textures/book/photo/VillageSketch.png"
+      		]
+        }
+    ]
+}

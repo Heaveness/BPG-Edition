@@ -1,0 +1,80 @@
+{
+    "name": "15) Base Designs",
+    "icon": "betterwithaddons:steel_carpentersaw",
+    "category": "patchouli:BaseBuildingCategory",
+    "sortnum": 15,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Before you finish this category of the guide, this portion is to commemorate all the wonderful builders who volunteered to donate their base designs for you to take inspirations from! Isn't that nice of them? The publisher even used an expensive experimental image capturing magic for your optimal delight."
+        },
+        {
+            "type": "text",
+            "text": "$(l)DISCLAIMER:$() $(br)These base designs are under the copyright protection of Advanced Darkness Prints. Any who use these designs that are purposely claiming as their own, other than the designers themselves, can be subjected to a harsh jail sentence. Please build responsibly! $(br2)Please refer to the next several pages on base designs. Enjoy!"
+        },
+        {
+            "type": "image",
+	    "title": "Fort in the Hills",
+            "border": true,
+            "text": "By: Correlander",
+      	    "images": [
+        	    "rotn:textures/book/basedesign/Correlander2Sketch.png",
+        	    "rotn:textures/book/basedesign/Correlander2.png",
+        	    "rotn:textures/book/basedesign/Correlander1Sketch.png",
+        	    "rotn:textures/book/basedesign/Correlander1.png"
+      		]
+        },
+        {
+            "type": "image",
+	    "title": "Castle in the Sands",
+            "border": true,
+            "text": "By: Washua the Manic & Varik the Valiant",
+      	    "images": [
+        	    "rotn:textures/book/basedesign/Washua&VarikSketch.png",
+        	    "rotn:textures/book/basedesign/Washua&Varik.png",
+        	    "rotn:textures/book/basedesign/Washua&Varik2Sketch.png",
+        	    "rotn:textures/book/basedesign/Washua&Varik2.png"
+      		]
+        },
+        {
+            "type": "image",
+	    "title": "Fortress on the Edge",
+            "border": true,
+            "text": "By: DawnSparkle & LilyMoriya",
+      	    "images": [
+        	    "rotn:textures/book/basedesign/Dawn&Lily1Sketch.png",
+        	    "rotn:textures/book/basedesign/Dawn&Lily1.png",
+        	    "rotn:textures/book/basedesign/Dawn&Lily2Sketch.png",
+        	    "rotn:textures/book/basedesign/Dawn&Lily2.png"
+      		]
+        },
+        {
+            "type": "image",
+	    "title": "House in the Plains",
+            "border": true,
+            "text": "By: Scarlette the Hermit",
+      	    "images": [
+        	    "rotn:textures/book/basedesign/Scarlette1Sketch.png",
+        	    "rotn:textures/book/basedesign/Scarlette1.png",
+        	    "rotn:textures/book/basedesign/Scarlette2Sketch.png",
+        	    "rotn:textures/book/basedesign/Scarlette2.png"
+      		]
+        },
+        {
+            "type": "image",
+	    "title": "Humble Beginnings",
+            "border": true,
+            "text": "By: The Poetic Bard Athenia",
+      	    "images": [
+        	    "rotn:textures/book/basedesign/AtheniaSketch.png",
+        	    "rotn:textures/book/basedesign/Athenia.png",
+        	    "rotn:textures/book/basedesign/AtheniaSketch2.png",
+        	    "rotn:textures/book/basedesign/Athenia2.png"
+      		]
+        },
+        {
+            "type": "text",
+            "text": "$(l)Note:$() $(br)More base concepts are in the works, as the world expands so shall this book. Stay updated to Advanced Darkness Prints' newsletter and promotional deals for most value for your consistent patronage. $(br2)Once again, we would like to thank you for supporting and contributing this guide book."
+        }
+    ]
+}

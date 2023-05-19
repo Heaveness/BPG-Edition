@@ -1,0 +1,15 @@
+setIcon("msmlegacy:relic_master")
+setTitle("Master Of Many")
+setDescription("Discover Relic 5 of 7")
+
+addParent("triumph:advancements/eastereggs/root")
+
+criteria = addCriteria("Relic 5", "minecraft:inventory_changed")
+criteria.addItem("msmlegacy:relic_master")
+
+
+setRewardExperience(50)
+
+alwaysVisible()
+hideLines()
+setPos(-266,94)

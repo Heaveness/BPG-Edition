@@ -1,0 +1,22 @@
+setIcon("ebwizardry:master_healing_wand")
+setTitle("Wielder of the Divine Light!")
+setDescription("Acquire all levels of the Healing wand.")
+
+addParent("triumph:advancements/setbonuses/wizardhealing")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Novice Healing Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:novice_healing_wand")
+
+criteria = addCriteria("Apprentice Healing Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:apprentice_healing_wand")
+
+criteria = addCriteria("Advanced Healing Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:advanced_healing_wand")
+
+criteria = addCriteria("Master Healing Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:master_healing_wand")
+
+alwaysVisible()
+setPos(-512,-1)

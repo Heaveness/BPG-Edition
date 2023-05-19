@@ -1,0 +1,22 @@
+setIcon("ebwizardry:wizard_robe_healing")
+setTitle("Master of the Divine Light!")
+setDescription("Complete the Master of the Divine Light set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Healing Wizard Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_hat_healing")
+
+criteria = addCriteria("Healing Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_robe_healing")
+
+criteria = addCriteria("Healing Wizard Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_leggings_healing")
+
+criteria = addCriteria("Healing Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_boots_healing")
+
+alwaysVisible()
+setPos(-552,-1)

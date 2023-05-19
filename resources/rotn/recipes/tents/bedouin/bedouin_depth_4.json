@@ -1,0 +1,32 @@
+{
+  "type": "yurtmod:tent_upgrade_depth",
+  "tent_type": "bedouin",
+  "min_size": "giant",
+  "disabled": true,
+  "input_depth": 3,
+  "result_depth": 4,
+  "pattern": [
+   "DBD",
+   "DTD",
+   "DXD"],
+  "key": {
+    "D": {
+        "item": "minecraft:dirt",
+		"data": 0
+      },
+    "B": {
+        "item": "minecraft:obsidian"
+      },
+	"X": {
+        "item": "yurtmod:depth_upgrade_obsidian"
+      },
+	"T": {
+        "item": "yurtmod:tent",
+		"data": 0
+      }
+  },
+  "result": {
+    "item": "yurtmod:tent",
+	 "data": 0
+  }
+}

@@ -1,0 +1,8 @@
+gamerule commandBlockOutput false
+gamerule sendCommandFeedback false
+
+gamestage silentadd @a killedicefiredragon
+gamestage silentadd @a fullDiamondArmor
+gamestage silentadd @a fullEarlyArmor
+gamestage silentadd @a fullMidArmor
+gamestage silentadd @a minedMythril

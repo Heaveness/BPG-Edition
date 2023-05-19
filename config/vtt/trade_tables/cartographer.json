@@ -1,0 +1,271 @@
+{ 
+	Profession:"minecraft:librarian",
+	Career:"cartographer",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"add", CareerLevel:1, maxUses:2, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:2,max:5}
+				},
+				buyB:{
+					id:"minecraft:compass",
+					Count:1
+				},
+				sell:{
+					id:"antiqueatlas:empty_antique_atlas",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:4,max:8}
+				},
+				sell:{
+					id:"locks:steel_lock_pick",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.25,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:8,max:12}
+				},
+				sell:{
+					id:"locks:diamond_lock_pick",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:5,max:10}
+				},
+				sell:{
+					id:"treasure2:iron_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:2,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:10,max:15}
+				},
+				sell:{
+					id:"treasure2:gold_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:3,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:15,max:20}
+				},
+				sell:{
+					id:"treasure2:diamond_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:3, chance:0.75,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:20,max:25}
+				},
+				sell:{
+					id:"treasure2:emerald_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:25,max:32}
+				},
+				sell:{
+					id:"treasure2:ruby_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4, chance:0.50,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:25,max:32}
+				},
+				sell:{
+					id:"treasure2:sapphire_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4, chance:0.25,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:32,max:40}
+				},
+				sell:{
+					id:"treasure2:skeleton_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.10,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:40,max:50}
+				},
+				sell:{
+					id:"treasure2:spider_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.05,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:50,max:64}
+				},
+				sell:{
+					id:"treasure2:jewelled_key",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:16,max:32}
+				},
+				sell:{
+					id:"thaumcraft:grapple_gun",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:32,max:64}
+				},
+				sell:{
+					id:"thaumcraft:recharge_pedestal",
+					Count:1
+				}
+			},
+		{
+			action:"add", CareerLevel:2, chance:0.5,
+				buy:{id:"minecraft:emerald",
+				Count:{min:5,max:10}},
+				sell:{id:"minecraft:glowstone_dust",
+				Count:{min:9,max:18}}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"minecraft:emerald",
+				Count:{min:2,max:6}},
+				sell:{id:"adventurepack:escape_rope",
+				Count:{min:1,max:5}}
+		},
+		{
+			action:"add", CareerLevel:2,
+				buy:{id:"minecraft:emerald",
+				Count:{min:5,max:10}},
+				sell:{id:"adventurepack:mining_helmet",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:4, chance:0.5,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:1,max:2}},
+				sell:{id:"adventurepack:lantern",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"minecraft:emerald",
+				Count:{min:10,max:15}},
+				sell:{id:"improvedbackpacks:backpack",
+				Count:{min:1,max:2}}
+		},
+		{
+			action:"add", CareerLevel:1,
+				buy:{id:"minecraft:emerald",
+				Count:{min:5,max:10}},
+				sell:{id:"improvedbackpacks:blank_upgrade",
+				Count:{min:1,max:4}}
+		},
+		{
+			action:"add", CareerLevel:2, chance:0.75,
+				buy:{id:"minecraft:emerald",
+				Count:{min:20,max:30}},
+				sell:{id:"improvedbackpacks:upgrade",
+				Damage:0,
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:3, chance:0.5,
+				buy:{id:"minecraft:emerald",
+				Count:{min:32,max:64}},
+				sell:{id:"improvedbackpacks:upgrade",
+				Damage:1,
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:4, chance:0.25,
+				buy:{id:"minecraft:emerald",
+				Count:{min:100,max:200}},
+				sell:{id:"improvedbackpacks:upgrade",
+				Damage:2,
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:5, chance:0.25,
+				buy:{id:"minecraft:emerald",
+				Count:{min:32,max:64}},
+				sell:{id:"paraglider:paraglider",
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:5, chance:0.1,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:5,max:10}},
+				sell:{id:"improvedbackpacks:upgrade",
+				Damage:3,
+				Count:1}
+		},
+		{
+			action:"add", CareerLevel:5, chance:0.05,
+				buy:{id:"contenttweaker:nethercoin",
+				Count:{min:10,max:20}},
+				sell:{id:"improvedbackpacks:upgrade",
+				Damage:4,
+				Count:1}
+		},
+			{
+				action:"add", CareerLevel:5, chance:0.05,
+				buy:{
+					id:"harvestcraft:hardenedleatheritem",
+					Count:{min:1,max:4}
+				},
+				buyB:{
+					id:"minecraft:emerald",
+					Count:{min:8,max:15}
+				},
+				sell:{
+					id:"simpledifficulty:canteen",
+					Count:1
+				}
+			}
+		]
+	}
+}

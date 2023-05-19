@@ -1,0 +1,105 @@
+{
+  "hungry_zombie": {
+    "id": "specialmobs:hungryzombie"
+  },
+  "hungry_zombie_reinforcement_00": {
+    "id": "specialmobs:hungryzombie",
+    "nbt": {
+      "HandItems": [
+        { "Count": 1, "id": "minecraft:iron_sword" },
+        { "Count": 1, "id": "minecraft:iron_pickaxe" }
+      ],
+      "HandDropChances": [0.0, 0.0],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 }
+          }
+        }
+      }
+    }
+  },
+  "hungry_zombie_reinforcement_01": {
+    "id": "specialmobs:hungryspider",
+    "nbt": {
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 }
+          }
+        }
+      }
+    }
+  },
+   "hungry_zombie_reinforcement_02": {
+    "id": "specialmobs:hungryspider",
+    "nbt": {
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 }
+          }
+        }
+      }
+    }
+  },
+  "hungry_zombie_reinforcement_03": {
+    "id": "specialmobs:hungryzombie",
+    "nbt": {
+      "HandItems": [
+        { "Count": 1, "id": "minecraft:iron_sword" },
+        { "Count": 1, "id": "minecraft:iron_pickaxe" }
+      ],
+      "HandDropChances": [0.0, 0.0],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 }
+          }
+        }
+      }
+    }
+  },
+  "hungry_zombie_boss": {
+    "id": "specialmobs:hungryzombie",
+    "effects": [
+      {
+        "id": "minecraft:speed",
+        "duration": 5000,
+        "amplifier": 0,
+        "showParticles": true
+      },
+	  {
+        "id": "minecraft:haste",
+        "duration": 5000,
+        "amplifier": 0,
+        "showParticles": true
+      }
+    ],
+    "extraLootTables": ["onslaught:zombie_boss"],
+    "nbt": {
+      "CustomName": "Bob Zombie",
+      "HandItems": [
+        { "Count": 1, "id": "minecraft:iron_sword" },
+        { "Count": 1, "id": "minecraft:iron_sword" }
+      ],
+      "HandDropChances": [0.0, 0.0],
+      "ArmorItems": [
+        { "Count": 1, "id": "minecraft:iron_boots" },
+        { "Count": 1, "id": "minecraft:iron_leggings" },
+        { "Count": 1, "id": "minecraft:iron_chestplate" },
+        { "Count": 1, "id": "minecraft:iron_helmet" }
+      ],
+      "ArmorDropChances": [0.0, 0.0, 0.0, 0.0],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.2 },
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 },
+            "Mining": { "Range": 4, "SpeedModifier": 1 }
+          }
+        }
+      }
+    }
+  }
+}

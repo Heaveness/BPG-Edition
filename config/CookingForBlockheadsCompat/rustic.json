@@ -1,0 +1,15 @@
+{
+  "modid":"rustic",
+  "foods":{
+    "Ingredients":[
+      "tomato",
+      "chili_pepper",
+      "wildberries",
+      "grapes",
+      "olives",
+      "ironberries",
+      "chili_pepper_seeds",
+      "tomato_seeds"
+    ]
+  }
+}

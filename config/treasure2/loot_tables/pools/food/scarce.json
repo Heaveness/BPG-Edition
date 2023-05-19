@@ -1,0 +1,209 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "scarce_food",
+			"rolls": 1,
+			"entries": [
+					{
+					"entryName": "cake",
+					"type": "item",
+					"name": "minecraft:cake",
+					"weight": 50
+				},
+				{
+					"entryName": "carrotcakeitem",
+					"type": "item",
+					"name": "harvestcraft:carrotcakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "cheesecakeitem",
+					"type": "item",
+					"name": "harvestcraft:cheesecakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "cherrycheesecakeitem",
+					"type": "item",
+					"name": "harvestcraft:cherrycheesecakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "chocolatesprinklecakeitem",
+					"type": "item",
+					"name": "harvestcraft:chocolatesprinklecakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "fruitcakeitem",
+					"type": "item",
+					"name": "harvestcraft:fruitcakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "holidaycakeitem",
+					"type": "item",
+					"name": "harvestcraft:holidaycakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "lamingtonitem",
+					"type": "item",
+					"name": "harvestcraft:lamingtonitem",
+					"weight": 50
+				},
+				{
+					"entryName": "pavlovaitem",
+					"type": "item",
+					"name": "harvestcraft:pavlovaitem",
+					"weight": 50
+				},
+				{
+					"entryName": "pineappleupsidedowncakeitem",
+					"type": "item",
+					"name": "harvestcraft:pineappleupsidedowncakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "pumpkincheesecakeitem",
+					"type": "item",
+					"name": "harvestcraft:pumpkincheesecakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "redvelvetcakeitem",
+					"type": "item",
+					"name": "harvestcraft:redvelvetcakeitem",
+					"weight": 50
+				},
+				{
+					"entryName": "applepieitem",
+					"type": "item",
+					"name": "harvestcraft:applepieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "blueberrypieitem",
+					"type": "item",
+					"name": "harvestcraft:blueberrypieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "cherrypieitem",
+					"type": "item",
+					"name": "harvestcraft:cherrypieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "chickenpotpieitem",
+					"type": "item",
+					"name": "harvestcraft:chickenpotpieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "cottagepieitem",
+					"type": "item",
+					"name": "harvestcraft:cottagepieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "gooseberrypieitem",
+					"type": "item",
+					"name": "harvestcraft:gooseberrypieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "keylimepieitem",
+					"type": "item",
+					"name": "harvestcraft:keylimepieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "meatpieitem",
+					"type": "item",
+					"name": "harvestcraft:meatpieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "mincepieitem",
+					"type": "item",
+					"name": "harvestcraft:mincepieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "patreonpieitem",
+					"type": "item",
+					"name": "harvestcraft:patreonpieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "pecanpieitem",
+					"type": "item",
+					"name": "harvestcraft:pecanpieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "raspberrypieitem",
+					"type": "item",
+					"name": "harvestcraft:raspberrypieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "shepardspieitem",
+					"type": "item",
+					"name": "harvestcraft:shepardspieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "slimepieitem",
+					"type": "item",
+					"name": "harvestcraft:slimepieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "spidereyepieitem",
+					"type": "item",
+					"name": "harvestcraft:spidereyepieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "spinachpieitem",
+					"type": "item",
+					"name": "harvestcraft:spinachpieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "strawberrypieitem",
+					"type": "item",
+					"name": "harvestcraft:strawberrypieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "strawberryrhubarbpieitem",
+					"type": "item",
+					"name": "harvestcraft:strawberryrhubarbpieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "sweetpotatopieitem",
+					"type": "item",
+					"name": "harvestcraft:sweetpotatopieitem",
+					"weight": 50
+				},
+				{
+					"entryName": "purified_water_bottle",
+					"type": "item",
+					"name": "simpledifficulty:purified_water_bottle",
+					"weight": 15
+				},
+				{
+					"entryName": "pumpkin_pie",
+					"type": "item",
+					"name": "minecraft:pumpkin_pie",
+					"weight": 50
+				}
+			]
+		}
+	]
+}

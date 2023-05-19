@@ -1,0 +1,93 @@
+{
+  "bone_knight": {
+    "id": "grimoireofgaia:bone_knight"
+  },
+  "bone_knight_reinforcement_00": {
+    "id": "grimoireofgaia:bone_knight",
+	"effects": [
+      {
+        "id": "minecraft:strength",
+        "duration": 5000,
+        "amplifier": 0,
+        "showParticles": true
+      },
+	],
+    "nbt": {
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.2 }
+          }
+        }
+      }
+    }
+  },
+  "bone_knight_reinforcement_01": {
+    "id": "grimoireofgaia:bone_knight",
+	"effects": [
+      {
+        "id": "minecraft:strength",
+        "duration": 5000,
+        "amplifier": 0,
+        "showParticles": true
+      },
+	],
+    "nbt": {
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 }
+          }
+        }
+      }
+    }
+  },
+  "dullahan_boss": {
+    "id": "grimoireofgaia:dullahan",
+    "effects": [
+      {
+        "id": "minecraft:strength",
+        "duration": 5000,
+        "amplifier": 2,
+        "showParticles": true
+      },
+	  {
+        "id": "minecraft:haste",
+        "duration": 5000,
+        "amplifier": 0,
+        "showParticles": true
+      },
+	  {
+        "id": "minecraft:speed",
+        "duration": 5000,
+        "amplifier": 0,
+        "showParticles": true
+      }
+    ],
+    "extraLootTables": ["onslaught:dullahan_boss"],
+    "nbt": {
+      "CustomName": "Dullahan of Grecia",
+      "HandItems": [
+        { "Count": 1, "id": "minecraft:iron_sword" },
+        { "Count": 1, "id": "minecraft:shield" }
+      ],
+      "HandDropChances": [0.0, 0.0],
+      "ArmorItems": [
+        { "Count": 1, "id": "minecraft:iron_boots" },
+        { "Count": 1, "id": "minecraft:iron_leggings" },
+        { "Count": 1, "id": "minecraft:iron_chestplate" },
+        { "Count": 1, "id": "minecraft:iron_helmet" }
+      ],
+      "ArmorDropChances": [0.0, 0.0, 0.0, 0.0],
+      "ForgeData": {
+        "Onslaught": {
+          "CustomAI": {
+            "CounterAttack": { "Chance": 0.2 },
+            "Lunge": { "Range": 6, "SpeedModifier": 0.3 },
+            "Mining": { "Range": 4, "SpeedModifier": 1 }
+          }
+        }
+      }
+    }
+  }
+}

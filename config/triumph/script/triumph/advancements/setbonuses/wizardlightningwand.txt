@@ -1,0 +1,22 @@
+setIcon("ebwizardry:master_lightning_wand")
+setTitle("Wielder of the Thundering Sky!")
+setDescription("Acquire all levels of the Lightning wand.")
+
+addParent("triumph:advancements/setbonuses/wizardlightning")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Novice Lightning Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:novice_lightning_wand")
+
+criteria = addCriteria("Apprentice Lightning Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:apprentice_lightning_wand")
+
+criteria = addCriteria("Advanced Lightning Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:advanced_lightning_wand")
+
+criteria = addCriteria("Master Lightning Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:master_lightning_wand")
+
+alwaysVisible()
+setPos(-512,39)

@@ -1,0 +1,38 @@
+{
+    "name": "22) Credits & Inspirations!",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:ConclusionCategory",
+    "sortnum": 22,
+    "pages": [
+        {
+            "type": "text",
+            "text": "There is where we want to say thank you for reading this guide to the end. Let's acknowledge and credit the people who've helped make this guide. $(br2)$(l)Written by:$() $(o)The Poetic Bard Athenia$() $(br)$(l)Published by:$() $(o)Advanced Darkness Prints$() $(br)$(l)Special Thanks To$()... $(o)Lady$() $(k)Saintess Morgana$()"
+        },
+        {
+            "type": "text",
+            "text": "$(l)Sections Inspired By... $(br2)$(#FFAA00)$(l)For Warriors: $()$(o)The Arms Master Vendrick$() $(br)$(#00AAAA)$(l)For Rogues: $()$(o)The Shadowblade Min-Soo$() $(br)$(#AA00AA)$(l)For Mages: $()$(o)The Arch-Mage Phyneks$() $(br2)$(#FFAA00)$(l)For Builders: $()$(o)The Perfectionist Razlick$() $(br)$(#AA0000)$(l)For Alchemists: $()$(o)The Arch-Apothecary Caz$() $(br)$(#00AA00)$(l)For Chefs: $()$(o)The Connoisseur Lanaya$()"
+        },
+		{
+            "type": "text",
+            "text": "$(l)Honorable mentions:$()$(br2)Knight Captain Meridia$()$(br2)Guild Master Darian$()$(br2)Master Muramasa$()$(br2)Prince Adam$()$(br2)Princess Aela$()$(br2)Lieutenant Vernus$()$(br2)Automaton Lommir$()"
+        },
+		{
+            "type": "image",
+	    "title": "Athenia",
+            "border": true,
+            "text": "The artist Kagurachi's wonderful interpretation of our author & bard!",
+      	    "images": [
+        	    "rotn:textures/book/photo/AtheniaSketch.png"
+      		]
+        },
+        {
+            "type": "text",
+            "text": "$(br2) $(br2) $(br2)$(l)NOTE:$() $(br)We DO NOT allow for any instances of redistribution of this particular copy. Any entity caught copying, marketing, or profiting of this property will be convicted for fraudulent actions and/or copyright infringement on the behalf of the author."
+        },
+        {
+            "type": "text",
+            "text": "$(br2) $(br2) $(br2) $(br2) $(br2) $(l)A Guide to a New Life (2nd Edition)$() $(br)Property of the Author, $(o)Athenia$() $(br)$(l)Distribution rights:$() Advanced Darkness Prints $(br)Published in the Year $(k)1349$()"
+        }
+		
+    ]
+}

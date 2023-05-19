@@ -1,0 +1,24 @@
+{
+  "type": "yurtmod:tent_upgrade_width",
+  "tent_type": "tepee",
+  "input_size": "medium",
+  "result_size": "large",
+  "disabled": true,
+  "pattern": [
+   " W ",
+   "WWW",
+   "WTW"],
+  "key": {
+    "W": {
+        "item": "yurtmod:tepee_wall_piece"
+      },
+	"T": {
+        "item": "yurtmod:tent",
+		"data": 0
+      }
+  },
+  "result": {
+    "item": "yurtmod:tent",
+	 "data": 0
+  }
+}

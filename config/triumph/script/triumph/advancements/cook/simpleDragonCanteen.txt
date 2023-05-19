@@ -1,0 +1,22 @@
+setIcon(<simpledifficulty:dragon_canteen>)
+setTitle("Void Plasma not included!")
+setDescription("Craft a End Dragon Canteen.")
+
+addParent("triumph:advancements/cook/simpleSteelCanteen")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("End Dragon Canteen", "minecraft:inventory_changed")
+criteria.addItem("simpledifficulty:dragon_canteen")
+
+setRewardExperience(75)
+
+// hideLines()
+// setHidden(true)
+setFrameType("CHALLENGE")
+alwaysVisible()
+setPos(-259,180)

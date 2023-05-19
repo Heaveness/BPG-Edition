@@ -1,0 +1,14 @@
+setIcon(<ancientbeasts:shield_book>)
+setTitle("MY LIFE FOR THE HIGHLORD!")
+setDescription("Defeat The Zealot Priest!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("zealot", "minecraft:player_killed_entity")
+criteria.setEntityType("ancientbeasts:zealot")
+
+setRewardExperience(50)
+
+hideLines()
+alwaysVisible()
+setPos(-64,180)

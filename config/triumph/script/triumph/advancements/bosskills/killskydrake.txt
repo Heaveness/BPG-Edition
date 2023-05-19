@@ -1,0 +1,14 @@
+setIcon(<animania:blue_peacock_feather>)
+setTitle("Grounded")
+setDescription("Bring down a fearsome aerial predator.")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("skydrake", "minecraft:player_killed_entity")
+criteria.setEntityType("mowziesmobs:naga")
+
+setRewardExperience(50)
+
+hideLines()
+alwaysVisible()
+setPos(-126,56)

@@ -1,0 +1,2 @@
+gamestage silentadd @a grue_sealed
+playsound grue:grue.death ambient @p ~ ~ ~ 0.8 0.1

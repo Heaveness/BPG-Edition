@@ -1,0 +1,73 @@
+{
+    "name": "10) Warriors",
+    "icon": "spartanshields:shield_basic_iron",
+    "category": "patchouli:CombatStyleCategory",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Let's start with the Warriors! Brave, stoic, and tough defenders of truth, justice, and peace... blah blah blah. You'll get the idea about these folks. They're either no-nonsense or the party-hard types, there doesn't seem to be a middle-ground. $(br2)It's up to you what kind of stoic warrior you will shape up to be. Live a little or die a little."
+        },
+        {
+            "type": "text",
+            "text": "Probably the toughiest bastards you'll ever see, if not the most craziest. They usually wear the thickest suit of armor with an added shield on their off-hand. Although, the more insane ones tend to just charge in with weapons blazing and little to no armor protection. $(br2)One thing is for certain about both of them, they got the guts to prove it. $(m)Just pure madness"
+        },
+	{
+            "type": "text",
+            "text": "The main components of your combat are deeply rooted into skill traits! They'll grant you unique abilities and techniques not seen before! How do you get them? By fighting a continuous battle of enemies until one of them might drop or get lucky and find one inside a loot chest. $(br2) You would either have to fight to the death to get them or get lucky. You can't get any simpler than that."
+        },
+	{
+            "type": "text",
+            "text": "You can open your dynamic skill book with the assigned key$(##FFAA00)(P)$() to get a better grasp on each skill. They can each be further upgraded when you find additional skill traits for their respective abilities. $(br2)You're tough, but not invincible. If nothing else, you could probably hold your alcohol a lot better than the other two fighters."
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "minecraft:iron_helmet",
+      	    "recipe2": "minecraft:iron_chestplate",
+      	    "title": "Upper Body Armor"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "minecraft:iron_leggings",
+      	    "recipe2": "minecraft:iron_boots",
+      	    "title": "Lower Body Armor"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "crafttweaker:iron sword",
+      	    "recipe2": "spartanshields:shield_vanilla_iron",
+      	    "title": "Sword & Shield"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "spartanweaponry:greatsword_iron",
+      	    "recipe2": "spartanweaponry:crossbow_iron",
+      	    "title": "Melee & Range"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "spartanshields:shield_basic_iron",
+      	    "link_recipe": true,
+      	    "text": "$(##FFAA00)Allows you to block majority of attacks and damage. Very useful for any warrior willing to be the frontline of any group. Just remember that projectiles can still hurt you when blocking poorly."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "spartanweaponry:crossbow_iron",
+      	    "link_recipe": true,
+      	    "text": "$(##FFAA00)If bows are too much for you then use a crossbow! A warrior's weakness can be their limit range, but a crossbow can help with that. Just make sure to reload it after every use."
+        },
+	{
+            "type": "text",
+            "text": "While you don't have to follow this part of the entry if you don't want to. This is just to tell you which stats is recommended to invest in. $(br2)$(##FFAA00)Recommended Stats:$() $(br) $(li)Strength - For weapons $(li)Constitution - For armors $(li)Agility or Crafting - Optional, for weapon variety"
+        },
+        {
+            "type": "image",
+	    "title": "Stalwart Defender!",
+            "border": true,
+            "text": "Nothing can physically harm you now! Except maybe mental damage...",
+      	    "images": [
+        	    "rotn:textures/book/photo/WarriorSketch.png"
+      		]
+        }
+    ]
+}

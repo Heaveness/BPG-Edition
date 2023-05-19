@@ -1,0 +1,15 @@
+setIcon(<mutantbeasts:chemical_x>)
+setTitle("ZOMBIE SMASH!")
+setDescription("Free the mutant beast from its rage!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("mutant_zombie", "minecraft:player_killed_entity")
+criteria.setEntityType("mutantbeasts:mutant_zombie")
+
+setRewardExperience(75)
+
+hideLines()
+alwaysVisible()
+
+setPos(-219,180)

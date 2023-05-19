@@ -1,0 +1,22 @@
+setIcon("ebwizardry:master_lightning_wand")
+setTitle("Wielder of the Fiery Core!")
+setDescription("Acquire all levels of the Fire wand.")
+
+addParent("triumph:advancements/setbonuses/wizardfire")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Novice Fire Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:novice_fire_wand")
+
+criteria = addCriteria("Apprentice Fire Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:apprentice_fire_wand")
+
+criteria = addCriteria("Advanced Fire Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:advanced_fire_wand")
+
+criteria = addCriteria("Master Fire Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:master_fire_wand")
+
+alwaysVisible()
+setPos(-512,79)

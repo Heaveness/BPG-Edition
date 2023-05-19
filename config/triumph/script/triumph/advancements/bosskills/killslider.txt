@@ -1,0 +1,15 @@
+setIcon(<aether_legacy:dungeon_block:1>)
+setTitle("Stone Cold Stare")
+setDescription("Defeat The Slider")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("slider", "minecraft:player_killed_entity")
+criteria.setEntityType("aether_legacy:slider")
+
+setRewardExperience(100)
+
+
+hideLines()
+alwaysVisible()
+setPos(-126,180)

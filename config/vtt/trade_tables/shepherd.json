@@ -1,0 +1,84 @@
+{ 
+	Profession:"minecraft:farmer",
+	Career:"shepherd",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"add", CareerLevel:1, maxUses:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:25
+				},
+				buyB:{
+					id:"minecraft:bone",
+					Count:{min:2,max:4}
+				},
+				sell:{
+					id:"doggytalents:doggy_charm",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:2, maxUses:10,
+				buy:{
+					id:"minecraft:emerald",
+					Count:5
+				},
+				buyB:{
+					id:"minecraft:bone",
+					Count:{min:1,max:2}
+				},
+				sell:{
+					id:"doggytalents:training_treat",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:3, maxUses:10,
+				buy:{
+					id:"minecraft:emerald",
+					Count:10
+				},
+				buyB:{
+					id:"minecraft:bone", 
+					Count:{min:4,max:6}
+				},
+				sell:{
+					id:"doggytalents:super_treat",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4, maxUses:10,
+				buy:{
+					id:"minecraft:emerald",
+					Count:25
+				},
+				buyB:{
+					id:"minecraft:bone",
+					Count:{min:8,max:10}
+				},
+				sell:{
+					id:"doggytalents:master_treat",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, maxUses:5, chance:0.10,
+				buy:{
+					id:"minecraft:emerald",
+					Count:50
+				},
+				buyB:{
+					id:"iceandfire:dragonbone",
+					Count:{min:1,max:2}
+				},
+				sell:{
+					id:"doggytalents:dire_treat",
+					Count:1
+				}
+			}
+		]
+	}
+}

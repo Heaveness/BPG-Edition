@@ -1,0 +1,19 @@
+setIcon(<cookingforblockheads:spice_rack>)
+setTitle("Hot & Spicy!")
+setDescription("Craft a Spice Rack.")
+
+addParent("triumph:advancements/cook/kitchenCuttingboard")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Spice Rack", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:spice_rack")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-157,50)

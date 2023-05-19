@@ -1,0 +1,12 @@
+setIcon(<thaumadditions:mithminite_ingot>)
+setTitle("Mythical Legendary Metal")
+setDescription("Acquire a mithminite ingot")
+
+addParent("triumph:advancements/ores/adaminite")
+
+criteria = addCriteria("Mithminite Ingot", "minecraft:inventory_changed")
+criteria.addItem(<thaumadditions:mithminite_ingot>)
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(60,-130)

@@ -1,0 +1,14 @@
+setIcon(<ancientbeasts:spike>)
+setTitle("Madame de Fer!")
+setDescription("Defeat The Iron Maiden!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("iron_maiden", "minecraft:player_killed_entity")
+criteria.setEntityType("ancientbeasts:damcell")
+
+setRewardExperience(75)
+
+hideLines()
+alwaysVisible()
+setPos(-64,242)

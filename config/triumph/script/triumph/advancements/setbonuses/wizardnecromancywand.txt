@@ -1,0 +1,22 @@
+setIcon("ebwizardry:master_necromancy_wand")
+setTitle("Wielder of the Living Undeath!")
+setDescription("Acquire all levels of the Necromancy wand.")
+
+addParent("triumph:advancements/setbonuses/wizardnecromancy")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Novice Necromancy Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:novice_necromancy_wand")
+
+criteria = addCriteria("Apprentice Necromancy Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:apprentice_necromancy_wand")
+
+criteria = addCriteria("Advanced Necromancy Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:advanced_necromancy_wand")
+
+criteria = addCriteria("Master Necromancy Wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:master_necromancy_wand")
+
+alwaysVisible()
+setPos(-512,239)

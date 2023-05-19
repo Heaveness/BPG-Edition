@@ -1,0 +1,115 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "common_armor",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "leather_chestplate",
+					"type": "item",
+					"name": "minecraft:leather_chestplate",
+					"weight": 20		
+				},
+				{
+					"entryName": "leather_leggings",
+					"type": "item",
+					"name": "minecraft:leather_leggings",
+					"weight": 20		
+				},
+				{
+					"entryName": "leather_helmet",
+					"type": "item",
+					"name": "minecraft:leather_helmet",
+					"weight": 20		
+				},
+				{
+					"entryName": "leather_boots",
+					"type": "item",
+					"name": "minecraft:leather_boots",
+					"weight": 20		
+				},
+				{
+					"entryName": "tanned_leather_chestplate",
+					"type": "item",
+					"name": "betterwithmods:leather_tanned_chest",
+					"weight": 10		
+				},
+				{
+					"entryName": "tanned_leather_leggings",
+					"type": "item",
+					"name": "betterwithmods:leather_tanned_pants",
+					"weight": 10		
+				},
+				{
+					"entryName": "tanned_leather_helmet",
+					"type": "item",
+					"name": "betterwithmods:leather_tanned_helmet",
+					"weight": 10		
+				},
+				{
+					"entryName": "tanned_leather_boots",
+					"type": "item",
+					"name": "betterwithmods:leather_tanned_boots",
+					"weight": 10		
+				},
+				{
+					"entryName": "iron_chestplate",
+					"type": "item",
+					"name": "minecraft:iron_chestplate",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]
+				},
+				{
+					"entryName": "iron_leggings",
+					"type": "item",
+					"name": "minecraft:iron_leggings",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				},
+				{
+					"entryName": "iron_helmet",
+					"type": "item",
+					"name": "minecraft:iron_helmet",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "iron_boots",
+					"type": "item",
+					"name": "minecraft:iron_boots",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "shield_basic_stone",
+					"type": "item",
+					"name": "spartanshields:shield_basic_stone",
+					"weight": 10		
+				},
+				{
+					"entryName": "shield_basic_wood",
+					"type": "item",
+					"name": "spartanshields:shield_basic_wood",
+					"weight": 20		
+				}
+			]
+		}
+	]
+}

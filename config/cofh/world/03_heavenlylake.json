@@ -1,0 +1,34 @@
+{
+	"dependencies": [
+		"aether_legacy"
+		]
+	"populate": {
+		"hot spring lakes": {
+			"distribution": "surface",
+			"generator": {
+				"type": "lake",
+				"block": "minecraft:water",
+				"solid-outline": true,
+				"outline-block": [
+					{
+					"name": "aether_legacy:aether_dirt"
+				]
+			},
+			"cluster-count": 2,
+			"chunk-chance": 50,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					"aether_legacy:aether_highlands"
+				]
+			},
+			"retrogen": true,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,95 @@
+{
+    "name": "11) Rogues",
+    "icon": "spartanweaponry:throwing_knife_silver",
+    "category": "patchouli:CombatStyleCategory",
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "text",
+            "text": "They are cunning, agile, and deadly assassins $(m)who are a bunch of no-good thieves hellbent on stealing other people's ink pens while a GUIDE IS BEING WRITTEN MIN-SOO!$() Anyways, they are experts in the way of the night's void. $(br2)To be seen as a rogue is unheard-of. You are both invisible to your enemies and allies."
+        },
+        {
+            "type": "text",
+            "text": "Keeping yourself out of enemy vision and silencing your prey from afar or up close. The last thing you want is a blade in the back, because that will hurt... a lot. $(br2) Most of their combat prowess comes from two different styles. Either dishing out damage through stealth in melee or ranged combat. Sneaking is an important concept to master, it'll determine your success in assassinations or scouting."
+        },
+	{
+            "type": "text",
+            "text": "Daggers and knives are far more effective weapons when used from behind an unsuspected foe. It's as if you are drawing their very last breath from their lungs. $(br2)A poor show of stealth will surely alert all of your surrounding enemies of your deafening presence. At that point, you should either retreat back into the shadows or make a quick decisive kill."
+        },
+	{
+            "type": "text",
+            "text": "Make sure you carry around some lockpicks and keys for any locked loot chests you might find lying around. They do take quite the finesse to unlock, but it's much safer than blowing it up. $(br2)If you're also nimble with your hands, you can backstab most enemies with your weapons. At least if you fail spectacularly, no one will be able to see it..."
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "primitivemobs:camouflage_helmet",
+      	    "recipe2": "primitivemobs:camouflage_chestplate",
+      	    "title": "Stealth Upper Armor"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "primitivemobs:camouflage_leggings",
+      	    "recipe2": "primitivemobs:camouflage_boots",
+      	    "title": "Stealth Lower Armor"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "spartanweaponry:dagger_iron",
+      	    "recipe2": "spartanweaponry:throwing_knife_iron",
+      	    "title": "Armor Pierce / Exposed Crit?"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "spartanweaponry:longbow_iron",
+      	    "recipe2": "crafttweaker:ironquiverarrow",
+      	    "title": "Range & Quiver"
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "spartanweaponry:katana_iron",
+      	    "recipe2": "spartanweaponry:rapier_iron",
+      	    "title": "Full-on Melee"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "paraglider:paraglider:0",
+      	    "link_recipe": true,
+      	    "text": "$(#00AAAA)Allows you to glide over obstacles and safely reach the ground. Very handy if you accidentally made the wrong call or fell off a cliff. You will need to have it in your active main hand."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "ebwizardry:smoke_bomb",
+      	    "link_recipe": true,
+      	    "text": "$(#00AAAA)A useful little tool used by rogues to conceal their movements. Turns you invisible and confuse prey inside the smoke area. A marvelous invention by city elves and humans!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "thaumcraft:grapple_gun",
+      	    "link_recipe": true,
+      	    "text": "$(#00AAAA)Allows you to swing around by hooking onto a surface. Can be upgraded or specialized through a Grappling Hook Modifier. Works well with the Paragliders to prevent any mistakes. Also with the right timing you can propel yourself forward."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "locks:iron_lock_pick",
+      	    "link_recipe": true,
+      	    "text": "$(#00AAAA)Allows you to lock pick all modern locks. It takes awhile to get used to, but remember the sequence! Some buried loot chests will have Legacy locks which will require Legacy lock picks instead of these ones."
+        },
+	{
+            "type": "text",
+            "text": "Don't forget that you can also wall-jump off of any solid vertical surface. Just use the assigned key$(#00AAAA)(Space)$() on a wall to cling onto. You will start to fall after a second, but release to jump off to where you're looking at. This heavily drains on your hunger, so use it sparingly and only in case of emergency. $(br2)$(l)Unless... you're trying to get hungry.$()"
+        },
+	{
+            "type": "text",
+            "text": "Just like the previous entry about warriors. It's up to you on what to invest, but from Shadowblade Min-Soo's recommendation it's important to invest in these stats. $(br2)$(#00AAAA)Recommended Stats:$() $(br) $(li)Agility - For weapons $(li)Strength - For weapon variety and bows $(li)Constitution or Intelligence - Optional, for armor sets and combat variety"
+        },
+        {
+            "type": "image",
+	    "title": "Sleepless Assassin!",
+            "border": true,
+            "text": "You are vengence and you are the night!",
+      	    "images": [
+        	    "rotn:textures/book/photo/RogueSketch.png"
+      		]
+        }
+    ]
+}

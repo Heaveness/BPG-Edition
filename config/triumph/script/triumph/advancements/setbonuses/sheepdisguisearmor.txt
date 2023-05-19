@@ -1,0 +1,22 @@
+setIcon("iceandfire:sheep_chestplate")
+setTitle("Secret Agent's Disguise")
+setDescription("Complete the Secret Agent's Disguise set.")
+
+addParent("triumph:advancements/setbonuses/tannedLeatherArmor")
+
+// addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Disguise Helmet", "minecraft:inventory_changed")
+criteria.addItem("iceandfire:sheep_helmet")
+
+criteria = addCriteria("Disguise Chestplate", "minecraft:inventory_changed")
+criteria.addItem("iceandfire:sheep_chestplate")
+
+criteria = addCriteria("Disguise Leggings", "minecraft:inventory_changed")
+criteria.addItem("iceandfire:sheep_leggings")
+
+criteria = addCriteria("Disguise Boots", "minecraft:inventory_changed")
+criteria.addItem("iceandfire:sheep_boots")
+
+alwaysVisible()
+setPos(-344,-30)

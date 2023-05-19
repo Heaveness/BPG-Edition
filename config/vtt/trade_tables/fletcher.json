@@ -1,0 +1,72 @@
+{ 
+	Profession:"minecraft:farmer",
+	Career:"fletcher",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"remove", CareerLevel:1,
+				buy:{
+					id:"minecraft:stick",
+					Count:{min:32,max:64}
+				},
+				sell:{
+					id:"minecraft:emerald",
+					Count:{min:1,max:2}
+				}
+			},
+			{
+				action:"add", CareerLevel:4,
+				buy:{
+					id:"minecraft:bow",
+					Count:1
+				},
+				buyB:{
+					id:"minecraft:emerald",
+					Count:{min:12,max:14}
+				},
+				sell:{
+					id:"spartanweaponry:crossbow_iron",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:4,
+				buy:{
+					id:"minecraft:arrow",
+					Count:16
+				},
+				buyB:{
+					id:"minecraft:emerald",
+					Count:{min:3,max:6}
+				},
+				sell:{
+					id:"spartanweaponry:bolt_diamond",
+					Count:16
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.01,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:200,max:250}
+				},
+				sell:{
+					id:"spartanfire:crossbow_dragonbone",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.01,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:200,max:250}
+				},
+				sell:{
+					id:"spartanfire:longbow_dragonbone",
+					Count:1
+				}
+			}
+		]
+	}
+}

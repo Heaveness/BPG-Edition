@@ -1,0 +1,24 @@
+setIcon("mutantbeasts:mutant_skeleton_chestplate")
+setTitle("Mutated Rage")
+setDescription("Complete the Mutated Rage set.")
+
+addParent("triumph:advancements/setbonuses/root")
+
+// addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Mutant Helmet", "minecraft:inventory_changed")
+criteria.addItem(<mutantbeasts:mutant_skeleton_skull>)
+
+criteria = addCriteria("Mutant Chestplate", "minecraft:inventory_changed")
+criteria.addItem(<mutantbeasts:mutant_skeleton_chestplate>)
+
+criteria = addCriteria("Mutant Leggings", "minecraft:inventory_changed")
+criteria.addItem(<mutantbeasts:mutant_skeleton_leggings>)
+
+criteria = addCriteria("Mutant Boots", "minecraft:inventory_changed")
+criteria.addItem(<mutantbeasts:mutant_skeleton_boots>)
+
+hideLines()
+setFrameType("CHALLENGE")
+alwaysVisible()
+setPos(-189,49)

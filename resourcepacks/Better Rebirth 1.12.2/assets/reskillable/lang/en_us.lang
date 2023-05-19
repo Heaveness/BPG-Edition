@@ -1,0 +1,270 @@
+# MISC
+reskillable.misc.capped=MAX
+reskillable.misc.skills=Skills
+reskillable.misc.professions=Professions
+reskillable.misc.requirements=Requirements:
+reskillable.misc.requirements_shift=Hold SHIFT for requirements
+reskillable.misc.skill_points=%d Skill Points
+reskillable.misc.shift=Hold SHIFT for description
+reskillable.misc.unlocked=Unlocked!
+reskillable.misc.level=Level
+reskillable.misc.levels=Levels
+reskillable.misc.cost=Cost:
+reskillable.misc.talent_rank=Rank: %d / %d
+
+reskillable.misc.locked.item=You don't meet the requirements to use this item
+reskillable.misc.locked.block_break=You don't meet the requirements to break this block
+reskillable.misc.locked.block_use=You don't meet the requirements to use this block
+reskillable.misc.locked.armor_equip=You don't meet the requirements to wear this armor
+
+reskillable.misc.scroll.message.success=You successfully cleansed your abilities
+reskillable.misc.scroll.message.fail=You failed to cleanse your abilities
+
+# FORMATS
+reskillable.requirements.format.profession=%s%s: %s%d
+reskillable.requirements.format.skill=%s%s: %s%d
+reskillable.requirements.format.advancement=Advancement: %s%s
+reskillable.requirements.format.trait=Trait: %s%s
+reskillable.requirements.format.talent=Talent: %s%s
+reskillable.requirements.format.unobtainable=Unobtainable
+reskillable.requirements.format.and=AND
+reskillable.requirements.format.nand=NAND
+reskillable.requirements.format.or=OR
+reskillable.requirements.format.nor=NOR
+reskillable.requirements.format.xor=XOR
+reskillable.requirements.format.xnor=XNOR
+
+# ITEMS
+item.scroll_respec.name=Writ of Renewal
+
+# ATTRIBUTES
+attribute.name.reskillable.damageResistance=Damage Resistance
+
+# EFFECTS
+potion.effect.damage_resist=Potion of Damage Resist
+splash_potion.effect.damage_resist=Splash Potion of Damage Resist
+lingering_potion.effect.damage_resist=Lingering Potion of Damage Resist
+potion.effect.darkness=Potion of Darkness
+splash_potion.effect.darkness=Splash Potion of Darkness
+lingering_potion.effect.darkness=Lingering Potion of Darkness
+
+effect.damage_resist=Damage Resistance
+effect.darkness=Darkness
+
+# PROFESSION NAMES
+reskillable.profession.reskillable.warrior=Warrior
+reskillable.profession.reskillable.rogue=Rogue
+reskillable.profession.reskillable.mage=Mage
+reskillable.profession.reskillable.tinkerer=Tinkerer
+reskillable.profession.reskillable.farmer=Farmer
+reskillable.profession.reskillable.gatherer=Gatherer
+
+# SUBPROFESSION NAMES
+reskillable.subprofession.reskillable.warden=Warden
+reskillable.subprofession.reskillable.gladiator=LOCKED
+reskillable.subprofession.reskillable.berserker=Berserker
+
+reskillable.subprofession.reskillable.assassin=Assassin
+reskillable.subprofession.reskillable.archer=Archer
+
+reskillable.subprofession.reskillable.wizard=Wizard
+reskillable.subprofession.reskillable.alchemist=Alchemist
+
+reskillable.subprofession.reskillable.miner=Miner
+reskillable.subprofession.reskillable.seafarer=Seafarer
+reskillable.subprofession.reskillable.forager=Forager
+
+reskillable.subprofession.reskillable.rancher=Rancher
+reskillable.subprofession.reskillable.chef=Chef
+
+reskillable.subprofession.reskillable.blacksmith=Blacksmith
+reskillable.subprofession.reskillable.engineer=Engineer
+
+# SKILL NAMES
+reskillable.skill.reskillable.mining=Mining
+reskillable.skill.reskillable.gathering=Gathering
+reskillable.skill.reskillable.attack=Strength
+reskillable.skill.reskillable.defense=Vitality
+reskillable.skill.reskillable.building=Building
+reskillable.skill.reskillable.farming=Farming
+reskillable.skill.reskillable.agility=Finesse
+reskillable.skill.reskillable.magic=Wisdom
+
+# UNLOCKABLE NAMES
+reskillable.unlock.reskillable.obsidian_smasher=Obsidian Smasher
+reskillable.unlock.reskillable.obsidian_smasher.desc=Highly increases the speed of Obsidian mining while using a Diamond Pickaxe
+reskillable.unlock.reskillable.fossil_digger=Fossil Digger
+reskillable.unlock.reskillable.fossil_digger.desc=Adds a small chance to mine two Coal per ore rather than one when mining with an Iron Pickaxe or above (without Silk Touch)
+reskillable.unlock.reskillable.ore_cascade=Ore Cascade
+reskillable.unlock.reskillable.ore_cascade.desc=Toggled Ability: Mining an Ore Block will cause the entire vein to be mined out instead. The Pickaxe will take double durability damage
+reskillable.unlock.reskillable.lucky_fisherman=Lucky Fisherman
+reskillable.unlock.reskillable.lucky_fisherman.desc=Luck increased while fishing
+reskillable.unlock.reskillable.drop_guarantee=Poach
+reskillable.unlock.reskillable.drop_guarantee.desc=Enemy mobs will always drop at least one item (if applicable)
+reskillable.unlock.reskillable.neutralissse=DefuSSse
+reskillable.unlock.reskillable.neutralissse.desc=Landing a blow on a Creeper just after it starts igniting will neutralize it for a few seconds
+reskillable.unlock.reskillable.undershirt=Undershirt
+reskillable.unlock.reskillable.undershirt.desc=Every 10 seconds, taking a fatal blow when your health is above 3 hearts will reduce to you half a heart instead of killing you
+reskillable.unlock.reskillable.transmutation=Transmutation
+reskillable.unlock.reskillable.transmutation.desc=Unlocks the ability for Chorus Fruit to be used as a block Transmutation agent, which will transform some blocks into others
+reskillable.unlock.reskillable.perfect_recover=Perfect Recover
+reskillable.unlock.reskillable.perfect_recover.desc=Blocks that drop their components, such as Glowstone, will always drop enough to rebuild them
+reskillable.unlock.reskillable.more_wheat=Wheat-a-Plenty
+reskillable.unlock.reskillable.more_wheat.desc=Adds a small chance to gather a second piece of Wheat when harvesting fully grown Wheat crops.
+reskillable.unlock.reskillable.green_thumb=Green Thumb
+reskillable.unlock.reskillable.green_thumb.desc=Plants around players with this ability will grow faster
+reskillable.unlock.reskillable.hungry_farmer=Hungry Farmer
+reskillable.unlock.reskillable.hungry_farmer.desc=Makes eating a passive task. (Auto-Feeding)
+reskillable.unlock.reskillable.roadwalk=Roadwalk
+reskillable.unlock.reskillable.roadwalk.desc=Increases your movement speed while on a Grass Path
+reskillable.unlock.reskillable.golden_osmosis=Golden Osmosis
+reskillable.unlock.reskillable.golden_osmosis.desc=Golden tools, while being held or worn, will extract XP from the user to repair themselves at a fast rate
+reskillable.unlock.reskillable.sidestep=Sidestep
+reskillable.unlock.reskillable.sidestep.desc=Double tapping the "Strafe Left" or "Strafe Right" keys while moving backwards and holding the sprint key will have you sidestep in that direction, with a small cooldown
+reskillable.unlock.reskillable.safe_port=Safe Port
+reskillable.unlock.reskillable.safe_port.desc=Teleporting with an Ender Pearl will no longer hurt you
+reskillable.unlock.reskillable.battle_spirit=Battle Spirit
+reskillable.unlock.reskillable.battle_spirit.desc=Killing a monster will give you a short Strength buff
+reskillable.unlock.reskillable.effect_twist=Effect Twist
+reskillable.unlock.reskillable.effect_twist.desc=Being hit by a monster while under good potion effects has a chance to propagate the bad version of those effects to the attacker
+reskillable.unlock.reskillable.hillwalker=Hill Walker
+reskillable.unlock.reskillable.hillwalker.desc=After many a long journey, and steep-climb, you've reached a state of perpetual stepping-up to any occasion. You now have step-assist!
+
+reskillable.unlock.reskillable.lucky_strikes=Lucky Strikes
+reskillable.unlock.reskillable.lucky_strikes.desc=Increases Critical Chance per level of Finesse.
+reskillable.unlock.reskillable.mighty_strikes=Mighty Strikes
+reskillable.unlock.reskillable.mighty_strikes.desc=Increases Critical Damage per level of Finesse.
+reskillable.unlock.reskillable.seasonal_greetings=Seasonal Greetings
+reskillable.unlock.reskillable.seasonal_greetings.desc=Provides a visual indicator of the current season. Press [H] (by default) to toggle.
+
+# TALENT NAMES
+reskillable.talent.reskillable.rally=In War, Victory
+reskillable.talent.reskillable.rally.desc=Killing an enemy gives nearby allies (including yourself) buffs within 12.0 blocks. Strength I and Resistance I for 5 seconds. Continued kills refresh duration
+reskillable.talent.reskillable.vigilance=In Peace, Vigilance
+reskillable.talent.reskillable.vigilance.desc=If you do not hit an entity for 30 seconds, you will slowly regen health.
+reskillable.talent.reskillable.sacrifice=In Death, Sacrifice
+reskillable.talent.reskillable.sacrifice.desc=When killed, all nearby players within 32.0 blocks will be fully healed and cleansed of any negative potion effects.
+reskillable.talent.reskillable.blocking=The First Thirty Heartbeats
+reskillable.talent.reskillable.blocking.desc=Successfully blocking an attack grants you 10%% Damage Resistance for 3 seconds. Continued blocks refreshes duration.
+reskillable.talent.reskillable.mantra=Unifying Mantra
+reskillable.talent.reskillable.mantra.desc=Holding a shield in the offhand will absorb 50%% of the received damage from nearby players within 8.0 blocks.
+reskillable.talent.reskillable.aura=A Warrior's Aura
+reskillable.talent.reskillable.aura.desc=You generate far more threat when fighting entities. Significantly increased vision cone radius.
+reskillable.talent.reskillable.warden_novice=Novice Warden Training
+reskillable.talent.reskillable.warden_novice.desc=Allows usage of Low-Tier Shields/Sabers. Increase damage resistance by 5%% (Total: 5%%)
+reskillable.talent.reskillable.warden_advanced=Advanced Warden Training
+reskillable.talent.reskillable.warden_advanced.desc=Allows usage of Mid-Tier Shields/Sabers. Increase damage resistance by another 5%% (Total: 10%%)
+reskillable.talent.reskillable.warden_master=Master Warden Training
+reskillable.talent.reskillable.warden_master.desc=Allows usage of High-Tier Shields/Sabers. Increase damage resistance by another 5%% (Total: 15%%)
+
+reskillable.talent.reskillable.frenzy=Blood Frenzy
+reskillable.talent.reskillable.frenzy.desc=Dealing damage now heals you for a small amount, but the continued frenzy for blood lowers your damage resistance by 15%%
+reskillable.talent.reskillable.adrenaline=Adrenaline
+reskillable.talent.reskillable.adrenaline.desc=Receive a permanent potion effect of Delay Death. Trait activates when you first reach 0 health. The active effect will still protect you from death, but the closer you get to 0 the higher the chance of instantly dying randomly and dropping all your items.
+reskillable.talent.reskillable.berserk_advanced=Advanced Berserker Training
+reskillable.talent.reskillable.berserk_advanced.desc=Allows usage of Mid-Tier Battleaxes/Throwing Axes. Dual-wielding no longer gives attack speed penalty. Increase damage by another 10%% (Total: 15%%)
+reskillable.talent.reskillable.berserk_master=Master Berserker Training
+reskillable.talent.reskillable.berserk_master.desc=Allows usage of High-Tier Battleaxes/Throwing Axes. Dual-wielding no longer gives attack speed penalty. Increase damage by another 10%% (Total: 25%%)
+reskillable.talent.reskillable.berserk_novice=Novice Berserker Training
+reskillable.talent.reskillable.berserk_novice.desc=Allows usage of Low-Tier Battleaxes/Throwing Axes. Dual-wielding no longer gives attack speed penalty. Increase damage by 5%% (Total: 5%%)
+reskillable.talent.reskillable.edge=On The Edge
+reskillable.talent.reskillable.edge.desc=Increase attack damage by 50%%, attack speed by 20%%, and movement speed by 10%% while below 50%% maximum health.
+reskillable.talent.reskillable.fear=Fear Into Thy Enemy
+reskillable.talent.reskillable.fear.desc=Attacks have a 10%% to apply Fear status effect on majority of enemies while below 50%% maximum health.
+reskillable.talent.reskillable.jump=Into The Fire
+reskillable.talent.reskillable.jump.desc=Increase jump height by 1.0 block. Decreases fall damage by 20%%.
+
+reskillable.talent.reskillable.darkness=Into Darkness
+reskillable.talent.reskillable.darkness.desc=While under cover of darkness (below light level 8), Increase crit damage by 50%% and stealth melee damage by 25%%
+
+
+# RANK NAMES
+reskillable.rank.0=Novice
+reskillable.rank.1=Fledgling
+reskillable.rank.2=Apprentice
+reskillable.rank.3=Journeyman
+reskillable.rank.4=Adept
+reskillable.rank.5=Skilled
+reskillable.rank.6=Expert
+reskillable.rank.7=Master
+reskillable.rank.8=Ascendant
+
+# TAB NAMES
+reskillable.tab.inventory=Inventory
+reskillable.tab.skills=Skills
+reskillable.tab.professions=Professions
+
+# KEY-BINDINGS
+key.controls.reskillable=Reskillable
+key.open_skills_gui=Open Skill GUI
+key.open_professions_gui=Open Profession GUI
+key.toggle_seasons_hud=Toggle Seasons HUD
+
+# TOAST MESSAGES
+reskillable.toast.profession_desc=Reached level: %s
+reskillable.toast.skill_desc=Reached level: %s
+reskillable.toast.unlockable_desc=Unlocked!
+
+# COMMANDS
+reskillable.command.usage=/reskillable subcommand
+reskillable.command.resetskill.usage=/reskillable resetskill <player> <skill>
+reskillable.command.setskilllevel.usage=/reskillable setskilllevel <player> <skill> <level>
+reskillable.command.incrementskill.usage=/reskillable incrementskill <player> <skill> <optional_level>
+reskillable.command.resetall.usage=/reskillable resetall <player>
+reskillable.command.toggletrait.usage=/reskillable toggletrait <player> <trait>
+
+reskillable.command.success.unlocktrait=Successfully unlocked '%s' for player '%s'.
+reskillable.command.success.locktrait=Successfully locked '%s' for player '%s'.
+reskillable.command.success.resetskill=Successfully reset Skill: '%s' for player '%s'.
+reskillable.command.success.setskilllevel=Successfully set the level of Skill: '%s' to '%s' for player '%s'.
+reskillable.command.success.skillup=Successfully leveled up Skill: '%s' for player '%s'.
+reskillable.command.success.resetall=Successfully reset all skills for player '%s'.
+reskillable.command.success.locktalent=Successfully locked '%s' for player '%s'.
+reskillable.command.success.unlocktalent=Successfully unlocked '%s' for player '%s'.
+
+reskillable.command.fail.unlocktrait=Failed to unlock '%s' for player '%s'.
+reskillable.command.fail.locktrait=Failed to lock '%s' for player '%s'.
+reskillable.command.fail.resetskill=Failed to reset Skill: '%s' for player '%s'.
+reskillable.command.fail.setskilllevel=Failed to set the level of Skill: '%s' to '%s' for player '%s'.
+reskillable.command.fail.skillup=Failed to level up Skill: '%s' for player '%s'.
+reskillable.command.fail.resetall=Failed to reset skills '%s' for player '%s'.
+reskillable.command.fail.locktalent=Failed to lock '%s' for player '%s'.
+reskillable.command.fail.unlocktalent=Failed to unlock '%s' for player '%s'.
+
+reskillable.command.invalid.skill=Skill '%s' is invalid.
+reskillable.command.invalid.trait=Trait '%s' is invalid.
+reskillable.command.invalid.pastcap=Level '%s' is past the cap of '%s' for that skill.
+reskillable.command.invalid.belowmin=Level '%s' is below the minimum level of '1'.
+
+reskillable.command.invalid.missing.skill=You must enter the name of a skill.
+reskillable.command.invalid.missing.trait=You must enter the name of a trait.
+reskillable.command.invalid.missing.player=You must enter the name of a player.
+reskillable.command.invalid.missing.level=You must enter a level to set the skill to.
+reskillable.command.invalid.missing.playerskill=You must enter the name of both a player and a skill.
+reskillable.command.invalid.missing.playertrait=You must enter the name of both a player and a trait.
+reskillable.command.invalid.missing.playerskilllevel=You must enter the name of both a player and a skill, and a level for the skill.
+reskillable.command.invalid.missing.skilllevel=You must enter the name of a skill, and a level for the skill.
+reskillable.command.invalid.missing.playertalent=You must enter the name of both a player and a talent.
+reskillable.command.invalid.missing.talent=You must enter the name of a talent.
+reskillable.command.invalid.talent=Talent '%s' is invalid.
+
+# ADVANCEMENTS
+reskillable.advancement.first_level.title=First Level Up!
+reskillable.advancement.first_level.desc=You've Leveled your First Skill
+
+reskillable.advancement.attack_5.title=Attack!
+reskillable.advancement.attack_5.desc=You've Leveled Attack to 5
+
+# HUD
+reskillable.hud.early_spring=Early Spring
+reskillable.hud.mid_spring=Mid Spring
+reskillable.hud.late_spring=Late Spring
+reskillable.hud.early_summer=Early Summer
+reskillable.hud.mid_summer=Mid Summer
+reskillable.hud.late_summer=Late Summer
+reskillable.hud.early_autumn=Early Autumn
+reskillable.hud.mid_autumn=Mid Autumn
+reskillable.hud.late_autumn=Late Autumn
+reskillable.hud.early_winter=Early Winter
+reskillable.hud.mid_winter=Mid Winter
+reskillable.hud.late_winter=Late Winter

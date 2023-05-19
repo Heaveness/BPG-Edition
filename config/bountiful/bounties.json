@@ -1,0 +1,1304 @@
+[
+  {
+    "content": "minecraft:dirt",
+    "amount": {
+      "min": 16,
+      "max": 130
+    },
+    "unitWorth": 5,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:stone",
+    "amount": {
+      "min": 16,
+      "max": 130
+    },
+    "unitWorth": 35,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:cobblestone",
+    "amount": {
+      "min": 16,
+      "max": 130
+    },
+    "unitWorth": 15,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:fish",
+    "amount": {
+      "min": 2,
+      "max": 32
+    },
+    "unitWorth": 80,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:apple",
+    "amount": {
+      "min": 2,
+      "max": 32
+    },
+    "unitWorth": 70,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:torch",
+    "amount": {
+      "min": 12,
+      "max": 64
+    },
+    "unitWorth": 25,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:book",
+    "amount": {
+      "min": 2,
+      "max": 16
+    },
+    "unitWorth": 80,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:diamond",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 1750,
+    "weight": 100
+  },
+  {
+    "content": "locks:wood_lock",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "locks:gold_lock",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 200,
+    "weight": 75
+  },
+  {
+    "content": "locks:iron_lock",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 300,
+    "weight": 50
+  },
+  {
+    "content": "locks:steel_lock",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 500,
+	"stages": ["enteredNether"],
+    "weight": 25
+  },
+  {
+    "content": "locks:diamond_lock",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 5
+  },
+  {
+    "content": "spartanfire:witherbone_handle",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 200,
+    "weight": 60
+  },
+  {
+    "content": "spartanweaponry:material:0",
+    "amount": {
+      "min": 1,
+      "max": 32
+    },
+    "unitWorth": 100,
+    "weight": 80
+  },
+  {
+    "content": "thaumcraft:amber",
+    "amount": {
+      "min": 1,
+      "max": 32
+    },
+    "unitWorth": 150,
+    "weight": 80
+  },
+  {
+    "content": "minecraft:redstone",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:iron_ingot",
+    "amount": {
+      "min": 1,
+      "max": 32
+    },
+    "unitWorth": 300,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:bread",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 60,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:rotten_flesh",
+    "amount": {
+      "min": 1,
+      "max": 24
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:slime_ball",
+    "amount": {
+      "min": 1,
+      "max": 32
+    },
+    "unitWorth": 150,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:spider_eye",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:string",
+    "amount": {
+      "min": 1,
+      "max": 24
+    },
+    "unitWorth": 35,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:sugar",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:wheat",
+    "amount": {
+      "min": 1,
+      "max": 48
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:leather",
+    "amount": {
+      "min": 1,
+      "max": 20
+    },
+    "unitWorth": 90,
+    "weight": 100
+  },
+  {
+    "content": "betterwithmods:material:6",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 110,
+	"stages": ["enteredNether"],
+    "weight": 90
+  },
+  {
+    "content": "betterwithmods:material:12",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 120,
+	"stages": ["enteredNether"],
+    "weight": 60
+  },
+  {
+    "content": "betterwithmods:material:16",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 120,
+	"stages": ["enteredNether"],
+    "weight": 50
+  },
+  {
+    "content": "betterwithmods:material:27",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 150,
+	"stages": ["enteredNether"],
+    "weight": 20
+  },
+  {
+    "content": "biomesoplenty:gem:1",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 200,
+    "weight": 50
+  },
+  {
+    "content": "biomesoplenty:gem:2",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 200,
+    "weight": 50
+  },
+  {
+    "content": "biomesoplenty:gem:6",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 200,
+    "weight": 50
+  },
+  {
+    "content": "biomesoplenty:gem:0",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 200,
+	"stages": ["killedEnderDragon"],
+    "weight": 50
+  },
+  {
+    "content": "ebwizardry:magic_wand",
+    "amount": {
+      "min": 1,
+      "max": 20
+    },
+    "unitWorth": 90,
+    "weight": 75
+  },
+  {
+    "content": "ebwizardry:magic_crystal:0",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 30,
+    "weight": 100
+  },
+  {
+    "content": "treasure2:skeleton_key",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 2000,
+	"stages": ["killedWither"],
+    "weight": 10
+  },
+  {
+    "content": "treasure2:spider_key",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 20
+  },
+  {
+    "content": "treasure2:wither_key",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 1500,
+	"stages": ["killedWither"],
+    "weight": 30
+  },
+  {
+    "content": "mowziesmobs:captured_grottol",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 30000,
+    "weight": 5
+  },
+  {
+    "content": "entity:mowziesmobs:grottol",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20000,
+    "weight": 15
+  },
+  {
+    "content": "entity:minecraft:vindication_illager",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 150,
+    "weight": 150
+  },
+  {
+    "content": "entity:minecraft:zombie_villager",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "entity:toroquest:toroquest_fugitive",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 300,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:villager",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 3,
+    "weight": 1
+  },
+  {
+    "content": "entity:minecraft:zombie",
+    "amount": {
+      "min": 1,
+      "max": 20
+    },
+    "unitWorth": 120,
+    "weight": 300
+  },
+  {
+    "content": "entity:minecraft:skeleton",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 140,
+    "weight": 250
+  },
+  {
+    "content": "entity:minecraft:creeper",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 300,
+    "weight": 200
+  },
+  {
+    "content": "minecraft:potion",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 500,
+    "weight": 100,
+    "nbt_data": "{Potion: \"minecraft:healing\"}"
+  },
+  {
+    "content": "entity:iceandfire:firedragon",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 40000,
+	"stages": ["enteredTwilightForest"],
+	"weight": 15
+  },
+  {
+    "content": "entity:iceandfire:icedragon",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 40000,
+	"stages": ["enteredTwilightForest"],
+    "weight": 15
+  },
+  {
+    "content": "entity:iceandfire:seaserpent",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 25000,
+    "weight": 15
+  },
+  {
+    "content": "entity:aether_legacy:valkyrie_queen",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20000,
+	"stages": ["enteredAether"],
+    "weight": 20
+  },
+  {
+    "content": "entity:aether_legacy:sun_spirit",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 15000,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "entity:aether_legacy:slider",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 10000,
+	"stages": ["enteredAether"],
+    "weight": 30
+  },
+  {
+    "content": "entity:minecraft:wither",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20000,
+	"stages": ["enteredNether"],
+    "weight": 1
+  },
+  {
+    "content": "entity:minecraft:ender_dragon",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 25000,
+	"stages": ["enteredNether"],
+    "weight": 1
+  },
+  {
+    "content": "entity:mutantbeasts:mutant_creeper",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 15000,
+	"stages": ["enteredBeneath"],
+    "weight": 40
+  },
+  {
+    "content": "entity:mutantbeasts:mutant_enderman",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 25000,
+	"stages": ["killedEnderDragon"],
+    "weight": 25
+  },
+  {
+    "content": "entity:mutantbeasts:mutant_skeleton",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 20000,
+	"stages": ["minedOnyx"],
+    "weight": 65
+  },
+  {
+    "content": "entity:mutantbeasts:mutant_zombie",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 15000,
+	"stages": ["minedMythril"],
+    "weight": 50
+  },
+  {
+    "content": "entity:thaumcraft:cultistcleric",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 10000,
+    "weight": 60
+  },
+  {
+    "content": "entity:thaumcraft:cultistknight",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 10000,
+    "weight": 60
+  },
+  {
+    "content": "entity:thaumcraft:cultistleader",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20000,
+	"stages": ["enteredAtum"],
+    "weight": 40
+  },
+  {
+    "content": "entity:thaumcraft:eldritchwarden",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20000,
+	"stages": ["enteredAtum"],
+    "weight": 45
+  },
+  {
+    "content": "entity:thaumcraft:eldritchguardian",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20000,
+	"stages": ["enteredAtum"],
+    "weight": 30
+  },
+  {
+    "content": "entity:weeping-angels:weepingangel",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 2500,
+    "weight": 60
+  },
+  {
+    "content": "entity:magma_monsters:magma_monster",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 1000,
+	"stages": ["enteredNether"],
+    "weight": 75
+  },
+  {
+    "content": "entity:atum:sunspeaker",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 7500,
+	"stages": ["enteredAtum"],
+    "weight": 60
+  },
+  {
+    "content": "entity:atum:pharaoh",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 10000,
+	"stages": ["enteredAtum"],
+    "weight": 30
+  },
+  {
+    "content": "entity:atum:warlord",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 2000,
+	"stages": ["enteredAtum"],
+    "weight": 50
+  },
+  {
+    "content": "entity:atum:assassin",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 1500,
+	"stages": ["enteredAtum"],
+    "weight": 50
+  },
+  {
+    "content": "entity:atum:barbarian",
+    "amount": {
+      "min": 1,
+      "max": 15
+    },
+    "unitWorth": 1600,
+	"stages": ["enteredAtum"],
+    "weight": 50
+  },
+  {
+    "content": "entity:atum:brigand",
+    "amount": {
+      "min": 1,
+      "max": 20
+    },
+    "unitWorth": 1100,
+	"stages": ["enteredAtum"],
+    "weight": 50
+  },
+  {
+    "content": "entity:grimoireofgaia:anubis",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 2500,
+	"stages": ["enteredAtum"],
+    "weight": 40
+  },
+  {
+    "content": "entity:grimoireofgaia:arachne",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 5500,
+	"stages": ["killedWither"],
+    "weight": 75
+  },
+  {
+    "content": "entity:grimoireofgaia:beholder",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 7000,
+	"stages": ["killedEnderDragon"],
+    "weight": 70
+  },
+  {
+    "content": "entity:grimoireofgaia:bone_knight",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 6000,
+	"stages": ["minedOnyx"],
+    "weight": 60
+  },
+  {
+    "content": "entity:grimoireofgaia:deathword",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 3000,
+    "weight": 40
+  },
+  {
+    "content": "entity:grimoireofgaia:dullahan",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 10000,
+	"stages": ["enteredNether"],
+    "weight": 60
+  },
+  {
+    "content": "entity:grimoireofgaia:cecaelia",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 12000,
+	"stages": ["minedOnyx"],
+    "weight": 40
+  },
+  {
+    "content": "entity:grimoireofgaia:gelatinous_slime",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 15000,
+	"stages": ["minedMythril"],
+    "weight": 50
+  },
+  {
+    "content": "entity:grimoireofgaia:minotaur",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 15000,
+	"stages": ["killedEnderDragon"],
+    "weight": 50
+  },
+  {
+    "content": "entity:grimoireofgaia:sharko",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 6000,
+	"stages": ["minedMythril"],
+    "weight": 50
+  },
+  {
+    "content": "entity:grimoireofgaia:naga",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 5000,
+	"stages": ["minedMythril"],
+    "weight": 75
+  },
+  {
+    "content": "entity:grimoireofgaia:siren",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 5000,
+	"stages": ["minedMythril"],
+    "weight": 75
+  },
+  {
+    "content": "entity:grimoireofgaia:succubus",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 6000,
+	"stages": ["killedGhastQueen"],
+    "weight": 60
+  },
+  {
+    "content": "entity:iceandfire:deathworm",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 8000,
+	"stages": ["minedMythril"],
+    "weight": 75
+  },
+  {
+    "content": "entity:iceandfire:gorgon",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 9000,
+    "weight": 50
+  },
+  {
+    "content": "entity:iceandfire:myrmex_queen",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 10000,
+    "weight": 50
+  },
+  {
+    "content": "entity:iceandfire:myrmex_worker",
+    "amount": {
+      "min": 1,
+      "max": 15
+    },
+    "unitWorth": 1500,
+    "weight": 50
+  },
+  {
+    "content": "entity:iceandfire:myrmex_soldier",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 2000,
+    "weight": 50
+  },
+  {
+    "content": "entity:iceandfire:cyclops",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 5000,
+    "weight": 40
+  },
+  {
+    "content": "entity:iceandfire:siren",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 2000,
+    "weight": 60
+  },
+  {
+    "content": "entity:iceandfire:stymphalianbird",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 1000,
+    "weight": 40
+  },
+  {
+    "content": "entity:minecraft:wither",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 15000,
+	"stages": ["enteredNether"],
+    "weight": 50
+  },
+  {
+    "content": "entity:minecraft:wither_skeleton",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 400,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:zombie_pigman",
+    "amount": {
+      "min": 1,
+      "max": 15
+    },
+    "unitWorth": 400,
+	"stages": ["enteredNether"],
+    "weight": 200
+  },
+  {
+    "content": "entity:primitivemobs:trollager",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 8000,
+	"stages": ["killedGhastQueen"],
+    "weight": 100
+  },
+  {
+    "content": "entity:primitivemobs:harpy",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 15000,
+	"stages": ["fullEarlyArmor"],
+    "weight": 200
+  },
+  {
+    "content": "entity:primitivemobs:goblin",
+    "amount": {
+      "min": 1,
+      "max": 20
+    },
+    "unitWorth": 300,
+    "weight": 50
+  },
+  {
+    "content": "entity:rats:rat",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 150,
+	"stages": ["enteredBeneath"],
+    "weight": 90
+  },
+  {
+    "content": "entity:rats:plague_beast",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 7500,
+	"stages": ["minedMythril"],
+    "weight": 60
+  },
+  {
+    "content": "entity:specialmobs:sniperskeleton",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 400,
+	"stages": ["fullEarlyArmor"],
+    "weight": 100
+  },
+  {
+    "content": "entity:specialmobs:hungryspider",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 200,
+	"stages": ["fullEarlyArmor"],
+    "weight": 100
+  },
+  {
+    "content": "entity:specialmobs:hungryzombie",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 300,
+	"stages": ["fullEarlyArmor"],
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:ithaqua",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 7000,
+	"stages": ["minedMythril"],
+    "weight": 30
+  },
+  {
+    "content": "entity:mod_lavacow:boneworm",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 5000,
+	"stages": ["enteredAtum"],
+    "weight": 60
+  },
+  {
+    "content": "entity:mod_lavacow:salamander",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 2500,
+	"stages": ["enteredNether"],
+    "weight": 50
+  },
+  {
+    "content": "entity:mod_lavacow:piranha",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 150,
+    "weight": 75
+  },
+  {
+    "content": "entity:mod_lavacow:zombiepiranha",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 250,
+    "weight": 50
+  },
+  {
+    "content": "entity:mod_lavacow:ptera",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 500,
+	"stages": ["fullEarlyArmor"],
+    "weight": 75
+  },
+  {
+    "content": "entity:mod_lavacow:vespa",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 4000,
+	"stages": ["fullMidArmor"],
+    "weight": 50
+  },
+  {
+    "content": "entity:mod_lavacow:undeadswine",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 5000,
+	"stages": ["enteredBeneath"],
+    "weight": 60
+  },
+  {
+    "content": "entity:mod_lavacow:sludgelord",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 5000,
+    "weight": 50
+  },
+  {
+    "content": "entity:betteranimalsplus:coyote",
+    "amount": {
+      "min": 1,
+      "max": 7
+    },
+    "unitWorth": 200,
+    "weight": 150
+  },
+  {
+    "content": "entity:betteranimalsplus:feralwolf",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 200,
+    "weight": 150
+  },
+  {
+    "content": "entity:betteranimalsplus:boar",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 100,
+    "weight": 75
+  },
+  {
+    "content": "entity:betteranimalsplus:shark",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 300,
+    "weight": 100
+  },
+  {
+    "content": "entity:betteranimalsplus:tarantula",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 750,
+	"stages": ["fullMidArmor"],
+    "weight": 60
+  },
+  {
+    "content": "entity:artifacts:mimic",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 5000,
+    "weight": 60
+  },
+  {
+    "content": "entity:ebwizardry:evil_wizard",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 10000,
+    "weight": 70
+  },
+  {
+    "content": "entity:mowziesmobs:ferrous_wroughtnaut",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 15000,
+    "weight": 50
+  },
+  {
+    "content": "entity:mowziesmobs:foliaath",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 10000,
+    "weight": 50
+  },
+  {
+    "content": "entity:mowziesmobs:naga",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 10000,
+	"stages": ["enteredAtum"],
+    "weight": 50
+  },
+  {
+    "content": "entity:mowziesmobs:frostmaw",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 25000,
+    "weight": 30
+  },
+  {
+    "content": "entity:mowziesmobs:barako",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20000,
+    "weight": 30
+  },
+  {
+    "content": "entity:ancientbeasts:frostash_fox",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "entity:ancientbeasts:frost_walker",
+    "amount": {
+      "min": 2,
+      "max": 6
+    },
+    "unitWorth": 400,
+	"stages": ["enteredBeneath"],
+    "weight": 25
+  },
+  {
+    "content": "entity:ancientbeasts:boulderer",
+    "amount": {
+      "min": 2,
+      "max": 6
+    },
+    "unitWorth": 200,
+	"stages": ["enteredNether"],
+    "weight": 50
+  },
+  {
+    "content": "entity:ancientbeasts:owlstack",
+    "amount": {
+      "min": 2,
+      "max": 6
+    },
+    "unitWorth": 100,
+	"stages": ["enteredAether"],
+    "weight": 25
+  },
+  {
+    "content": "entity:ancientbeasts:netherhound",
+    "amount": {
+      "min": 4,
+      "max": 8
+    },
+    "unitWorth": 350,
+	"stages": ["enteredNether"],
+    "weight": 75
+  },
+  {
+    "content": "entity:ancientbeasts:zealot",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 1000,
+	"stages": ["minedMythril"],
+    "weight": 20
+  },
+  {
+    "content": "entity:ancientbeasts:sandy",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 15000,
+    "weight": 10
+  },
+  {
+    "content": "entity:ancientbeasts:damcell",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 5000,
+	"stages": ["killedWither"],
+    "weight": 10
+  },
+  {
+    "content": "entity:ancientbeasts:vessel",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 15000,
+    "weight": 10
+  },
+  {
+    "content": "entity:grimoireofgaia:banshee",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 1000,
+	"stages": ["enteredAether"],
+    "weight": 80
+  }
+]

@@ -1,0 +1,25 @@
+setIcon(<cookingforblockheads:counter>)
+setTitle("The Cornerstone of all Kitchens!")
+setDescription("Craft some counters, corners, and cabinets!")
+
+addParent("triumph:advancements/cook/kitchenCookingtable")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(true)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+criteria = addCriteria("Kitchen Counter", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:counter")
+
+criteria = addCriteria("Kitchen Corner", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:corner")
+
+criteria = addCriteria("Kitchen Cabinet", "minecraft:inventory_changed")
+criteria.addItem("cookingforblockheads:cabinet")
+
+// hideLines()
+// setHidden(true)
+alwaysVisible()
+setPos(-89,50)

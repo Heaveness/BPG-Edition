@@ -1,0 +1,13 @@
+setIcon(<minecraft:skull, meta:4>)
+setTitle("This Task, A Grueling One")
+setDescription("Die by a Creeper 30 times.")
+
+addParent("triumph:advancements/deaths/creeper5")
+
+
+criteria = addCriteria("Creeper", "minecraft:entity_killed_player")
+criteria.setEntityType("creeper")
+
+criteria.setCount(30)
+setPos(224,113)
+setHidden(true)

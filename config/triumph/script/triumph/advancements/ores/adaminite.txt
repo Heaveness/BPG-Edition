@@ -1,0 +1,14 @@
+setIcon(<thaumadditions:adaminite_ingot>)
+setTitle("Adamantine Quality Metal")
+setDescription("Acquire a adaminite ingot")
+
+addParent("triumph:advancements/ores/mithrillium")
+
+criteria = addCriteria("Adaminite Ingot", "minecraft:inventory_changed")
+criteria.addItem(<thaumadditions:adaminite_ingot>)
+
+setRewardExperience(50)
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(24,-100)

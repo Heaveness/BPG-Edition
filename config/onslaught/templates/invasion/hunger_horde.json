@@ -1,0 +1,127 @@
+{
+  "hungry_zombie": {
+    "name": "Hunger Strike",
+    "selector": {
+      "weight": 1,
+      "dimension": {
+        "type": "include",
+        "dimensions": [0]
+      }
+    },
+    "messages": {
+      "start": "A Hunger Strike marches forward!",
+      "end": "Starvation is never satisfied with just one meal...",
+      "warn": {
+        "ticks": 12000,
+        "message": "You feel an insatiable aura of famine lingering."
+      }
+    },
+    "waves": [
+      {
+        "delayTicks": [0],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "hungry_zombie",
+                "count": [2, 4],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 7],
+                  "rangeXZ": [16, 32]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "delayTicks": [1800, 2400],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "hungry_zombie_reinforcement_00",
+                "count": [3, 4],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [16, 32]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "hungry_zombie_reinforcement_01",
+                "count": [3, 4],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [16, 32]
+                }
+              }
+            ]
+          },
+		  {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "hungry_zombie_reinforcement_02",
+                "count": [4, 6],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [16, 32]
+                }
+              }
+            ]
+          },
+		  {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "hungry_zombie_reinforcement_03",
+                "count": [6, 8],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [16, 32]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "delayTicks": [6000],
+        "groups": [
+          {
+            "weight": 1,
+            "forceSpawn": true,
+            "mobs": [
+              {
+                "id": "hungry_zombie_boss",
+                "count": [4, 6],
+                "spawn": {
+                  "type": "ground",
+                  "light": [0, 15],
+                  "rangeXZ": [16, 24]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

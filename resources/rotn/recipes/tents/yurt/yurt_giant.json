@@ -1,0 +1,26 @@
+{
+  "type": "yurtmod:tent_upgrade_width",
+  "tent_type": "yurt",
+  "input_size": "huge",
+  "result_size": "giant",
+  "disabled": true,
+  "pattern": [
+   "XYX",
+   "YTY"],
+  "key": {
+    "Y": {
+        "item": "yurtmod:yurt_wall_piece"
+      },
+	"X": {
+        "item": "yurtmod:tent_upgrade_obsidian"
+      },
+	"T": {
+        "item": "yurtmod:tent",
+		"data": 0
+      }
+  },
+  "result": {
+    "item": "yurtmod:tent",
+	 "data": 0
+  }
+}

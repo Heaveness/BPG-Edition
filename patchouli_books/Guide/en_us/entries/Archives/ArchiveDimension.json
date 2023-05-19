@@ -1,0 +1,176 @@
+{
+    "name": "18) Dimension Info",
+    "icon": "minecraft:end_portal_frame",
+    "category": "patchouli:AchivesCategory",
+    "sortnum": 18,
+    "pages": [
+        {
+			"type": "spotlight",
+			"title": "Pour the Water!",
+			"item": "minecraft:water_bucket",
+			"text": "The world of the Aether is not to take lightly. While it looks serene, it can be quite chilly so bring something warm with you. $(br2)And I highly recommend you not to challenge any of bosses here until you are ready... A paraglider is your best friend here!$()"
+		},
+        {
+        	"type": "multiblock",
+        	"name": "An Aether Portal",
+        	"multiblock": {
+				"pattern": [
+					[ " FF " ],
+					[ "G  G" ], 
+					[ "G 0G" ],
+					[ "G  G" ], 
+					[ " FF " ]
+				],
+				"mapping": {
+					" ": "ANY",
+					"F": "minecraft:glowstone",
+					"G": "minecraft:glowstone"
+				},
+				"symmetrical": true
+    		},
+			"text": "Just pour some water on it to activate the portal. Similar to the Nether portal.",
+			"enable_visualize": false
+		},
+        {
+			"type": "spotlight",
+			"title": "Light it Up!",
+			"item": "minecraft:flint_and_steel",
+			"text": "The Nether, this hellhole... This place is no different than being inside a cooking oven. It's ridiculously too hot and everything that lives here is hostile towards you. $(br2)Make sure to bring lots of cold drinks with you!$()"
+		},
+		{
+		"type": "multiblock",
+        "name": "A Nether Portal",
+        "multiblock": {
+				"pattern": [
+					[ " FF " ],
+					[ "G  G" ], 
+					[ "G 0G" ],
+					[ "G  G" ], 
+					[ " FF " ]
+				],
+				"mapping": {
+					" ": "ANY",
+					"F": "minecraft:obsidian",
+					"G": "minecraft:obsidian"
+				},
+				"symmetrical": true
+    		},
+			"text": "Ignite a fire onto the obsidian block to activate!",
+			"enable_visualize": false
+		},
+		{
+			"type": "spotlight",
+			"title": "Unveil the Dark!",
+			"item": "dimstack:bedrock",
+			"text": "The Beneath is not for the faint of heart. There is an evil there that does not sleep. A darkness that swallows you whole, as if it has a mind of its own. $(br2)It's neither cold or hot in there, but it's definitely something angry in there... watch yourself wanderer.$()"
+		},
+        {
+        	"type": "multiblock",
+        	"name": "A Beneath Barrier",
+        	"multiblock": {
+				"pattern": [
+					[ " FFFFF ", " GGGGG ", " FFFFF ", " GGGGG ", " FFFFF " ],
+					[ " FFFFF ", " GGGGG ", " FF0FF ", " GGGGG ", " FFFFF " ]
+				],
+				"mapping": {
+					" ": "ANY",
+					"0": "dimstack:bedrock",
+					"F": "dimstack:bedrock",
+					"G": "dimstack:bedrock"
+				},
+				"symmetrical": true,
+				"offset"     : [0, 2, 0],
+				"view_offset": [0, 0, 0]
+    		},
+			"text": "Break the barrier stones with a pickaxe to enter what lies underneath. Be prepared!",
+			"enable_visualize": false
+		},
+		{
+			"type": "spotlight",
+			"title": "Fill the Void!",
+			"item": "minecraft:ender_eye",
+			"text": "The End where the living and the dead are in constant flux. You'll see monsters here that you won't find anywhere else. $(br2)This world is mostly cold, but you might find a few spots of heat around. Though you might have wear something warm to keep yourself safe.$()"
+		},
+		{
+			"type": "multiblock",
+			"name": "End Portal",
+			"multiblock": {
+				"pattern": [ 
+					[ "  NNN  ", " WPPPE ", " WP0PE ", " WPPPE ", "  SSS  " ]
+				],
+				"mapping": {
+					" ": "ANY",
+					"0": "minecraft:end_portal",
+					"P": "minecraft:end_portal",
+					"N": "minecraft:end_portal_frame[eye=true,facing=south]",
+					"S": "minecraft:end_portal_frame[eye=true,facing=north]",
+					"E": "minecraft:end_portal_frame[eye=true,facing=west]",
+					"W": "minecraft:end_portal_frame[eye=true,facing=east]"
+				},
+				"symmetrical": true,
+				"offset"     : [0, 2, 0],
+				"view_offset": [0, 0, 0]
+    		},
+			"text": "Where worlds go to end... as Lady $(k)Morgana$() used to say.",
+			"enable_visualize": false
+		},
+		{
+			"type": "spotlight",
+			"title": "Bask in Twilight!",
+			"item": "netherex:ghast_queen_tear",
+			"text": "Throw a Mystical Tear into the pool and you'll open the portal. This world is noticeable unstable at times. Who knows how long this dimension is suppose to last. $(br2)Just becareful of this place, it's either hot or cold. Powerful dragons were seen nesting in this world.$()"
+		},
+        {
+        	"type": "multiblock",
+        	"name": "A Twilight Portal",
+        	"multiblock": {
+				"pattern": [
+					[ " FF ", "F  F", "F  F", " FF " ],
+					[ " GG ", "G0WG", "GWWG", " GG " ]
+				],
+				"mapping": {
+					" ": "ANY",
+					"F": "minecraft:red_flower",
+					"G": "minecraft:grass",
+					"W": "minecraft:water",
+					"0": "minecraft:water"
+				},
+				"symmetrical": true,
+				"offset"     : [0, 2, 0],
+				"view_offset": [0, 0, 0]
+    		},
+			"text": "Use mushrooms, poppies, and/or dandelions around the 2 by 2 space of water!",
+			"enable_visualize": false
+		},
+		{
+			"type": "spotlight",
+			"title": "Ride the Sands!",
+			"item": "atum:scarab",
+			"text": "The world of the Atum is a beautiful golden sea of sand. With the bleaching sun above the horizon, this world was once home to an ancient civilization. $(br2)Phyneks & Lady $(k)Morgana$() could spend eons here studying. Just make sure you find a way to keep yourself cool.$()"
+		},
+        {
+        	"type": "multiblock",
+        	"name": "An Atum Portal",
+        	"multiblock": {
+				"pattern": [
+					[ " G   G ", "       ", "       ", "       ", " G   G " ], 
+					[ " F   F ", "       ", "       ", "       ", " F   F " ],
+					[ " GGGGG ", " GPPPG ", " GP0PG ", " GPPPG ", " GGGGG " ], 
+					[ " FFFFF ", " FFFFF ", " FFFFF ", " FFFFF ", " FFFFF " ]
+				],
+				"mapping": {
+					" ": "ANY",
+					"0": "minecraft:water",
+					"P": "minecraft:water",
+					"F": "minecraft:sandstone",
+					"G": "minecraft:sandstone"
+				},
+				"symmetrical": true,
+				"offset"     : [0, 2, 0],
+				"view_offset": [0, 0, 0]
+    		},
+			"text": "it's 5 x 5 x 2 of sandstone with 3 x 3 water on the top layer.",
+			"enable_visualize": false
+		}
+    ]
+}

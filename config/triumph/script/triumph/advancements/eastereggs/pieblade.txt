@@ -1,0 +1,15 @@
+setIcon("msmlegacy:relic_pie")
+setTitle("Cool Whip")
+setDescription("Discover Relic 7 of 7")
+
+addParent("triumph:advancements/eastereggs/root")
+
+criteria = addCriteria("Relic 7", "minecraft:inventory_changed")
+criteria.addItem("msmlegacy:relic_pie")
+
+setRewardExperience(50)
+
+
+alwaysVisible()
+hideLines()
+setPos(-198,94)

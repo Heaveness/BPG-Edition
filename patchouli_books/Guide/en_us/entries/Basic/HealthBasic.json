@@ -1,0 +1,83 @@
+{
+    "name": "2) Health",
+    "icon": "scalinghealth:heartcontainer",
+    "category": "patchouli:TheBasicCategory",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "A self-explanatory concept if nothing else. But for the sake of your long continuous journey, a duty must be fulfilled. Please be aware that any injury received on your journey doesn't always make you powerful. Whoever said that whatever doesn't kill you makes you stronger is a liar. Failure is a key part of your journey, what you do with it is up to you."
+        },
+        {
+            "type": "text",
+            "text": "Let's start with the Heart Containers to the bottom left of the center representing how healthy you are. Reaching minimum capacity will surely result in your untimely demise. The penalty of continuous deaths can have negative effect on your hard-earned progress.$(br2)Keep in mind your items inside both the tool bar and inventory. Each death will damage them to point of almost breaking!"
+        },
+        {
+            "type": "text",
+            "text": "It might even lower your maximum health and hunger if you die too often, as well as your distain to life. While it's disheartening to lose one's life to an undead or a monster of unknown origins. But... do not lose heart! If a friend is within your vicinity, they will have the opportunity to revive your life! $(br2)$(#AA0000)Stay crouch(Shift) & interact(Hold+RC) with their body for a few seconds."
+        },
+        {
+            "type": "image",
+	    "title": "How to revive someone!",
+            "border": true,
+            "text": "Their name should show on the left side.",
+      	    "images": [
+        	    "rotn:textures/book/photo/ReviveSketch1.png"
+      		]
+        },
+        {
+            "type": "text",
+            "text": "Just remember it takes awhile for them to recuperate from being downed. Keep them safe until they fully recover or out of danger.$(br)For lone wolves-type people, there are alternative methods to lessen your burdens. You can consider the following options:"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "openblocks:grave",
+      	    "link_recipe": true,
+      	    "text": "$(#AA0000)Build this gravestone and place one in your main inventory. When you perish, all of your items will safely be stored into this grave on the spot of where you went down. This will save yourself a headache in the long run."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "improvedbackpacks:backpack",
+      	    "link_recipe": true,
+      	    "text": "$(#AA0000)Upgradeable and incredibly handy! It will keep your items safe and sound. Make sure you secure yourself a reliable source of leather to make tanned leather."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minecraft:bed:14",
+      	    "link_recipe": true,
+      	    "text": "$(#AA0000)Have you tried sleeping? It's nice and relaxing, but also incredibly frustrating whenever an entity decides to keep you company. Make sure to sleep in a well-lit area."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "corpsecomplex:scroll",
+      	    "link_recipe": true,
+      	    "text": "$(#AA0000)Use this scroll only if you think it's safe to return to your items. Last time, a friend used one to pick up his dropped tools... He forgot about he died above lava..."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "scalinghealth:heartcontainer",
+      	    "link_recipe": true,
+      	    "text": "$(#AA0000)Heart Containers are useful $(m)(and expensive). $()$(#AA0000)All you need to do is just sacrifice 10 levels to raise one maximum heart cap."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "scalinghealth:healingitem:0",
+      	    "link_recipe": true,
+      	    "text": "$(#AA0000)Ahhhh... nothing beats cleaning that wound and covering it all neat and tidy. It takes awhile to apply, so use it when it's safe."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minecraft:totem_of_undying",
+      	    "link_recipe": true,
+      	    "text": "$(#AA0000)This one is a little weird... Suppose to save you from taking fatal damage. Lady $()$(k)Morgana $()$(#AA0000)carries this one around often."
+        },
+        {
+            "type": "text",
+            "text": "You can also try:$(br) $(#AA0000)$(li)Wearing a full set of armor will keep your insides... well inside. $(br)$(li)Carry a shield around! You aren't a coward to hide behind one! $(br)$(li)Use your companion as live bait. It's not in bad taste if there is a strategic value in it. Try asking your warrior to volunteer. $(br)$(li)$(m)Or die with pride."
+        },
+        {
+            "type": "text",
+            "text": "There you have it wanderer! The basics on health and how to cope with your inevitable death. Your journey is only difficult if you make it too hard for yourself. A healthy mind will bring a strong body! $(br2)As my friend would say $(o)[Have you tried not dying?] $()Truly wise words to live by."
+        }
+    ]
+}

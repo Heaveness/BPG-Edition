@@ -1,0 +1,13 @@
+setIcon("treasure2:skeleton")
+setTitle("Craft or Find Your Own Relic!")
+setDescription("Some of these relics can only be found in buried treasure under graves or you will have to figure out how to craft one yourself. Good luck~!")
+
+addParent("triumph:advancements/eastereggs/root")
+
+//Adds a single location criteria. Since this has nothing specific set, it will be completed the instant the player is added to the world, thus unlocking the page instantly.
+addCriteria("impossible", "minecraft:impossible")
+
+
+alwaysVisible()
+hideLines()
+setPos(-281,34)

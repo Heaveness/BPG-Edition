@@ -1,0 +1,13 @@
+setIcon(<thaumcraft:ingot, meta:2>)
+setTitle("Equivalent Exchange")
+setDescription("Obtain an alchemical brass ingot")
+
+addParent("triumph:advancements/ores/copper")
+
+criteria = addCriteria("Alchemical Brass Ingot", "minecraft:inventory_changed")
+criteria.addItem(<thaumcraft:ingot, meta:2>)
+
+setRewardExperience(50)
+
+alwaysVisible()
+setPos(-176,35)

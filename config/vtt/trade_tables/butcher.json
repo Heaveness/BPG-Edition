@@ -1,0 +1,64 @@
+{ 
+	Profession:"minecraft:butcher",
+	Career:"butcher",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"add", CareerLevel:5, chance:0.10, maxUses:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:100
+				},
+				sell:{
+					id:"artifacts:everlasting_beef",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.10, maxUses:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:100
+				},
+				sell:{
+					id:"artifacts:everlasting_chicken",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.10, maxUses:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:100
+				},
+				sell:{
+					id:"artifacts:everlasting_porkchop",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.10, maxUses:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:100
+				},
+				sell:{
+					id:"artifacts:everlasting_rabbit",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:5, chance:0.10, maxUses:1,
+				buy:{
+					id:"minecraft:emerald",
+					Count:100
+				},
+				sell:{
+					id:"artifacts:everlasting_mutton",
+					Count:1
+				}
+			}
+		]
+	}
+}

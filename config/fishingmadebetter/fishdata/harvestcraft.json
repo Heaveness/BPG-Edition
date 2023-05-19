@@ -1,0 +1,1962 @@
+{
+  "Anchovy": {
+    "fishId": "Anchovy",
+    "itemId": "harvestcraft:anchovyrawitem",
+    "itemMetaData": 0,
+    "description": "Meep?",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 10,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "OCEAN",
+      "WATER"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": true,
+    "scalingItem": "minecraft:flint",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,	
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:apple": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Bass": {
+    "fishId": "Bass",
+    "itemId": "harvestcraft:bassrawitem",
+    "itemMetaData": 0,
+    "description": "Double Triple Bassy Deluxe! Just don't forget the pickles.",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 0,
+    "maxYLevel": 140,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": false,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": false,
+    "scalingItem": "minecraft:coal",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  },
+	"Carp": {
+    "fishId": "Carp",
+    "itemId": "harvestcraft:carprawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 10,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 0,
+    "maxYLevel": 140,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": false,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": true,
+    "scalingItem": "minecraft:red_mushroom",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ]
+    }
+  },
+	"Catfish": {
+    "fishId": "Catfish",
+    "itemId": "harvestcraft:catfishrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 15,
+    "maxYLevel": 55,
+    "maxLightLevel": 8,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": true,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 15,
+    "allowScaling": true,
+    "scalingItem": "minecraft:red_mushroom",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Charr": {
+    "fishId": "Charr",
+    "itemId": "harvestcraft:charrrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 1,
+    "maxWeight": 1,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "JUNGLE"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": false,
+    "baitItemMap": {
+      "minecraft:apple": [
+        0
+      ],
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:melon": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Crayfish": {
+    "fishId": "Crayfish",
+    "itemId": "harvestcraft:crayfishrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "lava",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 0,
+    "maxYLevel": 140,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": false,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1
+    ],
+    "timeOutsideOfWater": 5,
+    "allowScaling": true,
+    "scalingItem": "minecraft:glowstone_dust",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  },
+	"Frog": {
+    "fishId": "Frog",
+    "itemId": "harvestcraft:frograwitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 15,
+    "maxYLevel": 55,
+    "maxLightLevel": 8,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": true,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": true,
+    "scalingItem": "minecraft:brown_mushroom",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Grouper": {
+    "fishId": "Grouper",
+    "itemId": "harvestcraft:grouperrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 40,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 25,
+    "maxYLevel": 55,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": true,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Herring": {
+    "fishId": "Herring",
+    "itemId": "harvestcraft:herringrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "day",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "DRY",
+      "SANDY",
+      "PLAINS"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": true,
+    "scalingItem": "minecraft:dye",
+    "scalingItemMetadata": 11,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:apple": [
+        0
+      ],
+      "minecraft:melon": [
+        0
+      ]
+    }
+  },
+	"Jellyfish": {
+    "fishId": "Jellyfish",
+    "itemId": "harvestcraft:jellyfishrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 40,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "COLD"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": true,
+    "scalingItem": "minecraft:ice",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": false,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Mudfish": {
+    "fishId": "Mudfish",
+    "itemId": "harvestcraft:mudfishrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 40,
+    "time": "any",
+    "liquid": "void",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": -1,
+    "maxYLevel": 30,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": false,
+    "biomeTagList": [],
+    "dimensionList": [
+      1
+    ],
+    "timeOutsideOfWater": 12,
+    "allowScaling": true,
+    "scalingItem": "minecraft:chorus_fruit",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:melon": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:apple": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ]
+    }
+  },
+  	"Perch": {
+    "fishId": "Perch",
+    "itemId": "harvestcraft:perchrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "OCEAN",
+      "BEACH"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 10,
+    "allowScaling": true,
+    "scalingItem": "minecraft:dye",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ]
+    }
+  },
+	"Snapper": {
+    "fishId": "Snapper",
+    "itemId": "harvestcraft:snapperrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "OCEAN",
+      "BEACH"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 10,
+    "allowScaling": true,
+    "scalingItem": "minecraft:dye",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ]
+    }
+  },
+	"Tilapia": {
+    "fishId": "Tilapia",
+    "itemId": "harvestcraft:tilapiarawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "OCEAN",
+      "BEACH"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 6,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": false,
+    "filletItem": "minecraft:slime_ball",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ]
+    }
+  },
+	"Trout": {
+    "fishId": "Trout",
+    "itemId": "harvestcraft:troutrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "JUNGLE"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 10,
+    "allowScaling": true,
+    "scalingItem": "minecraft:clay_ball",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  },
+	"Green Heart Fish": {
+    "fishId": "Green Heart Fish",
+    "itemId": "harvestcraft:greenheartfishrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "PLAINS",
+      "FOREST",
+      "RIVER",
+      "SWAMP"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 15,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  },
+	"Sardine": {
+    "fishId": "Sardine",
+    "itemId": "harvestcraft:sardinerawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "night",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "OCEAN"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 10,
+    "allowScaling": true,
+    "scalingItem": "minecraft:prismarine_crystals",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  },
+	"Shrimp": {
+    "fishId": "Shrimp",
+    "itemId": "harvestcraft:shrimprawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "COLD"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 10,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": false,
+    "filletItem": "minecraft:packed_ice",
+    "filletItemMetadata": 0,
+    "filletUseWeight": false,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Snail": {
+    "fishId": "Snail",
+    "itemId": "harvestcraft:snailrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "lava",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 0,
+    "maxYLevel": 140,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": false,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1
+    ],
+    "timeOutsideOfWater": 5,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": false,
+    "filletItem": "minecraft:soul_sand",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:apple": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Tofish": {
+    "fishId": "Tofish",
+    "itemId": "harvestcraft:tofishrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1500,
+    "maxFishTime": 2500,
+    "minErrorVariance": 3,
+    "maxErrorVariance": 7,
+    "minWeight": 20,
+    "maxWeight": 45,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 200,
+    "minDeepLevel": 8,
+    "maxDeepLevel": 16,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "OCEAN"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 10,
+    "allowScaling": true,
+    "scalingItem": "minecraft:prismarine_shard",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  },
+	"Clam": {
+    "fishId": "Clam",
+    "itemId": "harvestcraft:clamrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "SWAMP"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 15,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": false,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:apple": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Crab": {
+    "fishId": "Crab",
+    "itemId": "harvestcraft:crabrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 20,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 55,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "COLD"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 10,
+    "allowScaling": true,
+    "scalingItem": "minecraft:snowball",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Eel": {
+    "fishId": "Eel",
+    "itemId": "harvestcraft:eelrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": false,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "RIVER"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 5,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": false,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:apple": [
+        0
+      ],
+      "minecraft:melon": [
+        0
+      ]
+    }
+  },
+	"Octopus": {
+    "fishId": "Octopus",
+    "itemId": "harvestcraft:octopusrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 25,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "DEAD",
+      "SPOOKY"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 6,
+    "allowScaling": true,
+    "scalingItem": "minecraft:slime_ball",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": false,
+    "defaultFillet": false,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": false,
+    "baitItemMap": {
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ]
+    }
+  },
+	"Scallop": {
+    "fishId": "Scallop",
+    "itemId": "harvestcraft:scalloprawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 15,
+    "maxYLevel": 45,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": true,
+    "biomeTagList": [],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 15,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": false,
+    "filletItem": "minecraft:coal",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ]
+    }
+  },
+	"Tuna": {
+    "fishId": "Tuna",
+    "itemId": "harvestcraft:tunarawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 55,
+    "maxYLevel": 80,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "SWAMP"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 15,
+    "allowScaling": true,
+    "scalingItem": "minecraft:clay_ball",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Turtle": {
+    "fishId": "Turtle",
+    "itemId": "harvestcraft:turtlerawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "void",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": -1,
+    "maxYLevel": 30,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": false,
+    "biomeTagList": [],
+    "dimensionList": [
+      1
+    ],
+    "timeOutsideOfWater": 5,
+    "allowScaling": true,
+    "scalingItem": "minecraft:end_stone",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:beetroot_seeds": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:beetroot": [
+        0
+      ],
+      "minecraft:wheat_seeds": [
+        0
+      ],
+      "minecraft:carrot": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:potato": [
+        0
+      ],
+      "minecraft:pumpkin_seeds": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:melon_seeds": [
+        0
+      ]
+    }
+  },
+	"Walleye": {
+    "fishId": "Walleye",
+    "itemId": "harvestcraft:walleyerawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "void",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": -1,
+    "maxYLevel": 30,
+    "maxLightLevel": 16,
+    "reproductionTime": 30,
+    "eatingFrequency": 11,
+    "trackable": true,
+    "biomeBlacklist": true,
+    "dimensionBlacklist": false,
+    "biomeTagList": [],
+    "dimensionList": [
+      1
+    ],
+    "timeOutsideOfWater": 5,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": false,
+    "filletItem": "minecraft:ender_pearl",
+    "filletItemMetadata": 0,
+    "filletUseWeight": false,
+    "baitItemMap": {
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ]
+    }
+  },
+	"Mussel": {
+    "fishId": "Mussel",
+    "itemId": "harvestcraft:musselrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "any",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 35,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "PLAINS",
+      "FOREST",
+      "RIVER",
+      "DRY",
+      "SANDY"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 15,
+    "allowScaling": true,
+    "scalingItem": "minecraft:gunpowder",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": true,
+    "allowFillet": true,
+    "defaultFillet": true,
+    "filletItem": "",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  },
+	"Oyster": {
+    "fishId": "Oyster",
+    "itemId": "harvestcraft:oysterrawitem",
+    "itemMetaData": 0,
+    "description": "Slippery!",
+    "minFishTime": 1750,
+    "maxFishTime": 3000,
+    "minErrorVariance": 2,
+    "maxErrorVariance": 5,
+    "minWeight": 45,
+    "maxWeight": 60,
+    "time": "night",
+    "liquid": "water",
+    "rainRequired": false,
+    "thunderRequired": false,
+    "rarity": 65,
+    "minDeepLevel": 16,
+    "maxDeepLevel": 32,
+    "minYLevel": 25,
+    "maxYLevel": 100,
+    "maxLightLevel": 16,
+    "reproductionTime": 4,
+    "eatingFrequency": 1,
+    "trackable": true,
+    "biomeBlacklist": false,
+    "dimensionBlacklist": true,
+    "biomeTagList": [
+      "DEAD",
+      "SPOOKY"
+    ],
+    "dimensionList": [
+      -1,
+      1
+    ],
+    "timeOutsideOfWater": 6,
+    "allowScaling": false,
+    "scalingItem": "",
+    "scalingItemMetadata": 0,
+    "scalingUseWeight": false,
+    "allowFillet": true,
+    "defaultFillet": false,
+    "filletItem": "minecraft:bone",
+    "filletItemMetadata": 0,
+    "filletUseWeight": true,
+    "baitItemMap": {
+      "minecraft:mutton": [
+        0
+      ],
+      "minecraft:porkchop": [
+        0
+      ],
+      "minecraft:rotten_flesh": [
+        0
+      ],
+      "minecraft:chicken": [
+        0
+      ],
+      "minecraft:fish": [
+        2
+      ],
+      "minecraft:beef": [
+        0
+      ],
+      "minecraft:spider_eye": [
+        0
+      ],
+      "minecraft:rabbit": [
+        0
+      ]
+    }
+  }
+}

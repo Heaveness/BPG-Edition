@@ -1,0 +1,14 @@
+setIcon(<aether_legacy:valkyrie_lance>)
+setTitle("Queen of the Skies")
+setDescription("Defeat The Valkyrie Queen!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("valkyrie_queen", "minecraft:player_killed_entity")
+criteria.setEntityType("aether_legacy:valkyrie_queen")
+
+setRewardExperience(150)
+
+hideLines()
+alwaysVisible()
+setPos(-126,211)

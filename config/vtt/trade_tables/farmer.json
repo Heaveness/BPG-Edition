@@ -1,0 +1,35 @@
+{ 
+	Profession:"minecraft:farmer",
+	Career:"farmer",
+
+	Offers:{
+		Recipes:[
+			{
+				action:"add", CareerLevel:4, maxUses:4,
+				buy:{
+					id:"minecraft:obsidian",
+					Count:{min:1,max:4}
+				},
+				buyB:{
+					id:"minecraft:emerald",
+					Count:{min:5,max:10}
+				},
+				sell:{
+					id:"openblocks:tank",
+					Count:1
+				}
+			},
+			{
+				action:"add", CareerLevel:3,
+				buy:{
+					id:"minecraft:emerald",
+					Count:{min:5,max:8}
+				},
+				sell:{
+					id:"openblocks:sprinkler",
+					Count:1
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "modid":"abyssalcraft",
+  "foods":{
+    "Ingredients":[
+    "mre",
+    "fishp",
+    "porkp",
+    "chickenp",
+    "friedegg",
+    "omotholflesh",
+    "corbone",
+    "eggp"
+    ]
+  }
+}

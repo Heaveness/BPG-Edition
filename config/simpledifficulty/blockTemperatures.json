@@ -1,0 +1,1254 @@
+{
+  "advancedliftingmethods:ultimate_ender_elevator": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "quark:biotite_ore": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "atum:pharaoh_torch": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "atum:sand": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "treasure2:gravestone1_polished_andesite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "treasure2:gravestone2_polished_granite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:nitor_magenta": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:end_crystal": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "betterwithmods:steel_gearbox": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "atum:linen_white": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "treasure2:gravestone3_polished_diorite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "harvestcraft:candledeco9": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco5": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco6": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "pyrotech:pile_slag": [
+    {
+      "properties": {
+        "molten": "true"
+      },
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:ender_eye": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "ancientwarfarestructure:brazier_ember": [
+    {
+      "properties": {
+        "lit": "true"
+      },
+      "temperature": 4.0
+    },
+    {
+      "properties": {
+        "lit": "false"
+      },
+      "temperature": 0.0
+    }
+  ],
+  "minecraft:magma": [
+    {
+      "properties": {},
+      "temperature": 12.0
+    }
+  ],
+  "harvestcraft:candledeco7": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco8": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco1": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco2": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco3": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "atum:linen_orange": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "harvestcraft:candledeco4": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "treasure2:gravestone2_stone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:nitor_green": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "aether_legacy:aether_leaves": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "atum:fertile_soil_tilled": [
+    {
+      "properties": {},
+      "temperature": -3.0
+    }
+  ],
+  "netherex:gloomy_netherrack": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:nether_brick_stairs": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "pyrotech:stone_oven": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 5.0
+    }
+  ],
+  "quark:biotite": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "pyrotech:wither_forge": [
+    {
+      "properties": {
+        "type": "BottomLit"
+      },
+      "temperature": 7.0
+    }
+  ],
+  "treasure2:gravestone3_polished_andesite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "atum:linen_green": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:ice": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "treasure2:gravestone1_obsidian": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "treasure2:gravestone3_obsidian": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "atum:linen_brown": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "pyrotech:brick_oven": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 4.0
+    }
+  ],
+  "pyrotech:torch_fiber": [
+    {
+      "properties": {
+        "type": "LIT"
+      },
+      "temperature": 3.0
+    }
+  ],
+  "thaumcraft:nitor_white": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "aether_legacy:incubator": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "thaumcraft:nitor_brown": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:wool": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "thaumcraft:nitor_lime": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "thaumcraft:nitor_orange": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "quark:biome_cobblestone": [
+    {
+      "properties": {},
+      "temperature": -6.0
+    }
+  ],
+  "atum:linen_carpet_black": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "treasure2:gravestone1_stone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "treasure2:gravestone1_polished_granite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "atum:sand_layer": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:end_rod": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "atum:linen_lime": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:end_bricks": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "advancedliftingmethods:blowing_elevator": [
+    {
+      "properties": {},
+      "temperature": -1.0
+    }
+  ],
+  "minecraftfuture:lantern": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "aether_legacy:freezer": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:nitor_cyan": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "pyrotech:torch_stone": [
+    {
+      "properties": {
+        "type": "LIT"
+      },
+      "temperature": 3.0
+    }
+  ],
+  "treasure2:gravestone3_polished_granite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:nitor_red": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "atum:bone_torch": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "atum:linen_carpet_gray": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "quark:leaf_carpet": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "minecraft:ender_pearl": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "atum:linen_carpet_blue": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "atum:linen_carpet_red": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "betternether:netherrack_furnace": [
+    {
+      "properties": {
+        "active": "true"
+      },
+      "temperature": 4.0
+    },
+    {
+      "properties": {
+        "active": "false"
+      },
+      "temperature": 0.0
+    }
+  ],
+  "atum:linen_pink": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "thaumcraft:crystal_aer": [
+    {
+      "properties": {},
+      "temperature": -1.0
+    }
+  ],
+  "aether_legacy:dungeon_block": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "treasure2:gravestone2_cobblestone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "quark:quilted_wool": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "atum:linen_cyan": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:end_portal_frame": [
+    {
+      "properties": {},
+      "temperature": -5.0
+    }
+  ],
+  "pyrotech:stone_sawmill": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 5.0
+    }
+  ],
+  "minecraft:flowing_water": [
+    {
+      "properties": {},
+      "temperature": -3.0
+    }
+  ],
+  "thaumcraft:nitor_silver": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "treasure2:gravestone3_mossy_cobblestone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "aether_legacy:aether_grass": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "treasure2:gravestone3_stone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "advancedliftingmethods:ultimate_blowing_elevator": [
+    {
+      "properties": {},
+      "temperature": -3.0
+    }
+  ],
+  "thaumcraft:nitor_pink": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "biomesoplenty:ash_block": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "simplyhotsprings:hot_spring_water": [
+    {
+      "properties": {},
+      "temperature": 10.0
+    }
+  ],
+  "pyrotech:bloomery": [
+    {
+      "properties": {
+        "type": "BottomLit"
+      },
+      "temperature": 6.0
+    }
+  ],
+  "minecraft:ender_chest": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "atum:linen_light_blue": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "pyrotech:stone_kiln": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 5.0
+    }
+  ],
+  "atum:linen_carpet_lime": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "betterwithmods:windmill": [
+    {
+      "properties": {},
+      "temperature": -3.0
+    }
+  ],
+  "harvestcraft:candledeco14": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco15": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco16": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco10": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco11": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco12": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "harvestcraft:candledeco13": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "treasure2:gravestone2_polished_andesite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "betterwithmods:waterwheel": [
+    {
+      "properties": {},
+      "temperature": -5.0
+    }
+  ],
+  "minecraft:end_stone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "minecraftfuture:blast_furnace": [
+    {
+      "properties": {
+        "lit": "true"
+      },
+      "temperature": 4.0
+    },
+    {
+      "properties": {
+        "lit": "false"
+      },
+      "temperature": 0.0
+    }
+  ],
+  "thaumcraft:crystal_aqua": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "aether_legacy:ambrosium_torch": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "minecraft:snow_layer": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "thaumcraft:crystal_ignis": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "atum:linen_carpet_silver": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "thaumcraft:nitor_purple": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "atum:linen_yellow": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "betternether:cincinnasite_forge": [
+    {
+      "properties": {
+        "active": "true"
+      },
+      "temperature": 5.0
+    },
+    {
+      "properties": {
+        "active": "false"
+      },
+      "temperature": 0.0
+    }
+  ],
+  "treasure2:gravestone2_obsidian": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "ancientwarfarestructure:fire_pit": [
+    {
+      "properties": {
+        "lit": "true"
+      },
+      "temperature": 6.0
+    }
+  ],
+  "animania:wool": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "minecraft:netherrack": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "aether_legacy:enchanter": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "minecraft:nether_brick_fence": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "atum:linen_black": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "rustic:candle_gold": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "minecraft:brewing_stand": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "pyrotech:kiln_pit": [
+    {
+      "properties": {
+        "variant": "ACTIVE"
+      },
+      "temperature": 6.0
+    }
+  ],
+  "thaumcraft:nitor_black": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:snow": [
+    {
+      "properties": {},
+      "temperature": -6.0
+    }
+  ],
+  "minecraft:flowing_lava": [
+    {
+      "properties": {},
+      "temperature": 15.0
+    }
+  ],
+  "betterwithmods:wooden_gearbox": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "atum:linen_carpet_purple": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "iceandfire:dragonforge_fire_core": [
+    {
+      "properties": {},
+      "temperature": 6.0
+    }
+  ],
+  "atum:linen_red": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "atum:linen_carpet_light_blue": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "endreborn:block_purpur_lamp": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:carpet": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:nether_brick": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "thaumcraft:crystal_terra": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "minecraft:soul_sand": [
+    {
+      "properties": {},
+      "temperature": -1.0
+    }
+  ],
+  "pyrotech:campfire": [
+    {
+      "properties": {
+        "variant": "LIT"
+      },
+      "temperature": 8.0
+    }
+  ],
+  "rustic:candle": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "betterwithaddons:wool": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "cookingforblockheads:oven": [
+    {
+      "properties": {
+        "powered": "true"
+      },
+      "temperature": 3.0
+    },
+    {
+      "properties": {
+        "powered": "false"
+      },
+      "temperature": 0.0
+    }
+  ],
+  "atum:linen_magenta": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "twilightforest:cinder_furnace_lit": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "pyrotech:stone_crucible": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 5.0
+    }
+  ],
+  "treasure2:gravestone1_polished_diorite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "iceandfire:dragonforge_ice_core": [
+    {
+      "properties": {},
+      "temperature": -6.0
+    }
+  ],
+  "minecraft:lava": [
+    {
+      "properties": {},
+      "temperature": 18.0
+    }
+  ],
+  "atum:linen_carpet_pink": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "thaumcraft:nitor_lightblue": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "biomesoplenty:blue_fire": [
+    {
+      "properties": {},
+      "temperature": 8.0
+    }
+  ],
+  "minecraft:lit_furnace": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "aether_legacy:ambrosium_block": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "treasure2:gravestone1_mossy_cobblestone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "simpledifficulty:campfire": [
+    {
+      "properties": {
+        "burning": "true"
+      },
+      "temperature": 14.0
+    },
+    {
+      "properties": {
+        "burning": "false"
+      },
+      "temperature": 0.0
+    }
+  ],
+  "atum:linen_carpet_yellow": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "treasure2:gravestone2_polished_diorite": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "atum:linen_silver": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "minecraft:water": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "atum:fertile_soil": [
+    {
+      "properties": {},
+      "temperature": -3.0
+    }
+  ],
+  "netherex:fiery_netherrack": [
+    {
+      "properties": {},
+      "temperature": 6.0
+    }
+  ],
+  "minecraft:torch": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "atum:linen_carpet_white": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "iceandfire:ash": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "advancedliftingmethods:ender_elevator": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "advancedliftingmethods:advanced_blowing_elevator": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "atum:linen_carpet_brown": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "treasure2:gravestone3_cobblestone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "treasure2:gravestone1_cobblestone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "treasure2:gravestone2_mossy_cobblestone": [
+    {
+      "properties": {},
+      "temperature": -4.0
+    }
+  ],
+  "netherex:blue_fire": [
+    {
+      "properties": {},
+      "temperature": 8.0
+    }
+  ],
+  "atum:linen_purple": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "endreborn:block_end_forge": [
+    {
+      "properties": {},
+      "temperature": 5.0
+    }
+  ],
+  "atum:linen_carpet_orange": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "aether_legacy:crystal_leaves": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "atum:deadwood_torch": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:packed_ice": [
+    {
+      "properties": {},
+      "temperature": -6.0
+    }
+  ],
+  "atum:palm_torch": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "pyrotech:brick_crucible": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 4.0
+    }
+  ],
+  "pyrotech:brick_kiln": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 4.0
+    }
+  ],
+  "thaumcraft:nitor_yellow": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "atum:limestone_torch": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "aether_legacy:aether_log": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "ancientwarfarestructure:brazier_flame": [
+    {
+      "properties": {
+        "lit": "true"
+      },
+      "temperature": 4.0
+    },
+    {
+      "properties": {
+        "lit": "false"
+      },
+      "temperature": 0.0
+    }
+  ],
+  "atum:linen_carpet_green": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "pyrotech:brick_sawmill": [
+    {
+      "properties": {
+        "type": "BOTTOM_LIT"
+      },
+      "temperature": 4.0
+    }
+  ],
+  "advancedliftingmethods:advanced_ender_elevator": [
+    {
+      "properties": {},
+      "temperature": -3.0
+    }
+  ],
+  "aether_legacy:aether_dirt": [
+    {
+      "properties": {},
+      "temperature": -2.0
+    }
+  ],
+  "minecraft:obsidian": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "thaumcraft:nitor_gray": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "rustic:iron_lantern": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "atum:linen_carpet_cyan": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "atum:linen_carpet_magenta": [
+    {
+      "properties": {},
+      "temperature": 3.0
+    }
+  ],
+  "thaumcraft:nitor_blue": [
+    {
+      "properties": {},
+      "temperature": 2.0
+    }
+  ],
+  "atum:linen_gray": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "atum:linen_blue": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "rustic:golden_lantern": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "internalOreName": "dungeontactics:stonequartz_ore",
+    "meta": -1,
+    "overlay": "rotn:overlays/dungeontactics/quartz",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+
+]

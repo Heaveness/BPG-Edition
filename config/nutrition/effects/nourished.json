@@ -1,0 +1,11 @@
+{
+	"name": "nourished",
+	"potion": "nutrition:nourished",
+	"amplifier": 1,
+	"minimum": 85,
+	"maximum": 100,
+	"detect": "cumulative",
+	"particles": "transparent",
+	"cumulative_modifier": 2,  
+	"enabled": true
+}

@@ -1,0 +1,11 @@
+setIcon(<thaumcraft:ingot, meta:1>)
+setTitle("Embrace Refined Void")
+setDescription("Obtain a void metal ingot")
+
+addParent("triumph:advancements/ores/thaumium")
+
+criteria = addCriteria("Thaumium Ingot", "minecraft:inventory_changed")
+criteria.addItem(<thaumcraft:ingot, meta:1>)
+
+alwaysVisible()
+setPos(-48,-60)

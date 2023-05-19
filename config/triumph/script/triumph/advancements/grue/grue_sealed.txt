@@ -1,0 +1,28 @@
+setIcon(<dimstack:portal>)
+setTitle("The Void Keeper retreats for now...")
+setDescription("The Void Keeper is no longer hunting you. You have shown no fear of the void. As it should fear you!")
+
+addParent("triumph:advancements/grue/grue_unlock")
+
+addRewardFunction("triumph:grue_sealed")
+
+criteria = addCriteria("ender_mutant_void_sealed", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/bosskills/killmutantenderman")
+
+criteria = addCriteria("void_keeper_unsealed", "triumph:completed_advancement")
+criteria.setAdvancement("triumph:advancements/grue/grue_unlock")
+
+criteria = addCriteria("ender_storage_void_sealed", "minecraft:inventory_changed")
+criteria.addItem(<enderstorage:ender_storage, meta:0>)
+
+criteria = addCriteria("ender_storage_void_tank_sealed", "minecraft:inventory_changed")
+criteria.addItem(<enderstorage:ender_storage, meta:1>)
+
+criteria = addCriteria("ender_pouch_void_sealed", "minecraft:inventory_changed")
+criteria.addItem("enderstorage:ender_pouch")
+
+setRewardExperience(200)
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(97,17)

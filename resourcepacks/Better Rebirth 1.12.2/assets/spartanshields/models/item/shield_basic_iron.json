@@ -1,0 +1,14 @@
+{
+    "parent":"spartanshields:item/shield_basic_base",
+    "textures": {
+        "layer0":"spartanshields:items/shield_basic_iron"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "spartanshields:item/shield_basic_iron_blocking"
+        }
+    ]
+}

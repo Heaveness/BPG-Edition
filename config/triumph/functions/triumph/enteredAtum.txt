@@ -1,0 +1,7 @@
+gamerule commandBlockOutput false
+gamerule sendCommandFeedback false
+title @p times 40 120 60
+title @p subtitle {"text":"The Golden Sea Horizon... Or what's left of it.", "color":"yellow"}
+title @p title {"text":"The Tainted Desert of Atum", "bold":false, "italic":false, "color":"blue"}
+playsound thaumcraft:egscreech ambient @p ~ ~ ~ 0.5 0.7
+gamestage silentadd @a enteredAtum

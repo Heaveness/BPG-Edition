@@ -1,0 +1,15 @@
+setIcon(<mutantbeasts:creeper_shard>)
+setTitle("Look up in the sky! Ohhhh noo...")
+setDescription("Defeat the unholy abomination!")
+
+addParent("triumph:advancements/bosskills/root")
+
+criteria = addCriteria("mutant_creeper", "minecraft:player_killed_entity")
+criteria.setEntityType("mutantbeasts:mutant_creeper")
+
+setRewardExperience(50)
+
+hideLines()
+alwaysVisible()
+
+setPos(-188,211)

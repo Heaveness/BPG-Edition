@@ -1,0 +1,13 @@
+setIcon(<mowziesmobs:grant_suns_blessing>)
+setTitle("Praise the Sun!")
+setDescription("Gain the blessing of a tribal chieftain.")
+
+addParent("triumph:advancements/bosskills/killsunchief")
+
+criteria = addCriteria("gain_sun_blessing", "minecraft:effects_changed")
+criteria.addEffect("mowziesmobs:suns_blessing")
+
+setRewardExperience(50)
+
+alwaysVisible()
+setPos(-250,180)

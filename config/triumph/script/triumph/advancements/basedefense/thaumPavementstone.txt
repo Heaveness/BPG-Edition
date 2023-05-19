@@ -1,0 +1,11 @@
+setIcon(<thaumcraft:paving_stone_travel>)
+setTitle("No time for walking!")
+setDescription("Gives speed boost when walked upon.")
+
+addParent("triumph:advancements/basedefense/ward")
+
+criteria = addCriteria("Thaumcraft Pavement Stone", "minecraft:inventory_changed")
+criteria.addItem(<thaumcraft:paving_stone_travel>)
+
+alwaysVisible()
+setPos(39,84)

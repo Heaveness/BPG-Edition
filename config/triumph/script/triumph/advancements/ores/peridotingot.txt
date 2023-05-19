@@ -1,0 +1,12 @@
+setIcon(<contenttweaker:peridot_ingot>)
+setTitle("Luck Refined")
+setDescription("Craft peridot ingot")
+
+addParent("triumph:advancements/ores/peridot")
+
+criteria = addCriteria("Peridot Ingot", "minecraft:inventory_changed")
+criteria.addItem("contenttweaker:peridot_ingot")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-175,-67)

@@ -1,0 +1,62 @@
+{
+    "name": "14) Base Defenses",
+    "icon": "minetraps:barbed_wire_fence",
+    "category": "patchouli:BaseBuildingCategory",
+    "sortnum": 14,
+    "pages": [
+        {
+            "type": "text",
+            "text": "There are multiple ways to defend your home from uninvited guests. It's up to your absurd mind on the design layout of each defense, quirks, and traps to deter your enemies. $(br2)Just let your creative imagination free! These monsters do not feel remorse nor pain. Don't hold back! But here's some ideas on what to do."
+        },
+        {
+            "type": "text",
+            "text": "$(l)Please consider the following options:$() $(br) $(li)Use strong stone bricks and apply a thick layer of walls.  $(li)You could try a moat filled with water. But please don't use lava or fire... $(li)Prepare deadly traps for anyone foolish enough to enter, even friends! $(li)$(m)You could also use a willing companion as bait.$()"
+        },
+        {
+            "type": "text",
+            "text": "Do not panic if it feels like nothing is going the way you've planned. If all else fails, make sure to grab all of the irreplaceable or expensive tools and furniture. You are not constrained to just one base only, so go out and explore the world! $(br2)$(l)$(n)IMPROVISE! $(br)ADAPT! $(br)& OVERCOME!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minetraps:barbed_wire_fence",
+      	    "link_recipe": true,
+      	    "text": "Barbed wire fences do a decent job keeping your secure from spiders and among other climbers. Sadly, it's weak against monsters that knows how to break blocks. Keep that in mind when surrounding your base with them."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minecraft:stonebrick",
+      	    "link_recipe": true,
+      	    "text": "These stone brick blocks are very sturdy and tend to be blast-proof. Some stones have different hardness to them, so experiment on which one is the best. Build a 2-3 layer thick walls to protect your base."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minecraft:stone_slab:5",
+      	    "link_recipe": true,
+      	    "text": "Use these on the top side of your walls to prevent spiders from climbing over your walls. Make sure you leave a one block space for your vacuum hopper to suck in all of the dropped loot from monsters."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minecraft:lava_bucket",
+      	    "link_recipe": true,
+      	    "text": "You can use these buckets to create a moat of lava, it will most likely kill everything that falls in. That includes the loot and it gets too hot as well. Risk v.s. reward as some would say."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "minecraft:water_bucket",
+      	    "link_recipe": true,
+      	    "text": "You can use these buckets to create a moat of water. It will push or slow down most monsters and stop creepers from exploding and damaging your property. Just remember that some of the smarter ones can build a bridge on top of it."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "dungeontactics:flamer_block",
+      	    "link_recipe": true,
+      	    "text": "Needs a redstone signal to activate and it's very useful to get any climbers or enemies from clinging onto your walls. But it doesn't do any damage to fire-type monsters and some clever ones can block the fan from firing."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "openblocks:beartrap",
+      	    "link_recipe": true,
+      	    "text": "A simple yet effective trap that does damage and slows anything that moves onto it. It only activates if a living being stands on top of it. You will have to re-activate it everytime it's used. There are other different versions of this trap such as clamps, spikes, or nails."
+        }
+    ]
+}

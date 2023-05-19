@@ -1,0 +1,86 @@
+{
+    "name": "7) A To-Do List!",
+    "icon": "bibliocraft:biblioclipboard",
+    "category": "patchouli:GettingStartedCategory",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "text",
+            "text": "If you haven't perished by the time you started reading this portion of this guide then you are already on the path to fame and glory! Or something like that. $(br2)Regardless if you are veteran or not, you should probably remember this page. Let's start with a simple and small to-do list for you to get started on your journey:"
+        },
+        {
+            "type": "image",
+	    "title": "Your journey awaits!",
+            "border": false,
+            "text": "A world with or without life. Excited?",
+      	    "images": [
+        	    "rotn:textures/book/photo/MiningBaseSketch.png",
+        	    "rotn:textures/book/photo/PirateSketch.png",
+        	    "rotn:textures/book/photo/ChieftainSketch.png",
+        	    "rotn:textures/book/photo/CastleSketch.png",
+        	    "rotn:textures/book/photo/DarkCastleSketch.png",
+        	    "rotn:textures/book/photo/CyclopsSketch.png",
+        	    "rotn:textures/book/photo/AltarSketch.png",
+        	    "rotn:textures/book/photo/TwilightSketch.png"
+      		]
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "minecraft:bow",
+      	    "recipe2": "fishingmadebetter:basic_fishing_rod",
+      	    "title": "Secure reliable food sources"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "betterwithmods:material:3",
+      	    "link_recipe": true,
+      	    "text": "This material is probably one of the most important crafting components needed for better tools and items. Make sure to have a proper hemp farm going or otherwise you will never have any enough hemp for anything."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "improvedbackpacks:blank_upgrade",
+      	    "link_recipe": true,
+      	    "text": "The improved backpack mentioned in the Health entry will need to be upgraded if you want to carry more items. This blank upgrade is the basis of that component. Make sure you secure yourself a reliable source of leather."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "betterwithmods:material:6",
+      	    "link_recipe": true,
+      	    "text": "You will need tanned leather for many recipes. These will come in handy for you in the journey ahead. Make sure you have a handful of stacks laying around or otherwise you won't go too far."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "betterwithmods:axle_generator:0",
+      	    "link_recipe": true,
+      	    "text": "This mill stone will grind a lot of your materials for you. You could try exercising your muscles through a Hand Crank, but you'll be sore and hunger after a few pulls. You should set up a windmill, gearboxes, and axles to make it more efficient."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "betterwithmods:single_machine:0",
+      	    "link_recipe": true,
+      	    "text": "Ah the windmill. Peaceful and calm to look, but hellish to setup. Make sure to plan out the design to incorporate all the machines that require this windmill. Also be careful with rain or storms with this one, it's pretty fragile."
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "betterwithmods:cooking_pot:0",
+      	    "link_recipe": true,
+      	    "text": "Crucible is a crucial crafting station if you ever want to get very far in this world. It does take awhile to build one and a little bit of ingenuity you can get it stoked. Though, you will need a hibachi and a simple redstone setup. Want to know how? Figure it out yourself!"
+        },
+        {
+      	    "type": "spotlight",
+      	    "item": "betterwithmods:cooking_pot:1",
+      	    "link_recipe": true,
+      	    "text": "The Cooking Pot is an essential crafting station at the start of your journey. Once you establish a secured base, you should start setting up a cooking pot. You will need 3x3 fire using either netherrack or charcoal blocks. Constantly replenishing the fire was an absolute chore..."
+        },
+        {
+      	    "type": "crafting",
+      	    "recipe": "iron_sledgehammer",
+      	    "recipe2": "pyro_stone_anvil",
+      	    "title": "A true blacksmith experience!"
+        },
+        {
+            "type": "text",
+            "text": "$(n)Here are some other things you can also check:$()$(br) $(li)Store $(#00AA00)food $()and $(#AA0000)potions $()for the winter. $(br)$(li)Bring a lot of necessary items for the $(l)Nether $()and the $(k)Beneath. $()$(br)$(li)Build and fortify a strong base for the $(l)Invasion. $()$(br)$(#00AA00)$(li)Eat a balanced and varied diet to keep your nutrition. $()$(br)$(li)Do not show fear! Bravery will get you far! Unless death is upon you, then make haste to the nearless escape."
+        }
+    ]
+}

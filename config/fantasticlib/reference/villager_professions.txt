@@ -1,0 +1,16 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+openblocks:radio
+vtt:shady
+primitivemobs:miner
+primitivemobs:merchant
+primitivemobs:fakemerchant
+primitivemobs:sheepman_scavenger
+primitivemobs:sheepman_alchemist
+primitivemobs:sheepman_thief
+rats:pet_shop_owner
+totemexpansion:witchdoctor

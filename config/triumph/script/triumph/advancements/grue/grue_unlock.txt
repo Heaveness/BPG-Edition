@@ -1,0 +1,16 @@
+setIcon(<thaumicperiphery:malignant_heart>)
+setTitle("The Void Keeper Has Been Freed!")
+setDescription("The Void Keeper is now hunting you... Stay out of the darkness! Bask in the light!")
+
+addParent("triumph:advancements/grue/root")
+
+addRewardFunction("triumph:grue")
+
+criteria = addCriteria("entered_beneath", "triumph:changed_dimension")
+criteria.setDimensionDestination(10)
+
+setRewardExperience(100)
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(54,17)
