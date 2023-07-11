@@ -1,0 +1,678 @@
+Reskillable BPG Description:
+
+A complete overhaul of the Reskillable mod to fit with BPG Edition's gameplay style. Taken inspiration from many different RPG games, the system will take after classic Diablo's skill system.
+The very core concept of this rework is to encourage teamwork while also rewarding individual's own abilities. Since this modpack was made with 2-4 players(though 2-3 players is the safest in terms of server performance).
+Each player can assign 2 professions(e.g. Warrior/Gatherer), with each profession providing access to 2 sub-classes(3 classes for a future update) that they can specialize in to further provide more benefits.
+Of course a player within one profession can dabble in both sub-classes evenly if chosen to receive both benefits, but only up to middle tier for both. To reach high tier traits, ome must sacrifice progression on one of the sub-class skill tree for the other.
+For example, A Tinkerer profession player can put points into both Blacksmith and Engineer evenly up to mid-tier. But to reach high-tier on one of them then the other sub-class can only be raised up to low-tier.
+With this concept in mind, we also want to prevent a situation where groups can get stuck in progression because someone didn't specialize in a specific sub-class. So we will have a respec system in mid-game progression to allow experimentation of builds.
+To add to that we will place all of the production blocks necessary for that profession in the low tier trait section. The only difference when reaching higher tier craftsmanship will have access to higher quality and powerful versions.
+With this method, players will be encouraged to experiment on what they believe to be a good composition within groups. Assigning roles and etc with each other to fit their playstyle. Since the Professions are currently made of 3 combat & 3 lifestyle jobs.
+In BPG we want to encourage theorycrafting and even more so with each other, of course not to the point of being cheese strategy or overpowered builds. But the propsect of player sharing playstyles and combinations will help keep the game healthy. As long as we can keep it balanced.
+
+What we need out of Reskillable Rework:
+
+- Remaster all of the vanilla old traits in the stats section.
+- Additional traits for the stats section.
+- Merge Mining and Gathering stat together.
+- Add new stat called Survival.
+- Adding progressive trait bonus from leveling stats. [See trainer traits]
+- A Professions and Sub-class system.
+- All of the sub-class traits for those systems.
+- Add config settings for majority of traits for easier number balancing.
+- A functioning respec system for stats and sub-classes.
+- Re-calculate the distribution of levels and xp cost for the system.
+- Tying the Triumph and other mods with Reskillable for in-game rewards and personal achievement.
+- Utilize many different mods within the pack together, at least the integral ones.
+- Enforce Reskillable rules among many of the items and blocks.
+- Look into "or," and "nor" requirements into some of the traits, items, gear, and blocks.
+- Add starter kits for each sub-class that can only be used once and only unlocked once per Profession.
+- Perhaps a pre-requisite trait quest completion to earn the trait's bonus.
+
+Important Mods:
+- SimpleDifficulty
+- Potioncore
+- ElectroBob's Wizardry
+- Scaling Hunger
+- Scaling Health
+- DynamicStealth
+
+Less-Important Mods:
+- Harvestcraft
+- Rustic
+- CookingForBlockheads
+- AdventureTools
+- Etc.
+
+Reskillable Stat & Trait Category:
+
+[Stats]
+Strength: Passively increase melee damage and/or archery damage. (Up to 50%)
+Finesse: Passively increase crit chance/crit damage. (Up to 50%)
+Wisdom: Uses Elemental Affinity to raise passive stats.
+Vitality: Passively increase damage resistance. (Future: Piercing, Bludgeoning, and Slashing Resistance) (Up to 25%)
+Farming: Passively increase chance of double crop harvest yield and/or double animal harvest yield. (Up to 200%)
+Crafting: Passively increase chance of furnace output and/or furnace speed. (Up to 200%)
+Gathering: Passively increase mining speed, and/or woodcutting speed. (Up to 200%)
+Survival: Passively increase maximum hunger capacity.(Up to 100%)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Classes]
+Warrior - Style: Melee Combat.
+Recommended Stats: Vitality & Strength.
+Sub-Classes: Warden & Berserker & [Gladiator]
+
+Rogue - Style: Melee/Range Combat.
+Recommended Stats: Finesse & Strength. 
+Sub-Classes: Assassin & Archer & [Trickster]
+
+Mage - Style: Range Combat.
+Recommended Stats: Wisdom & Strength/Finesse/Vitality. 
+Sub-Classes: Wizard & Alchemist & [Monk]
+
+Gatherer - Style: Melee/Range Combat.
+Recommended Stats: Gathering
+Sub-Classes: Miner & Forager & [Seafarer]
+
+Farmer - Style: Melee Combat.
+Recommended Stats: Farming & Survival 
+Sub-Classes: Tamer & Chef & [Bard]
+
+Tinkerer - Style: Range Combat.
+Recommended Stats: Crafting
+Sub-Classes: Blacksmith & Engineer & [Golemancer]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Sub Classes]
+Warden - A melee-focused tank who specializes in taking damage for the team while also provide support to nearby allies. They focus most of their attention with shields and 1 handed weapons. They are stalwart defenders of truth, peace, and justice!
+Gladiator(Future) - A jack-of-all-trades soldier who can deal damage from both close & mid range while providing lite frontline coverage. They will have access to most weapons and light shields, but they will excel with 2 handed weapons more. Just don't ask them if they are entertained or not.
+Berserker - A melee-focused brawler who fights like it's their last day on the planet. They will usually dual wield 1 handed weapons to get the maximum amount of damage. They may be insane and bloodthirsty, but fearless to the core.
+
+Assassin - A melee-focused executioner who trains in the shadow arts. They will mainly utilize stealth, agility, and quick damage. To bring cloak and dagger to unexpected foes or friends... Trustworthy in a tough fight till you have a knife in your back.
+Trickster(Future) - A unique specialist who plays around with both melee & range combat. They make the most of their unusual kit of sorcery with their utility. Gives both enemies and allies a hard time with their pranks...
+Archer - A range-focused sharpshooter who practices the hunter’s trademark. They will provide damage and support from a distance with bows. Bringing death from afar before anyone can retaliate. Some say it's a coward's weapon, but nobody has lived to prove it yet.
+
+Wizard - A mostly ranged support/fighter who spends their entire lives studying the elemental energies that can bring both power and aid to friends or against foes. Just make sure to maintain a safe distance to prevent "accidental" friendly fire.
+Monk(Future) - A heavy melee-focused martial artist who provides support to allies while dishing our their own punishment on enemies. They will mostly use quarterstaves or unarmed fists for combat. Peace and tranquility through violence!
+Alchemist - A ranged/melee support who researches the intricacies of life and death. Bringing both healing and harm to allies and foes through the use of powerful potions. Yet somehow their potion’s taste is worse than the smell...
+
+Miner - Hardworking folks who spend their days in the mines, gathering raw materials needed for warfare or engineering. We all mine till the job is done. We are strong and united until the time for us to lay down. Building our future for everyone.
+Seafarer(Future) - A melee/range-focused fighter who live by the ocean with their trusty pistol and cutlass. Fishing, sailing, or swimming are their main trade, with a little bit of plundering too.
+Forager - It is all about the basics! With a cutting axe and spacious backpack, they are quick to gather all materials. Be it from plants, trees, stones, animals, and many more. Their backpacks are always full of nature's rewards, smells like it too…
+
+Tamer - They are simple bunch who makes sure a nice farming environment is achieved for both animals to prosper. They will usually carry around shovels, tools, blocks for taming. Cannot get any fresher produce anywhere! Not at half price though.
+Bard(Future) - A melee-focused support who lacks combat prowess, but more than makes up for it for buffs and debuffs in an area around them. The singers of faith and tale. Brings aid to those who are near. So sit down and bring an ale! For their song is worth a hear! 
+Chef - They are the best cooks around! Providing the most delicious and hearty meals for all. They keep track of all nutrition and buffs to anyone who is hungry. They will access to many food-based production blocks. Fridge lock not included.
+
+Blacksmith - Through the clanks & toils comes flame & steel. They will have access to all armor & weapon forging production blocks. A good blacksmith does not craft something you want; they give what you need. Even if you did not ask for it!
+Golemancer(Future?) - Ruler of rock and stone that beats a strong heart. Using semi-intelligent golems as their beck and call. Just don't ask about potential salary disputes...
+Engineer - Hammers and nails are their "weapons" of choice. They will have access to war mallets and crossbows. Build strong walls, defensive traps, and mounted turrets. Engineers get the job done with a little paranoia to spare.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Potential Stat Traits]
+Strength:
+- Battle Spirit(Remastered) = Killing an entity gives you a Strength I buff for 5 seconds. 
+- DefuSSse(Remastered) = Allows you to strike most creepers as it ignites to neutralize it. Do 50% more damage to most creeper entities and take 50% less damage from explosions.
+- Focus = Killing an entity gives you increased bow draw speed by 25% for 5 seconds.
+- Sundering Strike = Attacking an entity has a 15% chance of applying Broken Armor I Potion Effect for 5 seconds.
+
+- Swing Trainer I = Increases base damage for melee by 1.0% per 5 strength increase, up to 10%. Unable to get [Pull Training I & II].
+- Swing Trainer II = Increases base damage for melee by 2.0% per 5 strength increase, up to 20% stacks with predecessor trait to 30%. Requires [Swing Trainer I]. Unable to get [Pull Training I] & [Pull Training II].
+- Pull Trainer I = Increases base damage for range by 1.0% per 5 strength increase, up to 10%. Unable to get [Swing Training I & II].
+- Pull Trainer II = Increases base damage for range by 2.0% per 5 strength increase, up to 20% stacks with predecessor trait to 30%. Requires [Pull Trainer I]. Unable to get [Swing Training I] & [Swing Training II].
+
+Finesse:
+- Legacy of Rogues = Have access to EBWizardry's smoke bombs, desert & jungle venom throwing knives, and grappling hook gun. Decreases fall damage by 25% if holding the grappling hook gun.
+- Roadwalk(Remastered) = Increases your movement speed by 10% while on grass path, gravel, and sand. No longer suffer movement speed penalty on mud blocks. 
+- Hill Walker(Remastered) = Gives you step-assist stacks with other step-assist buffs. Decrease hunger rate by 10% and fall damage by 20%. 
+- Dodge = Allows you to dodge in four directions. Effectiveness depends on the weight class of the equipped armor.
+
+- Lucky Striker I = Increases Crit Chance by 1.0% per 5 finesse stat increase, up to 10%. Unable to get [Mighty Strikes I & II].
+- Lucky Striker II = Increases Crit Chance by 1.5% per 5 finesse stat increase, up to 15% stacks with the predecessor trait to 25%. Requires [Lucky Striker I]. Unable to get [Mighty Strikes I & II].
+- Mighty Striker I = Increases Crit Damage by 2.5% per 5 finesse stat increase, up to 25%. Unable to get [Lucky Strikes I & II].
+- Mighty Striker II = Increases Crit Damage by 5.0% per 5 finesse stat increase, up to 50% stacks with the predecessor trait to 75%. Requires [Mighty Striker I]. Unable to get [Lucky Strikes I & II].
+
+Wisdom:
+- Safe Port(Remastered) = Teleporting with an Ender Pearl will no longer hurt you. Holding an Ender pearl in your off-hand grants Empowerment I Potion Effect. Empowerment II Potion Effect if using Eye of Ender instead.
+- Golden Osmosis(Remastered) = Golden Tools, while being held or worn, will extract XP from the user to repair themselves at a fast rate. Wearing Golden Armor Set, will now provide Ward I Potion Effect.
+- Water Affinity = Increases jump height by 0.5 blocks. Have access to Novice/Apprentice Tier Ice Spells. You are allowed to wear Ice Wizard Gear.
+- Fire Affinity = Increases attack speed by 10%. Have access to Novice/Apprentice Tier Fire Spells. You are allowed to wear Fire Wizard Gear.
+- Electric Affinity = Increases movement speed by 5%. Have access to Novice/Apprentice Tier Lightning Spells. You are allowed to wear Lightning Wizard Gear.
+- Earth Affinity = Increases damage resistance by 5%. Have access to Novice/Apprentice Tier Earth Spells. You are allowed to wear Earth Wizard Gear.
+- Light Affinity = Increases projectile damage by 20%. Lowers melee damage by 10%. Have access to Novice/Apprentice Tier Healing Spells. You are allowed to wear Healing Wizard Gear.
+- Dark Affinity = Increases melee damage by 20%. Lowers projectile damage by 10%. Have access to Novice/Apprentice Tier Necromancy Spells. You are allowed to wear Necromancy Wizard Gear.
+- Arcane Affinity = Increases Healing/Harming potion effectiveness by 15%. Have access to Novice/Apprentice Tier Sorcery Spells. You are allowed to wear Sorcery Wizard Gear.
+
+Vitality:
+- Shield Sibling = Have access to low-tier shields. While holding onto a shield, increases knockback resistance by 25%.
+- Hold The Line! = While holding a shield in the off-hand, summon a force field(EBWizardry) that repels entities and block projectiles when taken damage below 50% maximum health.
+- Superhero Landing = While holding a shield in the off-hand, increases jump height by 0.5 block and decreases fall damage by 50%.
+- Undershirt(Remastered) = Every 3 minutes, taking a fatal blow when your health is above 2 hearts will reduce to you half a heart instead of killing you. Gain Regeneration I Potion Effect for 40 seconds.
+- Effect Twist(Remastered) = Being given a bad potion effect has a 15% chance per second for the effect to be cleansed immediately.
+- Vigor Tester I = Increases all damage resistance by 0.5% per 5 vitality increase, up to 5%.
+- Vigor Tester II = Increases all damage resistance by 1.0% per 5 vitality increase, up to 10% stacks with the predecessor trait to 15%. Requires [Vigor Tester I].
+
+Farming:
+- Wheat-a-Plenty(Remastered) = Adds a 50% chance to gather a second piece of Wheat when harvesting fully grown Wheat crops. Receive 16 wheat seeds upon activating this trait.
+- Green Thumb(Remastered) = Increased dig speed while using shovels by 25% and Increased range by 1 while using a hoe.
+- Hungry Farmer[REMOVED] = Makes eating a passive task. (Auto-Feeding).
+- Seasonal Greetings = Allows you to determine what part of the season you're currently in.
+- Travelling Merchandiser = Have access to the Market and Shipping Bin blocks. Receive 8 emeralds upon activating this trait.
+- Beekeeper = Have access to beehives, apriaries, and pressers. Receive 1 queen bee upon activating this trait.
+- Orchid Benevolence! = Have access to Fruit Tree gardening. Receive 1 Apple, Lemon, and Peach Tree seed upon activating this trait.
+
+- Crop Farmer I = Increases the chance of double crop harvest yield by 2% per 5 farming stat increase, up to 20%. Unable to get [Animal Farming I & II].
+- Crop Farmer II = Increases the chance of double crop harvest yield by 3% per 5 farming stat increase, up to 30% stacks with the predecessor trait to 50%. Requires [Crop Farmer I]. Unable to get [Animal Farming I & II].
+- Animal Farmer I = Increases the chance of double passive, wild, & tamed animal harvest yield by 2.5% per 5 farming stat increase, up to 25%. Unable to get [Crop Farming I & II].
+- Animal Farmer II = Increases the chance of double passive, wild, & tamed animal harvest yield by 5% per 5 farming stat increase, up to 50% stacks with the predecessor trait to 75%. Requires [Animal Farmer I]. Unable to get [Crop Farming I & II].
+
+Crafting:
+- Perfect Recover (Remastered)= Blocks that drop their components, such as Glowstone, will always drop enough to rebuild them (if applicable). Receive 1 glowstone block upon activating this trait.
+- Transmutation(Remastered) = Mining any stone blocks with a Golden Pickaxe has a 25% chance of dropping a single emerald.
+- Crossbow Expertise = Have access to basic crossbow weaponry. Increase projectile damage by 25%, but lowers movement speed by 5% while using a crossbow.
+- Gunpowder Expertise = Have access to TnT blocks and small bombs. Also have access to the bridge gun.
+- Redstone Engineer = Have access to majority of redstone items and blocks. Standing on a redstone block now provides 15% damage increase to projectiles.
+- Central XP Banker = Have access to OpenBlock's Liquid Tank, XP Shower, XP Drain, and XP Bottler.
+
+- Careful Artisan I = Increases chance of double furance & kiln output by 1.5% per 5 crafting stat increase, up to 15%. Unable to get [Hasty Artisan I & II].
+- Careful Artisan II = Increases chance of double furance & kiln output by 3.5% per 5 crafting stat increase, up to 35% stacks with the predecessor trait to 50%. Requires [Careful Artisan I]. Unable to get [Hasty Artisan I & II].
+- Hasty Artisan I = Increases faster furance & kiln output by 2.5% per 5 crafting stat increase, up to 25%. Unable to get [Careful Artisan I & II].
+- Hasty Artisan II = Increases faster furance & kiln output by 7.5% per 5 crafting stat increase, up to 75% stacks with the predecessor trait to 100%.. Requires [Hasty Artisan I]. Unable to get [Careful Artisan I & II].
+
+Gathering:
+- Poach(Remastered) = Enemy mobs will always drop at least one item and 50% chance to drop 2 items (if applicable). 
+- Lucky Fisherman(Remastered) = Luck increased while fishing. Gain Invisibility Potion Effect when using a fishing rod and not moving.
+- Fossil Digger(Remastered) = Adds a 10% chance to mine two extra ore per ore block rather than one when mining with any pickaxe.
+- Obsidian Smasher(Remastered) = Highly increases the speed of Obsidian mining while using any pickaxe. Increased dig speed by 15% while using a pickaxe. 
+- Calculated Strikes = Increases chance of double yield of all monster drops by 10%. Does not apply to bosses.
+- Fishy Joe = Allows you to use higher tier fishing rods for better & easier catches.
+
+- Stone Cutter I = Increases stone mining speed by 1.5% per 5 gathering stat increase, up to 15%. Unable to get [Wood Cutting I & II]. Mining speed varies with the stone type.
+- Stone Cutter II = Increases stone mining speed by 3.5% per 5 gathering stat increase, up to 35% stacks with the predecessor trait to 50%. Requires [Stone Cutter I]. Unable to get [Wood Cutting I & II]. Mining speed varies with the stone type.
+- Wood Cutter I = Increases wood cutting speed by 2.5% per 5 gathering stat increase, up to 25%. Unable to get [Stone Cutting I & II]. Cutting speed varies with the wood type.
+- Wood Cutter II = Increases wood cutting speed by 7.5% per 5 gathering stat increase, up to 75% stacks with predecessor trat to 100%. Unable to get [Stone Cutting I & II]. Cutting speed varies with the wood type.
+
+Survival:
+- Molten Core = Give Immunity to Hypothermia. Unable to get [Icy Vein].
+- Icy Veins = Give Immunity to Hyperthermia. Unable to get [Molten Core].
+- Iron Stomach = Decreases Exhaustion Rate by 20%. Must eat a total amount of X foods above 1 hunger shank value to receive buff. Unable to get [Soft Stomach].
+- Soft Stomach = Increases Exhaustion Rate by 20%. Must eat a total amount of X foods above 1 hunger shank value to receive buff. Unable to get [Iron Stomach].
+- Cold Dead Hands = Holding extremely hot/cold fluid buckets will no longer damage you. Increased movement speed by 10% while holding an empty bucket.
+- Purity of Essence = Immunity to Poison. Must be damaged from poison by X amount to receive immunity. Unable to get [Purity of Form].
+- Purity of Form = Immunity to Wither. Must be damaged from wither by X amount to receive immunity. Unable to get [Purity of Essence].
+- Internal Clock = Allows you to see the exact time of the day anywhere in the Overworld dimension.
+- Rest in Bed End = Sleeping now give random levels as a bonus. The level reward scales different depending on what your current level is upon waking. Less current levels will provide more bonus, vice versa.
+
+- Gluttonous Eater I = Increases maximum hunger by 1(0.5 Shank) per 5 survival stat increase, up to 5(2.5 Shanks).
+- Gluttonous Eater II = Increases maximum hunger by 2(1.0 Shank) per 5 survival stat increase, up to 10(5.0 Shanks). Requires [Gluttonous Eater I].
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Potential Class Traits]
+
+\\Warrior:
+
+[Warden]
+Master:
+- In Death, Sacrifice = When killed, all nearby players within 32.0 block radius will be fully healed, removed & immune to any negative potion effects for 15 seconds, and receive an Absorption II potion effect for 60 seconds. Receive a Gravestone of the Damned item upon unlocking the trait.
+- Unifying Mantra = Holding a shield in the offhand will absorb 75% of the received damage from nearby players within 10.0 block radius. 
+
+Advanced:
+- In Peace, Vigilance = If you do not hit an entity or be hit by one for 15 seconds, you will slowly regen health.
+- A Warrior's Aura = You generate far more threat when fighting entities. Significantly increased vision cone radius. Significantly decreases threat generation from others within 16.0 block radius.
+
+Novice:
+- In War, Victory = Killing an enemy gives nearby allies (including you) buffs within 16.0 block radius. Strength I and Resistance I for 8 seconds. Continued kills refresh duration.
+- The First Thirty Heartbeats = Successfully blocking an attack grants you 15% damage resistance for 4 seconds. Continued blocks refreshes duration.
+
+- Novice Warden Training = Allows usage of Low-Tier Shields/Sabers. Increase damage resistance by 5%. (Total: 5%)
+- Advanced Warden Training = Allows usage of Mid-Tier Shields/Sabers. Increase damage resistance by another 5%. (Total: 10%)
+- Master Warden Training = Allows usage of High-Tier Shields/Sabers. Increase damage resistance by another 10%. (Total: 20%)
+
+[Berserker]
+Master:
+- Death's Adrenaline = Receive a permanent potion effect of Delay Death. Trait activates when you first reach 0 health. The active effect will still protect you from death, but the closer you get to 0 the higher the chance of instantly dying randomly and dropping all your items.
+- Blood Armor = Blood for the Blood Moon God! Slaying a foe will grant 3 seconds of Absorption I. Continued kills refreshes duration.
+
+
+Advanced:
+- Blood Frenzy = Dealing damage now heals you for a small amount when reaching below 50% maximum health. But the continued frenzy for blood lowers your damage resistance by 20%.
+- Fear into thy Enemy = Attacks have a 10% to apply Fear status effect on majority of enemies while below 75% maximum health.
+
+Novice:
+- Into the Fire = Increase jump height by 1.0 block. Decreases fall damage by 50%.
+- On the Edge = Increase attack damage by 75%, attack speed by 25%, and movement speed by 10% while below 50% maximum health.
+
+- Novice Berserker Training = Allows usage of Low-Tier Battleaxes/Throwing Axes. Dual-wielding no longer gives attack speed penalty. Increase damage by 10%. (Total: 10%)
+- Advanced Berserker Training = Allows usage of Mid-Tier Battleaxes/Throwing Axes. Dual-wielding no longer gives attack speed penalty. Increase damage by another 15%. (Total: 25%)
+- Master Berserker Training = Allows usage of High-Tier Battleaxes/Throwing Axes. Dual-wielding no longer gives attack speed penalty. Increase damage by another 25%. (Total: 50%)
+
+\\Rogue:
+
+[Assassin]
+Master:
+- Crit-Slayer = Critical Hits increase attack speed by 25% and melee damage by 10% for 4 seconds. Additional critical hits refresh duration.
+- Fleeting Shadow = Gives you the ability to dodge mid-air if you have the dodge trait unlocked. While under cover of true darkness(below light level 6), gain Climb potion effect. While under the Invisibility Potion Effect, gain 10% movement speed.
+
+Advanced:
+- Into Darkness = While under cover of darkness(below light level 10), Increases crit damage by 50% and stealth melee damage by 25% while using daggers or katanas.
+- Plunging Silence = Gives you the ability to double jump. Lowers fall damage by 25%. You no longer take any fall damage when landing on Hay blocks.
+
+Novice:
+- Dusk and Shadow = Increases your stealth capabilities by not hitting an entity within 4 seconds. Entities will also lower their threat level with you significantly faster. Increases your base movement speed by 5% while under this effect.
+- Spring-Heeled Assassin = Killing an enemy will give 10% speed boost for 3 seconds. Continued kills refresh duration.
+
+- Novice Assassin Training = Allows usage of Low-Tier Daggers/Katanas. Increases stealth damage by 15% for both melee & range. (Total: 15%)
+- Advanced Assassin Training = Allows usage of Mid-Tier Daggers/Katanas. Increases stealth damage by another 25% for both melee & range. (Total: 40%)
+- Master Assassin Training = Allows usage of High-Tier Daggers/Katanas. Increases stealth damage by another 35% for both melee & range. (Total: 75%)
+
+[Archer]
+Master:
+- Penetrating Shot = Arrows now ignore all armor. Deal 25% more bow damage.
+- Vantage Point = Gives permanent Climb Potion Effect. Increases jump height by 1.0 block. While above 70 Y altitude level, increases projectile damage by 50%.
+
+Advanced:
+- Truthseeker = Increase crit damage by 50%. Increase bow damage by 20% while basking in sunlight(above light level 8).
+- Resourceful Sharpshooter = All special arrows now have a 25% chance of not using any ammo when fired. Using regular swords in the main hand will increase attack damage by 20% and attack speed by 15%.
+
+Novice:
+- Trueshot Volley = Increases bow draw speed by 25% while under the Trueshot Potion Effect.
+- Silent Sniper = Increase stealth range damage by 50%. While under cover of darkness(below light level 8), increases crit chance by 15%.
+
+- Novice Archer Training = Allows usage of Low-Tier Long Bows/Longswords. Increases bow damage by 15%. (Total: 15%)
+- Advanced Archer Training = Allows usage of Mid-Tier Long Bows/Longswords. Increases bow damage by another 15%. (Total: 30%)
+- Master Archer Training = Allows usage of High-Tier Long Bows/Longswords. Increases bow damage by another 20%. (Total: 50%)
+
+\\Mage:
+
+[Wizard]
+Master:
+- Sunlight Affinity = Receive a Absorption II potion effect in daylight hours. Increases projectile damage by 50%. Decreases melee damage by 25%. Have access to Advanced/Master Tier Healing Spells/Scrolls. Requires [Light Affinity]. Unable to get [Dark Moon Affinity].
+- Dark Moon Affinity = Receive a Absorption II  potion effect in nighttime hours. Increases melee damage by 50%. Decreases projectile damage by 25%. Have access to Advanced/Master Tier Necromancy Spells/Scrolls. Requires [Dark Affinity]. Unable to get [Sunlight Affinity].
+
+Advanced:
+- Steel Affinity = Receive a Iron Skin II & Geomancy potion effect. Increases damage resistance by 5%. You are allowed to wear/use Steelforged Armor/Weapon Sets. You are allowed to wear Earth Sage Gear. Requires [Earth Affinity]. Unable to get [Thunder Affinity].
+- Thunder Affinity = Receive a Ascending(Launches you upwards while above fire) & Slowfall I potion effect. Increases movement speed by 5%. You are allowed to wear Lightning Sage Gear. Requires [Air Affinity]. Unable to get [Steel Affinity].
+
+Novice:
+- Ice Affinity = Receive a Water Breathing potion effect. Inceases jump distance by 0.5 block. Have access to Advanced/Master Tier Ice Spells/Scrolls. You are allowed to wear Water Sage Gear.  Requires [Water Affinity]. Unable to get [Inferno Affinity].
+- Inferno Affinity = Receive a Fire Resistance I(20% Immunity) potion effect. Increases attack speed by 10%. Have access to Advanced/Master Tier Fire Spells/Scrolls. Requires [Fire Affinity]. Unable to get [Ice Affinity].
+- Esoteric Affinity = Receive Achemic Shielding II potion effect. Increases Healing/Harming potion effectiveness by 30%. Have access to Advanced/Master Tier Sorcery Spells/Scrolls. Requires [Arcane Affinity].
+
+- Novice Wizard Training = Allows usage of Low-Tier Wands(EBWizardry & AstralSorcery)/Quarterstaves. Increases magic damage by another 5%. (Total: 5%)
+- Advanced Wizard Training = Allows usage of Mid-Tier Wands(EBWizardry & AstralSorcery)/Quarterstaves. Increases magic damage by another 10%. (Total: 15%)
+- Master Wizard Training = Allows usage of High-Tier Wands(EBWizardry & AstralSorcery)/Quarterstaves. Increases magic damage by another 10%. (Total: 25%)
+
+[Alchemist]
+Master:
+- Quick Drinker = Significantly increase the drinking/eating speed of all consumables. Increase knockback resistance by 50% while under any Health Regen potion effects(Regeneration, Bandaged, & Wellfed).
+- True Extension = Every 15 seconds, you receive the Extension II Potion Effect for 5 seconds which prevents one other potion on you from ticking down. Essentially doubles the length of another potion on you.
+
+Advanced:
+- Indecisive Drinker = Every 30 seconds, you will receive a random positive potion effect for 15 seconds. (Potions: Haste, Resistance, Reach, Jump Boost, Recoil, Iron Skin, Invisibility, Empowerment, Ward, Alchemic Shielding, Archery, Luck, and Speed).
+- Equivalent Exchange = Increase Healing/Harming potion effectiveness by 25% while under the Weakness potion effect. Increase attack speed by 20% while under the Slowness potion effect. Increase damage resistance by 10% while under the Mining Fatigue potion effect. Increase reach distance by 1.0 block while under the Blindness potion effect.
+
+Novice:
+- Alchemic Drive = Increase movement speed by 10% & attack speed by 25% while under the Alchemic Shielding potion effect. Lowers damage resistance by 10%.
+- Soft Hearted = While under the Soft Stomach potion effect, receive a 10% movement speed. Unable to get [Iron Hearted].
+- Iron Hearted = While under the Iron Stomach potion effect, receive a 10% damage resistance. Unable to get [Soft Hearted].
+
+- Novice Alchemist Training = Allows usage of Low-Tier Research-based Magic(Thaumcraft & Potions)/Maces. Increase Healing/Harming potion effectiveness by 10%. (Total: 10%)
+- Advanced Alchemist Training = Allows usage of Mid-Tier Research-based Magic(Thaumcraft & Potions)/Maces. Increase Healing/Harming potion effectiveness by 20%. (Total: 30%)
+- Master Alchemist Training = Allows usage of High-Tier Research-based Magic(Thaumcraft & Potions)/Maces.Increase Healing/Harming potion effectiveness by 20%. (Total: 50%)
+
+\\Gatherer:
+
+Seafarer: [Locked for Future updates. DO NOT USE!]
+- Dead Fish Tale = You unlock a chance to earn rare loot from fishing. Increases luck bonus by 5%.
+- Salty Diet = Fishing now has a 50% chance of double yield. Increases luck bonus by 5%.
+- Sailing Sailor = Increases Rowing Speed on boats(excluding AW2 boats). Vision distance has been greatly enhanced.
+- Neptunium Birthright = Increases swim speed by 30%. You can now breath underwater with your expanded lungs.
+- Duelist = Using a rapier or cutlass gives 5% movement speed. If you have nothing in your offhand then further increase movement speed by 10%.
+- Novice Seafarer Training = Allows usage of Low-Tier Cutlass/Rapiers. Increases luck by 5%. (Total: 5%)
+- Advanced Seafarer Training = Allows usage of Mid-Tier Cutlass/Rapiers. Increases luck by another 5%. (Total: 10%)
+- Master Seafarer Training = Allows usage of High-Tier Cutlass/Rapiers. Increases luck by another 10%. (Total: 20%)
+
+[Miner]
+Master:
+- Fingertip Grip = Increase reach distance by 1.5 blocks and decreases harvest speed by 10% while using a pickaxe.
+- Lifting Together = Grants Haste I Potion Effect to all nearby allies within 16.0 block radius. Ores have a 25% chance to drop double yield.
+
+Advanced:
+- Picked for War = Increase damage by 50% and attack speed by 15% while ONLY using a pickaxe.
+- Rock Climber = Receive a Climb Potion Effect and reduce fall damage by 25% while using a pickaxe.
+
+Novice:
+- Rock & Stone = Provide Resistance I to yourself and allies within 8.0 block radius while using a pickaxe.
+- Cave Dweller = Have access to special tools to help with mining. Have access to mining charges and dynamites. Escape ropes, Mining helmets, and Sonic Glasses become available to use. Receive a Glowing potion effect while underground below y block level.
+
+- Novice Miner Training = Allows usage of Low-Tier Pickaxes. Increases stonecutting speed by 10% while using a pickaxe. (Total: 10%)
+- Advanced Miner Training = Allows usage of Mid-Tier Pickaxes. Increases stonecutting speed by another 15% while using a pickaxe. (Total: 25%)
+- Master Miner Training = Allows usage of High-Tier Pickaxes. Increases stonecutting speed by another 35% while using a pickaxe. (Total: 60%)
+
+[Forager]
+Master:
+- Stone Cutter = Increases Stonecutting by 50% while under a cover darkness(below light level 8). Effective inside dark caves. Different speed may vary on the stone. Holding Shift will mining will break stones at 2x2 space.
+- Timbersaw = Increases Woodcutting by 50% while basking in the sunlight(above light level 8). Effective inside dark caves. Different speed may vary on the wood.  Holding Shift while cutting trees will cut it all down at once.
+
+Advanced:
+- Lumberjacked = Increases damage done with axe-based weapons by 30%, and increases attack speed by 10%.
+- Trade Techniques = 50% chance of getting double yield on stones & wood from woodcutting or stonecutting.
+
+Novice:
+- Nocturnal Prowler = Only during nighttime, you will be given a Night Vision potion effect with increased vision. Increase movement speed by 5%.
+- Quick & Unseen = Entities lower their threat level faster with you. Increase movement speed by 5%.
+
+- Novice Forager Training = Allows usage of Low-Tier Cutting Axes. Increases woodcutting speed by 25% while using a cutting axe. (Total: 25%)
+- Advanced Forager Training = Allows usage of Mid-Tier Cutting Axes. Increases woodcutting speed by another 45% while using a cutting axe. (Total: 70%)
+- Master Forager Training = Allows usage of High-Tier Cutting Axes. Increases woodcutting speed by another 80% while using a cutting axe. (Total: 150%)
+
+\\Farmer:
+
+[Tamer]
+Master:
+- Beast Master = Tamed wolves receive +25% damage, +10% damage resistance, +50% knockback resistance, and +15% movement speed. Receive a free Doggy Charm when trait is unlocked. Have access to all DoggyTalent items & blocks.
+- Dragon Tamer = Have access to all items needed for a dragon's care. Dragon meals, dragon command staff, dragon bone flute, and dragon horns are now useable. Have access to Dragonsteel armors and weapons without stat restrictions. While mounted, melee damage increased by 50% and damage resistance by 10%.
+
+Advanced:
+- The Commanding Shepard = All passive animals are attracted to you as if you are holding their favorite food. Movement speed is increased by 5%
+- Methodical Reaper = Gain more raw meat and other materials respective to the harvested animal. While holding Scythes, damage is increased by 25% and attack speed is increased by 10%.
+
+Novice:
+- Country Roads = Have access to leads, horse carts, bird's nests, and troughs. Horses move much faster and are more durable when you ride them. While mounted, projectile damage is increased by 25% and knockback resistance is increased by 50%.
+- Shovel Knights = While holding Shovel, damage is increased by 25% and damage resistance is increased by 10%.
+
+- Novice Rancher Training = Allows usage of Low-Tier Shovels/Hoes. Increases dig speed by 25%. (Total: 25%)
+- Advanced Rancher Training = Allows usage of Mid-Tier Shovels/Hoes. Increases dig speed by another 25%. (Total: 50%)
+- Master Rancher Training = Allows usage of High-Tier Shovels/Hoes. Increases dig speed by another 50%. (Total: 100%)
+
+[Chef]
+Master:
+- Eloquent Taste = With a more refined taste buds, you describe eaten meals to all nearby allies within 16.0 block radius. This gives them a temporary Metabolism II potion effect for 10 seconds. Decreases exhaustion usage by 20%.
+- Master of Eating = Eating prepared foods usually above 2 shanks value from Harvestcraft, Rustic, and etc. will grant you 1 minute of Dispel potion effect. Eating again will refresh the duration.
+
+Advanced:
+- Morning Shift = Sleeping removes all negative effects from sleeping(Cure). Everytime you wake up, you receive a free 10% Nutrition bonus on all food groups.
+- The One Meal = Have access to everlasting foods that can be eaten indefinitely. Increases maximum hunger cap by 8(4 shanks). Don't share it! It's your precious!
+
+Novice:
+- Bread Maker = Have access to all CookingForBlockheads, Rustic, and Harvestcraft production blocks. Receive 10% damage resistance buff while on top of a kitchen floor block. (Cabinets and Fridges are available for anyone to use). While holding a knife weapon, increases attack speed by 10% and increases attack damage by 20%.
+- Kitchen Fire! = Receive a Fire Resistance III Potion Effect. Receive 10% movement & attack speed buff while on top of a kitchen floor block.
+
+- Novice Chef Training = Allows usage of Low-Tier Throwing Knives. Increases attack speed by 5%. (Total: 5%)
+- Advanced Chef Training = Allows usage of Mid-Tier Throwing Knives. Increases attack speed by 10%. (Total: 15%)
+- Master Chef Training = Allows usage of High-Tier Throwing Knives. Increases attack speed by 10%. (Total: 25%)
+
+
+\\Tinkerer:
+
+[Blacksmith]
+Master:
+- Weapon Purist = Being a purist of anything destructive, you now have access to majority of weapons regardless of class restriction. However you will lose access to majority of armor pieces.  Attack/Projectile damage increased by 20%. Damage resistance decreased by 10%. Unable to get [Armor Advocate].
+- Armor Advocate = Being an advocate for safety, you now have access to majority of armor sets regardless of restriction. However, you will not be able to use any weapon outside your mastery. Damage resistance increased by 10%. Attack/Projectile damage decreased by 20%. Unable to get [Weapon Purist]
+Thoughts?
+- Forged by Fire = Have access to Kilns, Hibachis, Bellows, and Crucibles. Receive a permanent Fire Resistance III(60%) potion effect.
+
+Advanced:
+- Powered Weaponry = Have access to gunpowder guns. Holding a gunpowder weapon will increase your knockback resistance by 75% and damage resistance by 10%, but decreases movement speed by 10%. Requires [Gunpower Expertise].
+- Crafty Craftsmanship = There is a 50% chance of furnaces(not kilns) giving double output yield. While holding a warhammer, increases your damage resistance by 5%.
+
+Novice:
+- The Princess's Bearded Trade = Have access to all anvils and sledgehammer tools. While holding a warhammer weapon, increases your damage by 25%.
+- War Time Exclusive = While holding a warhammer, increases your damage by 20% and knockback resistance by 25%.
+
+- Novice Blacksmith Training = Allows usage of Low-Tier Warhammers. Increases knockback resistance by 20%. (Total: 20%)
+- Advanced Blacksmith Training = Allows usage of Mid-Tier Warhammers. Increases knockback resistance by another 20%. (Total: 40%)
+- Master Blacksmith Training = Allows usage of High-Tier Warhammers. Increases knockback resistance by another 20%. (Total: 60%)
+
+[Engineer]
+Master:
+- Powder Gang = Throwing explosives have a 75% chance of not being consumed when used. Using Battle Hammers do 20% more damage and increase knockback resistance by 50%.
+- Humble Builder = Significantly decreases threat generation rate. While on brick blocks from [The Lone Defender], receive +15% damage resistance. Unable to get [Haughty Builder].
+- Haughty Builder = Significantly increases threat generation rate. While on brick blocks from [The Lone Defender], receive +15% movement speed. Unable to get [Humble Builder].
+
+Advanced:
+- Command and Conquer = Have access to all AW2-based production and settlement buildings. Significant increase in sight distance and radius. Receive 1 Townhall block, 32 Emeralds, 32 Golden Owls(currency) & 64 Bread upon activating this trait.
+- Arcane Engineer = Have access to magic-based engineering blocks such as Arcane Archives, Thaumcraft defenses, Vacuum hoppers, Ender elevators, and etc. Receive a permanent Diamond Skin I potion effect.
+
+Novice:
+- The Lone Defender = Have access to higher-quality stone bricks and build majority of traps. Increases reach distance by 1.0 block and decreases fall damage by 20%.
+- Settler's Paradise = Have access to Windmills, Millstones, Cauldrons, Filtered Hopper, and Turn Tables. Receive a permanent Slow Fall I potion effect.
+
+- Novice Builder Training = Allows usage of Low-Tier War Mallet/Crossbows. Increases jump height by 1.0 block. (Total: 1.0 block)
+- Advanced Builder Training = Allows usage of Mid-Tier War Mallet/Crossbows. Increases jump height by another 1.0 block. (Total: 2.0 block)
+- Master Builder Training = Allows usage of High-Tier War Mallet/Crossbows. Increases jump height by another 1.0 block. (Total: 3.0 block)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attribute Cap Limit:
+
+Most of these attribute baseline percentage is 100% to signify player's starting numbers which is 0(100%). Example - 100% + 900% = 1000% as the cap limit. Vice versa if debuffed 100% - 20% = 80%. All these caps are subject to change with each new balance change.
+Attribute Cap Limit:
+
+Melee Damage: 0% - 1000% (About 10x damage potential)* 
+
+Projectile Damage: 0% - 750% (About 7.5x damage potential)* 
+
+Knockback Resistance: 0% - 200% (Knockback Immunity) 
+
+Movement Speed: 125% (Fast but not Usain Bolt fast) 
+
+Attack Speed: 300% (About 3x attack speed)[Adjust depending on the weapon type.] 
+
+Armor: [Depending on the armor pieces.] 
+
+Armor Toughness: [Depending on the armor pieces.] 
+
+Damage Resistance: 150% (About 50% Resistant to all damage until we add in DDD mod) 
+
+Luck: ??? [RNGesus or Ranald will decide your fate] 
+
+Healing/Harming Potion Effectiveness:  250% (about 2.5x effectiveness) 
+
+Jump Height: [Depending on numerous variables] 
+
+Step Height: [Depending on numerous variables] 
+
+Reach: 0.5 Blocks - 3.0 Blocks (about 2 blocks more than vanilla reach) 
+
+Dig Speed: 0% - 300% (about 3x speed) [Depending on the tool quality] 
+
+Alchemic Shielding: 0 - 20 (Based on probability per tick similar to Fire damage) 
+
+Max Health: 20 - 50 (about 25 Hearts) 
+
+Max Hunger: 20 - 40 (about 20 Shanks)
+*(Melee & Projectile damage is very high because we have to take into account the different damage on higher tier weaponry. Though might need thorough testing.)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sub-class Starter Equipment Pack: [We will make these earnable through a Trait that provides these items. Players can only choose one starter pack trait.]
+
+All Players: (These items will be given regardless of sub-class, I will use another mod for these items.)
+- 1x Food Ration
+- 1x Torch
+- 1x Leather Canteen(16x charges of Purified Water)
+- 1x Strong Campfire
+
+Warden:
+- 1x Iron Shield
+- 1x Iron Helmet
+- 1x Chainmail Chestplate
+- 1x Stone Saber
+
+Berserker:
+- 2x Stone Battleaxe
+- 1x Chain Pants
+- 1x Chain Boots
+- 1x Pauldron
+
+Assassin:
+- 1x Camouflage Armor Set
+- 32x Modern Iron Lockpick
+- 1x Iron Dagger
+
+Archer:
+- 1x Iron-Strengthened Longbow
+- 64x Arrow
+- 1x Leather Helmet
+- 1x Light Arrow Quiver
+
+Wizard:
+- 1x Novice Magic Wand(Magic Missile)
+- 1x Wizard Hat
+- 1x Tome of the Diligent
+- 16x Small Mana Potion
+
+Alchemist:
+- 1x Iron Mace
+- 1x Alchemy Bag
+- 1x Brewing Stand
+- 16x Splash Potion of Healing & Harming
+
+Miner:
+- 1x Backpack
+- 1x Stone Pickaxe
+- 1x Mining Helmet
+- 4x Small Glaretorch
+
+Forager:
+- 1x Backpack
+- 1x Iron Cutting Axe
+- 1x Pocket Watch & Empty Book of Atlas
+- 1x Iron Fishing Rod
+
+Tamer:
+- 1x Iron Hoe & Iron Shovel
+- 1x Farmer Hat
+- 1x Leather Pants
+- 1x Doggy Charm
+
+Chef:
+- 1x Iron Throwing Knife
+- 16x Kitchen Floor
+- 1x Cooking Pot & BBQ Spit
+- 1x Cooking for Blockheads Recipe Book II
+
+Blacksmith:
+- 1x Crafting Pad
+- 1x Iron Sledgehammer
+- 1x Blast Furnace
+- 1x Multipurpose Stone Anvil
+
+Engineer:
+- 1x Crafting Pad
+- 1x Iron War Mallet
+- 1x Stone Kiln
+- 1x Crossbow & 16x Crossbow Bolt
+
+Seafarer: (Future)
+- 1x Flintlock pistol & 32x ammo
+- 1x Gunpowder Bag
+- 1x Pirate Hat
+- 1x Pirate Hook
+
+Bard: (Future)
+- 1x Lyre
+- 1x Piper's Hat
+- 1x Iron Boomarang
+- 1x Stone Dagger
+
+Golemancer: (Future)
+- 1x Stone Mace
+- 1x Golemancer's Bell & Tome of Golemancy
+- 8x Greatwood Golems
+- 3x Control Seals(Secure, Guard, Collect)
+
+Monk: (Future)
+- 1x Iron Quarterstaff
+- 2x Caestus
+- 1x Amulet of Transience
+- 1x Bounce Boots
+
+Trickster: (Future)
+- 1x Iron Throwing Knives
+- 1x Novice Sorcery Wand & Blink Spell Book
+- 1x Ring of Extraction
+- 8x Small Mana Potions
+
+Gladiator: (Future)
+- 1x Stone Shield
+- 1x Stone Spear
+- 1x Pocket Piston
+- 1x Iron Javelin
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Active Skill Concepts: Traits that allow an ability for the user when unlocked. Requires a keybind usage. These cannot be unlocked unless you reached the top of your sub-class's skill tree. Only one can be activated within their respective profession(not sub-class, so only up to 2 active skills).
+
+Warden:
+- Rally Cry: Warden shouts a rally. Nearby allies(16.0 block radius) excluding yourself receive instant heal of 5 hearts and Resistance III Potion Effect for 30 seconds.
+
+or
+
+- Faith-Born: Warden charges forward until it hits an entity. Containment VI Potion Effect is given to that entity upon contact for 10 seconds. Become Invulnerable for 10 seconds within the containment.
+
+Berserker: 
+- Blood Rage: Instantly lose 50% HP of your maximum health and gain Resistance II & Injured potion effect for 10 seconds. After 10 seconds, slowly regen health back until full.
+
+or
+
+- Demon's Roar: All nearby(8.0 block radius) hostile entities receive Fear Potion Effect for 10 seconds. All nearby allies(12.0 block radius) will receive Strength II and Speed I Potion effect for 10 seconds.
+
+Assassin:
+- Smoke of Deceit: Nearby allies(8.0 block radius) turn invisible for 2 minutes, any hostile entities will be inflicted with Mind Trick I for 15 seconds. Receive Speed I, Climb & Jump Boost I Potion Effect for 1 minute. 
+
+or
+
+- Hemorrhage Strikes: Jump attacks with daggers have a chance to lacerate and hemorrhage your target for 5 minutes. Target bleeds continuously for 20 seconds. Become immune to fall damage for 10 seconds, hits refreshes this duration until active ability duration has ended.
+
+Archers:
+- Sky Shot: Archers high-jump(6.0 blocks height) upwards and do +200% projectile damage for 5 seconds. Receive Slow Fall II Potion Effect for 10 seconds.
+
+or
+
+- Evasive Shot: Archers dash (4.0 blocks) backwards. Instantly heal 2 hearts and receive Invisibility Potion Effect for 15 seconds.
+
+Wizards:
+- Cleansing Rain: Turns the current weather into rain. Receive Hypothermia Shield Potion Effect for 2 minutes. Cures all allies(32.0 block radius) including you of all negative potion effects for 3 minute.
+
+or
+
+- Thunder's Might: Turns the current weather into thunderstorm. Receive Hypothermia Shield Potion Effect for 2 minutes. All nearby(24.0 block radius) hostile entities will be hit with a lightning strike. Lightning strikes effect occurs every 15 seconds for 60 seconds.
+
+Alchemist:
+- Potion Rush: Healing and Harming splash potions are not consumed upon use for 10 seconds. If there is no Healing and/or Harming splash potions within your inventory. You will be given 5 of each for free. Make sure you have inventory space for two.
+
+or
+
+- Alchemic Madness: Cures all negative potion effects on yourself & nearby allies(8.0 block radius) upon activation. All nearby allies(8.0 block radius) including you will receive 1 random positive potion effect for 30 seconds. Extension II Potion Effect is given to your allies for 5 seconds.
+
+Gladiator: (Future)
+- Shoulder Bash: Gladiators dash forward(6.0 blocks) and hits the first entity it contacts. Does high knockback, but low damage. Receive +25% attack damage & +10% Damage Resistance for 5 seconds. Relatively low cooldowns allow for more frequent uses.
+
+or
+
+- Warrior's Stomp: Gladiators stomp the ground causing a large cone area in front of them around to shake upwards. All hostile entities hit are stunned for 10 seconds.
+
+Monk: (Future)
+- Glorious Dash: Monks dash forward(4.0 blocks). Gain +50% attack speed for 4 seconds. Low cooldowns allows for continued use.
+
+or
+
+- God's Fountain: Monk receive a Transience Potion Effect & nearby allies(16.0 block radius) will slowly regen health back until full. Receive Speed I Potion Effect for 10 seconds after the Transience Potion Effect.
+
+Trickster: (Future)
+- World's Law: Tricksters receive a Slow Time buff for 10 seconds. Receive +25% attack damage & +15% movement speed buff for 10 seconds.
+
+or
+
+- Portal Blink: Trickers will teleport at the direction they are looking at(up to 24.0 blocks). Creates a two way portal for all allies to use for 5 minutes. Tricksters receive +10% damage resistance for 10 seconds.
+
+Chef:
+-  : Health damage is converted to Hunger damage for X amount of seconds. Increasing eating speed by 100% for X amount of seconds.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
