@@ -799,13 +799,6 @@ recipes.addShaped("FallingSandTrap",<treasure2:falling_sand>,[
     [null,<minecraft:redstone>,null]
 ]);
 
-recipes.remove(<testdummy:dummy>);
-recipes.addShaped("TestDummy",<testdummy:dummy>,[
-    [null,<minecraft:hay_block>,null],
-    [<minecraft:hay_block>,<mutantbeasts:mutant_skeleton_rib_cage>,<minecraft:hay_block>],
-    [<dungeontactics:magic_powder>,<ore:stickWood>,<minecraft:redstone>]
-]);
-
 recipes.remove(<treasure2:falling_red_sand>);
 recipes.addShaped("FallingRedSandTrap",<treasure2:falling_red_sand>,[
     [null,<minecraft:sand:1>,null],
@@ -934,12 +927,6 @@ recipes.addShaped("naturecompass",<naturescompass:naturescompass>,[
     [null,<nyx:fallen_star>,null],
     [<contenttweaker:water_orb>,<minecraft:compass>,<contenttweaker:earth_orb>],
     [null,<contenttweaker:nature_orb>,null]
-]);
-
-recipes.addShaped("armorupgradescroll",<ebwizardry:armour_upgrade>,[
-    [null,<contenttweaker:knowledge_rune>.anyDamage().transformDamage(),null],
-    [<ebwizardry:grand_crystal>,<ebwizardry:blank_scroll>,<ebwizardry:grand_crystal>],
-    [null,<contenttweaker:trans_rune>.anyDamage().transformDamage(),null]
 ]);
 
 recipes.remove(<ebwizardry:identification_scroll>);

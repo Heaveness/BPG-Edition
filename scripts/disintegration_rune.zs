@@ -201,7 +201,7 @@ recipes.addShapeless("disintrune520", <bountifulbaubles:spectralsilt> * 2, [<con
 
 recipes.addShapeless("disintrune521", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <artifacts:whoopie_cushion>]);
 
-recipes.addShapeless("disintrune522", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <artifacts:tiny_shirt>]);
+recipes.addShapeless("disintrune522", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <artifacts:bubble_wrap>]);
 
 //recipes.addShapeless("disintrune3", <bountifulbaubles:spectralsilt> * 3, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <>]);
 
@@ -317,7 +317,7 @@ recipes.addShapeless("disintrune418", <bountifulbaubles:spectralsilt> * 4, [<con
 
 recipes.addShapeless("disintrune419", <bountifulbaubles:spectralsilt> * 6, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <artifacts:fire_gauntlet>]);
 
-recipes.addShapeless("disintrune420", <bountifulbaubles:spectralsilt> * 6, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <toolbelt:belt>]);
+recipes.addShapeless("disintrune420", <bountifulbaubles:spectralsilt> * 6, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <artifacts:lucky_clover>]);
 
 
 // Ascended
@@ -339,6 +339,10 @@ recipes.addShapeless("disintrune56", <bountifulbaubles:spectralsilt> * 5, [<cont
 recipes.addShapeless("disintrune57", <bountifulbaubles:spectralsilt> * 5, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <dungeontactics:lantern_magic>]);
 
 recipes.addShapeless("disintrune58", <bountifulbaubles:spectralsilt> * 5, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <iceandfire:cockatrice_scepter>]);
+
+recipes.addShapeless("disintrune59", <bountifulbaubles:spectralsilt> * 5, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <artifacts:antidote_vessel>]);
+
+recipes.addShapeless("disintrune60", <bountifulbaubles:spectralsilt> * 5, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <artifacts:sacrificial_amulet>]);
 
 //template
 //recipes.addShapeless(<bountifulbaubles:spectralsilt>, [<contenttweaker:disint_rune>, <>]);

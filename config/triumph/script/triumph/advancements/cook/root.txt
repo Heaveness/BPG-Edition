@@ -2,7 +2,7 @@
 //This is a root advancement. It is the base advancement for a page. As such, it has no parent and has to set a background.
 
 //Set icon item
-setIcon(<artifacts:everlasting_beef>)
+setIcon(<animania:raw_prime_beef>)
 
 //Set title String
 setTitle("Cooking")
