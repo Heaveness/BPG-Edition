@@ -1075,6 +1075,17 @@ Public Alpha 1.9 Hotfix 6: 04/28/2023
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Public Alpha 1.9 Hotfix 7: 10/25/2023
+
+- Removed MmmMmmMmmMmm mod(test dummy). Compatibility issues with the next update.
+- Changed the recipe and icon within the guidebook to replace test dummy item removal.
+- Removed DiscordRPC mod.
+- Updated File Director mod to latest version. Some people were having issue opening the modpack again.
+
+Note: AstralSorcery will be removed in the upcoming update as there is a lot of compatibility issues with the new combat mods.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Open Beta 2.0:
 
 - Complete rework of the Reskillable stat & class system. There are now 6 professions to choose from with 2 sub-classes for each. Each player can only choose up to 2 at a time. The middle sub-class will be revealed at a future date.
@@ -1091,14 +1102,15 @@ Open Beta 2.0:
 - Reskillable stats are always visible when hovered.
 - 
 
-- Replaced Better Combat mod with Better Combat Revamped mod by 's team.
+- Replaced Better Combat mod with Immersive Combat mod by burgggy's team.
 - Decreased camera yaw motion when swinging from 0.16 to 0.08. To lower motion sickness on faster weapons.
 - Removed Heart Particles when mobs take damage for better visual clarity.
-- 
+-
 
 - Added Mixin 0.7-0.8 Compatibility mod by NotStirred.
 - Updated SpartanWeaponry mod to the latest version.
 - Removed SpartanWeaponry and it's addon mods from the Backstab mod's systems. Replaced with its own backstab damage modifier. Other modded knives and daggers are still within Backstab's system.
+- Added SpartanWeaponryArcana mod weapons into the durability buffs to stay consistent with the same weapon types.
 - Increased weapon property of Backstab damage bonus from +200% to +300%.
 - Increased weapon property of Reach I from 6.0 blocks to 6.5 blocks.
 - Increased weapon property of Reach II from 7.0 blocks to 7.5 blocks.
@@ -1115,9 +1127,43 @@ Open Beta 2.0:
 - Increased weapon property of Riding Damage bonus from +100% to +200%.
 - Increased weapon property of Armor Piercing bonus from 50% to 75%.
 - Increased weapon property of Hurt Resistence of Quick Strike bonus from 14 ticks to 20 ticks.
-- Increased weapon property of Armor Penetration  from to 50% to 75%.
 
-- 
+- All of SpartanWeaponry Saber weapon's durability has been increased by 20% respectively.
+- All of SpartanWeaponry Quarterstaff weapon's durability has been increased by 20% respectively.
+- All of SpartanWeaponry Katana weapon's durability has been decreased by 20% respectively.
+- All of SpartanWeaponry Rapier weapon's durability has been decreased by 20% respectively.
+- All of SpartanWeaponry War Mallet weapon's durability has been increased by 20% respectively.
+- All of SpartanWeaponry Warhammer weapon's durability has been increased by 20% respectively.
+- All of SpartanWeaponry Mace weapon's durability has been increased by 10% respectively.
+- All of SpartanWeaponry Longbow weapon's durability has been increased by 10% respectively.
+- All of SpartanWeaponry Crossbow weapon's durability has been increased by 10% respectively.
+- All of SpartanWeaponry Javelin weapon's durability has been increased by 10% respectively.
+- All of SpartanWeaponry Boomerang weapon's durability has been increased by 15% respectively.
+- All of SpartanWeaponry Caetus weapon's durability has been increased by 20% respectively.
+- All of SpartanWeaponry Club weapon's durability has been increased by 20% respectively.
+
+- Increased Longsword's base damage scaling from 4.5x to 5.0x.
+- Increased Greatsword's base damage scaling from 6.0x to 7.5x.
+- Increased Katana's base damage scaling from 3.5x to 4.5x.
+- Decreased Saber's base damage scaling from 4.5x to 2.5x.
+- Decreased Rapier's base damage scaling from 2.5x to 2.0x.
+- Increased Battleaxe's base damage scaling from 5.0x to 5.5x.
+- Increased Quarterstaff's base damage scaling from 1.5x to 2.0x.
+- Increased Club's base damage scaling from 4.0x to 4.5x.
+- Decreased War Mallet's base damage scaling from 6.0x to 5.5x.
+- Decreased Warhammer's base damage scaling from 4.0x to 3.0x.
+- Increased Caestus's base damage scaling from 2.0x to 2.5x.
+- Decreased Mace's base damage scaling from 4.0x to 3.5x.
+- Increased Spear's base damage scaling from 4.5x to 5.0x.
+- Increased Halberd's base damage scaling from 6.5x to 7.0x.
+- Increased Pike's base damage scaling from 4.0x to 4.5x.
+- Increased Lance's base damage scaling from 4.0x to 4.5x.
+- Increased Glaive's base damage scaling from 4.0x to 4.5x.
+- Increased Longbow's draw time & arrow speed scaling from 1.2x to 1.3x.
+- Increased Throwing Knife's base damage scaling from 1.5x. to 2.0x.
+- Increased Throwing Axe's base damage scaling from 2.0x. to 3.0x.
+- Increased Javelin's base damage scaling from 1.5x to 2.5x.
+- Increased Boomerang's base damage scaling from 4.0x to 4.5x.
 
 - Decreased attack speed of Battle Axes from 1.0sps(swings per second) to 0.8sps.
 - Increased attack speed of Boomerangs' melee from 1.4sps to 1.8sps.
@@ -1142,12 +1188,9 @@ Open Beta 2.0:
 - Increased attack speed of Throwing Axes' melee from 0.9sps to 1.1sps.
 - Decreased attack speed of Throwing Knives' melee from 2.5sps to 2.2sps. 
 - Decreased attack speed of Warhammers from 1.1sps to 1.0sps. 
-- 
 
 - Increased Crossbow Loading time from 1.0x to 2.0x. Loads much slower since they already do so much damage than bows.
 - Increased Longbow Draw time and Arrow Speed multiplier from 1.1x to 1.2x. (10% longer draw, but 10% increase in arrow speed & damage.)
-
-- Added & integrated Teams mod by CommodoreThrawn's team.
 
 - Updated Artifacts mod with RLArtifacts mod by fonnymunkey's team.
 - Everlasting foods have been removed.
@@ -1155,7 +1198,7 @@ Open Beta 2.0:
 - Increased Attack Speed given by feral claws, mechanical glove, and fire gauntlet from 0.25 to 0.30.
 - Increased Luck Boost from lucky clover from 2.0 to 5.0.
 - Increased chance of Flame, Shock, Thorn pendant activation from 25% to 75%.
-- Increased damage of Star Cloak's stars from 6.0 to 15.0.
+- Increased damage of Star Cloak's stars from 6.0 to  15.0.
 - Increased maximum of stars from Star Cloak from 8 to 10.
 - Decreased minimum of stars from Star Cloak from 3 to 2.
 - Decreased Lucky Clover's base luck from 5.0 to 7.0.
@@ -1174,23 +1217,27 @@ Open Beta 2.0:
 - Removed Totem of Undying drop from Furious Mimic's loot table.
 - Fixed a typo in Mimic's loot table to drop the wrong bauble.
 
-
-- Fixed a few broken achievements.
-
-- Added & integrated Equipment Compare mod by Grend_G.
-- Changed "Equipped" to "Currently Equipped" when comparing gear.
-- Added & integrated Legendary Tooltips mod by Grend_G.
-- Added and categorize all items & blocks into the tooltip system. Based on rarity, usage, and importance to progression.
-- 
-
 - Updated EBWizardry mod to the latest version.
 - Disabled CompatSkill's compatibility with EBWizardry to prevent hard crashes on startup.
 - Significant changes to wand XP progression requirements. Apprentice: 1500xp -> 1000xp, Advanced: 3500xp -> 2500xp, Master: 6000xp -> 5000xp
 - Wand XP will be given a 1.5x passive bonus when levelling up to tiers you have already reached with another wand.
 - Abandoned Library have a chance to spawn in the overworld and the Aether.
 - Obelisks will now spawn in the Nether as well.
+- All recipes for spells through imbuement have been removed to prevent balance issues with the current spell progression. This might change in the future.
 - 
 - Wizards no longer take rock crystal from Astral Sorcery as currency to prevent trading issues.
+
+- Fixed a few broken achievements.
+- Added & integrated Teams mod by CommodoreThrawn's team.
+
+- Added & integrated Equipment Compare mod by Grend_G.
+- Changed "Equipped" to "Currently Equipped" when comparing gear.
+- Added & integrated Legendary Tooltips mod by Grend_G.
+- Added and categorize all items & blocks into the tooltip system. Based on rarity, usage, and importance to progression.
+- 
+- Added & integrated Item Highlighter mod by Grend_G.
+- Added & integrated Advancement Plaque mod by Grend_G.
+- Added & integrated Item Borders mod by Grend_G.
 
 - Global Swim Speed of all entities lowered by
 - Updated Simply Hot Springs mod to the latest version.
@@ -1238,6 +1285,7 @@ Open Beta 2.0:
 - Completely removed AstralSorcery from the modpack.
 
 - Replaced CookingForBlockheads mod with Delightful Cuisine for Woodheads mod by XemnesXIII.
+- Added & Integrated ControlBurn mod by laike_endaril.
 
 - Increased Void Keeper's movement speed by 20%.
 - Void Keeper will now blind players on their attack for 10 seconds.
@@ -1254,7 +1302,7 @@ Open Beta 2.0:
 - Decreased Vespa's health by 10.
 - Increased chance of extra blaze rod drops from Blazes by 5%.
 - Sorrowful Angels are now immune to Levitate Potion Effect.
-
+- The Vessel boss's offensive potion effects duration decreased from 6 seconds to 4 seconds.
 - Increased the health of Eldritch Warden, Eldritch Construct, and Crimson Praetor by 500, 1000, and 750 respectively.
 - 
 - All Elite mobs and Bosses are now immune to Frostbite & Fear potion effects.
@@ -1267,6 +1315,7 @@ Open Beta 2.0:
 - Increased chance of villages having waystones from 50% to 75%.
 - Decreased waystone's the amount of blocks per xp level requirement from 525.0 blocks to 500.0 blocks. (Gets more expensive 25 blocks faster between waystones).
 - Removed Waystone's ability to teleport between dimensions to prevent crashing issues. 
+
 
 - Updated FishingMadeBetter mod.
 - Complete re-balance of the fishing mechanics.
@@ -1290,9 +1339,13 @@ Open Beta 2.0:
 - Removed a few slimes from the spawn list.
 - Fixed a recipe with Thaumcraft's sanitizing soap using the wrong oil.
 
+- Fixed item frames not appearing through DynamicStealth.
+
 - Added MusicTrigger mod by .
 - Purchased music from .
 - 
+
+
 
 recipes.addShaped("armorupgradescroll",<ebwizardry:armour_upgrade>,[
     [null,<contenttweaker:knowledge_rune>.anyDamage().transformDamage(),null],
@@ -1333,6 +1386,10 @@ v2.0(Dawn of the Majesterium pt.1):
 - Added Artisan Worktables 1.12 mod by codetaylor.
 - All lifestyle sub-classes will have their own crafting table for their own important items.
 - Crafting tables will be initially given to you through simple trait unlocks like training traits.
+- 
+
+
+- Added Distinct Damage Description mod by Yeelp.
 - 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
