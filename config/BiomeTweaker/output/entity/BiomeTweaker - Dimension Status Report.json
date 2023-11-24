@@ -1091,24 +1091,9 @@
     "Class": "betterwithmods.common.entity.EntityJungleSpider"
   },
   {
-    "Name": "artifacts.mimic",
-    "Registry ID": "artifacts:mimic",
-    "Class": "artifacts.common.entity.EntityMimic"
-  },
-  {
-    "Name": "EntityFlare",
-    "Registry ID": "astralsorcery:entityflare",
-    "Class": "hellfirepvp.astralsorcery.common.entities.EntityFlare"
-  },
-  {
-    "Name": "EntitySpectralTool",
-    "Registry ID": "astralsorcery:entityspectraltool",
-    "Class": "hellfirepvp.astralsorcery.common.entities.EntitySpectralTool"
-  },
-  {
-    "Name": "EntityLiquidSpark",
-    "Registry ID": "astralsorcery:entityliquidspark",
-    "Class": "hellfirepvp.astralsorcery.common.entities.EntityLiquidSpark"
+    "Name": "quark:leash_knot",
+    "Registry ID": "quark:leash_knot",
+    "Class": "vazkii.quark.decoration.entity.EntityLeashKnot2TheKnotting"
   },
   {
     "Name": "quark:stoneling",
@@ -1149,11 +1134,6 @@
     "Name": "quark:wraith",
     "Registry ID": "quark:wraith",
     "Class": "vazkii.quark.world.entity.EntityWraith"
-  },
-  {
-    "Name": "quark:leash_knot",
-    "Registry ID": "quark:leash_knot",
-    "Class": "vazkii.quark.decoration.entity.EntityLeashKnot2TheKnotting"
   },
   {
     "Name": "karate_zombie",
@@ -1239,11 +1219,6 @@
     "Name": "magma_monster_grunt",
     "Registry ID": "magma_monsters:magma_monster_grunt",
     "Class": "magma_monsters.entities.EntityMagmaMonsterGrunt"
-  },
-  {
-    "Name": "Dummy",
-    "Registry ID": "testdummy:dummy",
-    "Class": "boni.dummy.EntityDummy"
   },
   {
     "Name": "multimob.dummy",
@@ -1384,6 +1359,11 @@
     "Name": "primitivemobs.void_eye",
     "Registry ID": "primitivemobs:void_eye",
     "Class": "net.daveyx0.primitivemobs.entity.monster.EntityVoidEye"
+  },
+  {
+    "Name": "artifacts.mimic",
+    "Registry ID": "artifacts:mimic",
+    "Class": "artifacts.common.entity.EntityMimic"
   },
   {
     "Name": "bosszombie",
@@ -2156,6 +2136,11 @@
     "Class": "electroblob.wizardry.entity.living.EntityIceGiant"
   },
   {
+    "Name": "ebwizardry:spectral_golem",
+    "Registry ID": "ebwizardry:spectral_golem",
+    "Class": "electroblob.wizardry.entity.living.EntitySpectralGolem"
+  },
+  {
     "Name": "ebwizardry:magic_slime",
     "Registry ID": "ebwizardry:magic_slime",
     "Class": "electroblob.wizardry.entity.living.EntityMagicSlime"
@@ -2184,6 +2169,11 @@
     "Name": "ebwizardry:evil_wizard",
     "Registry ID": "ebwizardry:evil_wizard",
     "Class": "electroblob.wizardry.entity.living.EntityEvilWizard"
+  },
+  {
+    "Name": "ebwizardry:remnant",
+    "Registry ID": "ebwizardry:remnant",
+    "Class": "electroblob.wizardry.entity.living.EntityRemnant"
   },
   {
     "Name": "golems.golem_bedrock",

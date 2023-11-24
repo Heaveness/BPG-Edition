@@ -100,6 +100,11 @@ ebwizardry:curse_of_enfeeblement
 ebwizardry:curse_of_undeath
 ebwizardry:containment
 ebwizardry:frost_step
+ebwizardry:mark_of_sacrifice
+ebwizardry:mirage
+ebwizardry:oakflesh
+ebwizardry:ironflesh
+ebwizardry:diamondflesh
 extraalchemy:effect.fuse
 extraalchemy:effect.recall
 extraalchemy:effect.sinking
@@ -128,6 +133,10 @@ extraalchemy:effect.dispel
 extraalchemy:effect.pain
 extraalchemy:effect.push
 extraalchemy:effect.pull
+bettercombat:aetherealized
+bettercombat:precision
+bettercombat:brutality
+bettercombat:bleeding
 mowziesmobs:suns_blessing
 mowziesmobs:geomancy
 mowziesmobs:frozen
@@ -197,11 +206,6 @@ simpledifficulty:cold_resist
 simpledifficulty:heat_resist
 toroquest:royalty
 totemexpansion:spelunking
-astralsorcery:potioncheatdeath
-astralsorcery:potionbleed
-astralsorcery:potionspellplague
-astralsorcery:potiondropmodifier
-astralsorcery:potiontimefreeze
 bountifulbaubles:sinful
 nutrition:toughness
 nutrition:nourished
