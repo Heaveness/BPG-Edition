@@ -10,7 +10,7 @@
         },
         {
             "type": "text",
-            "text": "$(l)Sections Inspired By... $(br2)$(#FFAA00)$(l)For Warriors: $()$(o)The Arms Master Vendrick$() $(br)$(#00AAAA)$(l)For Rogues: $()$(o)The Shadowblade Min-Soo$() $(br)$(#AA00AA)$(l)For Mages: $()$(o)The Arch-Mage Phyneks$() $(br2)$(#FFAA00)$(l)For Builders: $()$(o)The Perfectionist Razlick$() $(br)$(#AA0000)$(l)For Alchemists: $()$(o)The Arch-Apothecary Caz$() $(br)$(#00AA00)$(l)For Chefs: $()$(o)The Connoisseur Lanaya$()"
+            "text": "$(l)Sections Inspired By... $(br2)$(#FFAA00)$(l)For Warriors: $()$(o)The Arms Master Vendrick$() $(br)$(#00AAAA)$(l)For Rogues: $()$(o)The Shadowblade Azaki$() $(br)$(#AA00AA)$(l)For Mages: $()$(o)The Arch-Mage Phyneks$() $(br2)$(#FFAA00)$(l)For Builders: $()$(o)The Perfectionist Razlick$() $(br)$(#AA0000)$(l)For Alchemists: $()$(o)The Arch-Apothecary Caz$() $(br)$(#00AA00)$(l)For Chefs: $()$(o)The Connoisseur Lanaya$()"
         },
 		{
             "type": "text",

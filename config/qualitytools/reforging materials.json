@@ -1118,6 +1118,78 @@
   },
   {
     "tool": {
+        "item": "astralsorcery:itemcrystalpickaxe"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "astralsorcery:itemcrystalshovel"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "astralsorcery:itemcrystalaxe"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "astralsorcery:itemcrystalsword"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "astralsorcery:itemchargedcrystalpickaxe"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "astralsorcery:itemchargedcrystalshovel"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "astralsorcery:itemchargedcrystalaxe"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
+        "item": "astralsorcery:itemchargedcrystalsword"
+    },
+    "material": {
+        "item": "astralsorcery:itemrockcrystalsimple",
+        "meta": 0
+    }
+  },
+  {
+    "tool": {
         "item": "fishingmadebetter:basic_fishing_rod"
     },
     "material": {

@@ -96,6 +96,7 @@ import crafttweaker.game.IGame;
 <thaumcraft:thaumonomicon:0>.addTooltip("The tome necessary for dark research. Use Salis_mundus on a bookshelf to acquire.");
 <thaumcraft:salis_mundus>.addTooltip("A magical powder used to transform certain objects into Thaumcraft's necessities. Mix three different kinds of vis crystals, flint, redstone, and a bowl in a shapeless crafting to acquire.");
 
+<astralsorcery:itemjournal>.addTooltip("The tome necessary for constellation research. Acquire an aquamarine somewhere on the beach.");
 <undergroundbiomes:metamorphic_stone:2>.addTooltip("A more rough version of a marble used for mostly decoration or base defenses. Tougher than the pristine version.");
 
 <ebwizardry:arcane_workbench>.addTooltip("Used for manipulating the elements to increase the power of your wizardry wands.");
@@ -361,6 +362,17 @@ import crafttweaker.game.IGame;
 <thaumcraft:banner_black>.addTooltip("Too heavy to use as a sail for a boat.");
 <thaumcraft:banner_crimson_cult>.displayName = "Reinforced Crimson Cult Banner";
 <thaumcraft:banner_crimson_cult>.addTooltip("A relic of a bygone era. It's too heavy to use as a sail for a boat.");
+
+<astralsorcery:blockmarble:0>.addTooltip("Cleaner and magical version of a Rough Marble. Although, much weaker than the rough version.");
+<astralsorcery:blockmarble:0>.displayName = "Pristine Marble";
+<astralsorcery:blockmarble:1>.displayName = "Pristine Marble Bricks";
+<astralsorcery:blockmarble:2>.displayName = "Pristine Marble Pillar";
+<astralsorcery:blockmarble:3>.displayName = "Pristine Marble Arch";
+<astralsorcery:blockmarble:4>.displayName = "Pristine Chiseled Marble";
+<astralsorcery:blockmarble:5>.displayName = "Pristine Engraved Marble";
+<astralsorcery:blockmarble:6>.displayName = "Pristine Runed Marble";
+<astralsorcery:blockmarbleslab>.displayName = "Pristine Marble Slabs";
+<astralsorcery:blockmarblestairs>.displayName = "Pristine Marble Stairs";
 
 <mutantbeasts:mutant_skeleton_boots>.addTooltip("Something feels wrong about these boots. What happens if you wear the full set?");
 <mutantbeasts:mutant_skeleton_chestplate>.addTooltip("Something feels wrong about this chestplate. What happens if you wear the full set?");

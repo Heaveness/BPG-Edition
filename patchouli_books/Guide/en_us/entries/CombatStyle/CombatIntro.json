@@ -27,7 +27,7 @@
         {
       	    "type": "crafting",
       	    "recipe": "openblocks:target_0",
-            "recipe2": "crafttweaker:testdummy",
+            "recipe2": "minecraft:iron_sword",
       	    "title": "Practice your skills!"
         }
     ]
