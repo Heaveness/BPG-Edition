@@ -708,12 +708,6 @@ recipes.addShaped("dragonscaleup",<improvedbackpacks:upgrade:4>,[
     [<ore:durableFiber>,<betterwithmods:material:6>,<ore:durableFiber>]
 ]);
 
-recipes.addShaped("glasslens",<astralsorcery:itemcraftingcomponent:3>,[
-    [null,<minecraft:glass_pane>,null],
-    [<minecraft:glass_pane>,<minecraft:dye:4>,<minecraft:glass_pane>],
-    [null,<minecraft:glass_pane>,null]
-]);
-
 recipes.remove(<cookingforblockheads:milk_jar>);
 recipes.addShaped("milkjar",<cookingforblockheads:milk_jar>,[
     [<ore:blockGlass>,<ore:plankWood>,<ore:blockGlass>],
@@ -933,12 +927,6 @@ recipes.addShaped("naturecompass",<naturescompass:naturescompass>,[
     [null,<nyx:fallen_star>,null],
     [<contenttweaker:water_orb>,<minecraft:compass>,<contenttweaker:earth_orb>],
     [null,<contenttweaker:nature_orb>,null]
-]);
-
-recipes.addShaped("armorupgradescroll",<ebwizardry:armour_upgrade>,[
-    [null,<contenttweaker:knowledge_rune>.anyDamage().transformDamage(),null],
-    [<ebwizardry:grand_crystal>,<ebwizardry:blank_scroll>,<ebwizardry:grand_crystal>],
-    [null,<contenttweaker:trans_rune>.anyDamage().transformDamage(),null]
 ]);
 
 recipes.remove(<ebwizardry:identification_scroll>);
@@ -1654,14 +1642,6 @@ recipes.addShapeless("bathsalt", <thaumcraft:bath_salts>, [
 
 recipes.addShapeless("coalshapeless", <minecraft:coal>, [
   <pyrotech:material:21>, <pyrotech:material:21>
-]);
-
-recipes.addShapeless("pristinemarble", <astralsorcery:blockmarble:0>, [
-  <undergroundbiomes:metamorphic_stone:2>, <harvestcraft:freshwateritem>*1
-]);
-
-recipes.addShapeless("roughmarble", <undergroundbiomes:metamorphic_stone:2>, [
-  <astralsorcery:blockmarble:0>, <biomesoplenty:mud:0>
 ]);
 
 recipes.addShapeless("freshwatermud", <biomesoplenty:mud:0>, [
