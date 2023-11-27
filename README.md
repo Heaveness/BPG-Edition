@@ -33,8 +33,9 @@ Please use proper general rules for contribution and merging. Always git pull be
 Use either of these commands to test: <br>
 
 
-## Links
+## Social Links
 **Curseforge:** [Link to Curseforge page!](https://www.curseforge.com/minecraft/modpacks/rotn-bpg-edition) <br>
+**Discord:** [Link to Discord server!](https://discord.gg/MFz2QxnQJr) <be>
 
 ## Previews
 
