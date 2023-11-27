@@ -1,1546 +1,1803 @@
 {
-  "simpledifficulty:ice_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "minecraft:iron_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "iceandfire:sheep_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "thaumadditions:adaminite_hood": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "minecraft:chainmail_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "atum:body_of_atum": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "twilightforest:arctic_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "iceandfire:deathworm_yellow_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "iceandfire:frost_troll_leather_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "thaumcraft:crimson_robe_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "aether_legacy:phoenix_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "thaumadditions:adaminite_belt": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "minecraft:chainmail_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "atum:desert_legs_iron": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:fortress_helm": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:dragonsteel_ice_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "primitivemobs:camouflage_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:dragonsteel_ice_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -6.0
-    }
-  ],
-  "thaumadditions:adaminite_robe": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "ebwizardry:wizard_boots_fire": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:tide_blue_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:tide_deepblue_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:dragonsteel_ice_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "iceandfire:deathworm_red_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "thaumcraft:crimson_plate_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "atum:desert_helmet_diamond": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "iceandfire:tide_teal_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "atum:eyes_of_atum": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:void_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "atum:desert_chest_diamond": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "atum:legs_of_atum": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "minecraft:leather_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "thaumcraft:crimson_praetor_helm": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "thaumadditions:mithminite_belt": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "aether_legacy:neptune_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "primitivemobs:camouflage_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "thaumcraft:void_robe_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "ebwizardry:wizard_hat_fire": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:mountain_troll_leather_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "simpledifficulty:wool_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "simpledifficulty:ice_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "mod_lavacow:felarmor_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:iron_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "iceandfire:dragonsteel_fire_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 6.0
-    }
-  ],
-  "ebwizardry:wizard_hat_healing": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:dragonsteel_fire_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 6.0
-    }
-  ],
-  "atum:body_of_ra": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "primitivemobs:camouflage_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "betterwithmods:leather_tanned_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "atum:desert_boots_gold": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:void_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "iceandfire:deathworm_white_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "iceandfire:myrmex_desert_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "minecraft:chainmail_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "iceandfire:deathworm_red_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "atum:desert_legs_gold": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "minecraft:golden_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "aether_legacy:valkyrie_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "thaumcraft:crimson_praetor_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "thaumcraft:crimson_robe_helm": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "atum:desert_chest_gold": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:crimson_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "simpledifficulty:wool_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "iceandfire:sheep_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "ebwizardry:wizard_boots_healing": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:mountain_troll_leather_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "iceandfire:mountain_troll_leather_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "iceandfire:tide_blue_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:myrmex_desert_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "aquaculture:neptunium_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:tide_deepblue_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:forest_troll_leather_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:leather_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "mod_lavacow:felarmor_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "iceandfire:myrmex_jungle_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "thaumadditions:mithminite_hood": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "aether_legacy:phoenix_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "minecraft:leather_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:forest_troll_leather_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:deathworm_white_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "thaumcraft:fortress_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:sheep_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "harvestcraft:hardenedleatherbootsitem": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "aether_legacy:neptune_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "aether_legacy:valkyrie_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "betterwithmods:leather_tanned_pants": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:dragonsteel_fire_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:iron_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "thaumadditions:mithminite_robe": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:tide_deepblue_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:golden_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "thaumcraft:thaumium_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:myrmex_jungle_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "iceandfire:deathworm_yellow_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "atum:wanderer_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "iceandfire:forest_troll_leather_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "ebwizardry:wizard_boots_ice": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "aether_legacy:phoenix_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:mountain_troll_leather_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "betterwithmods:leather_tanned_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "thaumcraft:void_robe_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "iceandfire:forest_troll_leather_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "aquaculture:neptunium_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "aether_legacy:valkyrie_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "atum:wanderer_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:fortress_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:deathworm_red_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "ebwizardry:wizard_leggings_fire": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:iron_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "aquaculture:neptunium_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "atum:desert_chest_iron": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "iceandfire:deathworm_white_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "iceandfire:sheep_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "mod_lavacow:felarmor_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "atum:wanderer_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:thaumium_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "thaumcraft:void_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "iceandfire:tide_blue_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "betterwithmods:leather_tanned_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "aether_legacy:phoenix_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "iceandfire:deathworm_yellow_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "atum:desert_helmet_iron": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:crimson_praetor_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "thaumcraft:thaumium_helm": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:myrmex_jungle_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "atum:feet_of_atum": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "aether_legacy:neptune_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "atum:desert_legs_diamond": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumcraft:void_helm": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "aether_legacy:neptune_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "simpledifficulty:wool_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "aquaculture:neptunium_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "ebwizardry:wizard_leggings_healing": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:tide_teal_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "atum:halo_of_ra": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "atum:feet_of_ra": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "mod_lavacow:felarmor_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "aether_legacy:valkyrie_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:frost_troll_leather_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "atum:desert_helmet_gold": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "simpledifficulty:ice_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "baubles:ring": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -0.5
-    }
-  ],
-  "harvestcraft:hardenedleatherchestitem": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "ebwizardry:wizard_hat_necromancy": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "ebwizardry:wizard_leggings_ice": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "simpledifficulty:ice_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "thaumadditions:adaminite_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:tide_deepblue_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "thaumcraft:crimson_robe_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "twilightforest:arctic_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "iceandfire:tide_blue_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:dragonsteel_fire_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "thaumcraft:void_robe_helm": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "iceandfire:dragonsteel_ice_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -6.0
-    }
-  ],
-  "primitivemobs:camouflage_dye": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "ebwizardry:wizard_robe_fire": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:diamond_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:tide_teal_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:leather_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "atum:wanderer_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "simpledifficulty:wool_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "thaumcraft:thaumium_legs": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "minecraft:diamond_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "iceandfire:myrmex_desert_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "thaumcraft:crimson_plate_chest": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "atum:legs_of_ra": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "harvestcraft:hardenedleatherhelmitem": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "minecraft:golden_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:myrmex_jungle_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "iceandfire:deathworm_white_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "harvestcraft:hardenedleatherleggingsitem": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "minecraft:chainmail_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "iceandfire:myrmex_desert_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "atum:desert_boots_diamond": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "ebwizardry:wizard_robe_healing": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "thaumcraft:crimson_plate_helm": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "thaumadditions:mithminite_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "ebwizardry:wizard_leggings_necromancy": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "minecraft:diamond_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 1.0
-    }
-  ],
-  "iceandfire:deathworm_yellow_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "iceandfire:deathworm_red_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -3.0
-    }
-  ],
-  "ebwizardry:wizard_robe_necromancy": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "atum:desert_boots_iron": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -4.0
-    }
-  ],
-  "iceandfire:frost_troll_leather_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "ebwizardry:wizard_robe_ice": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "iceandfire:frost_troll_leather_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 4.0
-    }
-  ],
-  "ebwizardry:wizard_hat_ice": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -2.0
-    }
-  ],
-  "ebwizardry:wizard_boots_necromancy": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -1.0
-    }
-  ],
-  "minecraft:diamond_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "twilightforest:arctic_helmet": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "minecraft:golden_chestplate": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 3.0
-    }
-  ],
-  "iceandfire:tide_teal_leggings": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ],
-  "twilightforest:arctic_boots": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": 2.0
-    }
-  ]
+	"ebwizardry:warlock_hood_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:warlock_robe_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:warlock_leggings_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:warlock_boots_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:warlock_hood_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+	"ebwizardry:warlock_robe_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:warlock_leggings_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:warlock_boots_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+	"ebwizardry:sage_hat_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:sage_robe_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:sage_leggings_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:sage_boots_fire": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:sage_hat_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:sage_robe_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:sage_leggings_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:sage_boots_ice": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:warlock_hood_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:warlock_robe_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:warlock_leggings_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:warlock_boots_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:warlock_hood_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+	"ebwizardry:warlock_robe_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+	"ebwizardry:warlock_leggings_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+	"ebwizardry:warlock_boots_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+
+	"ebwizardry:sage_hat_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:sage_robe_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:sage_leggings_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 2.0
+		}
+	],
+	"ebwizardry:sage_boots_healing": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": 1.0
+		}
+	],
+	"ebwizardry:sage_hat_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+	"ebwizardry:sage_robe_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:sage_leggings_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -2.0
+		}
+	],
+	"ebwizardry:sage_boots_necromancy": [
+		{
+			"identity": {
+				"metadata": -1
+			},
+			"temperature": -1.0
+		}
+	],
+	  "simpledifficulty:ice_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "minecraft:iron_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "iceandfire:sheep_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "thaumadditions:adaminite_hood": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "minecraft:chainmail_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "atum:body_of_atum": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "twilightforest:arctic_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "iceandfire:deathworm_yellow_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "iceandfire:frost_troll_leather_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "thaumcraft:crimson_robe_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "aether_legacy:phoenix_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "thaumadditions:adaminite_belt": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "minecraft:chainmail_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "atum:desert_legs_iron": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:fortress_helm": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_ice_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "primitivemobs:camouflage_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_ice_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -6.0
+		}
+	  ],
+	  "thaumadditions:adaminite_robe": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "ebwizardry:wizard_boots_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:tide_blue_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:tide_deepblue_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_ice_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "iceandfire:deathworm_red_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "thaumcraft:crimson_plate_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "atum:desert_helmet_diamond": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "iceandfire:tide_teal_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "atum:eyes_of_atum": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:void_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "atum:desert_chest_diamond": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "atum:legs_of_atum": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "minecraft:leather_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "thaumcraft:crimson_praetor_helm": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "thaumadditions:mithminite_belt": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "aether_legacy:neptune_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "primitivemobs:camouflage_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "thaumcraft:void_robe_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "ebwizardry:wizard_hat_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:mountain_troll_leather_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "simpledifficulty:wool_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "simpledifficulty:ice_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "mod_lavacow:felarmor_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "minecraft:iron_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_fire_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 6.0
+		}
+	  ],
+	  "ebwizardry:battlemage_helmet_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_fire_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 6.0
+		}
+	  ],
+	  "atum:body_of_ra": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "primitivemobs:camouflage_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "betterwithmods:leather_tanned_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "atum:desert_boots_gold": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:void_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "iceandfire:deathworm_white_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "iceandfire:myrmex_desert_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "minecraft:chainmail_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "iceandfire:deathworm_red_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "atum:desert_legs_gold": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "minecraft:golden_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "aether_legacy:valkyrie_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "thaumcraft:crimson_praetor_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "thaumcraft:crimson_robe_helm": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "atum:desert_chest_gold": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:crimson_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "simpledifficulty:wool_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "iceandfire:sheep_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "ebwizardry:battlemage_boots_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:mountain_troll_leather_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "iceandfire:mountain_troll_leather_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "iceandfire:tide_blue_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:myrmex_desert_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "aquaculture:neptunium_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:tide_deepblue_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:forest_troll_leather_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "minecraft:leather_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "mod_lavacow:felarmor_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "iceandfire:myrmex_jungle_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "thaumadditions:mithminite_hood": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "aether_legacy:phoenix_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "minecraft:leather_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:forest_troll_leather_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:deathworm_white_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "thaumcraft:fortress_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:sheep_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "harvestcraft:hardenedleatherbootsitem": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "aether_legacy:neptune_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "aether_legacy:valkyrie_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "betterwithmods:leather_tanned_pants": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_fire_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "minecraft:iron_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "thaumadditions:mithminite_robe": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:tide_deepblue_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "minecraft:golden_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "thaumcraft:thaumium_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:myrmex_jungle_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "iceandfire:deathworm_yellow_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "atum:wanderer_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "iceandfire:forest_troll_leather_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "ebwizardry:wizard_boots_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "aether_legacy:phoenix_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:mountain_troll_leather_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "betterwithmods:leather_tanned_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "thaumcraft:void_robe_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "iceandfire:forest_troll_leather_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "aquaculture:neptunium_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "aether_legacy:valkyrie_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "atum:wanderer_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:fortress_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:deathworm_red_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "ebwizardry:wizard_leggings_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "minecraft:iron_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "aquaculture:neptunium_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "atum:desert_chest_iron": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "iceandfire:deathworm_white_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "iceandfire:sheep_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "mod_lavacow:felarmor_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "atum:wanderer_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:thaumium_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "thaumcraft:void_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "iceandfire:tide_blue_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "betterwithmods:leather_tanned_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "aether_legacy:phoenix_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "iceandfire:deathworm_yellow_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "atum:desert_helmet_iron": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:crimson_praetor_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "thaumcraft:thaumium_helm": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:myrmex_jungle_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "atum:feet_of_atum": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "aether_legacy:neptune_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "atum:desert_legs_diamond": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumcraft:void_helm": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "aether_legacy:neptune_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "simpledifficulty:wool_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "aquaculture:neptunium_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "ebwizardry:battlemage_leggings_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:tide_teal_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "atum:halo_of_ra": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "atum:feet_of_ra": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "mod_lavacow:felarmor_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "aether_legacy:valkyrie_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:frost_troll_leather_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "atum:desert_helmet_gold": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "simpledifficulty:ice_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "baubles:ring": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -0.5
+		}
+	  ],
+	  "harvestcraft:hardenedleatherchestitem": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "ebwizardry:battlemage_helmet_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "ebwizardry:wizard_leggings_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "simpledifficulty:ice_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "thaumadditions:adaminite_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:tide_deepblue_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "thaumcraft:crimson_robe_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "twilightforest:arctic_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "iceandfire:tide_blue_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_fire_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "thaumcraft:void_robe_helm": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "iceandfire:dragonsteel_ice_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -6.0
+		}
+	  ],
+	  "primitivemobs:camouflage_dye": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "ebwizardry:wizard_robe_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "minecraft:diamond_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:tide_teal_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "minecraft:leather_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "atum:wanderer_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "simpledifficulty:wool_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "thaumcraft:thaumium_legs": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "minecraft:diamond_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "iceandfire:myrmex_desert_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "thaumcraft:crimson_plate_chest": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "atum:legs_of_ra": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "harvestcraft:hardenedleatherhelmitem": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "minecraft:golden_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:myrmex_jungle_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "iceandfire:deathworm_white_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "harvestcraft:hardenedleatherleggingsitem": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "minecraft:chainmail_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "iceandfire:myrmex_desert_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -2.0
+		}
+	  ],
+	  "atum:desert_boots_diamond": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "ebwizardry:battlemage_chestplate_fire": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "thaumcraft:crimson_plate_helm": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "thaumadditions:mithminite_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "ebwizardry:battlemage_leggings_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "minecraft:diamond_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 1.0
+		}
+	  ],
+	  "iceandfire:deathworm_yellow_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "iceandfire:deathworm_red_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -3.0
+		}
+	  ],
+	  "ebwizardry:battlemage_chestplate_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "atum:desert_boots_iron": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -4.0
+		}
+	  ],
+	  "iceandfire:frost_troll_leather_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "ebwizardry:wizard_robe_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "iceandfire:frost_troll_leather_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 4.0
+		}
+	  ],
+	  "ebwizardry:wizard_hat_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "ebwizardry:battlemage_boots_ice": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": -1.0
+		}
+	  ],
+	  "minecraft:diamond_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "twilightforest:arctic_helmet": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "minecraft:golden_chestplate": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 3.0
+		}
+	  ],
+	  "iceandfire:tide_teal_leggings": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ],
+	  "twilightforest:arctic_boots": [
+		{
+		  "identity": {
+			"metadata": -1
+		  },
+		  "temperature": 2.0
+		}
+	  ]
 }
