@@ -243,6 +243,38 @@
         "ore_dict": "ingotBronze"
     }
   },
+    {
+    "tool": {
+        "item": "atop:tanzanite_helmet"
+    },
+    "material": {
+        "ore_dict": "flower"
+    }
+	},
+	{
+    "tool": {
+        "item": "atop:tanzanite_chestplate"
+    },
+    "material": {
+        "ore_dict": "flower"
+    }
+	},
+	{
+    "tool": {
+        "item": "atop:tanzanite_leggings"
+    },
+    "material": {
+        "ore_dict": "flower"
+    }
+	},
+	{
+    "tool": {
+        "item": "atop:tanzanite_boots"
+    },
+    "material": {
+        "ore_dict": "flower"
+    }
+	},
       {
     "tool": {
         "item": "atop:mud_pickaxe"

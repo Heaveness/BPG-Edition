@@ -113,13 +113,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -409,13 +409,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -542,8 +542,8 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
+      "HOT",
       "DRY"
     ],
     "BiomeManager Entries": {},
@@ -678,13 +678,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -1026,13 +1026,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -1359,13 +1359,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -1523,9 +1523,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
-      "COLD"
+      "COLD",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {
       "COOL Weights": [
@@ -1729,13 +1729,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -1856,8 +1856,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
-      "SWAMP"
+      "SWAMP",
+      "WET"
     ],
     "BiomeManager Entries": {
       "WARM Weights": [
@@ -2151,13 +2151,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -2343,8 +2343,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WATER",
-      "RIVER"
+      "RIVER",
+      "WATER"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -2442,13 +2442,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -2600,13 +2600,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -2710,9 +2710,9 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
+      "DRY",
       "COLD",
-      "END",
-      "DRY"
+      "END"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -2743,13 +2743,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -2826,10 +2826,10 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
+      "COLD",
       "OCEAN",
-      "SNOWY",
       "WATER",
-      "COLD"
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -2939,19 +2939,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -3046,10 +3046,10 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "WATER",
       "COLD",
-      "RIVER"
+      "RIVER",
+      "WATER",
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -3165,19 +3165,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -3272,9 +3272,9 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "COLD",
-      "WASTELAND"
+      "WASTELAND",
+      "SNOWY"
     ],
     "BiomeManager Entries": {
       "ICY Weights": [
@@ -3406,19 +3406,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -3539,9 +3539,9 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "MOUNTAIN",
-      "COLD"
+      "COLD",
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -3717,19 +3717,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -3984,8 +3984,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "MUSHROOM",
-      "RARE",
-      "BEACH"
+      "BEACH",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -4197,13 +4197,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -4302,8 +4302,8 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
+      "HOT",
       "DRY",
       "HILLS"
     ],
@@ -4523,13 +4523,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -4913,13 +4913,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -5064,10 +5064,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
       "COLD",
-      "HILLS"
+      "HILLS",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -5351,13 +5351,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -5638,13 +5638,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -5740,9 +5740,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "WET",
       "JUNGLE",
-      "DENSE"
+      "DENSE",
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -6050,13 +6050,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -6190,9 +6190,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "WET",
       "JUNGLE",
       "DENSE",
+      "WET",
       "HILLS"
     ],
     "BiomeManager Entries": {},
@@ -6585,13 +6585,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -6721,9 +6721,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "WET",
       "JUNGLE",
       "FOREST",
+      "WET",
       "RARE"
     ],
     "BiomeManager Entries": {},
@@ -7086,13 +7086,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -7285,13 +7285,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -7477,13 +7477,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -7578,9 +7578,9 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "COLD",
-      "BEACH"
+      "BEACH",
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -7690,19 +7690,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -7995,13 +7995,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -8430,13 +8430,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -8573,9 +8573,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
       "FOREST",
-      "DENSE"
+      "DENSE",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {
       "WARM Weights": [
@@ -8785,13 +8785,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -8926,10 +8926,10 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "CONIFEROUS",
       "FOREST",
-      "COLD"
+      "COLD",
+      "SNOWY",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {
       "ICY Weights": [
@@ -9151,13 +9151,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -9278,11 +9278,11 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "CONIFEROUS",
       "FOREST",
       "COLD",
-      "HILLS"
+      "SNOWY",
+      "HILLS",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -9584,13 +9584,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -9701,9 +9701,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
-      "COLD"
+      "COLD",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -9903,13 +9903,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -10024,10 +10024,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
       "COLD",
-      "HILLS"
+      "HILLS",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -10311,13 +10311,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -10429,8 +10429,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "SPARSE",
-      "MOUNTAIN"
+      "MOUNTAIN",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -10672,13 +10672,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -10792,9 +10792,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
       "PLAINS",
-      "SAVANNA"
+      "SAVANNA",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -11042,13 +11042,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -11174,10 +11174,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
       "PLAINS",
       "SAVANNA",
-      "RARE"
+      "RARE",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -11431,13 +11431,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -11555,8 +11555,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "SANDY",
-      "MESA",
-      "DRY"
+      "DRY",
+      "MESA"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -11690,13 +11690,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -11808,9 +11808,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "SANDY",
-      "SPARSE",
+      "DRY",
       "MESA",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -11944,13 +11944,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -12046,8 +12046,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "SANDY",
-      "MESA",
-      "DRY"
+      "DRY",
+      "MESA"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -12181,13 +12181,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -12375,13 +12375,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -12483,13 +12483,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -12578,10 +12578,10 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "MOUNTAIN",
+      "DRY",
       "COLD",
-      "DRY"
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -12709,19 +12709,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -12798,8 +12798,8 @@
     },
     "BOP Owner": "BIOMESOPLENTY",
     "BOP Weight Map": {
-      "ICE_CAP": 5,
-      "TUNDRA": 3
+      "TUNDRA": 3,
+      "ICE_CAP": 5
     },
     "BOP Climate Weights": {
       "ICE_CAP": [
@@ -12833,9 +12833,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "JUNGLE",
-      "WET",
       "FOREST",
-      "DENSE"
+      "DENSE",
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -13155,13 +13155,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -13312,10 +13312,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
+      "SWAMP",
       "HOT",
-      "WET",
       "DENSE",
-      "SWAMP"
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -13587,13 +13587,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -13788,10 +13788,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
+      "SWAMP",
       "FOREST",
       "COLD",
-      "SWAMP"
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -14105,13 +14105,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -14312,11 +14312,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
       "DENSE",
       "COLD",
-      "HILLS"
+      "HILLS",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -14588,13 +14588,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -14742,9 +14742,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
+      "DRY",
       "SAVANNA",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -14914,13 +14914,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -15230,13 +15230,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -15391,9 +15391,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "FOREST",
       "DENSE",
+      "WET",
       "MAGICAL",
       "LUSH"
     ],
@@ -15571,13 +15571,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -15750,9 +15750,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SNOWY",
+      "DRY",
       "COLD",
-      "DRY"
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -15838,19 +15838,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -15971,10 +15971,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
       "DENSE",
-      "COLD"
+      "COLD",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -16162,13 +16162,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -16342,11 +16342,11 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "MOUNTAIN",
-      "MAGICAL",
-      "COLD",
-      "HILLS",
       "DRY",
-      "WASTELAND"
+      "COLD",
+      "WASTELAND",
+      "MAGICAL",
+      "HILLS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -16516,13 +16516,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -16653,11 +16653,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
       "FOREST",
-      "SPARSE",
+      "DRY",
       "COLD",
-      "DRY"
+      "DEAD",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -16827,13 +16827,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -16972,12 +16972,12 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
+      "SWAMP",
+      "COLD",
+      "WET",
       "DEAD",
       "SPOOKY",
-      "WET",
-      "SPARSE",
-      "COLD",
-      "SWAMP"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -17219,13 +17219,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -17378,10 +17378,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "JUNGLE",
-      "WET",
       "FOREST",
+      "JUNGLE",
       "DENSE",
+      "WET",
       "LUSH"
     ],
     "BiomeManager Entries": {},
@@ -17732,13 +17732,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -17901,12 +17901,12 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
-      "WET",
+      "SWAMP",
       "FOREST",
       "DENSE",
       "COLD",
-      "SWAMP"
+      "WET",
+      "DEAD"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -18238,13 +18238,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -18576,13 +18576,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -18705,8 +18705,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "PLAINS",
+      "WET",
       "HILLS"
     ],
     "BiomeManager Entries": {},
@@ -18955,13 +18955,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -19116,11 +19116,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
-      "FOREST",
-      "SPARSE",
       "PLAINS",
-      "LUSH"
+      "FOREST",
+      "WET",
+      "LUSH",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -19338,13 +19338,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -19487,8 +19487,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "MOUNTAIN",
+      "WET",
       "HILLS"
     ],
     "BiomeManager Entries": {},
@@ -19683,13 +19683,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -19802,10 +19802,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
+      "SWAMP",
       "FOREST",
       "DENSE",
-      "SWAMP"
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -20137,13 +20137,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -20474,13 +20474,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -20609,12 +20609,12 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
-      "SPARSE",
+      "HOT",
+      "DRY",
       "SAVANNA",
       "LUSH",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -20802,13 +20802,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -20993,10 +20993,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
+      "SWAMP",
       "DENSE",
-      "LUSH",
-      "SWAMP"
+      "WET",
+      "LUSH"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -21268,13 +21268,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -21489,11 +21489,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
-      "WATER",
+      "SWAMP",
       "DENSE",
+      "WET",
       "LUSH",
-      "SWAMP"
+      "WATER"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -21735,13 +21735,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -21864,10 +21864,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
       "DENSE",
-      "COLD"
+      "COLD",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -22055,13 +22055,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -22284,13 +22284,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -22421,12 +22421,12 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
-      "FOREST",
-      "SPARSE",
       "PLAINS",
+      "FOREST",
       "COLD",
-      "LUSH"
+      "WET",
+      "LUSH",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -22650,13 +22650,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -22801,8 +22801,8 @@
     },
     "BOP Owner": "BIOMESOPLENTY",
     "BOP Weight Map": {
-      "BOREAL": 7,
-      "COOL_TEMPERATE": 3
+      "COOL_TEMPERATE": 3,
+      "BOREAL": 7
     },
     "BOP Climate Weights": {
       "BOREAL": [
@@ -22835,9 +22835,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
+      "SWAMP",
       "WET",
-      "HILLS",
-      "SWAMP"
+      "HILLS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -23187,13 +23187,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -23351,9 +23351,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "SPARSE",
       "MOUNTAIN",
-      "DRY"
+      "DRY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -23565,13 +23565,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -23708,12 +23708,12 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "FOREST",
       "DENSE",
+      "WET",
       "MAGICAL",
-      "RARE",
-      "LUSH"
+      "LUSH",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -23877,13 +23877,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -24084,13 +24084,13 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
-      "DEAD",
-      "WET",
       "FOREST",
       "DENSE",
+      "WET",
+      "DEAD",
       "MAGICAL",
-      "RARE"
+      "RARE",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -24242,13 +24242,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -24413,9 +24413,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
+      "PLAINS",
       "FOREST",
       "DENSE",
-      "PLAINS",
       "LUSH"
     ],
     "BiomeManager Entries": {},
@@ -24652,13 +24652,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -24799,11 +24799,11 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
-      "SPARSE",
+      "HOT",
+      "DRY",
       "SAVANNA",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -24967,13 +24967,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -25119,9 +25119,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "JUNGLE",
-      "WET",
       "MOUNTAIN",
       "DENSE",
+      "WET",
       "LUSH",
       "HILLS"
     ],
@@ -25473,13 +25473,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -25612,9 +25612,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPARSE",
       "PLAINS",
-      "DRY"
+      "DRY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -25778,13 +25778,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -25931,9 +25931,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
-      "WET",
       "SWAMP",
+      "WET",
+      "DEAD",
       "WASTELAND"
     ],
     "BiomeManager Entries": {},
@@ -26182,13 +26182,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -26348,9 +26348,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "JUNGLE",
-      "WET",
       "FOREST",
       "DENSE",
+      "WET",
       "LUSH",
       "HILLS"
     ],
@@ -26786,13 +26786,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -27142,13 +27142,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -27477,13 +27477,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -27656,10 +27656,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "FOREST",
       "DENSE",
-      "COLD"
+      "COLD",
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -27835,13 +27835,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -28006,9 +28006,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPARSE",
       "PLAINS",
-      "DRY"
+      "DRY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -28184,13 +28184,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -28311,8 +28311,8 @@
     },
     "BOP Owner": "BIOMESOPLENTY",
     "BOP Weight Map": {
-      "DRY_TEMPERATE": 10,
-      "MEDITERANEAN": 7
+      "MEDITERANEAN": 7,
+      "DRY_TEMPERATE": 10
     },
     "BOP Climate Weights": {
       "DRY_TEMPERATE": [
@@ -28345,11 +28345,11 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "CONIFEROUS",
       "FOREST",
       "DENSE",
-      "COLD"
+      "COLD",
+      "SNOWY",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -28543,13 +28543,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -28696,11 +28696,11 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "WET",
       "FOREST",
-      "SPARSE",
-      "COLD"
+      "COLD",
+      "WET",
+      "SNOWY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -28882,13 +28882,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -29221,13 +29221,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -29356,9 +29356,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "FOREST",
       "DENSE",
+      "WET",
       "LUSH"
     ],
     "BiomeManager Entries": {},
@@ -29535,13 +29535,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -29752,8 +29752,8 @@
     "Dictionary Types": [
       "HOT",
       "JUNGLE",
-      "WET",
       "DENSE",
+      "WET",
       "LUSH"
     ],
     "BiomeManager Entries": {},
@@ -30008,13 +30008,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -30213,11 +30213,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
-      "WET",
-      "SPARSE",
       "COLD",
-      "WASTELAND"
+      "WET",
+      "WASTELAND",
+      "DEAD",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -30297,13 +30297,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -30450,10 +30450,10 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
-      "SPARSE",
       "DRY",
-      "WASTELAND"
+      "WASTELAND",
+      "DEAD",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -30526,13 +30526,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -30658,11 +30658,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
+      "SWAMP",
       "FOREST",
       "DENSE",
-      "LUSH",
-      "SWAMP"
+      "WET",
+      "LUSH"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -31000,13 +31000,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -31226,8 +31226,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "DENSE",
-      "DRY"
+      "DRY",
+      "DENSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -31403,13 +31403,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -31578,12 +31578,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
-      "SPARSE",
+      "HOT",
+      "DRY",
       "SAVANNA",
       "LUSH",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -31747,13 +31747,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -31898,12 +31898,12 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "FOREST",
-      "SPARSE",
       "MOUNTAIN",
+      "DRY",
       "COLD",
-      "DRY"
+      "SNOWY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -32109,13 +32109,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -32227,10 +32227,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "SPARSE",
       "MOUNTAIN",
+      "DRY",
       "HILLS",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -32496,13 +32496,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -32824,13 +32824,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -32965,9 +32965,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPARSE",
       "PLAINS",
-      "DRY"
+      "DRY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -33119,13 +33119,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -33242,9 +33242,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SNOWY",
       "COLD",
-      "WASTELAND"
+      "WASTELAND",
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -33330,19 +33330,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -33443,12 +33443,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
+      "SANDY",
       "HOT",
       "JUNGLE",
       "WET",
-      "SANDY",
-      "SPARSE",
-      "LUSH"
+      "LUSH",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -33732,13 +33732,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -33877,12 +33877,12 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SNOWY",
-      "DEAD",
-      "WET",
-      "SPARSE",
       "COLD",
-      "WASTELAND"
+      "WET",
+      "WASTELAND",
+      "DEAD",
+      "SNOWY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -33968,19 +33968,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -34220,13 +34220,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -34448,13 +34448,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -34570,10 +34570,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "JUNGLE",
-      "WET",
-      "WATER",
       "DENSE",
-      "LUSH"
+      "WET",
+      "LUSH",
+      "WATER"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -34755,13 +34755,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -34901,11 +34901,11 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "DEAD",
-      "WATER",
       "MOUNTAIN",
       "DRY",
-      "WASTELAND"
+      "DEAD",
+      "WASTELAND",
+      "WATER"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -34961,13 +34961,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -35070,11 +35070,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WATER",
-      "DENSE",
       "PLAINS",
+      "DENSE",
+      "LUSH",
       "MAGICAL",
-      "LUSH"
+      "WATER"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -35142,13 +35142,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -35277,11 +35277,11 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
-      "DENSE",
+      "HOT",
       "NETHER",
-      "DRY"
+      "DRY",
+      "DENSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -35343,13 +35343,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -35454,10 +35454,10 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "MUSHROOM",
       "HOT",
+      "NETHER",
       "DENSE",
-      "NETHER"
+      "MUSHROOM"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -35501,13 +35501,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -35631,11 +35631,11 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPOOKY",
       "NETHER",
-      "MAGICAL",
       "DRY",
-      "WASTELAND"
+      "WASTELAND",
+      "MAGICAL",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -35666,13 +35666,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -35818,13 +35818,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -35962,8 +35962,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "WET",
-      "NETHER"
+      "NETHER",
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -35994,13 +35994,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -36237,13 +36237,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -36375,8 +36375,8 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
-      "MAGICAL"
+      "MAGICAL",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -36474,13 +36474,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -36581,9 +36581,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
       "MAGICAL",
-      "END"
+      "END",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -36602,13 +36602,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -36684,8 +36684,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "OCEAN",
-      "WATER",
-      "TWILIGHT"
+      "TWILIGHT",
+      "WATER"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -36747,13 +36747,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -36911,13 +36911,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -37069,13 +37069,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -37163,10 +37163,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
       "MOUNTAIN",
-      "TWILIGHT"
+      "TWILIGHT",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -37228,13 +37228,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -37322,8 +37322,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "MUSHROOM",
       "FOREST",
+      "MUSHROOM",
       "TWILIGHT"
     ],
     "BiomeManager Entries": {},
@@ -37386,13 +37386,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -37480,9 +37480,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
+      "SWAMP",
       "WET",
-      "TWILIGHT",
-      "SWAMP"
+      "TWILIGHT"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -37620,22 +37620,22 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WATER",
+      "RIVER",
       "TWILIGHT",
-      "RIVER"
+      "WATER"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -37723,11 +37723,11 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "CONIFEROUS",
       "FOREST",
+      "COLD",
       "TWILIGHT",
-      "COLD"
+      "SNOWY",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -37801,7 +37801,7 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -37871,10 +37871,10 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "TWILIGHT",
       "COLD",
-      "WASTELAND"
+      "WASTELAND",
+      "TWILIGHT",
+      "SNOWY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -37888,19 +37888,19 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -37988,9 +37988,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPARSE",
       "PLAINS",
-      "TWILIGHT"
+      "TWILIGHT",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -38052,13 +38052,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -38147,8 +38147,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "SPARSE",
-      "TWILIGHT"
+      "TWILIGHT",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -38210,13 +38210,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -38305,8 +38305,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "TWILIGHT",
-      "LUSH"
+      "LUSH",
+      "TWILIGHT"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -38368,13 +38368,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -38462,8 +38462,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "MUSHROOM",
       "FOREST",
+      "MUSHROOM",
       "TWILIGHT"
     ],
     "BiomeManager Entries": {},
@@ -38526,13 +38526,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -38620,10 +38620,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
       "FOREST",
       "DENSE",
-      "TWILIGHT"
+      "TWILIGHT",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -38816,13 +38816,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -38892,8 +38892,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "TWILIGHT",
-      "MAGICAL"
+      "MAGICAL",
+      "TWILIGHT"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -38955,13 +38955,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -39250,13 +39250,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -39351,10 +39351,10 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
-      "RARE",
-      "DRY"
+      "HOT",
+      "DRY",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -39482,13 +39482,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -39583,9 +39583,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPARSE",
       "MOUNTAIN",
-      "RARE"
+      "RARE",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -39755,13 +39755,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -39857,8 +39857,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "RARE",
-      "HILLS"
+      "HILLS",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -40136,13 +40136,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -40285,11 +40285,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
       "FOREST",
       "MOUNTAIN",
       "COLD",
-      "RARE"
+      "RARE",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -40537,13 +40537,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -40638,10 +40638,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
+      "SWAMP",
       "WET",
-      "RARE",
       "HILLS",
-      "SWAMP"
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -41015,13 +41015,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -41122,10 +41122,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
-      "TWILIGHT",
       "SWAMP",
-      "WASTELAND"
+      "HOT",
+      "WASTELAND",
+      "TWILIGHT"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -41187,13 +41187,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -41287,11 +41287,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
       "FOREST",
       "DENSE",
+      "MAGICAL",
       "TWILIGHT",
-      "MAGICAL"
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -41465,11 +41465,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
-      "TWILIGHT",
-      "MESA",
       "DRY",
-      "WASTELAND"
+      "MESA",
+      "DEAD",
+      "WASTELAND",
+      "TWILIGHT"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -41483,13 +41483,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -41577,24 +41577,24 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
-      "TWILIGHT",
-      "HILLS",
       "DRY",
-      "WASTELAND"
+      "DEAD",
+      "WASTELAND",
+      "TWILIGHT",
+      "HILLS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -41682,11 +41682,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "DEAD",
-      "SPOOKY",
       "FOREST",
       "DENSE",
-      "TWILIGHT"
+      "DEAD",
+      "TWILIGHT",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -41772,13 +41772,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -41872,10 +41872,10 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "COLD",
-      "RARE",
-      "HILLS"
+      "SNOWY",
+      "HILLS",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -42087,19 +42087,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -42284,13 +42284,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -42491,13 +42491,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -42616,8 +42616,8 @@
     "Dictionary Types": [
       "HOT",
       "JUNGLE",
-      "WET",
-      "DENSE"
+      "DENSE",
+      "WET"
     ],
     "BiomeManager Entries": {
       "WARM Weights": [
@@ -42719,13 +42719,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -42848,8 +42848,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "PLAINS",
+      "WET",
       "LUSH"
     ],
     "BiomeManager Entries": {
@@ -42946,13 +42946,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -43063,9 +43063,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
+      "SWAMP",
       "WET",
-      "LUSH",
-      "SWAMP"
+      "LUSH"
     ],
     "BiomeManager Entries": {
       "WARM Weights": [
@@ -43155,13 +43155,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -43284,8 +43284,8 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
+      "HOT",
       "DRY"
     ],
     "BiomeManager Entries": {
@@ -43358,13 +43358,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -43478,8 +43478,8 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "CONIFEROUS",
-      "FOREST"
+      "FOREST",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {
       "COOL Weights": [
@@ -43569,13 +43569,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -43686,10 +43686,10 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
-      "SPARSE",
       "PLAINS",
-      "DRY"
+      "HOT",
+      "DRY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {
       "WARM Weights": [
@@ -43779,13 +43779,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -43903,10 +43903,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "WET",
       "JUNGLE",
-      "DENSE",
       "MOUNTAIN",
+      "DENSE",
+      "WET",
       "RARE"
     ],
     "BiomeManager Entries": {},
@@ -44263,13 +44263,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -44370,8 +44370,8 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
+      "HOT",
       "MOUNTAIN",
       "DRY"
     ],
@@ -44445,13 +44445,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -44567,9 +44567,9 @@
     "Dictionary Types": [
       "HOT",
       "JUNGLE",
-      "SPARSE",
+      "HILLS",
       "RARE",
-      "HILLS"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -44943,13 +44943,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -45110,13 +45110,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -45324,13 +45324,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -45526,13 +45526,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -45645,8 +45645,8 @@
     "Dictionary Types": [
       "FOREST",
       "DENSE",
-      "RARE",
-      "HILLS"
+      "HILLS",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -45930,13 +45930,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -46032,8 +46032,8 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "FOREST",
-      "DENSE",
       "MOUNTAIN",
+      "DENSE",
       "RARE"
     ],
     "BiomeManager Entries": {},
@@ -46282,13 +46282,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -46383,11 +46383,11 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
       "FOREST",
-      "DENSE",
       "MOUNTAIN",
-      "RARE"
+      "DENSE",
+      "RARE",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -46641,13 +46641,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -46742,12 +46742,12 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "CONIFEROUS",
       "FOREST",
       "MOUNTAIN",
       "COLD",
-      "RARE"
+      "SNOWY",
+      "RARE",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -47013,13 +47013,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -47205,13 +47205,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -47530,13 +47530,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -47633,8 +47633,8 @@
     "Dictionary Types": [
       "FOREST",
       "DENSE",
-      "RARE",
-      "HILLS"
+      "HILLS",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -47924,13 +47924,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -48025,9 +48025,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPARSE",
       "MOUNTAIN",
-      "RARE"
+      "RARE",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -48197,13 +48197,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -48299,11 +48299,11 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
       "MOUNTAIN",
+      "DRY",
       "SAVANNA",
       "RARE",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -48545,13 +48545,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -48653,11 +48653,11 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
-      "SAVANNA",
-      "RARE",
       "DRY",
-      "HILLS"
+      "SAVANNA",
+      "HILLS",
+      "RARE",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -48935,13 +48935,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -49043,10 +49043,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
       "MOUNTAIN",
+      "DRY",
       "RARE",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -49186,13 +49186,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -49288,10 +49288,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
-      "RARE",
       "DRY",
-      "HILLS"
+      "HILLS",
+      "RARE",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -49467,13 +49467,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -49569,10 +49569,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
       "MOUNTAIN",
+      "DRY",
       "RARE",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -49712,13 +49712,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -49874,13 +49874,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -49991,9 +49991,9 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "MOUNTAIN",
-      "COLD"
+      "COLD",
+      "SNOWY"
     ],
     "BiomeManager Entries": {
       "ICY Weights": [
@@ -50071,19 +50071,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -50191,9 +50191,9 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
       "MOUNTAIN",
-      "COLD"
+      "COLD",
+      "SNOWY"
     ],
     "BiomeManager Entries": {
       "ICY Weights": [
@@ -50271,19 +50271,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -50391,10 +50391,10 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "CONIFEROUS",
       "FOREST",
-      "COLD"
+      "COLD",
+      "SNOWY",
+      "CONIFEROUS"
     ],
     "BiomeManager Entries": {
       "ICY Weights": [
@@ -50484,13 +50484,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -50599,9 +50599,9 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "WET",
-      "SPARSE",
       "LUSH",
-      "HILLS"
+      "HILLS",
+      "SPARSE"
     ],
     "BiomeManager Entries": {
       "COOL Weights": [
@@ -50685,13 +50685,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -50802,10 +50802,10 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
-      "DEAD",
       "SANDY",
-      "DRY"
+      "HOT",
+      "DRY",
+      "DEAD"
     ],
     "BiomeManager Entries": {
       "DESERT Weights": [
@@ -50877,13 +50877,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -51088,13 +51088,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -51212,10 +51212,10 @@
     "Enable Snow": false,
     "Dictionary Types": [
       "HOT",
-      "SPARSE",
       "MOUNTAIN",
       "DRY",
-      "HILLS"
+      "HILLS",
+      "SPARSE"
     ],
     "BiomeManager Entries": {
       "DESERT Weights": [
@@ -51287,13 +51287,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -51407,9 +51407,9 @@
     "Enable Rain": true,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPARSE",
       "PLAINS",
-      "HILLS"
+      "HILLS",
+      "SPARSE"
     ],
     "BiomeManager Entries": {
       "COOL Weights": [
@@ -51517,13 +51517,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -51634,13 +51634,13 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
-      "HOT",
-      "DEAD",
       "SANDY",
-      "SPARSE",
+      "HOT",
+      "DRY",
+      "ATUM",
+      "DEAD",
       "RARE",
-      "DRY"
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -51726,13 +51726,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -51814,12 +51814,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
+      "SANDY",
       "HOT",
       "FOREST",
-      "SANDY",
-      "SPARSE",
-      "DRY"
+      "DRY",
+      "ATUM",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -51899,13 +51899,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -51987,26 +51987,26 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
-      "HOT",
       "SANDY",
-      "SPARSE",
-      "WATER",
+      "HOT",
       "DRY",
-      "RIVER"
+      "ATUM",
+      "RIVER",
+      "WATER",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -52081,13 +52081,13 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
-      "HOT",
       "SANDY",
-      "SPARSE",
-      "RARE",
+      "HOT",
       "DRY",
-      "HILLS"
+      "ATUM",
+      "HILLS",
+      "RARE",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -52173,13 +52173,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -52261,12 +52261,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
-      "HOT",
       "SANDY",
-      "SPARSE",
+      "HOT",
       "MOUNTAIN",
-      "DRY"
+      "DRY",
+      "ATUM",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -52352,13 +52352,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -52440,10 +52440,10 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "OASIS",
-      "RARE",
-      "LUSH"
+      "WET",
+      "LUSH",
+      "RARE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -52457,13 +52457,13 @@
     "Spawnable Monsters": [
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -52538,12 +52538,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
-      "HOT",
       "SANDY",
-      "SPARSE",
+      "HOT",
       "DRY",
-      "HILLS"
+      "ATUM",
+      "HILLS",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -52629,13 +52629,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -52717,12 +52717,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
-      "HOT",
       "SANDY",
-      "SPARSE",
+      "HOT",
       "DRY",
-      "HILLS"
+      "ATUM",
+      "HILLS",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -52808,13 +52808,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -52896,12 +52896,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "ATUM",
-      "HOT",
       "SANDY",
-      "SPARSE",
+      "HOT",
       "PLAINS",
-      "DRY"
+      "DRY",
+      "ATUM",
+      "SPARSE"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -52987,13 +52987,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -53075,11 +53075,11 @@
     "Enable Rain": true,
     "Enable Snow": true,
     "Dictionary Types": [
-      "SNOWY",
-      "DEAD",
-      "SPARSE",
       "COLD",
-      "WASTELAND"
+      "DEAD",
+      "WASTELAND",
+      "SNOWY",
+      "SPARSE"
     ],
     "BiomeManager Entries": {
       "COOL Weights": [
@@ -53157,19 +53157,19 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityIceWraith",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -53280,12 +53280,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "SANDY",
       "PLAINS",
-      "SAVANNA",
+      "HOT",
       "NETHER",
-      "DRY"
+      "DRY",
+      "SAVANNA"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -53310,13 +53310,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -53397,14 +53397,14 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "MUSHROOM",
-      "HOT",
-      "WET",
       "PLAINS",
-      "SAVANNA",
+      "HOT",
       "NETHER",
+      "DRY",
       "COLD",
-      "DRY"
+      "SAVANNA",
+      "WET",
+      "MUSHROOM"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -53429,13 +53429,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -53516,11 +53516,11 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "HOT",
       "PLAINS",
-      "SAVANNA",
+      "HOT",
       "NETHER",
       "DRY",
+      "SAVANNA",
       "WASTELAND"
     ],
     "BiomeManager Entries": {},
@@ -53546,13 +53546,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -53633,11 +53633,11 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "WET",
       "PLAINS",
-      "COLD",
       "NETHER",
-      "DRY"
+      "DRY",
+      "COLD",
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -53668,13 +53668,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -53757,8 +53757,8 @@
     "Dictionary Types": [
       "HOT",
       "JUNGLE",
-      "WET",
-      "DENSE"
+      "DENSE",
+      "WET"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -53838,13 +53838,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -53945,10 +53945,10 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
-      "SPARSE",
+      "VOID",
       "COLD",
-      "VOID"
+      "SPARSE",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -53999,9 +53999,9 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
+      "VOID",
       "COLD",
-      "VOID"
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -54071,12 +54071,12 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "SPOOKY",
-      "SPARSE",
+      "VOID",
       "MOUNTAIN",
       "COLD",
-      "VOID",
-      "HILLS"
+      "HILLS",
+      "SPARSE",
+      "SPOOKY"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [],
@@ -54127,11 +54127,11 @@
     "Enable Rain": false,
     "Enable Snow": false,
     "Dictionary Types": [
-      "PLAINS",
-      "COLD",
-      "MAGICAL",
       "VOID",
-      "DRY"
+      "PLAINS",
+      "DRY",
+      "COLD",
+      "MAGICAL"
     ],
     "BiomeManager Entries": {},
     "Spawnable Creatures": [
@@ -54211,13 +54211,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
@@ -54353,13 +54353,13 @@
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
-        "Weight": 1,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
       {
         "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-        "Weight": 3,
+        "Weight": 0,
         "Min Group Count": 1,
         "Max Group Count": 1
       },
