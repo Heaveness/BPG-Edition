@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe_earth")
+setTitle("The Advanced Earthbender!")
+setDescription("Complete the Advanced Earthbender Warlock set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Earth Warlock Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood_earth")
+
+criteria = addCriteria("Earth Warlock Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe_earth")
+
+criteria = addCriteria("Earth Warlock Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings_earth")
+
+criteria = addCriteria("Earth Warlock Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots_earth")
+
+alwaysVisible()
+setPos(-472,119)

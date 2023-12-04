@@ -1,0 +1,22 @@
+setIcon("ebwizardry:battlemage_chestplate")
+setTitle("The Rookie Wizard!")
+setDescription("Complete the Rookie Wizard Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/goldarmor")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Vanilla Battlemage Helmet", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet")
+
+criteria = addCriteria("Vanilla Battlemage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate")
+
+criteria = addCriteria("Vanilla Battlemage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings")
+
+criteria = addCriteria("Vanilla Battlemage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots")
+
+alwaysVisible()
+setPos(-632,119)

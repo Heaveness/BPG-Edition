@@ -19,4 +19,5 @@ criteria = addCriteria("Master Magic Wand", "minecraft:inventory_changed")
 criteria.addItem("ebwizardry:master_wand")
 
 alwaysVisible()
-setPos(-592,79)
+setFrameType("CHALLENGE")
+setPos(-752,79)

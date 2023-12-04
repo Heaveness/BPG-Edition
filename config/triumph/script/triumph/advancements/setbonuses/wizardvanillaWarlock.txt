@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe")
+setTitle("The Experienced Wizard!")
+setDescription("Complete the Experienced Wizard Warlock set.")
+
+addParent("triumph:advancements/setbonuses/goldarmor")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Vanilla Warlock Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood")
+
+criteria = addCriteria("Vanilla Warlock Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe")
+
+criteria = addCriteria("Vanilla Warlock Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings")
+
+criteria = addCriteria("Vanilla Warlock Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots")
+
+alwaysVisible()
+setPos(-672,119)

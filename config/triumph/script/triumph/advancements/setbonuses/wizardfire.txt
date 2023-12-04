@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe_fire")
-setTitle("Master of the Fiery Core!")
-setDescription("Complete the Master of the Fiery Core set.")
+setTitle("The Novice of Embers!")
+setDescription("Complete the Novice of Embers Wizard set.")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 

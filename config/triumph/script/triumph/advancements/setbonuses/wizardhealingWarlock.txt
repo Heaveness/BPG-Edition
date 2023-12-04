@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe_healing")
+setTitle("The Advanced Day Bringer!")
+setDescription("Complete the Advanced Day Bringer Warlock set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Healing Warlock Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood_healing")
+
+criteria = addCriteria("Healing Warlock Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe_healing")
+
+criteria = addCriteria("Healing Warlock Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings_healing")
+
+criteria = addCriteria("Healing Warlock Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots_healing")
+
+alwaysVisible()
+setPos(-472,-1)

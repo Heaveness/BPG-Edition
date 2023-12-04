@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe_ice")
-setTitle("Master of the Frostbitten Air!")
-setDescription("Complete the Master of the Frostbitten Air set.")
+setTitle("The Novice of Breeze!")
+setDescription("Complete the Novice of Breeze Wizard set.")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 

@@ -1,0 +1,23 @@
+setIcon("ebwizardry:sage_robe_ice")
+setTitle("The Master of the Frostbitten Cold!")
+setDescription("Complete the Master of the Frostbitten Cold Sage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Ice Sage Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat_ice")
+
+criteria = addCriteria("Ice Sage Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe_ice")
+
+criteria = addCriteria("Ice Sage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings_ice")
+
+criteria = addCriteria("Ice Sage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots_ice")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-392,159)

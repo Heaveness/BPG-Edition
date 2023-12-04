@@ -94,6 +94,33 @@ mods.jei.JEI.removeAndHide(<better_diving:wetsuit_leggings>);
 mods.jei.JEI.removeAndHide(<better_diving:wiring_kit>);
 mods.jei.JEI.removeAndHide(<betterwithmods:block_dispenser>);
 mods.jei.JEI.removeAndHide(<dynamicstealth:handmirror>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_absorption>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_banishing>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_channeling>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_fire_cloaking>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_fire_protection>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_frost_warding>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_ice_immunity>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_ice_protection>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_resurrection>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_wisdom>);
+mods.jei.JEI.removeAndHide(<ebwizardry:amulet_wither_immunity>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_abseiling>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_auto_smelt>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_black_hole>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_experience_tome>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_feeding>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_growth>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_mount_teleporting>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_silk_touch>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_stop_time>);
+mods.jei.JEI.removeAndHide(<ebwizardry:charm_transportation>);
+mods.jei.JEI.removeAndHide(<ebwizardry:ring_evoker>);
+mods.jei.JEI.removeAndHide(<ebwizardry:ring_full_moon>);
+mods.jei.JEI.removeAndHide(<ebwizardry:ring_mind_control>);
+mods.jei.JEI.removeAndHide(<ebwizardry:ring_siphoning>);
+mods.jei.JEI.removeAndHide(<ebwizardry:ring_soulbinding>);
+mods.jei.JEI.removeAndHide(<ebwizardry:ruined_spell_book>);
 mods.jei.JEI.removeAndHide(<grimoireofgaia:bag_arrow>);
 mods.jei.JEI.removeAndHide(<grimoireofgaia:bag_book>);
 mods.jei.JEI.removeAndHide(<grimoireofgaia:bag_record>);
@@ -565,13 +592,6 @@ recipes.addShaped("grave",<openblocks:grave>,[
     [<minecraft:soul_sand>,<nyx:fallen_star>,<minecraft:soul_sand>]
 ]);
 
-recipes.remove(<ebwizardry:arcane_workbench>);
-recipes.addShaped("arcane_workbench",<ebwizardry:arcane_workbench>,[
-    [<minecraft:dye:4>,null,<minecraft:dye:4>],
-    [<ebwizardry:magic_crystal>,<ebwizardry:spell_book:1>,<ebwizardry:magic_crystal>],
-    [<ore:stone>,<ore:stone>,<ore:stone>]
-]);
-
 recipes.remove(<waystones:warp_stone>);
 recipes.addShaped("warpstone",<waystones:warp_stone>,[
     [<aether_legacy:zanite_gemstone>,<betterwithmods:material:40>,<aether_legacy:zanite_gemstone>],
@@ -931,6 +951,27 @@ recipes.addShaped("naturecompass",<naturescompass:naturescompass>,[
     [null,<nyx:fallen_star>,null],
     [<contenttweaker:water_orb>,<minecraft:compass>,<contenttweaker:earth_orb>],
     [null,<contenttweaker:nature_orb>,null]
+]);
+
+recipes.remove(<ebwizardry:arcane_workbench>);
+recipes.addShaped("arcane_workbench",<ebwizardry:arcane_workbench>,[
+    [<minecraft:dye:4>,null,<minecraft:dye:4>],
+    [<ebwizardry:magic_crystal>,<ebwizardry:spell_book:1>,<ebwizardry:magic_crystal>],
+    [<ore:stone>,<ore:stone>,<ore:stone>]
+]);
+
+recipes.remove(<ebwizardry:imbuement_altar>);
+recipes.addShaped("imbuement_altar",<ebwizardry:imbuement_altar>,[
+    [<ebwizardry:magic_crystal:7>,null,<ebwizardry:magic_crystal:4>],
+    [<ebwizardry:magic_crystal:1>,<ebwizardry:grand_crystal>,<ebwizardry:magic_crystal:3>],
+    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:5>]
+]);
+
+recipes.remove(<ebwizardry:receptacle>);
+recipes.addShaped("receptacle",<ebwizardry:receptacle>,[
+    [<minecraft:gold_ingot>,null,<minecraft:gold_ingot>],
+    [<minecraft:gold_ingot>,<minecraft:gold_ingot>,<minecraft:gold_ingot>],
+    [null,<minecraft:gold_ingot>,null]
 ]);
 
 recipes.remove(<ebwizardry:identification_scroll>);
@@ -1350,178 +1391,31 @@ recipes.addShaped("ExperienceCharm",<ebwizardry:charm_experience_tome>,[
     [<ebwizardry:grand_crystal>,<minecraft:experience_bottle>,<ebwizardry:grand_crystal>]
 ]);
 
-recipes.addShaped("EarthWizardBoots",<ebwizardry:wizard_boots_earth>,[
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:wizard_boots>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>]
-]);
-
-recipes.addShaped("EarthWizardHat",<ebwizardry:wizard_hat_earth>,[
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:wizard_hat>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>]
-]);
-
-recipes.addShaped("EarthWizardRobe",<ebwizardry:wizard_robe_earth>,[
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:wizard_robe>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>]
-]);
-
-recipes.addShaped("EarthWizardLeggings",<ebwizardry:wizard_leggings_earth>,[
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:wizard_leggings>,<ebwizardry:magic_crystal:5>],
-    [<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>,<ebwizardry:magic_crystal:5>]
-]);
-
-recipes.addShaped("FireWizardBoots",<ebwizardry:wizard_boots_fire>,[
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:wizard_boots>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>]
-]);
-
-recipes.addShaped("FireWizardHat",<ebwizardry:wizard_hat_fire>,[
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:wizard_hat>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>]
-]);
-
-recipes.addShaped("FireWizardRobe",<ebwizardry:wizard_robe_fire>,[
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:wizard_robe>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>]
-]);
-
-recipes.addShaped("FireWizardLeggings",<ebwizardry:wizard_leggings_fire>,[
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:wizard_leggings>,<ebwizardry:magic_crystal:1>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>,<ebwizardry:magic_crystal:1>]
-]);
-
-recipes.addShaped("HealingWizardBoots",<ebwizardry:wizard_boots_healing>,[
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:wizard_boots>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>]
-]);
-
-recipes.addShaped("HealingWizardHat",<ebwizardry:wizard_hat_healing>,[
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:wizard_hat>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>]
-]);
-
-recipes.addShaped("HealingWizardRobe",<ebwizardry:wizard_robe_healing>,[
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:wizard_robe>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>]
-]);
-
-recipes.addShaped("HealingWizardLeggings",<ebwizardry:wizard_leggings_healing>,[
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:wizard_leggings>,<ebwizardry:magic_crystal:7>],
-    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>]
-]);
-
-recipes.addShaped("IceWizardBoots",<ebwizardry:wizard_boots_ice>,[
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:wizard_boots>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>]
-]);
-
-recipes.addShaped("IceWizardHat",<ebwizardry:wizard_hat_ice>,[
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:wizard_hat>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>]
-]);
-
-recipes.addShaped("IceWizardRobe",<ebwizardry:wizard_robe_ice>,[
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:wizard_robe>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>]
-]);
-
-recipes.addShaped("IceWizardLeggings",<ebwizardry:wizard_leggings_ice>,[
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:wizard_leggings>,<ebwizardry:magic_crystal:2>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:2>]
-]);
-
-recipes.addShaped("LightningWizardBoots",<ebwizardry:wizard_boots_lightning>,[
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:wizard_boots>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>]
-]);
-
-recipes.addShaped("LightningWizardHat",<ebwizardry:wizard_hat_lightning>,[
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:wizard_hat>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>]
-]);
-
-recipes.addShaped("LightningWizardRobe",<ebwizardry:wizard_robe_lightning>,[
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:wizard_robe>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>]
-]);
-
-recipes.addShaped("LightningWizardLeggings",<ebwizardry:wizard_leggings_lightning>,[
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:wizard_leggings>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>,<ebwizardry:magic_crystal:3>]
-]);
-
-recipes.addShaped("NecromancyWizardBoots",<ebwizardry:wizard_boots_necromancy>,[
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:wizard_boots>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>]
-]);
-
-recipes.addShaped("NecromancyWizardHat",<ebwizardry:wizard_hat_necromancy>,[
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:wizard_hat>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>]
-]);
-
-recipes.addShaped("NecromancyWizardRobe",<ebwizardry:wizard_robe_necromancy>,[
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:wizard_robe>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>]
-]);
-
-recipes.addShaped("NecromancyWizardLeggings",<ebwizardry:wizard_leggings_necromancy>,[
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:wizard_leggings>,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>,<ebwizardry:magic_crystal:4>]
-]);
-
-recipes.addShaped("SorceryWizardBoots",<ebwizardry:wizard_boots_sorcery>,[
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:wizard_boots>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>]
-]);
-
-recipes.addShaped("SorceryWizardHat",<ebwizardry:wizard_hat_sorcery>,[
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:wizard_hat>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>]
-]);
-
-recipes.addShaped("SorceryWizardRobe",<ebwizardry:wizard_robe_sorcery>,[
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:wizard_robe>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>]
-]);
-
-recipes.addShaped("SorceryWizardLeggings",<ebwizardry:wizard_leggings_sorcery>,[
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:wizard_leggings>,<ebwizardry:magic_crystal:6>],
-    [<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:6>]
-]);
-
 recipes.addShaped("MagicCrystal", <ebwizardry:magic_crystal:0>,[
 	[<ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>],
 	[<ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>],
 	[<ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>]
+]);
+
+recipes.remove(<ebwizardry:crystal_silver_plating>);
+recipes.addShaped("battlemage_crystal_silver_plating", <ebwizardry:crystal_silver_plating>,[
+	[null, <ebwizardry:magic_crystal:0>, null],
+	[<ebwizardry:magic_crystal:0>, <iceandfire:silver_ingot>, <ebwizardry:magic_crystal:0>],
+	[null, <ebwizardry:magic_crystal:0>, null]
+]);
+
+recipes.remove(<ebwizardry:ethereal_crystalweave>);
+recipes.addShaped("warlock_ethereal_crystalweave", <ebwizardry:ethereal_crystalweave>,[
+	[<aether_legacy:aercloud:0>|<aether_legacy:aercloud:1>|<aether_legacy:aercloud:2>, <simpledifficulty:ice_chunk>, <aether_legacy:aercloud:0>|<aether_legacy:aercloud:1>|<aether_legacy:aercloud:2>],
+	[<simpledifficulty:magma_chunk>, <ebwizardry:grand_crystal>, <simpledifficulty:magma_chunk>],
+	[<aether_legacy:aercloud:0>|<aether_legacy:aercloud:1>|<aether_legacy:aercloud:2>, <simpledifficulty:ice_chunk>, <aether_legacy:aercloud:0>|<aether_legacy:aercloud:1>|<aether_legacy:aercloud:2>]
+]);
+
+recipes.remove(<ebwizardry:resplendent_thread>);
+recipes.addShaped("sage_resplendent_thread", <ebwizardry:resplendent_thread>,[
+	[<simpleores:mythril_ingot>, <ebwizardry:magic_silk>, <simpleores:mythril_ingot>],
+	[<ebwizardry:magic_silk>, <arcanearchives:raw_quartz>, <ebwizardry:magic_silk>],
+	[<simpleores:mythril_ingot>, <ebwizardry:magic_silk>, <simpleores:mythril_ingot>]
 ]);
 
 recipes.addShaped("WereSheepEgg", <grimoireofgaia:spawn_weresheep>,[
@@ -1652,32 +1546,32 @@ recipes.addShapeless("freshmilkmud", <biomesoplenty:mudball>, [
   <ore:DirtBlock>, <harvestcraft:freshmilkitem>*1
 ]);
 
-recipes.addShapeless("FieryCrystal", <ebwizardry:magic_crystal:1>, [
-  <ebwizardry:magic_crystal:0>*1, <simpledifficulty:magma_chunk>
+recipes.addShapeless("FieryDust", <ebwizardry:spectral_dust:1>, [
+  <dungeontactics:magic_powder>*1, <simpledifficulty:magma_chunk>
 ]);
 
-recipes.addShapeless("IcyCrystal", <ebwizardry:magic_crystal:2>, [
-  <ebwizardry:magic_crystal:0>*1, <simpledifficulty:ice_chunk>
+recipes.addShapeless("IcyDust", <ebwizardry:spectral_dust:2>, [
+  <dungeontactics:magic_powder>*1, <simpledifficulty:ice_chunk>
 ]);
 
-recipes.addShapeless("StormyCrystal", <ebwizardry:magic_crystal:3>, [
-  <ebwizardry:magic_crystal:0>*1, <aether_legacy:aercloud:0>|<aether_legacy:aercloud:1>|<aether_legacy:aercloud:2>
+recipes.addShapeless("StormyDust", <ebwizardry:spectral_dust:3>, [
+  <dungeontactics:magic_powder>*1, <aether_legacy:aercloud:0>|<aether_legacy:aercloud:1>|<aether_legacy:aercloud:2>
 ]);
 
-recipes.addShapeless("DarkCrystal", <ebwizardry:magic_crystal:4>, [
-  <ebwizardry:magic_crystal:0>*1, <minecraft:rotten_flesh>
+recipes.addShapeless("DarkDust", <ebwizardry:spectral_dust:4>, [
+  <dungeontactics:magic_powder>*1, <thaumcraft:brain>
 ]);
 
-recipes.addShapeless("VerdantCrystal", <ebwizardry:magic_crystal:5>, [
-  <ebwizardry:magic_crystal:0>*1, <biomesoplenty:mudball>
+recipes.addShapeless("VerdantDust", <ebwizardry:spectral_dust:5>, [
+  <dungeontactics:magic_powder>*1, <biomesoplenty:mudball>
 ]);
 
-recipes.addShapeless("MysticalCrystal", <ebwizardry:magic_crystal:6>, [
-  <ebwizardry:magic_crystal:0>*1, <dungeontactics:magic_powder>
+recipes.addShapeless("MysticalDust", <ebwizardry:spectral_dust:6>, [
+  <dungeontactics:magic_powder>*1, <dungeontactics:magic_powder>
 ]);
 
-recipes.addShapeless("RadiantCrystal", <ebwizardry:magic_crystal:7>, [
-  <ebwizardry:magic_crystal:0>*1, <nyx:fallen_star>
+recipes.addShapeless("RadiantDust", <ebwizardry:spectral_dust:7>, [
+  <dungeontactics:magic_powder>*1, <minecraft:glowstone_dust>
 ]);
 
 recipes.addShapeless("BlankScroll2", <ebwizardry:blank_scroll>*2, [

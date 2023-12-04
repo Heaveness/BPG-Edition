@@ -1,5 +1,5 @@
 setIcon("ebwizardry:master_necromancy_wand")
-setTitle("Wielder of the Living Undeath!")
+setTitle("The Wielder of the Living Undeath!")
 setDescription("Acquire all levels of the Necromancy wand.")
 
 addParent("triumph:advancements/setbonuses/wizardnecromancy")
@@ -19,4 +19,5 @@ criteria = addCriteria("Master Necromancy Wand", "minecraft:inventory_changed")
 criteria.addItem("ebwizardry:master_necromancy_wand")
 
 alwaysVisible()
-setPos(-512,239)
+setFrameType("CHALLENGE")
+setPos(-392,239)

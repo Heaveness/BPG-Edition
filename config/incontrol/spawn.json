@@ -68,6 +68,13 @@
     "onjoin": true,
     "result": "deny"
  },
+ 
+  {
+    "mob": "ebwizardry:remnant",
+    "dimension": [0,10,7,4,-1,1,17],
+    "onjoin": true,
+    "result": "deny"
+ },
 
 //aether spawns
  {

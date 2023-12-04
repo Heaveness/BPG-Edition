@@ -1,0 +1,23 @@
+setIcon("ebwizardry:wizard_robe_fire")
+setTitle("The Master of the Fiery Core!")
+setDescription("Complete the Master of the Fiery Core Sage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Fire Wizard Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat_fire")
+
+criteria = addCriteria("Fire Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe_fire")
+
+criteria = addCriteria("Fire Wizard Legging", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings_fire")
+
+criteria = addCriteria("Fire Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots_fire")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-432,79)

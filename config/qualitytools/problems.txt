@@ -1,1 +1,1 @@
-reforging materials.json: Unknown item fishingmadebetter:fishing_rod_wood
+reforging materials.json: Unknown item magic_silk

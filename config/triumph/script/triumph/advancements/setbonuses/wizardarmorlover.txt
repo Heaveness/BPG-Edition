@@ -4,31 +4,29 @@ setDescription("Acquire the entire elemental wizard armor set!")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 
-// addRewardFunction("triumph:fullMidArmor")
-
 criteria = addCriteria("Vanilla", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardvanilla")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardvanillaSage")
 
 criteria = addCriteria("Earth", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardearth")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardearthSage")
 
 criteria = addCriteria("Fire", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardfire")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardfireSage")
 
 criteria = addCriteria("Healing", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardhealing")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardhealingSage")
 
 criteria = addCriteria("Ice", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardice")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardiceSage")
 
 criteria = addCriteria("Lightning", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardlightning")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardlightningSage")
 
 criteria = addCriteria("Sorcery", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardsorcery")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardsorcerySage")
 
 criteria = addCriteria("Necromancy", "triumph:completed_advancement")
-criteria.setAdvancement("triumph:advancements/setbonuses/wizardnecromancy")
+criteria.setAdvancement("triumph:advancements/setbonuses/wizardnecromancySage")
 
 criteria = addCriteria("Armor Upgrade", "triumph:completed_advancement")
 criteria.setAdvancement("triumph:advancements/setbonuses/wizardupgrade")

@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe_lightning")
-setTitle("Master of the Thundering Sky!")
-setDescription("Complete the Master of the Thundering Sky set.")
+setTitle("The Novice of Sparks!")
+setDescription("Complete the Novice of Sparks Wizard set.")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 

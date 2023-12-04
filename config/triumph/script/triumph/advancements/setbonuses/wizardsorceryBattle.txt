@@ -1,0 +1,22 @@
+setIcon("ebwizardry:battlemage_chestplate_sorcery")
+setTitle("The Apprentice of Sorcery!")
+setDescription("Complete the Apprentice of Sorcery Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Sorcery  Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet_sorcery")
+
+criteria = addCriteria("Sorcery  Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate_sorcery")
+
+criteria = addCriteria("Sorcery  Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings_sorcery")
+
+criteria = addCriteria("Sorcery  Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots_sorcery")
+
+alwaysVisible()
+setPos(-512,199)

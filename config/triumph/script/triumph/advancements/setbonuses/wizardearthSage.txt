@@ -1,0 +1,23 @@
+setIcon("ebwizardry:sage_robe_earth")
+setTitle("The Master of the Earth's Ruin!")
+setDescription("Complete the Master of the Earth's Ruin Sage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Earth Sage Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat_earth")
+
+criteria = addCriteria("Earth Sage Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe_earth")
+
+criteria = addCriteria("Earth Sage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings_earth")
+
+criteria = addCriteria("Earth Sage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots_earth")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-432,119)

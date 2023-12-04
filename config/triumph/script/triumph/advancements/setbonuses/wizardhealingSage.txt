@@ -1,0 +1,23 @@
+setIcon("ebwizardry:sage_robe_healing")
+setTitle("The Master of the Divine Light!")
+setDescription("Complete the Master of the Divine Light Sage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Healing Sage Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat_healing")
+
+criteria = addCriteria("Healing Sage Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe_healing")
+
+criteria = addCriteria("Healing Sage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings_healing")
+
+criteria = addCriteria("Healing Sage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots_healing")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-432,-1)

@@ -1,0 +1,23 @@
+setIcon("ebwizardry:sage_robe_necromancy")
+setTitle("The Master of the Living Undeath!")
+setDescription("Complete the Master of the Living Undeath Sage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Sorcery Sage Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat_necromancy")
+
+criteria = addCriteria("Sorcery Sage Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe_necromancy")
+
+criteria = addCriteria("Sorcery Sage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings_necromancy")
+
+criteria = addCriteria("Sorcery Sage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots_necromancy")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-432,239)

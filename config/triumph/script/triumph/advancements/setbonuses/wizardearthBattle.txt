@@ -1,0 +1,22 @@
+setIcon("ebwizardry:battlemage_chestplate_earth")
+setTitle("The Apprentice of Earth!")
+setDescription("Complete the Apprentice of Earth Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Earth Battlemage Helmet", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet_earth")
+
+criteria = addCriteria("Earth Battlemage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate_earth")
+
+criteria = addCriteria("Earth Battlemage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings_earth")
+
+criteria = addCriteria("Earth Battlemage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots_earth")
+
+alwaysVisible()
+setPos(-512,119)

@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe_fire")
+setTitle("The Advanced Flamethrower!")
+setDescription("Complete the Advanced Flamethrower Warlock set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Fire Wizard Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood_fire")
+
+criteria = addCriteria("Fire Wizard Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe_fire")
+
+criteria = addCriteria("Fire Wizard Legging", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings_fire")
+
+criteria = addCriteria("Fire Wizard Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots_fire")
+
+alwaysVisible()
+setPos(-472,79)

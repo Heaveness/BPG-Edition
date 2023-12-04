@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe_necromancy")
+setTitle("The Advanced Night Weaver!")
+setDescription("Complete the Advanced Night Weaver Warlock set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Sorcery Warlock Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood_necromancy")
+
+criteria = addCriteria("Sorcery Warlock Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe_necromancy")
+
+criteria = addCriteria("Sorcery Warlock Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings_necromancy")
+
+criteria = addCriteria("Sorcery Warlock Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots_necromancy")
+
+alwaysVisible()
+setPos(-472,239)

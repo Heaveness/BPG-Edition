@@ -1,0 +1,22 @@
+setIcon("ebwizardry:battlemage_chestplate_ice")
+setTitle("The Apprentice of Ice!")
+setDescription("Complete the Apprentice of Ice Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Ice Battlemage Helmet", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet_ice")
+
+criteria = addCriteria("Ice Battlemage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate_ice")
+
+criteria = addCriteria("Ice Battlemage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings_ice")
+
+criteria = addCriteria("Ice Battlemage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots_ice")
+
+alwaysVisible()
+setPos(-512,159)

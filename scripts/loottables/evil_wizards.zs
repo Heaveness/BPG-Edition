@@ -16,6 +16,7 @@
 //Define the list of Baubles to be added to the loot table
 
 val baubleArray = [
+	<ebwizardry:amulet_anchoring>,
 	<ebwizardry:amulet_arcane_defence>,
 	<ebwizardry:amulet_auto_shield>,
 	<ebwizardry:amulet_glide>,
@@ -34,6 +35,7 @@ val baubleArray = [
 	<ebwizardry:ring_disintegration>,
 	<ebwizardry:ring_earth_biome>,
 	<ebwizardry:ring_earth_melee>,
+	<ebwizardry:ring_evoker>,
 	<ebwizardry:ring_extraction>,
 	<ebwizardry:ring_fire_biome>,
 	<ebwizardry:ring_fire_melee>,
@@ -50,14 +52,19 @@ val baubleArray = [
 	<ebwizardry:ring_seeking>,
 	<ebwizardry:ring_shattering>,
 	<ebwizardry:ring_siphoning>,
+	<ebwizardry:ring_stormcloud>,
 	<ebwizardry:ring_storm>,
 	<ebwizardry:charm_flight>,
 	<ebwizardry:charm_haggler>,
+	<ebwizardry:charm_hunger_casting>,
 	<ebwizardry:charm_lava_walking>,
 	<ebwizardry:charm_light>,
 	<ebwizardry:charm_minion_health>,
 	<ebwizardry:charm_minion_variants>,
-	<ebwizardry:charm_storm>
+	<ebwizardry:charm_move_speed>,
+	<ebwizardry:charm_spell_discovery>,
+	<ebwizardry:charm_storm>,
+	<ebwizardry:charm_undead_helmets>
 ]as IItemStack[];
 
 //Get the Evil Wizard  loot table and store it for later use

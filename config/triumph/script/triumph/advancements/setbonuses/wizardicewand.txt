@@ -1,5 +1,5 @@
 setIcon("ebwizardry:master_ice_wand")
-setTitle("Wielder of the Frostbitten Air!")
+setTitle("The Wielder of the Frostbitten Air!")
 setDescription("Acquire all levels of the Ice wand.")
 
 addParent("triumph:advancements/setbonuses/wizardice")
@@ -19,4 +19,5 @@ criteria = addCriteria("Master Ice Wand", "minecraft:inventory_changed")
 criteria.addItem("ebwizardry:master_ice_wand")
 
 alwaysVisible()
-setPos(-512,159)
+setFrameType("CHALLENGE")
+setPos(-392,159)

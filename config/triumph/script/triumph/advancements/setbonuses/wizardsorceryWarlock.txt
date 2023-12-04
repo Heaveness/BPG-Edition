@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe_sorcery")
+setTitle("The Advanced Esotericist!")
+setDescription("Complete the Advanced Esotericist Warlock set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Sorcery Warlock Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood_sorcery")
+
+criteria = addCriteria("Sorcery Warlock Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe_sorcery")
+
+criteria = addCriteria("Sorcery Warlock Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings_sorcery")
+
+criteria = addCriteria("Sorcery Warlock Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots_sorcery")
+
+alwaysVisible()
+setPos(-472,199)

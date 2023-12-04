@@ -1,0 +1,23 @@
+setIcon("ebwizardry:sage_robe_sorcery")
+setTitle("The Master of the Arcane Arts!")
+setDescription("Complete the Master of the Arcane Arts Sage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Sorcery Sage Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat_sorcery")
+
+criteria = addCriteria("Sorcery Sage Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe_sorcery")
+
+criteria = addCriteria("Sorcery Sage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings_sorcery")
+
+criteria = addCriteria("Sorcery Sage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots_sorcery")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-432,199)

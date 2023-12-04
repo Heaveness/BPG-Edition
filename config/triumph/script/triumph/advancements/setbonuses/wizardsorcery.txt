@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe_sorcery")
-setTitle("Master of the Arcane Arts!")
-setDescription("Complete the Master of the Arcane Arts set.")
+setTitle("The Novice of Charmss!")
+setDescription("Complete The Novice of Charms Wizard set.")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 

@@ -1,0 +1,22 @@
+setIcon("ebwizardry:wizard_robe_fire")
+setTitle("The Apprentice of Fire!")
+setDescription("Complete the Apprentice of Fire Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Fire Battlemage Helmet", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet_fire")
+
+criteria = addCriteria("Fire Battlemage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate_fire")
+
+criteria = addCriteria("Fire Battlemage Legging", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings_fire")
+
+criteria = addCriteria("Fire Battlemage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots_fire")
+
+alwaysVisible()
+setPos(-512,79)

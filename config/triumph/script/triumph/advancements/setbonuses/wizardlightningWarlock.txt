@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe_lightning")
+setTitle("The Advanced Thunder Storm!")
+setDescription("Complete the Advanced Thunder Storm Warlock set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Lightning Warlock Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood_lightning")
+
+criteria = addCriteria("Lightning Warlock Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe_lightning")
+
+criteria = addCriteria("Lightning Warlock Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings_lightning")
+
+criteria = addCriteria("Lightning Warlock Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots_lightning")
+
+alwaysVisible()
+setPos(-472,39)

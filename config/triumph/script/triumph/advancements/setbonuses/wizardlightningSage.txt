@@ -1,0 +1,23 @@
+setIcon("ebwizardry:wizard_robe_lightning")
+setTitle("The Master of the Thundering Sky!")
+setDescription("Complete the Master of the Thundering Sky Sage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Lightning Sage Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat_lightning")
+
+criteria = addCriteria("Lightning Sage Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe_lightning")
+
+criteria = addCriteria("Lightning Sage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings_lightning")
+
+criteria = addCriteria("Lightning Sage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots_lightning")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-432,39)

@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe_healing")
-setTitle("Master of the Divine Light!")
-setDescription("Complete the Master of the Divine Light set.")
+setTitle("The Novice of Mending!")
+setDescription("Complete the Novice of Mending Wizard set.")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 

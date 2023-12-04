@@ -1,0 +1,22 @@
+setIcon("ebwizardry:battlemage_chestplate_necromancy")
+setTitle("The Apprentice of Necromancy!")
+setDescription("Complete the Apprentice of Necromancy Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Sorcery Battlemage Helmet", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet_necromancy")
+
+criteria = addCriteria("Sorcery Battlemage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate_necromancy")
+
+criteria = addCriteria("Sorcery Battlemage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings_necromancy")
+
+criteria = addCriteria("Sorcery Battlemage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots_necromancy")
+
+alwaysVisible()
+setPos(-512,239)

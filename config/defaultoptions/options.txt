@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["AntiqueAtlasExtra-v1.2.zip","AM_1.12.2-1.1.zip","Animated Torch (1.12).zip","am-1-12-2-1-1.zip","Refreshed Aether I V1.0.zip","Better Default 1.12.2.zip","Better Rebirth 1.12.2"]
+resourcePacks:["AntiqueAtlasExtra-v1.2.zip","AM_1.12.2-1.1.zip","AnimEmis_InF_SW_Blue.zip","am-1-12-2-1-1.zip","Refreshed Aether I V1.0.zip","Better Default 1.12.2.zip","Better Rebirth 1.12.2"]
 incompatibleResourcePacks:[]
 lastServer:localhost
 lang:en_us

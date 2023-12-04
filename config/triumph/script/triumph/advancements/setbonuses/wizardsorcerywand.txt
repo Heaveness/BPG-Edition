@@ -1,5 +1,5 @@
 setIcon("ebwizardry:master_sorcery_wand")
-setTitle("Wielder of the Arcane Arts!")
+setTitle("The Wielder of the Arcane Arts!")
 setDescription("Acquire all levels of the Sorcery wand.")
 
 addParent("triumph:advancements/setbonuses/wizardsorcery")
@@ -19,4 +19,5 @@ criteria = addCriteria("Master Sorcery Wand", "minecraft:inventory_changed")
 criteria.addItem("ebwizardry:master_sorcery_wand")
 
 alwaysVisible()
-setPos(-512,199)
+setFrameType("CHALLENGE")
+setPos(-392,199)

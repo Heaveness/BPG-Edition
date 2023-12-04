@@ -1,5 +1,5 @@
 setIcon("ebwizardry:master_earth_wand")
-setTitle("Wielder of the Earth's Ruin!")
+setTitle("The Wielder of the Earth's Ruin!")
 setDescription("Acquire all levels of the Earth wand.")
 
 addParent("triumph:advancements/setbonuses/wizardearth")
@@ -19,4 +19,5 @@ criteria = addCriteria("Master Earth Wand", "minecraft:inventory_changed")
 criteria.addItem("ebwizardry:master_earth_wand")
 
 alwaysVisible()
-setPos(-512,119)
+setFrameType("CHALLENGE")
+setPos(-392,119)

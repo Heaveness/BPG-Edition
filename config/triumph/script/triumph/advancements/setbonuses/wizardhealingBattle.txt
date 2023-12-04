@@ -1,0 +1,22 @@
+setIcon("ebwizardry:battlemage_chestplate_healing")
+setTitle("The Apprentice of Healing!")
+setDescription("Complete the Apprentice of Healing Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Healing Battlemage Helmet", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet_healing")
+
+criteria = addCriteria("Healing Battlemage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate_healing")
+
+criteria = addCriteria("Healing Battlemage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings_healing")
+
+criteria = addCriteria("Healing Battlemage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots_healing")
+
+alwaysVisible()
+setPos(-512,-1)

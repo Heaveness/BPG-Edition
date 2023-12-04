@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe_earth")
-setTitle("Master of the Earth's Ruin!")
-setDescription("Complete the Master of the Earth's Ruin set.")
+setTitle("The Novice of Soil!")
+setDescription("Complete the Novice of Soil Wizard set.")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 

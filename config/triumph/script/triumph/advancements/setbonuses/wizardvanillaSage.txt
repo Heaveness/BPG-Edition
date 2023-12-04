@@ -1,0 +1,23 @@
+setIcon("ebwizardry:sage_robe")
+setTitle("The Master Wizard of Magic!")
+setDescription("Complete the Master Wizard of Magic Sage set.")
+
+addParent("triumph:advancements/setbonuses/goldarmor")
+
+addRewardFunction("triumph:minedMythril")
+
+criteria = addCriteria("Vanilla Sage Hat", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_hat")
+
+criteria = addCriteria("Vanilla Sage Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_robe")
+
+criteria = addCriteria("Vanilla Sage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_leggings")
+
+criteria = addCriteria("Vanilla Sage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:sage_boots")
+
+alwaysVisible()
+setFrameType("CHALLENGE")
+setPos(-712,119)

@@ -1,0 +1,22 @@
+setIcon("ebwizardry:battlemage_chestplate_lightning")
+setTitle("The Apprentice of Lightning!")
+setDescription("Complete the Apprentice of Lightning Battlemage set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullEarlyArmor")
+
+criteria = addCriteria("Lightning Battlemage Helmet", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_helmet_lightning")
+
+criteria = addCriteria("Lightning Battlemage Chestplate", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_chestplate_lightning")
+
+criteria = addCriteria("Lightning Battlemage Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_leggings_lightning")
+
+criteria = addCriteria("Lightning Battlemage Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:battlemage_boots_lightning")
+
+alwaysVisible()
+setPos(-512,39)

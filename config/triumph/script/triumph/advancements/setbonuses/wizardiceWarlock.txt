@@ -1,0 +1,22 @@
+setIcon("ebwizardry:warlock_robe_ice")
+setTitle("The Advanced Hail Storm!")
+setDescription("Complete the Advanced Hail Storm Warlock set.")
+
+addParent("triumph:advancements/setbonuses/wizardvanilla")
+
+addRewardFunction("triumph:fullMidArmor")
+
+criteria = addCriteria("Ice Warlock Hood", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_hood_ice")
+
+criteria = addCriteria("Ice Warlock Robe", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_robe_ice")
+
+criteria = addCriteria("Ice Warlock Leggings", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_leggings_ice")
+
+criteria = addCriteria("Ice Warlock Boots", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_boots_ice")
+
+alwaysVisible()
+setPos(-472,159)

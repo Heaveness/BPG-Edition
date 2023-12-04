@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe_necromancy")
-setTitle("Master of the Living Undeath!")
-setDescription("Complete the Master of the Living Undeath set.")
+setTitle("The Novice of Rot!")
+setDescription("Complete the Novice of Rot Wizard set.")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 

@@ -1,6 +1,6 @@
 setIcon("ebwizardry:wizard_robe")
 setTitle("The Aspiring Wizard!")
-setDescription("Complete the Aspiring Wizard set.")
+setDescription("Complete the Aspiring Wizard Wizard set.")
 
 addParent("triumph:advancements/setbonuses/goldarmor")
 

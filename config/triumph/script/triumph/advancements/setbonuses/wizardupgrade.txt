@@ -1,13 +1,17 @@
-setIcon("ebwizardry:armour_upgrade")
-setTitle("Legendary Wizard!")
-setDescription("Acquire a Arcane Seal of Protection!")
+setIcon("ebwizardry:imbuement_altar")
+setTitle("The Legendary Wizard!")
+setDescription("Acquire all Wizard Upgrade materials!")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 
-// addRewardFunction("triumph:fullMidArmor")
+criteria = addCriteria("", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:crystal_silver_plating")
 
-criteria = addCriteria("Wizard Armor Upgrade", "minecraft:inventory_changed")
-criteria.addItem("ebwizardry:armour_upgrade")
+criteria = addCriteria("", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:warlock_ethereal_crystalweave")
+
+criteria = addCriteria("", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:resplendent_thread")
 
 alwaysVisible()
 setPos(-592,159)
