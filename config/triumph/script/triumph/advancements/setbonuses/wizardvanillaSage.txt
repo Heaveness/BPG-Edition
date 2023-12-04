@@ -2,7 +2,7 @@ setIcon("ebwizardry:sage_robe")
 setTitle("The Master Wizard of Magic!")
 setDescription("Complete the Master Wizard of Magic Sage set.")
 
-addParent("triumph:advancements/setbonuses/goldarmor")
+addParent("triumph:advancements/setbonuses/wizardvanilla")
 
 addRewardFunction("triumph:minedMythril")
 

@@ -2,7 +2,7 @@ setIcon("ebwizardry:warlock_robe")
 setTitle("The Experienced Wizard!")
 setDescription("Complete the Experienced Wizard Warlock set.")
 
-addParent("triumph:advancements/setbonuses/goldarmor")
+addParent("triumph:advancements/setbonuses/wizardvanilla")
 
 addRewardFunction("triumph:fullMidArmor")
 

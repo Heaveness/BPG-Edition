@@ -2,7 +2,7 @@ setIcon("ebwizardry:battlemage_chestplate")
 setTitle("The Rookie Wizard!")
 setDescription("Complete the Rookie Wizard Battlemage set.")
 
-addParent("triumph:advancements/setbonuses/goldarmor")
+addParent("triumph:advancements/setbonuses/wizardvanilla")
 
 addRewardFunction("triumph:fullEarlyArmor")
 
