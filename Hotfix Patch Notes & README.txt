@@ -1096,16 +1096,85 @@ Open Beta 2.0:
 - Added new meta achievements belonging to each sub-class.
 [Further details will be explained on this new system available in a document at the bottom of this patch notes]
 
+- BPG's first attempt at a major optimization. More to come in future updates, below are fixes thanks to Universal Tweaks & etc.
+- Added CensoredASM mod by Rongmario's team.
+- Added Universal Tweaks mod by ACGaming.
+- Added Hesperus mod by kappa_maintainer's team.
+- Adds a ridiculous amount of fixes to many problems into a single mod. The list is located here: https://legacy.curseforge.com/minecraft/mc-mods/universal-tweaks
+- Removed AttributeFix mod. Replaced by Universal Tweaks.
+- Removed BornInABarn mod. Replaced by Universal Tweaks.
+- Removed DamageTilt mod. Replaced by Universal Tweaks.
+- Removed DietHopper mod. Replaced by Universal Tweaks.
+- Removed FastWorkBench mod. Replaced by Universal Tweaks.
+- Removed HelpFixer mod. Replaced by Universal Tweaks.
+- Removed Performant mod. Replaced by Universal Tweaks.
+- Removed Phosphor mod. Replaced by Universal Tweaks & Hesperus.
+- Removed SaveMyStronghold mod. Replaced by Universal Tweaks.
+- Removed Surge mod. Replaced by Universal Tweaks.
+- Removed SwingThroughGrass mod. Replaced by Universal Tweaks.
+- Removed TidyChunk mod. Replaced by Universal Tweaks.
+- Removed TexFix mod. Replaced by CensoredASM.
+- Removed Unloader mod. Replaced by Universal Tweaks.
+- Removed VanillaFix mod. Replaced by CensoredASM.
+- Removed WaterControlExtreme mod. Replaced by Universal Tweaks.
+
+- Removed Better Hurt Timer mod. For now, causing a crash with taking damage. Waiting on update to this mod.
+- Removed Scroll of New Life mod.
+- Updated Obfuscate mod to the latest version.
+- Updated EntityCulling mod to the latest version.
+- Updated MixinBootstrap to the latest version.
+- Added Mixin 0.7-0.8 Compatibility mod by NotStirred.
+- Added RenderLib mod by meldexun.
+
+- Number of fixes to Thaumcraft. Sound and Particle textures of multiple events.
+- Thaumometer should no longer bob rapidly when moving to scan.
+- Fixed the interaction of iron canteens with rain collectors from SimpleDifficulty.
+- You can now enable cheats without having to turn on LAN mode.
+- Dispensers no longer place majority blocks to prevent an exploit with Reskillable. It should still fire projectiles.
+- Chunk Loading has been improved through Universal Tweaks. Dimensions are unloaded when not used. May cause items on the ground to be erased.
+- Fixed the need to have an arrow in your inventory to use the Infinity enchant on your bow.
+- Decreased elytra collision damage from 10 to 4.
+- Prevented offhand blocks from placing when blocks or food are held in the mainhand.
+- Nightvision no longer flashes when it is about to run out. To prevent eye strain, be more pro-active on refreshing it.
+
+- Universal Tweaks's Linear XP Amount feature is used for a flat leveling experience.
+- Flat XP requirement: 150XP per level. When to spend your levels at low or high no longer matters anymore.
+- Turned off XP bar info as it displays incorrect information with the new linear XP requirements. 
+- Total Vanilla XP Requirement: 29,315 from level 0 - 100.
+- Total New Flat XP Requirement: 15,000 from level 0 - 100. Approximately 48.83% faster overall.
+- Player Health by XP level from scalingHealth mod has been adjusted to accommodate new leveling progression.
+- Old:	[Level|Health] 	New:	[Level|Health]
+		    10 22 					10 21
+			20 24					20 22
+			30 26					30 23
+			40 28					40 24
+			50 30					50 25
+									60 26
+									70 27
+									80 28
+									90 29
+								   100 30
+
 - Raised all of the stat's max cap from 35 to 110.
-- Re-balanced the leveling requirements on all items, blocks, and equipments accordingly.
+- Stat levels from 100 to 110 are purely optional. Only a handful of items(end-game items) will require this high of a level.
+- Scaled the leveling requirements on all items, blocks, and equipments according to new max cap(roughly 3x).
+- Re-balanced many of the items & blocks with lower/higher stat requirements.
+- Some items & blocks will have new achievement requirements.
+- New additions within this patch has been integrated into Reskillable's system.
 - Re-balanced the leveling process for each stat. 
 - Reskillable stats are always visible when hovered.
-- 
+- Level Staggering cost from 1 - 50 has been reduced by 50%(total of 25 levels for all stats).
+- Level Staggering cost from 50 - 100 is now 50 levels in total.
+- Level Staggering cost from 100 - 110 is now 50 levels in total. Very few unique items will require this high of a stat(more in future updates). Reserved for end-game items.
+- It would cost about 600(90,000 XP) levels in total to level all stats from 1 - 100 compare to 175,890 XP with Vanilla.
+- It would cost about 400(60,000 XP) more level in total from 1 - 100 compare to 117,260 XP with Vanilla.
+- Increased the XP Level cost of Waystone Dimensional Travel from 5 to 10.
+- Increased the maximum level cost of Waystone travelling from 10 to 20.
 
 - Replaced Better Combat mod with Immersive Combat mod by burgggy's team.
 - Decreased camera yaw motion when swinging from 0.16 to 0.08. To lower motion sickness on faster weapons.
 - Removed Heart Particles when mobs take damage for better visual clarity.
--
+- Manually added unique weapons not defined in Immersive Combat mod's config automatically.
 
 - Added Mixin 0.7-0.8 Compatibility mod by NotStirred.
 - Updated SpartanWeaponry mod to the latest version.
@@ -1189,8 +1258,23 @@ Open Beta 2.0:
 - Decreased attack speed of Throwing Knives' melee from 2.5sps to 2.2sps. 
 - Decreased attack speed of Warhammers from 1.1sps to 1.0sps. 
 
+- Reintroduced tower shields back into the mod-pack.
+- Made several balance changes to accommodate the tower shields.
+- Added compatibility add-on shields of both basic and tower types into Immersive Combat's system.
+- Shield Bashing disables blocking during animation.
+- Balanced each shield's bash damage, knockback power, and cooldown. Based on metal rarity. 
+- Removed silver, diamond, bronze, and tin tower shields.
+- Tower Shields now give -20% Movement Speed, +10% Damage Resistance, +50% Knockback resistance while held off hand. Set bonus is doubled if on both hands.
+- Tower Shield's shield bash are significantly stronger and higher knockback than basic shields with longer cooldown.
 - Increased Crossbow Loading time from 1.0x to 2.0x. Loads much slower since they already do so much damage than bows.
 - Increased Longbow Draw time and Arrow Speed multiplier from 1.1x to 1.2x. (10% longer draw, but 10% increase in arrow speed & damage.)
+
+- Increased Viridium, Mythril, and Onyx armor set armor protection. They are getting slowly power creeped out.
+- Increased  Viridium, Mythril, and Onyx armor set durability.
+- Increased the durability for Ruby, Amethyst, Sapphire, and Peridot gem armor sets.
+- Updated Gem armor and weapon textures to use RotN's version. Thanks Foreck!
+- Updated Bronze armor textures to use RotN's version. Thanks Foreck!
+- Changed Ruby weapon model texture & first person camera to make it less awkward in first person swing animations.
 
 - Updated Artifacts mod with RLArtifacts mod by fonnymunkey's team.
 - Everlasting foods have been removed.
@@ -1218,15 +1302,122 @@ Open Beta 2.0:
 - Fixed a typo in Mimic's loot table to drop the wrong bauble.
 
 - Updated EBWizardry mod to the latest version.
-- Disabled CompatSkill's compatibility with EBWizardry to prevent hard crashes on startup.
-- Significant changes to wand XP progression requirements. Apprentice: 1500xp -> 1000xp, Advanced: 3500xp -> 2500xp, Master: 6000xp -> 5000xp
-- Wand XP will be given a 1.5x passive bonus when levelling up to tiers you have already reached with another wand.
-- Abandoned Library have a chance to spawn in the overworld and the Aether.
-- Obelisks will now spawn in the Nether as well.
-- All recipes for spells through imbuement have been removed to prevent balance issues with the current spell progression. This might change in the future.
-- 
-- Wizards no longer take rock crystal from Astral Sorcery as currency to prevent trading issues.
+- Removed Compatskills module for EBWizardry. Compatibility issues.
+- Slightly decreased player's spell damage scale from 175% to 170%. Still strong, but just slightly less scaling potential.
+- Added 10 new spells and scrolls. (Master: 3, Advanced: 4, Apprentice: 3).
+- Added new spells and  scroll into the Reskillable system).
+- Removed disabled spells and scrolls from dropping.
+^Incomplete
+- Significant changes to wand XP progression requiremensive bonus when leveling it. Apprentice: 1500xp -> 1000xp, Advanced: 3500xp -> 2500xp, Master: 6000xp -> 5000xp
+- Wand XP will be given a 1.5x pasng up to tiers you have already reached with another wand.
+- Wands must be held to decrement their cooldowns to prevent exploiting the combat.
+- Two of the exact same spells cannot be binded into one wand. e.g. 2 magic missile spells into 1 wand. No more cooldown wheel scrolling exploit.
+- You can now disarm your fellow players with a specific spell. ¯\_(ツ)_/¯
+- You cannot accidentally stop time for your fellow players, only mobs and projectiles. No Za Warudo allowed among friends.
+- Decreased cooldown reduction per level for wand upgrades from 15% to 10% per stack. Keep in mind that Master Wands can potentially be stacked up to 6 times(60%).
+- Increased duration increase per level for wand upgrades from 25% to 40% per stack.
+- Decreased potency increase per level for wand upgrades from 15% to 10% per stack.
+- Decreased range increase per level for wand upgrades from 25% to 20% per stack.
+- Decreased blast increase per level for wand upgrades from 25% to 10% per stack. <- This is to prevent extreme lag from upgrade stacking.
+- Decreased frost slowness increase per level for wand upgrades from 50% to 15% per stack. <- Default value is just overkill, anything past 100% is basically a root crowd control effect.
 
+- All recipes for spells through imbuement have been disabled to prevent balance issues with the current spell progression.
+- Imbuement is only used for specific crafting like wizard sets.
+- Abandoned Library have been removed from spawning.
+- Removed Spectral Dust item from dropping.
+- Ruined Spell Book item from dropping.
+- Moved Elemental Crystal recipes to the Spectral Dusts. Adjusted recipes from magic crystals to magic powder.
+- Necromancer Spectral Dust recipe requires zombie brain instead of a rotten flesh.
+- Healing Spectral Dust recipe requires glowstone dust instead of a fallen star.
+- Added recipe for Crystal Silver Plating, Ethereal Crystalweave, & Resplendent Thread.
+- Removed Crystal Silver Plating, Ethereal Crystalweave, & Resplendent Thread from dropping.
+- Removed Remnants entities from spawning.
+- Added recipe to craft Imbuement Altar and Receptacle. Requires at least Nether and Aether progression to craft.
+- Added new wizard armor set into QualityTools system.
+- Obelisks will now spawn in the Nether as well.
+
+- Increased potential trade cost of Wizards.
+- Wizards no longer take rock crystal from Astral Sorcery as currency to prevent trading issues.
+- Removed Elemental Wizard Robe recipes in favor of Imbuement Altars.
+- New wizard sets for better progression. From tier 1 to tier 4. Robes(T1) -> Battlemage(T2) -> Warlock(T3) -> Sage(T4) 
+- Remove Hyper/Hypo-thermia protection on the old wizard sets(T1).
+- Wizard sets for Fire/Ice will only carry Heat/Cold Resist potion effects starting from Warlock(T3) to Sage(T4) respectively.
+- Wizard sets for Healing/Necromancy will only now carry Heat/Cold Resist potion effects starting from Warlock(T3) to Sage(T4) respectively.
+- Wizard sets from Tier 1 to Tier 2 of Fire/Ice will not carry Temperature Resist potion effects. 
+- Wizard sets from Tier 1 to Tier 2 of Healing/Necromancy will not carry Temperature Resist potion effects. 
+- Removed Hyper/Hypo-thermia protection from the Earth wizard set.
+- Added/Changed temperature modifiers to the new/old wizard armor sets. 
+- Decreased the temperature modifier on specific wizard sets(Fire & Ice) from 8.0 to 4.0.
+- Removed the temperature modifier on specific wizard sets(Healing & Necromancy) from 4.0 to 0.
+- Battlemage Fire/Ice whole set will now carry +4.0/-4.0 temperature modifiers.
+- Warlock Fire/Ice whole set will now carry +6.0/-6.0 temperature modifiers.
+- Sage Fire/Ice whole set will now carry +8.0/-8.0 temperature modifiers.
+- Warlock Healing/Necromancy whole set will now carry +4.0/-4.0 temperature modifiers.
+- Sage Healing/Necromancy whole set will now carry +6.0/-6.0 temperature modifiers.
+- Increased defensive values of the new wizard sets.
+- Significantly increased durability value for all wizard sets.
+- Significantly increased durability value for all wands.
+- Re-balanced and added new armor set bonuses for all tiers of wizard sets.
+- Tier 1: Low passive stats.
+- Tier 2: Inefficient timed potion effects.
+- Tier 3: More efficient timed potion effects with slightly stronger passives.
+- Tier 4: Much stronger passives with permanent potion effect.
+- High-tiered Wizard gear(armor set and wands) requires specific achievement and/or stat requirements to use and equip. Such as killing the Wither/End Dragon.
+- Tier 1 set will not start any difficulty progression. Tier 2 will start early game progression. Tier 3 mid-game progression. Tier 4 is late-game progression similar to Onyx.
+- Updated and added in achievements to accommodate the new wizard armor sets.
+- 7 new wizardry baubles have been added into Evil Wizard drops.
+- Added Reskillable requirements to all available baubles that didn't have it.
+- Removed unused Wizardry Baubles from the JEI.
+
+- Completely removed AstralSorcery from the modpack.
+
+- Replaced CookingForBlockheads mod with Delightful Cuisine for Woodheads mod by XemnesXIII.
+- Added & Integrated ControlBurn mod by laike_endaril.
+- Decreased fire spread distance and power by 50%.
+
+- Increased Void Keeper's movement speed by 20%.
+- Void Keeper will now blind players on their attack for 10 seconds.
+- Increased maximum spawn light level of Void keeper from 2 to 4.
+- Increased Void Keeper's damage by 10.
+- Void Keeper can now appear in all dimensions. Some easier than others.
+- Increased spawn chance of Vessel in Roofed Forest biome from 5% per chunk to 6.25% per chunk.
+- Decreased spawn chance of Hot Spring lakes from 2% per chunk to 1.25% per chunk.
+- Introduced blacklist for certain entities for global swim speed increase to prevent weird interactions.
+- Decreased Netherhound's health by 20.
+- Increased Netherhound's movement speed by 5%.
+- Decreased Boulder Zombie's health by 10.
+- Decreased Vespa's health by 10.
+- Increased chance of extra blaze rod drops from Blazes by 10%(up to 85%). This is for extra loot drop, not base loot drop.
+- Sorrowful Angels are now immune to Levitate, Fear, and Frost Potion Effect.
+- The Vessel boss's offensive potion effects duration decreased from 6 seconds to 3 seconds.
+- Increased the health of Giant Tentacle, Eldritch Warden, Eldritch Construct, and Crimson Praetor by 200, 500, 1000, and 750 respectively.
+- Increased chance of Gorgon Temple spawning instead of other Ice and Fire structures from 1.11% to 1.25% per chunk.
+- Decreased minimal distance separation for another potential Ice and Fire structure spawn from 450 blocks to 350 blocks.
+- Majority of Elite mobs and all Bosses are now immune to Frostbite & Fear potion effects.
+- Increased Vessel's movement speed by 10%.
+- Increased Spriggan's Health by 20.
+- Increased Spriggan's Damage by 3.
+- Increased Dryad's Health by 20.
+- Increased Dryad's Damage by 5.
+
+- Added a unique armor set only dropped by Spriggans & Dryads.
+- Increased Armor Protection & Toughness, and Durability of Tanzanite armor set.
+- Added set bonus to Tanzanite Armor set
+- Tanzanite armor set gives +4.0 heat in the temperature modifier.
+- Added Tanzanite armor set to QualityTools's reforge materials(requires flower item).
+- Increased damage of the four gem swords by 5.
+- Increased damage of all matchlock guns by 50%.
+- Increased Waystone's warp stones charge-up to use from 3.5 seconds to 4 seconds.
+- Increased Waystone's warp stones cooldown per use from 5 minutes to 10 minutes.
+- Increased chance of villages having waystones from 50% to 75%.
+- Decreased waystone's the amount of blocks per xp level requirement from 525.0 blocks to 500.0 blocks. (Gets more expensive 25 blocks faster between waystones).
+- Removed Waystone's ability to teleport between dimensions to prevent crashing issues. Eventually, I will look for a fix.
+
+- Since the Nyx update is not in this half of the test build. I will increase fallen star chances a bit to prevent waiting for so long.
+- Increased Nyx fallen star chance per second during regular nights from 0.2% to 0.3%.
+- Increased Nyx meteor shower chance after grace perdio from 5% to 6%.
+
+[Not Yet Implemented]
 - Fixed a few broken achievements.
 - Added & integrated Teams mod by CommodoreThrawn's team.
 
@@ -1239,10 +1430,7 @@ Open Beta 2.0:
 - Added & integrated Advancement Plaque mod by Grend_G.
 - Added & integrated Item Borders mod by Grend_G.
 
-- Global Swim Speed of all entities lowered by
 - Updated Simply Hot Springs mod to the latest version.
-
-- Removed Scroll of New Life mod.
 
 - Re-enabled Quark's deposit to nearby chests. Moved position to x:28.
 - Adjusted Potion Effect icons to not be half hidden behind Atlas mini-map.
@@ -1252,11 +1440,11 @@ Open Beta 2.0:
 - Fixed a wrong amethyst gem used in Amethyst Ingot.
 - Fixed Traverse Fir Wood giving the wrong bark during chopping or sawing.
 - Removed Bibliocraft's armor stand to prevent compatibility issues.
-- Fixed Barako Sun Chief giving Jailed Potion Effect on attack.
-- Fixed Barako Sun Chief spawning in the Nether.
 - Added Thaumcraft Crimson Cultist into the EpicSiegeMob settings.
 - 
+[]
 
+[Not Yet Implemented]
 - Hostile Invasion mod has been reworked.
 - 
 
@@ -1278,45 +1466,9 @@ Open Beta 2.0:
 - Increased Lunar Edge's max XP multiplier based on moon phase.
 - Decreased the starting night of star shower event from 12 to 8. To prevent issues with invasion night.
 - 
+[]
 
-- 
-- 
-
-- Completely removed AstralSorcery from the modpack.
-
-- Replaced CookingForBlockheads mod with Delightful Cuisine for Woodheads mod by XemnesXIII.
-- Added & Integrated ControlBurn mod by laike_endaril.
-
-- Increased Void Keeper's movement speed by 20%.
-- Void Keeper will now blind players on their attack for 10 seconds.
-- Increased maximum spawn light level of Void keeper from 2 to 4.
-- Increased Void Keeper's damage by 10.
-- Void Keeper can now appear in all dimensions. Some easier than others.
-- Increased spawn chance of Vessel in Roofed Forest biome from 5% per chunk to 6.25% per chunk.
-- Decreased spawn chance of Hot Spring lakes from 2% per chunk to 1.25% per chunk.
-- Decreased the global swim speed of all entities by 10%.
-- Introduced blacklist for certain entities for global swim speed increase to prevent weird interactions.
-- Decreased Netherhound's health by 20.
-- Increased Netherhound's movement speed by 5%.
-- Decreased Boulder Zombie's health by 10.
-- Decreased Vespa's health by 10.
-- Increased chance of extra blaze rod drops from Blazes by 5%.
-- Sorrowful Angels are now immune to Levitate Potion Effect.
-- The Vessel boss's offensive potion effects duration decreased from 6 seconds to 4 seconds.
-- Increased the health of Eldritch Warden, Eldritch Construct, and Crimson Praetor by 500, 1000, and 750 respectively.
-- 
-- All Elite mobs and Bosses are now immune to Frostbite & Fear potion effects.
-- Increased Vessel's movement speed by 10%.
-
-- Increased damage of the four gem swords by 5.
-- Increased damage of all matchlock guns by 50%.
-- Increased Waystone's warp stones charge-up to use from 3.5 seconds to 4 seconds.
-- Increased Waystone's warp stones cooldown per use from 5 minutes to 10 minutes.
-- Increased chance of villages having waystones from 50% to 75%.
-- Decreased waystone's the amount of blocks per xp level requirement from 525.0 blocks to 500.0 blocks. (Gets more expensive 25 blocks faster between waystones).
-- Removed Waystone's ability to teleport between dimensions to prevent crashing issues. 
-
-
+[Not Yet Implemented]
 - Updated FishingMadeBetter mod.
 - Complete re-balance of the fishing mechanics.
 - Fishing mini-game has been changed.
@@ -1334,17 +1486,19 @@ Open Beta 2.0:
 - Added lakes of water into Aether's worldgen to allow specific fishes to spawn there.
 - 
 
+
 - Health bars on mobs will now display their current and max HP.
 - Changed all slime's spawn condition from daylight to nighttime.
 - Removed a few slimes from the spawn list.
 - Fixed a recipe with Thaumcraft's sanitizing soap using the wrong oil.
-
 - Fixed item frames not appearing through DynamicStealth.
+[]
 
+[Not Yet Implemented]
 - Added MusicTrigger mod by .
 - Purchased music from .
 - 
-
+[]
 
 
 recipes.addShaped("armorupgradescroll",<ebwizardry:armour_upgrade>,[
@@ -1360,7 +1514,7 @@ v2.0(Dawn of the Majesterium pt.1):
 - Updated AncientWarfare 2 to the latest version.
 - 
 
-- Complete overhaul of the worldgen and terrain gen to accomodate the new structuregen changes.
+- Complete overhaul of the worldgen and terrain gen to accommodate the new structuregen changes.
 - Vanilla villages have been removed. Villagers have been moved to other spawning sources.
 - Toroquest mod has been removed.
 - 
