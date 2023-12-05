@@ -34,6 +34,7 @@ mods.ltt.LootTable.removeGlobalItem("msmlegacy:relic_master");
 mods.ltt.LootTable.removeGlobalItem("msmlegacy:relic_molten");
 mods.ltt.LootTable.removeGlobalItem("msmlegacy:relic_pie");
 mods.ltt.LootTable.removeGlobalItem("treasure2:thiefs_lock_pick");
+mods.ltt.LootTable.removeGlobalItem("treasure2:amethyst");
 mods.ltt.LootTable.removeGlobalItem("treasure2:sapphire");
 mods.ltt.LootTable.removeGlobalItem("treasure2:ruby");
 mods.ltt.LootTable.removeGlobalItem("treasure2:skull_sword");

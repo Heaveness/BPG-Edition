@@ -284,12 +284,6 @@ betterwithmods:bwm_tentacle
 betterwithmods:bwm_jungle_spider
 aquaculture:custom_fish_hook
 arcanearchives:weight
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:chest_passenger
-quark:seat
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -298,7 +292,13 @@ quark:ashen
 quark:pirate
 quark:crab
 quark:wraith
+quark:chest_passenger
+quark:seat
 quark:gravisand
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive

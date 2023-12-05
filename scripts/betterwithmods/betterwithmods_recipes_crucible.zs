@@ -179,7 +179,7 @@ mods.betterwithmods.Crucible.addUnstoked(
 mods.betterwithmods.Crucible.addUnstoked(
     [
         <dungeontactics:steel_ingot>,
-        <ore:gemAmethyst>
+        <biomesoplenty:gem:0>
     ],
     [
         <contenttweaker:amethyst_ingot>
