@@ -108,7 +108,6 @@ mods.jei.JEI.removeAndHide(<ebwizardry:amulet_wither_immunity>);
 mods.jei.JEI.removeAndHide(<ebwizardry:charm_abseiling>);
 mods.jei.JEI.removeAndHide(<ebwizardry:charm_auto_smelt>);
 mods.jei.JEI.removeAndHide(<ebwizardry:charm_black_hole>);
-mods.jei.JEI.removeAndHide(<ebwizardry:charm_experience_tome>);
 mods.jei.JEI.removeAndHide(<ebwizardry:charm_feeding>);
 mods.jei.JEI.removeAndHide(<ebwizardry:charm_growth>);
 mods.jei.JEI.removeAndHide(<ebwizardry:charm_mount_teleporting>);
@@ -121,6 +120,173 @@ mods.jei.JEI.removeAndHide(<ebwizardry:ring_mind_control>);
 mods.jei.JEI.removeAndHide(<ebwizardry:ring_siphoning>);
 mods.jei.JEI.removeAndHide(<ebwizardry:ring_soulbinding>);
 mods.jei.JEI.removeAndHide(<ebwizardry:ruined_spell_book>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:2>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:3>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:4>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:5>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:6>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:7>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:8>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:9>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:10>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:11>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:12>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:14>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:15>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:16>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:17>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:18>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:19>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:20>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:21>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:22>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:23>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:24>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:25>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:26>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:29>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:30>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:31>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:32>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:33>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:34>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:36>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:37>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:38>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:39>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:40>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:41>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:42>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:44>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:45>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:46>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:48>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:49>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:50>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:51>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:52>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:53>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:54>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:55>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:56>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:57>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:58>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:59>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:60>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:61>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:62>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:63>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:65>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:66>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:67>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:69>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:70>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:71>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:72>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:73>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:74>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:75>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:77>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:78>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:79>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:80>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:82>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:83>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:84>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:85>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:86>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:88>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:89>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:90>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:92>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:93>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:94>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:95>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:96>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:97>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:99>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:101>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:102>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:103>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:104>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:106>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:107>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:108>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:109>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:111>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:112>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:113>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:114>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:115>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:116>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:117>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:118>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:119>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:120>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:121>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:122>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:123>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:125>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:127>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:128>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:129>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:130>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:131>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:132>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:133>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:134>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:135>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:137>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:138>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:139>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:140>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:141>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:142>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:143>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:144>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:145>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:147>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:148>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:149>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:150>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:151>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:152>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:153>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:154>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:155>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:156>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:157>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:158>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:159>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:160>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:161>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:162>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:163>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:164>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:165>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:166>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:167>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:168>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:169>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:170>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:171>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:172>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:173>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:174>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:175>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:176>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:177>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:178>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:179>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:180>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:181>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:182>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:183>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:184>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:185>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:186>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:187>);
+mods.jei.JEI.removeAndHide(<ebwizardry:spell_book:188>);
 mods.jei.JEI.removeAndHide(<grimoireofgaia:bag_arrow>);
 mods.jei.JEI.removeAndHide(<grimoireofgaia:bag_book>);
 mods.jei.JEI.removeAndHide(<grimoireofgaia:bag_record>);
@@ -390,7 +556,7 @@ mods.jei.JEI.removeAndHide(<treasure2:gold_bracelet>);
 mods.jei.JEI.removeAndHide(<treasure2:gold_necklace>);
 mods.jei.JEI.removeAndHide(<treasure2:gold_ring>);
 mods.jei.JEI.removeAndHide(<treasure2:medics_token>);
-mods.jei.JEI.removeAndHide(<treasure2:miners_frien	d>);
+mods.jei.JEI.removeAndHide(<treasure2:miners_friend>);
 mods.jei.JEI.removeAndHide(<treasure2:onyx_gold_amulet>);
 mods.jei.JEI.removeAndHide(<treasure2:onyx_gold_ring>);
 mods.jei.JEI.removeAndHide(<treasure2:pilferers_lock_pick>);
@@ -411,7 +577,9 @@ mods.jei.JEI.removeAndHide(<weeping-angels:chronodyne_generator>);
 mods.jei.JEI.removeAndHide(<weeping-angels:kontron_ingot>);
 mods.jei.JEI.removeAndHide(<weeping-angels:timey_wimey_detector>);
 recipes.removeByRecipeName("simpledifficulty:block_ice_packed");
+mods.jei.JEI.hideCategory("ebwizardry:imbuement_altar");
 
+mods.atum.Kiln.blacklist("minecraft:iron_ingot");
 mods.atum.Kiln.blacklist("dungeontactics:iron_cluster");
 
 //Additional or removal of recipes
@@ -908,7 +1076,7 @@ recipes.remove(<locks:diamond_lock_pick>);
 
 recipes.remove(<locks:steel_lock_pick>);
 recipes.addShapeless("SteelLockPick", <locks:steel_lock_pick>*8, [
-  <minecraft:iron_ingot>, <pyrotech:stone_hammer>|<pyrotech:iron_hammer>|<pyrotech:diamond_hammer>|<pyrotech:obsidian_hammer>.anyDamage().transformDamage()
+  <minecraft:iron_ingot>, <pyrotech:stone_hammer>.anyDamage().transformDamage()|<pyrotech:iron_hammer>.anyDamage().transformDamage()|<pyrotech:diamond_hammer>.anyDamage().transformDamage()|<pyrotech:obsidian_hammer>.anyDamage().transformDamage()
 ]);
 
 recipes.remove(<locks:key_blank>);
@@ -962,9 +1130,9 @@ recipes.addShaped("arcane_workbench",<ebwizardry:arcane_workbench>,[
 
 recipes.remove(<ebwizardry:imbuement_altar>);
 recipes.addShaped("imbuement_altar",<ebwizardry:imbuement_altar>,[
-    [<ebwizardry:magic_crystal:7>,null,<ebwizardry:magic_crystal:4>],
-    [<ebwizardry:magic_crystal:1>,<ebwizardry:grand_crystal>,<ebwizardry:magic_crystal:3>],
-    [<ebwizardry:magic_crystal:2>,<ebwizardry:magic_crystal:6>,<ebwizardry:magic_crystal:5>]
+    [<ebwizardry:spectral_dust:7>,null,<ebwizardry:spectral_dust:4>],
+    [<ebwizardry:spectral_dust:1>,<ebwizardry:grand_crystal>,<ebwizardry:spectral_dust:3>],
+    [<ebwizardry:spectral_dust:2>,<ebwizardry:spectral_dust:6>,<ebwizardry:spectral_dust:5>]
 ]);
 
 recipes.remove(<ebwizardry:receptacle>);
@@ -1494,31 +1662,31 @@ recipes.addShapeless("glowduster", <minecraft:glowstone_dust>, [
 recipes.remove(<grimoireofgaia:accessory_ring_speed>);
 recipes.addShapeless(<grimoireofgaia:accessory_ring_speed>,
 [
-    <pyrotech:stone_hammer>|<pyrotech:iron_hammer>|<pyrotech:diamond_hammer>|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:0>, <bountifulbaubles:spectralsilt>
+    <pyrotech:stone_hammer>.anyDamage().transformDamage()|<pyrotech:iron_hammer>.anyDamage().transformDamage()|<pyrotech:diamond_hammer>.anyDamage().transformDamage()|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:0>, <bountifulbaubles:spectralsilt>
 ]);
 
 recipes.remove(<grimoireofgaia:accessory_ring_haste>);
 recipes.addShapeless(<grimoireofgaia:accessory_ring_haste>,
 [
-    <pyrotech:stone_hammer>|<pyrotech:iron_hammer>|<pyrotech:diamond_hammer>|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:1>, <bountifulbaubles:spectralsilt>
+    <pyrotech:stone_hammer>.anyDamage().transformDamage()|<pyrotech:iron_hammer>.anyDamage().transformDamage()|<pyrotech:diamond_hammer>.anyDamage().transformDamage()|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:1>, <bountifulbaubles:spectralsilt>
 ]);
 
 recipes.remove(<grimoireofgaia:accessory_ring_jump>);
 recipes.addShapeless(<grimoireofgaia:accessory_ring_jump>,
 [
-    <pyrotech:stone_hammer>|<pyrotech:iron_hammer>|<pyrotech:diamond_hammer>|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:2>, <bountifulbaubles:spectralsilt>
+    <pyrotech:stone_hammer>.anyDamage().transformDamage()|<pyrotech:iron_hammer>.anyDamage().transformDamage()|<pyrotech:diamond_hammer>.anyDamage().transformDamage()|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:2>, <bountifulbaubles:spectralsilt>
 ]);
 
 recipes.remove(<grimoireofgaia:accessory_ring_night>);
 recipes.addShapeless(<grimoireofgaia:accessory_ring_night>,
 [
-    <pyrotech:stone_hammer>|<pyrotech:iron_hammer>|<pyrotech:diamond_hammer>|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:3>, <bountifulbaubles:spectralsilt>
+    <pyrotech:stone_hammer>.anyDamage().transformDamage()|<pyrotech:iron_hammer>.anyDamage().transformDamage()|<pyrotech:diamond_hammer>.anyDamage().transformDamage()|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:misc_ring:3>, <bountifulbaubles:spectralsilt>
 ]);
 
 recipes.remove(<grimoireofgaia:accessory_trinket_levitation>);
 recipes.addShapeless(<grimoireofgaia:accessory_trinket_levitation>,
 [
-    <pyrotech:stone_hammer>|<pyrotech:iron_hammer>|<pyrotech:diamond_hammer>|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:accessory_cursed>, <bountifulbaubles:spectralsilt>
+    <pyrotech:stone_hammer>.anyDamage().transformDamage()|<pyrotech:iron_hammer>.anyDamage().transformDamage()|<pyrotech:diamond_hammer>.anyDamage().transformDamage()|<pyrotech:obsidian_hammer>.anyDamage().transformDamage(), <grimoireofgaia:accessory_cursed>, <bountifulbaubles:spectralsilt>
 ]);
 
 recipes.remove(<atum:alabaster_brick_smooth>);

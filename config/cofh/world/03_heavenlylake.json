@@ -10,7 +10,6 @@
 				"block": "minecraft:water",
 				"solid-outline": true,
 				"outline-block": [
-					{
 					"name": "aether_legacy:aether_dirt"
 				]
 			},

@@ -913,40 +913,40 @@
   },
   {
     "content": "grimoireofgaia:misc_experience:0",
-    "unitWorth": 500,
+    "unitWorth": 1000,
     "weight": 20,
     "amount": {
       "min": 1,
-      "max": 100
+      "max": 10
     }
   },
   {
     "content": "grimoireofgaia:misc_experience:1",
-    "unitWorth": 750,
+    "unitWorth": 1500,
     "weight": 15,
     "amount": {
       "min": 1,
-      "max": 100
+      "max": 10
     }
   },
   {
     "content": "grimoireofgaia:misc_experience:2",
-    "unitWorth": 1000,
+    "unitWorth": 2000,
 	"stages": ["enteredAether"],
     "weight": 10,
     "amount": {
       "min": 1,
-      "max": 100
+      "max": 10
     }
   },
   {
     "content": "grimoireofgaia:misc_book",
-    "unitWorth": 1500,
+    "unitWorth": 3000,
 	"stages": ["killedWither"],
     "weight": 5,
     "amount": {
       "min": 1,
-      "max": 100
+      "max": 10
     }
   },
   {

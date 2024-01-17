@@ -1,14 +1,14 @@
 {
   "inventory": {
-    "1:1": "minecraft:leather_leggings,1,0,{ench:[{lvl:2s,id:117s}],Quality:{}}",
-    "0:8": "minecraft:compass,1,0,{\"quark:compass_calculated\":1b,\"quark:compass_in_nether\":0b}",
-    "0:9": "corpsecomplex:scroll",
-    "0:0": "spartanweaponry:throwing_knife_stone,1,0,{ench:[{lvl:2s,id:117s}]}",
     "1:3": "minecraft:leather_helmet,1,0,{ench:[{lvl:2s,id:117s}],Quality:{}}",
     "2:0": "minecraft:torch",
     "1:2": "minecraft:leather_chestplate,1,0,{ench:[{lvl:2s,id:117s}],Quality:{}}",
+    "0:9": "corpsecomplex:scroll",
+    "1:1": "minecraft:leather_leggings,1,0,{ench:[{lvl:2s,id:117s}],Quality:{}}",
+    "0:0": "minecraft:iron_sword,1,0,{Quality:{},ench:[{id:34s,lvl:1s},{id:117s,lvl:2s}]}",
     "0:1": "handcrafting:crafting_pad",
+    "0:10": "improvedbackpacks:backpack,1,0,{UUIDMost:-1494082502332559836L,UUIDLeast:-8372991454669117404L,Items:[{Slot:0b,id:\"minecraft:potion\",Count:1b,Damage:0s,tag:{Potion:\"minecraft:long_regeneration\"}},{Slot:1b,id:\"ancientwarfarenpc:food_bundle\",Count:1b,Damage:0s},{Slot:2b,id:\"simpledifficulty:spit\",Count:1b,Damage:0s},{Slot:3b,id:\"simpledifficulty:charcoal_filter\",Count:2b,Damage:0s},{Slot:9b,id:\"armorunder:goopak_cool\",Count:2b,Damage:0s},{Slot:10b,id:\"armorunder:goopak_heat\",Count:2b,Damage:0s},{Slot:11b,id:\"simpledifficulty:campfire\",Count:1b,Damage:0s},{Slot:12b,id:\"simpledifficulty:canteen\",Count:1b,Damage:0s,tag:{Doses:16,CanteenType:3},ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}}}]}",
     "1:0": "minecraft:leather_boots,1,0,{ench:[{lvl:2s,id:117s}],Quality:{}}",
-    "0:10": "improvedbackpacks:backpack,1,0,{UUIDMost:-1494082502332559836L,UUIDLeast:-8372991454669117404L,Items:[{Slot:1b,id:\"ancientwarfarenpc:food_bundle\",Count:1b,Damage:0s},{Slot:2b,id:\"simpledifficulty:spit\",Count:1b,Damage:0s},{Slot:3b,id:\"simpledifficulty:charcoal_filter\",Count:2b,Damage:0s},{Slot:9b,id:\"armorunder:goopak_cool\",Count:2b,Damage:0s},{Slot:10b,id:\"armorunder:goopak_heat\",Count:2b,Damage:0s},{Slot:11b,id:\"simpledifficulty:campfire\",Count:1b,Damage:0s},{Slot:12b,ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"simpledifficulty:canteen\",Count:1b,tag:{Doses:16,CanteenType:3},Damage:0s}]}"
+    "0:8": "minecraft:compass,1,0,{\"quark:compass_calculated\":1b,\"quark:compass_in_nether\":0b}"
   }
 }

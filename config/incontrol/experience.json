@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "mob": "mutantbeasts:mutant_creeper",
+	"setxp": 85
+  },
+  {
+    "mob": "mutantbeasts:mutant_skeleton",
+	"setxp": 85
+  },
+  {
+    "mob": "mutantbeasts:mutant_enderman",
+	"setxp": 170
+  },
+  {
+    "mob": "mutantbeasts:mutant_zombie",
+	"setxp": 85
+  },
+  {
+    "mob": "ancientwarfarenpc:faction.leader.elite",
+	"setxp": 85
+  },
+  {
+    "mob": "ancientwarfarenpc:faction.leader",
+	"setxp": 34
+  },
+  {
+    "mob": "thaumcraft:cultistcleric",
+	"setxp": 85
+  },
+  {
+    "mob": "thaumcraft:cultistknight",
+	"setxp": 85
+  },
+  {
+    "mob": "thaumcraft:cultistleader",
+	"setxp": 170
+  },
+  {
+    "mob": "thaumcraft:eldritchgolem",
+	"setxp": 85
+  },
+  {
+    "mob": "thaumcraft:eldritchwarden",
+	"setxp": 85
+  },
+  {
+    "mob": "thaumcraft:eldritchguardian",
+	"setxp": 85
+  },
+  {
+    "mob": "mowziesmobs:ferrous_wroughtnaut",
+	"setxp": 170
+  },
+  {
+    "mob": "mowziesmobs:frostmaw",
+	"setxp": 255
+  },
+  {
+    "mob": "mowziesmobs:naga",
+	"setxp": 85
+  },
+  {
+    "mob": "mowziesmobs:barako",
+	"setxp": 255
+  },
+  {
+    "mob": "iceandfire:cyclops",
+	"setxp": 85
+  },
+  {
+    "mob": "iceandfire:gorgon",
+	"setxp": 85
+  },
+  {
+    "mob": "iceandfire:seaserpent",
+	"setxp": 170
+  },
+  {
+    "mob": "iceandfire:myrmex_queen",
+	"setxp": 170
+  },
+  {
+    "mob": "aether_legacy:valkyrie_queen",
+	"setxp": 85
+  },
+  {
+    "mob": "aether_legacy:slider",
+	"setxp": 170
+  },
+  {
+    "mob": "aether_legacy:sun_spirit",
+	"setxp": 85
+  },
+  {
+    "mob": "minecraft:elder_guardian",
+	"setxp": 85
+  },
+  {
+    "mob": "grimoireofgaia:dullahan",
+    "setxp": 85
+  },
+  {
+    "mob": "grimoireofgaia:arachne",
+    "setxp": 85
+  },
+  {
+    "mob": "grimoireofgaia:minotaur",
+    "setxp": 85
+  },
+  {
+    "mob": "grimoireofgaia:gelatinous_slime",
+    "setxp": 85
+  },
+  {
+    "mob": "artifacts:mimic",
+    "setxp": 85
+  },
+  {
+    "mob": "ancientbeasts:vessel",
+    "setxp": 170
+  },
+  {
+    "mob": "ancientbeasts:sandy",
+    "setxp": 170
+  },
+  {
+    "mob": "ancientbeasts:zealot",
+    "setxp": 85
+  },
+  {
+    "mob": "ancientbeasts:damcell",
+    "setxp": 85
+  },
+  {
+    "mob": "minecraft:wither",
+	"setxp": 370
+  },
+  {
+    "mob": "minecraft:ender_dragon",
+	"setxp": 560
+  },
+  {
+    "mob": "iceandfire:firedragon",
+	"setxp": 560
+  },
+  {
+    "mob": "iceandfire:icedragon",
+	"setxp": 560
+  },
+  {
+    "mob": "ebwizardry:evil_wizard",
+	"setxp": 85
+  },
+  {
+    "mob": "ebwizardry:wizard",
+	"setxp": 34
+  },
+  {
+    "mob": "treasure2:bound_soul",
+	"setxp": 17
+  },
+  {
+    "mob": "trumpetskeleton:trumpet_skeleton",
+	"setxp": 34
+  },
+  {
+    "mob": "weeping-angels:weepingangel",
+	"setxp": 34
+  }
+]

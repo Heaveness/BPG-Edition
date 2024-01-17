@@ -4,13 +4,13 @@ setDescription("Acquire all Wizard Upgrade materials!")
 
 addParent("triumph:advancements/setbonuses/wizardvanilla")
 
-criteria = addCriteria("", "minecraft:inventory_changed")
+criteria = addCriteria("crystal_silver_plating", "minecraft:inventory_changed")
 criteria.addItem("ebwizardry:crystal_silver_plating")
 
-criteria = addCriteria("", "minecraft:inventory_changed")
-criteria.addItem("ebwizardry:warlock_ethereal_crystalweave")
+criteria = addCriteria("ethereal_crystalweave", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:ethereal_crystalweave")
 
-criteria = addCriteria("", "minecraft:inventory_changed")
+criteria = addCriteria("resplendent_thread", "minecraft:inventory_changed")
 criteria.addItem("ebwizardry:resplendent_thread")
 
 alwaysVisible()

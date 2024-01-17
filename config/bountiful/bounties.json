@@ -72,53 +72,6 @@
     "weight": 100
   },
   {
-    "content": "locks:wood_lock",
-    "amount": {
-      "min": 1,
-      "max": 2
-    },
-    "unitWorth": 100,
-    "weight": 100
-  },
-  {
-    "content": "locks:gold_lock",
-    "amount": {
-      "min": 1,
-      "max": 2
-    },
-    "unitWorth": 200,
-    "weight": 75
-  },
-  {
-    "content": "locks:iron_lock",
-    "amount": {
-      "min": 1,
-      "max": 2
-    },
-    "unitWorth": 300,
-    "weight": 50
-  },
-  {
-    "content": "locks:steel_lock",
-    "amount": {
-      "min": 1,
-      "max": 2
-    },
-    "unitWorth": 500,
-	"stages": ["enteredNether"],
-    "weight": 25
-  },
-  {
-    "content": "locks:diamond_lock",
-    "amount": {
-      "min": 1,
-      "max": 2
-    },
-    "unitWorth": 1000,
-	"stages": ["enteredNether"],
-    "weight": 5
-  },
-  {
     "content": "spartanfire:witherbone_handle",
     "amount": {
       "min": 1,

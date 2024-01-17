@@ -50,7 +50,7 @@ tooltip.upgrade.storage_iron=Mythril
 tooltip.upgrade.storage_gold=Ender Biotite
 tooltip.upgrade.storage_diamond=Dragon Scale
 tooltip.hint.rename=Sneak + %s in air to Rename
-tooltip.hint.place=Sneak + %s on block to Place
+tooltip.hint.place=Sneak + %s on block to Place. DO NOT PLACE, CURRENTLY VERY BUGGY. Causes world/server to fail to save.
 tooltip.disabled_in_config=Disabled in config
 
 # Advancements

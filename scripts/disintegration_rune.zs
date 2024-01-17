@@ -21,6 +21,57 @@ recipes.addShapeless("disintrune16", <bountifulbaubles:spectralsilt> * 2, [<cont
 
 //recipes.addShapeless("disintrune18", <bountifulbaubles:spectralsilt>, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <biomesoplenty:log_1>]);
 
+recipes.addShapeless("disintrune601", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_absorption>]);
+
+recipes.addShapeless("disintrune602", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_banishing>]);
+
+recipes.addShapeless("disintrune603", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_channeling>]);
+
+recipes.addShapeless("disintrune604", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_fire_cloaking>]);
+
+recipes.addShapeless("disintrune605", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_fire_protection>]);
+
+recipes.addShapeless("disintrune606", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_frost_warding>]);
+
+recipes.addShapeless("disintrune607", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_ice_immunity>]);
+
+recipes.addShapeless("disintrune608", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_ice_protection>]);
+
+recipes.addShapeless("disintrune609", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_resurrection>]);
+
+recipes.addShapeless("disintrune610", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_wisdom>]);
+
+recipes.addShapeless("disintrune611", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_wither_immunity>]);
+
+recipes.addShapeless("disintrune612", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_abseiling>]);
+
+recipes.addShapeless("disintrune613", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_auto_smelt>]);
+
+recipes.addShapeless("disintrune614", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_black_hole>]);
+
+recipes.addShapeless("disintrune615", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_experience_tome>]);
+
+recipes.addShapeless("disintrune616", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_feeding>]);
+
+recipes.addShapeless("disintrune617", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_growth>]);
+
+recipes.addShapeless("disintrune618", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_mount_teleporting>]);
+
+recipes.addShapeless("disintrune619", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_silk_touch>]);
+
+recipes.addShapeless("disintrune620", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_stop_time>]);
+
+recipes.addShapeless("disintrune621", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_transportation>]);
+
+recipes.addShapeless("disintrune622", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:ring_full_moon>]);
+
+recipes.addShapeless("disintrune623", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:ring_mind_control>]);
+
+recipes.addShapeless("disintrune624", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:ring_siphoning>]);
+
+recipes.addShapeless("disintrune625", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:ring_soulbinding>]);
+
+
 // Mundane
 
 recipes.addShapeless("disintrune21", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <bountifulbaubles:trinketballoon>]);
@@ -271,7 +322,21 @@ recipes.addShapeless("disintrune577", <bountifulbaubles:spectralsilt> * 4, [<con
 
 recipes.addShapeless("disintrune578", <bountifulbaubles:spectralsilt> * 5, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_minion_variants>]);
 
-recipes.addShapeless("disintrune579", <bountifulbaubles:spectralsilt> * 4, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_storm>]);
+recipes.addShapeless("disintrune579", <bountifulbaubles:spectralsilt> * 3, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_storm>]);
+
+recipes.addShapeless("disintrune779", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:amulet_anchoring>]);
+
+recipes.addShapeless("disintrune780", <bountifulbaubles:spectralsilt> * 3, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_hunger_casting>]);
+
+recipes.addShapeless("disintrune781", <bountifulbaubles:spectralsilt> * 3, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_move_speed>]);
+
+recipes.addShapeless("disintrune782", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_spell_discovery>]);
+
+recipes.addShapeless("disintrune783", <bountifulbaubles:spectralsilt> * 2, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:charm_undead_helmets>]);
+
+recipes.addShapeless("disintrune784", <bountifulbaubles:spectralsilt> * 3, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:ring_evoker>]);
+
+recipes.addShapeless("disintrune785", <bountifulbaubles:spectralsilt> * 4, [<contenttweaker:disint_rune>.anyDamage().transformDamage(), <ebwizardry:ring_meteor>]);
 
 // Mystical
 

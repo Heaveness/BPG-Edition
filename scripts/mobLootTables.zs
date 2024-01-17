@@ -137,7 +137,7 @@ mods.ltt.LootTable.removeGlobalItem("ebwizardry:amulet_wither_immunity");
 mods.ltt.LootTable.removeGlobalItem("ebwizardry:astral_diamond");
 mods.ltt.LootTable.removeGlobalItem("ebwizardry:charm_abseiling");
 mods.ltt.LootTable.removeGlobalItem("ebwizardry:charm_auto_smelt");
-mods.ltt.LootTable.removeGlobalItem("ebwizardry:charm_blackhole");
+mods.ltt.LootTable.removeGlobalItem("ebwizardry:charm_black_hole");
 mods.ltt.LootTable.removeGlobalItem("ebwizardry:charm_experience_tome");
 mods.ltt.LootTable.removeGlobalItem("ebwizardry:charm_feeding");
 mods.ltt.LootTable.removeGlobalItem("ebwizardry:charm_growth");
